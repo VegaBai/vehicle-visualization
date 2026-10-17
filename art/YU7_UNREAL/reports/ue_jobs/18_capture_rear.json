@@ -1,0 +1,11 @@
+{
+  "id": "18_capture_rear",
+  "started": "2026-10-16T13:53:11-0700",
+  "status": "success",
+  "result": {
+    "requested": "C:\\github2\\vehicle_visualization\\art\\YU7_UNREAL\\reports\\ue_rear.png",
+    "camera": "CAM_YU7_Rear",
+    "buffer": "Lit"
+  },
+  "finished": "2026-10-16T13:53:11-0700"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "actor": "RectLight",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_StudioLighting",
+    "actor_hidden": false,
+    "component": "Key_Softbox",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": false,
+    "hidden_in_game": true
+  },
+  {
+    "actor": "YU7_StudioLighting",
+    "actor_hidden": false,
+    "component": "Side_Strip",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": false,
+    "hidden_in_game": true
+  },
+  {
+    "actor": "YU7_StudioLighting",
+    "actor_hidden": false,
+    "component": "Rear_Rim",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": false,
+    "hidden_in_game": true
+  },
+  {
+    "actor": "YU7_StudioLighting",
+    "actor_hidden": false,
+    "component": "Front_Fill",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": false,
+    "hidden_in_game": true
+  },
+  {
+    "actor": "YU7_StudioLighting",
+    "actor_hidden": false,
+    "component": "Roof_Ribbon",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": false,
+    "hidden_in_game": true
+  },
+  {
+    "actor": "YU7_StudioLighting",
+    "actor_hidden": false,
+    "component": "Backdrop_Wash",
+    "class": "RectLightComponent",
+    "intensity": 0.0,
+    "visible": false,
+    "hidden_in_game": true
+  },
+  {
+    "actor": "YU7_Light_Key_Softbox",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 40000.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_Light_Side_Strip",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 32000.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_Light_Rear_Rim",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 42000.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_Light_Front_Fill",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 40000.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_Light_Roof_Ribbon",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 7000.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_Light_Backdrop_Wash",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 38000.0,
+    "visible": true,
+    "hidden_in_game": false
+  },
+  {
+    "actor": "YU7_Hero_WheelFill",
+    "actor_hidden": false,
+    "component": "LightComponent0",
+    "class": "RectLightComponent",
+    "intensity": 18000.0,
+    "visible": true,
+    "hidden_in_game": false
+  }
+]

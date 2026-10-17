@@ -1,0 +1,11 @@
+{
+  "id": "ld04_param_test",
+  "started": "2026-10-17T01:41:05-0700",
+  "status": "success",
+  "result": {
+    "return": false,
+    "read": 0.15000000596046448,
+    "override": "[{parameter_info: {name: \"Metallic\", association: GlobalParameter, index: -1}, parameter_value: 0.150000}]"
+  },
+  "finished": "2026-10-17T01:41:05-0700"
+}

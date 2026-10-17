@@ -1,0 +1,98 @@
+{
+  "carBrakeDisc_2_MP.png": {
+    "bytes": 96151,
+    "sha256": "56a1f19d0b349688d97ebc1562cc1b49c7251a9c5b5b54e86a1609f90c5195ed"
+  },
+  "carCaliper_1Shape.png": {
+    "bytes": 584393,
+    "sha256": "f346797724e479883e775c509bf4b4471e11c7ced2f6583135b2983a751a43c3"
+  },
+  "carHoodOutletPanelShape.png": {
+    "bytes": 242892,
+    "sha256": "3250802c4c44f6be4e799e919b7850514f1092e8bace0fe3afdafae6bf0a9f7d"
+  },
+  "carInternal_CenterConsole_MT_OrangeMinium_MP.png": {
+    "bytes": 84909,
+    "sha256": "cf85af600e0d1d0b6895c88508e9bbe866c4756853631d8e7c17cffc8634196f"
+  },
+  "carInternal_Dashboard_MT_OrangeMinium_MP.png": {
+    "bytes": 90071,
+    "sha256": "054d94e40b98bd9f5277bb2ca70b01c166d9efafa63feed02d57ebdffb6efa4f"
+  },
+  "carInternal_DoorBack_MT_OrangeMinium_MP.png": {
+    "bytes": 255236,
+    "sha256": "2d75f28d1f0c9539d1e2c7349fb4aa3f6a3cf4a84cb0e7626bdbe2b8761cd31e"
+  },
+  "carInternal_DoorFront_MT_OrangeMinium_MP.png": {
+    "bytes": 104927,
+    "sha256": "9b317c40fa615caf5e42cd5f1a1b5fe4a1f13ad6c7b5eaf89389671d9a8588db"
+  },
+  "carInternal_Frame_Bottom_MT_OrangeMinium_MP.png": {
+    "bytes": 154399,
+    "sha256": "d155699add16c4ed67c51d79ca5e5808db6b234eab69c93d50f64057e70a0e98"
+  },
+  "carInternal_Frame_Top_MT_OrangeMinium_MP.png": {
+    "bytes": 29272,
+    "sha256": "a47c0970fa228a38c0174d46248a7385119f5a3988127cecc90a4fbc32cc5d13"
+  },
+  "carInternal_PassengerSeatBack_MT_OrangeMinium_MP.png": {
+    "bytes": 216683,
+    "sha256": "ae780d86c40222c2386e3a5b5ad66eab11580fcb9f3daeaf28c03cde47a9d525"
+  },
+  "carInternal_PassengerSeatFront_MT_OrangeMinium_MP.png": {
+    "bytes": 186656,
+    "sha256": "02a0d3b708d19c630883d163b82759e3209d39075d08334fe0625b91cb244a2b"
+  },
+  "carInternal_Roof_MT_Turquoise_MP.png": {
+    "bytes": 211146,
+    "sha256": "5f4289852deadeae84d7f9f04688e3d8881f99a5ef20f3c7e2504f36a6ac0cfb"
+  },
+  "carInternal_SteeringWheel_MT_OrangeMinium_MP.png": {
+    "bytes": 122452,
+    "sha256": "71ceea6a21df22b164011b0b080734557f48db69c07fab6cf4f020f4477bddfe"
+  },
+  "carInternal_TrunkExternal_MT_Turquoise_MP.png": {
+    "bytes": 1485980,
+    "sha256": "8cc5b7638e0459ba48dd251e86c75a554e313217b697109949dae224aa12677a"
+  },
+  "carInternal_TrunkInternal_MT_Turquoise_MP.png": {
+    "bytes": 962529,
+    "sha256": "590ab226b7ff3805aac622b7e59743a928c03243461d1816a80f48ac96131ddc"
+  },
+  "carLightShape.png": {
+    "bytes": 4023780,
+    "sha256": "f27dd79290dc518dc394b68b5b6c594b91177f1d7f3a6e4140fc3650dcf7d386"
+  },
+  "carLight_bulb_MP.png": {
+    "bytes": 783895,
+    "sha256": "17ea8b1b4101a0cfb2a06cc7e17f23cf12c34d60e479b7645ae1a777bd23956e"
+  },
+  "carPaint_Shape1.png": {
+    "bytes": 1560823,
+    "sha256": "ec563912fa45f9fe86a8b6abaa8617ad2f0473f97d5af64fe3fb7ab57dec6154"
+  },
+  "carPlastic_BrilliantBlackShape.png": {
+    "bytes": 807328,
+    "sha256": "6665b131a566969a3bad17772456c111f4427462ad1e1e80124961a44448410c"
+  },
+  "carPlastic_MatteBlackShape.webp": {
+    "bytes": 96348,
+    "sha256": "0a7ae5e201081cf61a8dc05787ce657973570130d9de36429c19792365297b51"
+  },
+  "carPlastic_MatteBlack_trunkShape.webp": {
+    "bytes": 169118,
+    "sha256": "808f4d259d3b52ee154800c5265408ae4fb5eb0102fcad09ff778b6c6fc8f1e7"
+  },
+  "carTyre_02_245_bump.png": {
+    "bytes": 711680,
+    "sha256": "0570b81b28e7092ada9198f10a78cd3cac5a3621b34edb03231907131b0669b8"
+  },
+  "carTyre_02_ao.png": {
+    "bytes": 1589773,
+    "sha256": "8ff13fe391d05d3b6e248aa9ff656c0d04d8e6c359eed574c7fedd127cbef73d"
+  },
+  "FINAL_MODEL.fbx": {
+    "bytes": 31934432,
+    "sha256": "32739a844a1b014eae3e2e8950a5a0090ab90cfae4ddabc3f68ada44f8667069"
+  }
+}

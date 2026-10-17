@@ -1,0 +1,21 @@
+{
+  "name": "YU7_MineralTeal_Motion_4K",
+  "request": {
+    "name": "YU7_MineralTeal_Motion_4K",
+    "directory": "renders/YU7_MineralHero/frames",
+    "width": 3840,
+    "height": 2160,
+    "start": 0,
+    "end": 120,
+    "spatial": 1,
+    "temporal": 16,
+    "motion_blur": 0.25
+  },
+  "started": 1792273800.3379633,
+  "status": "finished",
+  "errors": [],
+  "preset": "/Game/YU7/Cinematics/RenderPresets/MRQ_YU7_MineralTeal_Motion_4K.MRQ_YU7_MineralTeal_Motion_4K",
+  "success": true,
+  "finished": 1792274220.8207977,
+  "duration_seconds": 420.48283433914185
+}

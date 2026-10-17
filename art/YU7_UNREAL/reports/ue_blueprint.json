@@ -1,0 +1,23 @@
+{
+  "blueprint": "/Game/Vehicles/YU7_Prepared/Blueprints/BP_YU7",
+  "components": 121,
+  "geometry_yaw_correction": 0.0,
+  "source_logo_center_cm": [
+    224.49703216552734,
+    0.0028339624404907227,
+    87.88911819458008
+  ],
+  "actor_rotation": "<Struct 'Rotator' (0x00000125B80C2B30) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+  "bounds_center_cm": [
+    7.62939453125E-06,
+    0.0,
+    15.550094604492188
+  ],
+  "credit_metadata": "\"2025 Xiaomi YU7\" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).",
+  "actor_bounds_including_editor_helpers_cm": [
+    499.8999786376951,
+    256.0,
+    287.1001892089844
+  ],
+  "geometry_dimensions_reference": "See ue_validation.json: actor bounds include the editor billboard."
+}

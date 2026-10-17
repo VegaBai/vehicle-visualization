@@ -1,0 +1,29 @@
+{
+  "id": "ld30_restart_variants_gc",
+  "started": "2026-10-17T01:52:54-0700",
+  "status": "success",
+  "result": {
+    "choices": {
+      "Paint": [
+        "Mineral Teal",
+        "Pearl White",
+        "Graphite"
+      ],
+      "Glass": [
+        "Clear",
+        "Smoked"
+      ],
+      "WindowTrim": [
+        "Obsidian",
+        "Satin Metal"
+      ],
+      "Lighting": [
+        "Beauty",
+        "Sculpted Contrast"
+      ]
+    },
+    "verified_combinations": 24,
+    "total_captured_properties": 63
+  },
+  "finished": "2026-10-17T01:52:54-0700"
+}

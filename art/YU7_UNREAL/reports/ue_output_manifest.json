@@ -1,0 +1,718 @@
+{
+  "Content\\Vehicles\\YU7_Prepared\\Blueprints\\BP_YU7.uasset": {
+    "bytes": 243807,
+    "sha256": "e56315ff2692869113da9edd951b1a4419e59a6f21480106b4024cff8c689d04"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_ALUM.uasset": {
+    "bytes": 10834,
+    "sha256": "d5425335a7dc4baaaaf1210867cc86e7c76caeb8939ce99c3c55ed76b268ee12"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Blaack_Paint.uasset": {
+    "bytes": 15902,
+    "sha256": "3597b5468148c027d044d0e221478b67602c4d6f808ed5fe73673f2931cfb0bf"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Black_Mat.uasset": {
+    "bytes": 9962,
+    "sha256": "e8659a8804b7efc5b5785dcb478af3dcb1e997e82320731ab20a095d43bf7900"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Caliper_C1.uasset": {
+    "bytes": 15253,
+    "sha256": "785e15629b65da29d8c3b9ebb27b8a274bf2e7bb06686f63f98e8e497df53a84"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Caliper_C2.uasset": {
+    "bytes": 15249,
+    "sha256": "bd2baae9dbe32d5e8a0ed2b3ff5845a4478374f4b7aa9d6560a136f922319fdd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_CarPaint.uasset": {
+    "bytes": 18888,
+    "sha256": "78f1a2624b4128470ca57c31e7fbc729c02e611961c598318afe44a1ebf72a5e"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_CarPaint__UVFallback.uasset": {
+    "bytes": 13245,
+    "sha256": "12a0c1cd3360c6ee054d6f7822c351f65650ccad53df84ede01d7e865956b694"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_CAR_L.uasset": {
+    "bytes": 17212,
+    "sha256": "ad80c96a1ceed57b3169a322511bf62117f80a902518f6c738622cee7dac1666"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_dark_Gray_Map.uasset": {
+    "bytes": 12689,
+    "sha256": "6681229b0d67c8bd71484bf724635d6906add8135a0ef682c1927a5ef2909604"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_DISK.uasset": {
+    "bytes": 13484,
+    "sha256": "9ad385df7dd58ef431105eb4d8202e5b875433664bb8c50b3465183042585a3c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_D_Glass.uasset": {
+    "bytes": 10621,
+    "sha256": "58e6af530ed8ce1901b20df53c8d45d87eefb6b9c27d058d7070ef730abb5260"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Bottom.uasset": {
+    "bytes": 14261,
+    "sha256": "43562e6cf1b865348ef7b99cb17e7aa87f2e37192e7171925ad9f4d8f81162c5"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Console.uasset": {
+    "bytes": 14000,
+    "sha256": "df8cc4d75fc2d3a2e9df50485729442424394bfe4177798b274630795943e6d8"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Dash.uasset": {
+    "bytes": 13748,
+    "sha256": "26f636f34d68e617c93e9f419a4e6d85e544096678b40c31233f4d79ca4721b4"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Int_DoorF.uasset": {
+    "bytes": 15095,
+    "sha256": "019c99d7d9d98ca2977d206cddd898d1244af4fcb75d84ea9e4919ae9fa4533c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Int_DoorF__UVFallback.uasset": {
+    "bytes": 10168,
+    "sha256": "3ab02a92be877f173de80bbce7025080fdc280751dd50d9faa4ce2563cadea2d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Int_Door_Back.uasset": {
+    "bytes": 14737,
+    "sha256": "587dcddd04d1c1717af5bbd5300305894eaa075677af239e136051f98fea8555"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Frame_Top.uasset": {
+    "bytes": 12821,
+    "sha256": "bc346162f1d8c0f0916d2a232ae38b389ee0fadcdbc071ea5853e85dbf5cdfff"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Roof.uasset": {
+    "bytes": 11825,
+    "sha256": "7bd796c48ca517e843f8ff8f411b1b2a65d1fc8d355da6c05b630247f9830a38"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Seat_Back.uasset": {
+    "bytes": 15119,
+    "sha256": "b27fe9b6d2677c0cc3037ef1190c75b20a7e70fc229a8ab8a608072d98abb448"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Seat_Front.uasset": {
+    "bytes": 13678,
+    "sha256": "38c265c13d376928187424df6e97f17ecd239a87d2e39f790dd3d380a7b20232"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_SW.uasset": {
+    "bytes": 13376,
+    "sha256": "dba494e6a5eff1a86f088a88506ddd140c0ad25ac9b403f757482575dc2c70dd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Trunk.uasset": {
+    "bytes": 13563,
+    "sha256": "53a91eee063651076d8f7e7f8d93924687b720bcadb71b26b491253aa05b89ed"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Trunk_E.uasset": {
+    "bytes": 12459,
+    "sha256": "b41f532020f244ca68d09a0db5c0a3d4827061957e44cb38e93132d01701ff0d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_LIGHT_CHROME_SH.uasset": {
+    "bytes": 16081,
+    "sha256": "d235703ef749a7c8c5373b7cac8d9bb46a90b701a8507254d01f6844a72f873d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Light_Glass.uasset": {
+    "bytes": 10645,
+    "sha256": "6c6f8bd4a24066c2c5740425000557486c7bfe2ed7fbc2eff45c3864658a0e4a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_LIGHT_PLASTIC_SH.uasset": {
+    "bytes": 19790,
+    "sha256": "c63e11caddd9705dc58864f5b963d1e5e5bd019b1a434c57d933baad77c3e647"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Metal_Mat.uasset": {
+    "bytes": 10194,
+    "sha256": "21e4c1881755d76f5c7db950313f15f6c33d20ffe274588635927c16fd25b959"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Mirrors.uasset": {
+    "bytes": 13351,
+    "sha256": "1d3b08368770355497c958a9113f9e48fef7fc6a834fd42265c6a18731fc61bf"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Plastic_SH.uasset": {
+    "bytes": 19996,
+    "sha256": "2b8470c465c4b34808161d94529154fa5ffbaef67a9d8083a256271e2d9a45b1"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_RIM_C2.uasset": {
+    "bytes": 11289,
+    "sha256": "a038e61fe6b82a0e60a8f9415ab47d444fc67aa18f5f3b115ac01020dc3372bd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_tyre_3.uasset": {
+    "bytes": 13955,
+    "sha256": "6c6a366cb5c6b1623946c9a3550bb00e9a1f7656764180597cb9b6fad4d3dc57"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Windows.uasset": {
+    "bytes": 10621,
+    "sha256": "bc408456587f5b94441c7de1be2e5ec80f18f0d3730ce5f1fec5ff9a580265ba"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Yu7_lambert272.uasset": {
+    "bytes": 10378,
+    "sha256": "d48b9f5275d1e32b1344665f04e5bf12c821235b18caf6667b27d6195a110bd7"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Yu7_RIM_C1.uasset": {
+    "bytes": 10589,
+    "sha256": "5e33d70ff1e629c5c59f0a02eef30172da635e2f8766332f9eef9208788b2bca"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_001_carGlass_front_1.uasset": {
+    "bytes": 31150,
+    "sha256": "ad5759cba73117c755a1cc0e9b3694c2cfe8deb13026592f1aff3b3b04bf6597"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_002_carLight_backbulb.uasset": {
+    "bytes": 16407,
+    "sha256": "0131828b2b454487446f2ae51a748d54f71e959ea0057887882be63df7adbf06"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_003_carLight_bulb_2.uasset": {
+    "bytes": 44520,
+    "sha256": "4cb8610e71675f4a4b2bc48cd4828d6ddea0317a19ff1146230f6c006a08bd68"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2.uasset": {
+    "bytes": 376356,
+    "sha256": "c9ffefc894b3c91244eea8fea052d622480b613342c40f20328b94038603624d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body.uasset": {
+    "bytes": 67726,
+    "sha256": "754e131274a5e5e78fe0e78d36f2a4c4ff6f1a2ce32cded44b4fc700a21d3b7c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_006_carPaint_2.uasset": {
+    "bytes": 210339,
+    "sha256": "a596bddc77309b22e383ae718b7edcd130fdb67a0b116e75e54023c1b3225778"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1.uasset": {
+    "bytes": 40614,
+    "sha256": "4a63c134249d6e3884690a38174cef3cfe05651c105202371edd7870bc93dcdf"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_.uasset": {
+    "bytes": 34088,
+    "sha256": "c426eafd2bbcde9c474ed0f15e6066d0ac4a48c579087f79aeebe6eaf675667e"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_.uasset": {
+    "bytes": 92124,
+    "sha256": "96ae3c93afc7050a89525bb2e59b777d7662f6df8ff9a5912b9f110d73b53921"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_010_carDuckTail.uasset": {
+    "bytes": 53081,
+    "sha256": "1f53850fda001ced9dd95d74c2bf3127a74c5f144b04d160304bc53215ad7808"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_011_carLightGlass_Back_1.uasset": {
+    "bytes": 130943,
+    "sha256": "2667c59fdbcdd049a2313b0c9624eaf11cf54deeafeb217272cda224fee07cdd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7.uasset": {
+    "bytes": 28289,
+    "sha256": "fc53450a59ad4a3f88fca2bd5c564a44ce811eea2c3512e052be13520596c363"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2.uasset": {
+    "bytes": 150874,
+    "sha256": "8ea599bf8074e87abcb77b75fb65a7bc2cb78ee5e4a24f23ea1fdec2c0cd4f15"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body.uasset": {
+    "bytes": 51261,
+    "sha256": "15381034e64612940355206849a5cf8d3145dd23e30406a693e6e3b009e5ce3f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_015_carMirror_bottom_2.uasset": {
+    "bytes": 43691,
+    "sha256": "887e953e67cc9c9884f0326fe175179fd99efd9b7053970b453056af5b5aaba4"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_016_carLight_bulb_1.uasset": {
+    "bytes": 20998,
+    "sha256": "6eeb2e992f4fc5ca64cb3ef748ba96a48f2fae58261102a373e613a1c6b026db"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2.uasset": {
+    "bytes": 25372,
+    "sha256": "871474b3c5b1272e06a98844e12d54b14a3f4b68e85b5dc83afcf33899a106ac"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3.uasset": {
+    "bytes": 100806,
+    "sha256": "2db29b923b6c3ec098f8d2633e507b29e5305420d0d200c8be537a86b87bf14e"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_019_carWindowTrim_3.uasset": {
+    "bytes": 34050,
+    "sha256": "d535f101a87bdccaabc8cacba46c0ee6c0738669cbe73b1e75705d017e316bfb"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_.uasset": {
+    "bytes": 91546,
+    "sha256": "83a56fffeed971c22749df16165c433f088f544c02b062719673e0d7332b9c32"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront.uasset": {
+    "bytes": 1214120,
+    "sha256": "2025aa4b724a399c48e131ba8f66aa134e8059495face93f092e004f9999c469"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_022_carLightGlass_Front.uasset": {
+    "bytes": 59745,
+    "sha256": "b3cc0a54d23c60752aae4abc799a61a30771a7aaab28e9e761a62c2296312cc6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_023_carXiaoMi_3.uasset": {
+    "bytes": 42585,
+    "sha256": "ae1e67897061833ab842ecb9dfd9d46bdc21caec6e40b6bb9d96074afcb32c7e"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_024_carPlate.uasset": {
+    "bytes": 26462,
+    "sha256": "de184347f9ae70095abd8e53746d020a92c4200a41504029a55323440fd8f475"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6.uasset": {
+    "bytes": 92100,
+    "sha256": "a3d73134554645fe9f83d769a8be39f09e2700401ede932eb86f10b0082a27de"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_026_carGlass_front_2.uasset": {
+    "bytes": 30919,
+    "sha256": "2883eba9e60287ff14f5f56be42af5fc8a28e7da30b6228fd8be738c05fa1f7f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2.uasset": {
+    "bytes": 130848,
+    "sha256": "284b6a7554bbe754d35085148e44c9bdb36c5b8331c73b7b12140621d099cfbb"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_028_carPaint_10.uasset": {
+    "bytes": 473239,
+    "sha256": "469b671c0d766a7f1148649c123f31349bc3672129db2c43edc35c26f2319496"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal.uasset": {
+    "bytes": 352905,
+    "sha256": "bcd183d6dc204d019110cfc9aedf74ab58f728082c0a0aa51f2170c9daf7d0af"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_030_carFrontBonnetNet.uasset": {
+    "bytes": 16685,
+    "sha256": "8071decc550dd2bf71f5e024dc341996a1d95729aa6fd807b661d899db28bf54"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_031_carRearviewMirror_2.uasset": {
+    "bytes": 47823,
+    "sha256": "78d265ef480d820658d439f4c9f08302dd870f9797f91a8acd584c5f3c6cb86e"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font.uasset": {
+    "bytes": 55302,
+    "sha256": "016dfc92cb040962cffe0f3a9e5143aecbda32e984d5f1ec7c1b4090c5fc52dd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_.uasset": {
+    "bytes": 28854,
+    "sha256": "09f0c6385f57470870aa1465eefbe468033993aeacfb9fa579eacceba3c93588"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_034_carLight_bulb_3.uasset": {
+    "bytes": 90173,
+    "sha256": "fcc85bb6b6bf2b24a7775f7de1ff6e51f9ad820b32818c48004668cd699e5561"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1.uasset": {
+    "bytes": 23619,
+    "sha256": "a359ba13d965e86eb7b3c36fbe5b43803f84ef4ff1ca93858a765f9a81a17d8f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_.uasset": {
+    "bytes": 778197,
+    "sha256": "2ded46fe1e0ea83755d759c17b335cb7ace48d3d830664fe243ecc9f35c001a1"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2.uasset": {
+    "bytes": 110839,
+    "sha256": "f7c5d716266afa5d9fcbe3ceb861b0b666053ea58e6af828ddc48d8b1d98c0d0"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_038_carPaint_4_1_.uasset": {
+    "bytes": 255803,
+    "sha256": "eed4744bc5a6d4a77545c9abfdda920afa6f7c90ea0033a6e054a1689fb366dc"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_039_carWindowTrim_5.uasset": {
+    "bytes": 105144,
+    "sha256": "381d70604eefd35d25dd4261bec53a3d2b6fffd796b793abbeb8a2431b58375e"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_040_carPaint_2_1_.uasset": {
+    "bytes": 544662,
+    "sha256": "a6e6236177019fa11c27f0a794fa3b34dc4ea0ff94926ff4f306fe82e830e634"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3.uasset": {
+    "bytes": 150711,
+    "sha256": "0de851877186ffd18502554189abd49925397325ef8cbb31e1d804d1af3b513a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom.uasset": {
+    "bytes": 176158,
+    "sha256": "13e90b52ba2d1e273740c5c0ed67361c0f8b5154acf09ea3a7f3c2e1948dc150"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal.uasset": {
+    "bytes": 396699,
+    "sha256": "a7b0ed95d7be42f9fbf079069a982909f628a4393819e11f4bb8366c7e9cf854"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_044_carInternal_Roof.uasset": {
+    "bytes": 37345,
+    "sha256": "0ed9c864e6bf3e47ebae091d9f67347149346fa886b1309c2904ea525e385c29"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_045_carPaint_13.uasset": {
+    "bytes": 216450,
+    "sha256": "1a24a997251624856506328664b0ef033f9a0fa37e114563bd721c2a12811ff9"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1.uasset": {
+    "bytes": 320451,
+    "sha256": "1d2df261f72c4cc631caedf8ce04879ab99ac19812110e3864fd84525bac53c6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_.uasset": {
+    "bytes": 127655,
+    "sha256": "a31b4041ae11a014f7a9d5d487e9ff085c1f08f999e6563434a1a32915a1daf8"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_048_carHoodOutletWisp.uasset": {
+    "bytes": 41469,
+    "sha256": "48200b2fcbf6bb11eed1f07b0f2d08a40b952ed91abe5f8f2d3bdc52888f223a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_049_carGlass_back_2_Side.uasset": {
+    "bytes": 158235,
+    "sha256": "9c1c0e02dd1d47515d6e295bc858e70fead71b4e7010ff2279ac942ce4d98033"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1.uasset": {
+    "bytes": 192409,
+    "sha256": "8bd16b3fb67ead992917f01c50bd764ff6cd777e2f2f34334c32976067d77ccf"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack.uasset": {
+    "bytes": 141754,
+    "sha256": "92223b4d9d3f2cd7b5ab3c67ebdaf87ec9891db4c92fb1405cf286b4b6cc636b"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_052_carInternal_Dashboard.uasset": {
+    "bytes": 494299,
+    "sha256": "79f60853b15ec40ed8b5af9967b84b482210f875b4255010852659a1c6cba370"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_053_carInternal_DoorFront.uasset": {
+    "bytes": 728733,
+    "sha256": "13dd10c8d9cddfe2c4c363d59934b8a34b21e9c2cecb4ea974eced21b51f3ce6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_.uasset": {
+    "bytes": 90649,
+    "sha256": "b23b62d6d5670adfee78b41711e99c34fab9e40c8f5931f394073b063b2f9709"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_055_carRoof_yu7.uasset": {
+    "bytes": 89210,
+    "sha256": "556052d38ba922593d0221ae68c99b163f16cb33fea5e8045995908cba6d49d3"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2.uasset": {
+    "bytes": 155782,
+    "sha256": "2cd7a814d285bac9112a0d4beb38b18f99410cdee4c0581af694c73dc4980f83"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_.uasset": {
+    "bytes": 140696,
+    "sha256": "b2142e372ef83ec2027f97c086eb978a741dbd3d8ec24e91e13dc1fddb6a5976"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_058_carPaint_4.uasset": {
+    "bytes": 251708,
+    "sha256": "53ddae1ae8227d9f36ac346eb865647103c6616660774ec336c9364a7f818e94"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_059_carMirror_top_2.uasset": {
+    "bytes": 60776,
+    "sha256": "958c213787ae4610825560c69fef115a06aaa141a14447ddd8996c55eee4d7dd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_060_carPaint_1.uasset": {
+    "bytes": 1198763,
+    "sha256": "9750dcd30150dee276853d36209483b079fb40826a471f3b7006e5d0aefc8ae0"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4.uasset": {
+    "bytes": 199200,
+    "sha256": "20c95b16d0378650bdfc4a394f992b22b7c5ec5c53d78a4214d9dcf0825d0ae1"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277.uasset": {
+    "bytes": 27724,
+    "sha256": "d9ed048a99110e85387168f51dff8ff00106c6a48b41d3cd42d5d75d312cf02d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1.uasset": {
+    "bytes": 544587,
+    "sha256": "da78583c01d5057cd88112864c4a21d261791400017ccb84def6619de288c9ac"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_064_carHoodOutletPanel.uasset": {
+    "bytes": 155183,
+    "sha256": "af600ce50ff01b189a2fea92d6a2f1a28ab430848e2141ffed7e38118fef25a9"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_.uasset": {
+    "bytes": 689458,
+    "sha256": "80d4d4eeef4662d0b3fb3077b63282b3a9acecffd8f5b2df28c4c0d9a1ababd7"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_066_carMirror_top_2_1_.uasset": {
+    "bytes": 60498,
+    "sha256": "a5642fdd42c8bdbed05b4bc4331d33e27b8f9ba1a2f8b0a66f238b7238f8fe95"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom.uasset": {
+    "bytes": 2105091,
+    "sha256": "2165dfc7a3db10a70f629697221f9f60e675cd6dd7908bb29ce8f464004cc75f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_068_carPaint_9.uasset": {
+    "bytes": 214093,
+    "sha256": "492cf46f0c65a1f9657b11f5035c111640846e562b91342d896c6cb1af11dce1"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1.uasset": {
+    "bytes": 132144,
+    "sha256": "d83ec505d3e566906b6b68e6b3606641d2fa01f6bb8293167e048049fb8c163a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_070_carRoofSpoiler.uasset": {
+    "bytes": 161443,
+    "sha256": "2a1c1b86d0d47e3811b155ba25229ba8b706987b4df6afde4811233cf3dc41e6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_.uasset": {
+    "bytes": 43664,
+    "sha256": "60993ce6ab32758fa221645188c88862aa773517b85aff58f82aad1d4676a4ff"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_072_carInternal_DoorBack.uasset": {
+    "bytes": 781742,
+    "sha256": "4943087f099d043295988a3476015f3ae9157ff14c9a62f1909f337ece1fd4eb"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_073_carRearviewMirror_3.uasset": {
+    "bytes": 47590,
+    "sha256": "673b2d8890b7e568a148b65e5d73e3abce287d7f54ca644665a0cc5b78eedb1d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1.uasset": {
+    "bytes": 132858,
+    "sha256": "4a3a392c8d3715ed89977548d7c78574a01891c559a011934c54d67444f1f14f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2.uasset": {
+    "bytes": 127505,
+    "sha256": "21467d6009c6934cf3951d766020d4e597857020604c38d807044bb74a0b8374"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_076_carGlass_back_1.uasset": {
+    "bytes": 93807,
+    "sha256": "8a93055e6fb3bcb8f7daf70103f4e254efb2841b49492ee4523ee886f505a769"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3.uasset": {
+    "bytes": 132176,
+    "sha256": "dd830923a4dc9b4d3f1e78ef7ec4811c23ec57f5e67745cb1090b543730fdec0"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2.uasset": {
+    "bytes": 95800,
+    "sha256": "85d63037d5d086ab5ca0759c86945390e3fb75dfe8edab5b0bdeb0f7e8306aa6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_079_carPaint_8.uasset": {
+    "bytes": 271012,
+    "sha256": "8d6feeb2689b2c2e6e08c8c6bf791ce0dd9e9af5d5d23fa2713aac44d404ed00"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_080_carWindowTrim_1.uasset": {
+    "bytes": 28703,
+    "sha256": "52e8e21dc512c5f09997b95bd3e9742240f6c63535ee6194975cca4b3ad9a5f6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_081_carHeaterStrip.uasset": {
+    "bytes": 65484,
+    "sha256": "b83d396e8c35e7504e91cce7197b93e59292dadf6c0bcc7d26fbdda4c30a2690"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1.uasset": {
+    "bytes": 1144508,
+    "sha256": "476a52c59c4ec6245db6ae25a34586601e1eccf4e8bc254d0b10513dc2ab4763"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_083_carLightGlass_Back_2.uasset": {
+    "bytes": 121706,
+    "sha256": "25666f29cdf961ea562f91194bb7cb376ee13429b5a62bb0e8cc119da64b5ea8"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack.uasset": {
+    "bytes": 837283,
+    "sha256": "95f46f263ab4dcc8c59de40696a92fef43ef262da36b7aa6d9bab24d47f01c22"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_085_carHeadLampPanel.uasset": {
+    "bytes": 141832,
+    "sha256": "60ff837911f744b8539da2fe3164c203989152001f87846533bac4dbfa6803e7"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_086_carBackDrop.uasset": {
+    "bytes": 35881,
+    "sha256": "242e0538cc70c901cf470b3195e49164b5cc6e4d88a4c6673b9a0b71370776e9"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_087_carXiaoMi_1.uasset": {
+    "bytes": 97323,
+    "sha256": "edae71800af2d136507d544bf5fb7f531879a326507a6ec3e582529c80bad650"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2.uasset": {
+    "bytes": 757591,
+    "sha256": "b1aee4ca39baf7c7fd04f8b7ebe694158c16223a49411b24451ca38b62172c21"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9.uasset": {
+    "bytes": 511973,
+    "sha256": "022a9fd224eb3793822366fb95800ffee266114d0ff7b02645e1991c442eb369"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09.uasset": {
+    "bytes": 16454,
+    "sha256": "fff2b8220f8f01be145423397f2ad637532219f5c5da11b5002460722c22630d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_091_carTyre_02.uasset": {
+    "bytes": 94310,
+    "sha256": "4a2d09eb85bb3f743705ad288b9ac2a8cfcb46275a6d1e6717398d38a62cf9e1"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09.uasset": {
+    "bytes": 22441,
+    "sha256": "9e45265a786357af685eccfe96d3d5627625733d166b740208e57354fac4e948"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09.uasset": {
+    "bytes": 27309,
+    "sha256": "85fd46c92d4b2f3ec54e5386fe5107d923cf47a758d1f1beeff1e409a58f77a4"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09.uasset": {
+    "bytes": 48508,
+    "sha256": "84df4b31b08538b9c6a8e9b10ed9c65576393a8c92163f346a69119b77e45df0"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09.uasset": {
+    "bytes": 466300,
+    "sha256": "380bfa95197c811fcbfd719fa15c7f40ace0d8b21149d1e9df986cbd176a5091"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09.uasset": {
+    "bytes": 16451,
+    "sha256": "6d347153ede648ff6aa708902423bf8c213ae495f81d39c1585588f9bb62b612"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_097_carTyre_02.uasset": {
+    "bytes": 94272,
+    "sha256": "f85d64a13221678fe83bc82f0926cae0125fdee29476ab1e532acb2b0ac6592c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09.uasset": {
+    "bytes": 22407,
+    "sha256": "3142adbebe52265d2713e7c97d4548ae6798fae9185b1a164868930a13b9d819"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09.uasset": {
+    "bytes": 27259,
+    "sha256": "fb40a9483d2bf19ec6074e46d3d8dfc42eaa96a849fac25e0d2e81fb1b100ec2"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09.uasset": {
+    "bytes": 48560,
+    "sha256": "7d1fac94334d21f2f84ce7585c6a6667dcddc1a2ff07435bdb778d02fc216921"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09.uasset": {
+    "bytes": 466484,
+    "sha256": "03a8d5c97afd1e66ad3b1cec9e05d31b71b076178163dc3e66b385ae73ba3ff4"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09.uasset": {
+    "bytes": 16465,
+    "sha256": "92e3e2055bbcab4dcc0e2825447fc4a9f4711245f879ae4e8e51b16b2d58e70f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_103_carTyre_02.uasset": {
+    "bytes": 94789,
+    "sha256": "ab0c038f8740f0ed385390d46652c21a436050e503c038154e162abf6f3b8a6f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09.uasset": {
+    "bytes": 22560,
+    "sha256": "688c3a580aa1a906669a77fd30c479e279464c3f659fc7445b1bfd89f6a12add"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09.uasset": {
+    "bytes": 27265,
+    "sha256": "eec500053cddff92227842184ccee6dd9305168e75e028d170f2db8581891e58"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09.uasset": {
+    "bytes": 49552,
+    "sha256": "5b95dd06193e0b6840f6614a5335ddf7b6e52e739bce1fa0cbe5f9aaa8bd89f0"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09.uasset": {
+    "bytes": 467647,
+    "sha256": "f53805427a07a064e8bf82113745d51dc86544dd5e9734b6cb396f9b411dfd96"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09.uasset": {
+    "bytes": 16465,
+    "sha256": "1500a2baa2e2a88fbcd9c8253359895d89e28dcf179e6888439bca3e3fe570ac"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_109_carTyre_02.uasset": {
+    "bytes": 94744,
+    "sha256": "31922202270ba0f1d4765da3d0b26497d0e726e31efd25e31dbf6ec34d99c76d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09.uasset": {
+    "bytes": 22539,
+    "sha256": "43503060f3eb474fa5cb4d8ab95c5f413f470139187111402f8e8777a2b7fb31"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09.uasset": {
+    "bytes": 27275,
+    "sha256": "731e78ee3d3bd440f97116b2f340561ce7dbf846ae13f16377448c6674428bed"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09.uasset": {
+    "bytes": 50356,
+    "sha256": "b3286dc06a1085d4a5914bd96e70ddac762c0d5df82eb93940186d3357f4dc3d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09.uasset": {
+    "bytes": 467273,
+    "sha256": "67526437e8042b5f767c2ee8f174d07312e80106d1dc96259be6b0d4c98979e0"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2.uasset": {
+    "bytes": 34881,
+    "sha256": "874843929cefe582d77f5c21ebe2a58d7ba88878d3c95ddae8d8a7b8a4f14662"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_115_carBrakeDisc_Back.uasset": {
+    "bytes": 59422,
+    "sha256": "8cac5c869cd46cac1e66ea316f093d8f53b908b722fa0d65958e398370ea3a85"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_116_carCaliper_MainBack.uasset": {
+    "bytes": 463116,
+    "sha256": "79739dc7d437b337458e47893c9d047faf152e8601123f78b21ec481aca7b6ef"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_117_carCaliper_Screw_1.uasset": {
+    "bytes": 70542,
+    "sha256": "14a5d391d92d9a9fb0c4394e2271f9735068c8a462c85a62a2ccb6821f374e54"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2.uasset": {
+    "bytes": 42300,
+    "sha256": "5da1ecd511ff6f1d0659d6f721d55c502628c50218653aa82c6dbe206d4506b9"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_119_carBrakeDisc_Front.uasset": {
+    "bytes": 60297,
+    "sha256": "a76c5a07f029e93a5d3d8cf826f38e7adb53b88d9069279a6c2461328c28b53a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1.uasset": {
+    "bytes": 688440,
+    "sha256": "7703b68c7862625a3c8005ad4bcba5de91bae39d42dfb0bff8392d92788c3155"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1.uasset": {
+    "bytes": 78586,
+    "sha256": "78fae3874f735e375853d113764fa2e7dc1d89a5d286d5e6c4b0c335091438e7"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carBrakeDisc_2_MP.uasset": {
+    "bytes": 186107,
+    "sha256": "6a2bfc977d15047f533bf9d69e198dc00d2659842d781b3ae3737235c0406c34"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carCaliper_1Shape.uasset": {
+    "bytes": 705573,
+    "sha256": "648f5118fc47c06f601d82bac740bcbade5ff0bdbe57a62f02e4f83aa54987e6"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carHoodOutletPanelShape.uasset": {
+    "bytes": 222298,
+    "sha256": "6e4e288855ad7800aa9ae6e812d01eb9853868418996a5631f0e267f0d750d79"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_CenterConsole_MT_OrangeMinium_MP.uasset": {
+    "bytes": 176798,
+    "sha256": "b5cbfa279da778c88667287c3fb360de7ab3e3e20845e4fda7b5f25cd3c03af9"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Dashboard_MT_OrangeMinium_MP.uasset": {
+    "bytes": 185911,
+    "sha256": "62810d1a94e11b4ed886ad3400fa6e486c986d22f2cec4f38b89d99f3b96b4a3"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_DoorBack_MT_OrangeMinium_MP.uasset": {
+    "bytes": 285274,
+    "sha256": "09b3a4be3816f142c22916d1530fa4d29310b184828f7fa54e8ae21e9a6dd50d"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_DoorFront_MT_OrangeMinium_MP.uasset": {
+    "bytes": 228276,
+    "sha256": "15394756f7cbbf36e95b7cdae506482b8a75ae36244a9c614cf9c7a797c26287"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Frame_Bottom_MT_OrangeMinium_MP.uasset": {
+    "bytes": 183227,
+    "sha256": "ed93036bf7031c4ae5552fd408356190414d8005ab9eef4e20b8fa220179dd81"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Frame_Top_MT_OrangeMinium_MP.uasset": {
+    "bytes": 45150,
+    "sha256": "92b4e58035c2e3d51a02ea7dda274992d380ab3dd883116c948cdd988e1a6bfb"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_PassengerSeatBack_MT_OrangeMinium_MP.uasset": {
+    "bytes": 266778,
+    "sha256": "6beff6bc5e40490b086446594071c33e76a9782aae542cd979deb3fc246d329f"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_PassengerSeatFront_MT_OrangeMinium_MP.uasset": {
+    "bytes": 221665,
+    "sha256": "1d5b2f7076367518b2ce6d1aa3569f9225c641fd22754edaf2e8755c2f1579d2"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Roof_MT_Turquoise_MP.uasset": {
+    "bytes": 211397,
+    "sha256": "e5c568ca1ba0e0ab3e53a8e68a3b483178d8f9da44626cb1f9362f923ba9fadd"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_SteeringWheel_MT_OrangeMinium_MP.uasset": {
+    "bytes": 238296,
+    "sha256": "1074207e1b7460e0337e67458f2cb167318fd02cd9c64ecd619d850985bbd31b"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_TrunkExternal_MT_Turquoise_MP.uasset": {
+    "bytes": 1477339,
+    "sha256": "2ba019d16c9834bc526be198209bb54f05132aa7348cf21153b2fc00208adc1c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_TrunkInternal_MT_Turquoise_MP.uasset": {
+    "bytes": 984597,
+    "sha256": "752c6fcc7d96bfffc295d0a7bb2f90badbd1392fabd9894d49b7c26000232a1c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carLightShape.uasset": {
+    "bytes": 4985490,
+    "sha256": "12b302d7fd2e0161acf46660e34266fa5f0626fcae08ded3a3105f12c3f1dd8a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carLight_bulb_MP.uasset": {
+    "bytes": 1744389,
+    "sha256": "ea5356dc46ec94c316ae6bbf7052f9621e8411247d5772d2a58aad37f26e59ef"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carPaint_Shape1.uasset": {
+    "bytes": 2228862,
+    "sha256": "d22aaaf1e2ae7aa714abcf8018b7dc4165c7dfabc03dd338c83e4c282a2a549a"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carPlastic_BrilliantBlackShape.uasset": {
+    "bytes": 1204560,
+    "sha256": "258528955bf665de09b4c90a2291520e15547506a40e2511062216e7bad8a45c"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\carTyre_02_ao.uasset": {
+    "bytes": 1280054,
+    "sha256": "10a79de006ab099e88a2ea646855d56e861ace543394c7af047956e759675671"
+  },
+  "Content\\Vehicles\\YU7_Prepared\\Textures\\T_YU7_Tyre_Normal_DX.uasset": {
+    "bytes": 1004499,
+    "sha256": "469ba291b8b4d9e3dffe541a1e209550152fc5e89f4d2698a3b787b0b607b7f5"
+  },
+  "Content\\YU7\\Maps\\Studio_YU7.umap": {
+    "bytes": 173116,
+    "sha256": "e36dc64b89516e93b73c1b9c392be0d540010723d13a3685cefd3d3afd7d1fb6"
+  }
+}

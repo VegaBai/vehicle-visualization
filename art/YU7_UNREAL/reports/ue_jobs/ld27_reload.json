@@ -1,0 +1,10 @@
+{
+  "id": "ld27_reload",
+  "started": "2026-10-17T01:51:10-0700",
+  "status": "success",
+  "result": {
+    "reloaded_map": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+    "validation_pending": true
+  },
+  "finished": "2026-10-17T01:51:10-0700"
+}

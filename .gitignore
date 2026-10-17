@@ -1,0 +1,49 @@
+# Unreal Engine generated files (including project/plugin subdirectories).
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/obj/
+
+# Keep Config/, Content/, Source/, Plugins/ and Build/ resources in source control.
+# Generated IDE projects and local editor state.
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj/
+*.xcworkspace/
+*.sln.docstates
+
+# Python/editor tooling: dependencies are installed locally, not used at runtime.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/tools/vendor/
+
+# Blender recovery copies; keep the actual .blend and exported source assets.
+*.blend[0-9]
+*.blend[0-9][0-9]
+
+# Reproducible MRQ intermediates; retain the final PNG/EXR/MP4 and their credits.
+/renders/**/frames/
+/renders/**/still/
+
+# Local environment files and OS metadata.
+.env
+.env.*
+!.env.example
+!.env.sample
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Validation reports and diagnostic logs outside Saved/ are intentionally tracked.

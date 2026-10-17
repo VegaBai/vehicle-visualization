@@ -1,0 +1,14 @@
+{
+  "id": "10_inspection_views",
+  "started": "2026-10-16T13:49:15-0700",
+  "status": "success",
+  "result": {
+    "cameras": [
+      "CAM_YU7_Front",
+      "CAM_YU7_Rear",
+      "CAM_YU7_Side"
+    ],
+    "screenshot_requested": "ue_front.png"
+  },
+  "finished": "2026-10-16T13:49:23-0700"
+}

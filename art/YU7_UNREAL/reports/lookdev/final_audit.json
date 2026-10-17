@@ -1,0 +1,250 @@
+{
+  "world": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+  "mesh_components": 121,
+  "dimensions_cm": [
+    499.89996337890625,
+    213.75048065185547,
+    159.10018920898438
+  ],
+  "original_imported_assets_unchanged": true,
+  "preserved_imported_asset_count": 178,
+  "source_files_unchanged": true,
+  "original_map_unchanged": true,
+  "assets": [
+    {
+      "path": "/Game/YU7/Lookdev/Blueprints/BP_YU7_StudioLighting.BP_YU7_StudioLighting",
+      "class": "Blueprint"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/M_StudioSurface.M_StudioSurface",
+      "class": "Material",
+      "statistics": {
+        "num_pixel_shader_instructions": 264,
+        "num_samplers": 1,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": []
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/M_YU7_AutomotivePaint.M_YU7_AutomotivePaint",
+      "class": "Material",
+      "statistics": {
+        "num_pixel_shader_instructions": 700,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": []
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/M_YU7_ThinGlass.M_YU7_ThinGlass",
+      "class": "Material",
+      "statistics": {
+        "num_pixel_shader_instructions": 5781,
+        "num_samplers": 5,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": []
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/M_YU7_TrimMasked.M_YU7_TrimMasked",
+      "class": "Material",
+      "statistics": {
+        "num_pixel_shader_instructions": 278,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 1
+      },
+      "textures": []
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Detail_Charcoal.MI_Detail_Charcoal",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 278,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 1
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_TrimMasked.M_YU7_TrimMasked"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 5781,
+        "num_samplers": 5,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_ThinGlass.M_YU7_ThinGlass"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Glass_Lens.MI_Glass_Lens",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 5781,
+        "num_samplers": 5,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_ThinGlass.M_YU7_ThinGlass"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Glass_Roof.MI_Glass_Roof",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 5781,
+        "num_samplers": 5,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_ThinGlass.M_YU7_ThinGlass"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 5781,
+        "num_samplers": 5,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_ThinGlass.M_YU7_ThinGlass"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 700,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_AutomotivePaint.M_YU7_AutomotivePaint"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 700,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_AutomotivePaint.M_YU7_AutomotivePaint"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 700,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_AutomotivePaint.M_YU7_AutomotivePaint"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Studio_CoolGrey.MI_Studio_CoolGrey",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 264,
+        "num_samplers": 1,
+        "num_pixel_texture_samples": 3
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_StudioSurface.M_StudioSurface"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 278,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 1
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_TrimMasked.M_YU7_TrimMasked"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal",
+      "class": "MaterialInstanceConstant",
+      "statistics": {
+        "num_pixel_shader_instructions": 278,
+        "num_samplers": 2,
+        "num_pixel_texture_samples": 1
+      },
+      "textures": [],
+      "parent": "/Game/YU7/Lookdev/Materials/M_YU7_TrimMasked.M_YU7_TrimMasked"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser",
+      "class": "Texture2D"
+    },
+    {
+      "path": "/Game/YU7/Lookdev/Variants/LVS_YU7_Lookdev.LVS_YU7_Lookdev",
+      "class": "LevelVariantSets"
+    }
+  ],
+  "lights": {
+    "YU7_Light_Key_Softbox": {
+      "intensity": 44000.0,
+      "source_texture": "/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser",
+      "width": 640.0,
+      "height": 170.0,
+      "location": "<Struct 'Vector' (0x000002778CA53E40) {x: -100.000000, y: -100.000000, z: 480.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA53E40) {pitch: -71.182206, yaw: 45.000000, roll: 0.000000}>"
+    },
+    "YU7_Light_Side_Strip": {
+      "intensity": 20000.0,
+      "source_texture": "/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser",
+      "width": 540.0,
+      "height": 75.0,
+      "location": "<Struct 'Vector' (0x000002778CA53EE0) {x: 60.000000, y: 390.000000, z: 240.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA53EE0) {pitch: -20.176943, yaw: -98.746162, roll: -0.000000}>"
+    },
+    "YU7_Light_Rear_Rim": {
+      "intensity": 42000.0,
+      "source_texture": "/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser",
+      "width": 440.0,
+      "height": 85.0,
+      "location": "<Struct 'Vector' (0x000002778CA53F30) {x: 270.000000, y: -260.000000, z: 320.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA53F30) {pitch: -34.534922, yaw: 128.927544, roll: 0.000001}>"
+    },
+    "YU7_Light_Front_Fill": {
+      "intensity": 16000.0,
+      "source_texture": "/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser",
+      "width": 240.0,
+      "height": 230.0,
+      "location": "<Struct 'Vector' (0x000002778CA53F80) {x: -430.000000, y: -160.000000, z: 230.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA53F80) {pitch: -25.201124, yaw: 28.072487, roll: 0.000000}>"
+    },
+    "YU7_Light_Roof_Ribbon": {
+      "intensity": 10000.0,
+      "source_texture": "/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser",
+      "width": 520.0,
+      "height": 90.0,
+      "location": "<Struct 'Vector' (0x000002778CA53FD0) {x: 130.000000, y: -40.000000, z: 520.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA53FD0) {pitch: -73.182301, yaw: 162.897271, roll: 0.000001}>"
+    },
+    "YU7_Light_Backdrop_Wash": {
+      "intensity": 46000.0,
+      "source_texture": null,
+      "width": 380.0,
+      "height": 300.0,
+      "location": "<Struct 'Vector' (0x000002765FC08060) {x: 360.000000, y: -180.000000, z: 340.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08060) {pitch: -17.704890, yaw: -61.389540, roll: -0.000000}>"
+    }
+  },
+  "variant_combinations_verified": 24,
+  "credit_exact": true,
+  "visible_credits": "pending final project UI/sequence",
+  "dirty_maps": [],
+  "dirty_content": [],
+  "runtime_cpp_added": false,
+  "runtime_python_required": false,
+  "native_variant_parts": 21,
+  "active_unique_car_components": 121,
+  "restart_persistence_verified": true,
+  "safe_reload_then_gc_verified": true,
+  "plain_map_reload_known_limitation": "Reload LVS package before the map via tools/ue_lookdev_reload.py, or restart editor."
+}

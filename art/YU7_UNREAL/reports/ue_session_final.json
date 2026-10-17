@@ -1,0 +1,20 @@
+{
+  "map": "/Game/YU7/Maps/Studio_YU7",
+  "blueprint": "/Game/Vehicles/YU7_Prepared/Blueprints/BP_YU7.BP_YU7",
+  "blueprint_compile_passed": true,
+  "mesh_components": 121,
+  "original_map_unchanged": true,
+  "original_source_files_unchanged": true,
+  "source_file_count": 24,
+  "credit_metadata_exact": true,
+  "visible_final_credits": "pending final project UI/sequence",
+  "dirty_maps": [],
+  "dirty_content": [],
+  "cpp_source_added": false,
+  "previews": [
+    "ue_front.png",
+    "ue_rear.png",
+    "ue_world_normals.png"
+  ],
+  "temporary_editor_runner_stopped": true
+}

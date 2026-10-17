@@ -1,0 +1,118 @@
+{
+  "id": "ld18_stable_bindings",
+  "started": "2026-10-17T01:48:44-0700",
+  "status": "success",
+  "result": {
+    "native_variant_parts": 21,
+    "native_lights": 6,
+    "parts": [
+      {
+        "source_component": "Part_001_carGlass_front_1",
+        "actor": "YU7_VP_001_carGlass_front_1",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_001_carGlass_front_1.YU7_Unreal_SM_YU7_001_carGlass_front_1"
+      },
+      {
+        "source_component": "Part_006_carPaint_2",
+        "actor": "YU7_VP_006_carPaint_2",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_006_carPaint_2.YU7_Unreal_SM_YU7_006_carPaint_2"
+      },
+      {
+        "source_component": "Part_008_carWindowTrim_3_1_",
+        "actor": "YU7_VP_008_carWindowTrim_3_1_",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_.YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_"
+      },
+      {
+        "source_component": "Part_019_carWindowTrim_3",
+        "actor": "YU7_VP_019_carWindowTrim_3",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_019_carWindowTrim_3.YU7_Unreal_SM_YU7_019_carWindowTrim_3"
+      },
+      {
+        "source_component": "Part_028_carPaint_10",
+        "actor": "YU7_VP_028_carPaint_10",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_028_carPaint_10.YU7_Unreal_SM_YU7_028_carPaint_10"
+      },
+      {
+        "source_component": "Part_033_carWindowTrim_1_1_",
+        "actor": "YU7_VP_033_carWindowTrim_1_1_",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_.YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_"
+      },
+      {
+        "source_component": "Part_038_carPaint_4_1_",
+        "actor": "YU7_VP_038_carPaint_4_1_",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_038_carPaint_4_1_.YU7_Unreal_SM_YU7_038_carPaint_4_1_"
+      },
+      {
+        "source_component": "Part_039_carWindowTrim_5",
+        "actor": "YU7_VP_039_carWindowTrim_5",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_039_carWindowTrim_5.YU7_Unreal_SM_YU7_039_carWindowTrim_5"
+      },
+      {
+        "source_component": "Part_040_carPaint_2_1_",
+        "actor": "YU7_VP_040_carPaint_2_1_",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_040_carPaint_2_1_.YU7_Unreal_SM_YU7_040_carPaint_2_1_"
+      },
+      {
+        "source_component": "Part_045_carPaint_13",
+        "actor": "YU7_VP_045_carPaint_13",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_045_carPaint_13.YU7_Unreal_SM_YU7_045_carPaint_13"
+      },
+      {
+        "source_component": "Part_047_carGlass_front_2_Side_2_1_",
+        "actor": "YU7_VP_047_carGlass_front_2_Side_2_1_",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_.YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_"
+      },
+      {
+        "source_component": "Part_049_carGlass_back_2_Side",
+        "actor": "YU7_VP_049_carGlass_back_2_Side",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_049_carGlass_back_2_Side.YU7_Unreal_SM_YU7_049_carGlass_back_2_Side"
+      },
+      {
+        "source_component": "Part_057_carGlass_back_2_Side_1_1_",
+        "actor": "YU7_VP_057_carGlass_back_2_Side_1_1_",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_.YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_"
+      },
+      {
+        "source_component": "Part_058_carPaint_4",
+        "actor": "YU7_VP_058_carPaint_4",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_058_carPaint_4.YU7_Unreal_SM_YU7_058_carPaint_4"
+      },
+      {
+        "source_component": "Part_060_carPaint_1",
+        "actor": "YU7_VP_060_carPaint_1",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_060_carPaint_1.YU7_Unreal_SM_YU7_060_carPaint_1"
+      },
+      {
+        "source_component": "Part_068_carPaint_9",
+        "actor": "YU7_VP_068_carPaint_9",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_068_carPaint_9.YU7_Unreal_SM_YU7_068_carPaint_9"
+      },
+      {
+        "source_component": "Part_074_carGlass_back_2_Side_1",
+        "actor": "YU7_VP_074_carGlass_back_2_Side_1",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1.YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1"
+      },
+      {
+        "source_component": "Part_075_carGlass_front_2_Side_2",
+        "actor": "YU7_VP_075_carGlass_front_2_Side_2",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2.YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2"
+      },
+      {
+        "source_component": "Part_076_carGlass_back_1",
+        "actor": "YU7_VP_076_carGlass_back_1",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_076_carGlass_back_1.YU7_Unreal_SM_YU7_076_carGlass_back_1"
+      },
+      {
+        "source_component": "Part_079_carPaint_8",
+        "actor": "YU7_VP_079_carPaint_8",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_079_carPaint_8.YU7_Unreal_SM_YU7_079_carPaint_8"
+      },
+      {
+        "source_component": "Part_080_carWindowTrim_1",
+        "actor": "YU7_VP_080_carWindowTrim_1",
+        "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_080_carWindowTrim_1.YU7_Unreal_SM_YU7_080_carWindowTrim_1"
+      }
+    ],
+    "workaround": "native actor bindings, original Blueprint components preserved and hidden"
+  },
+  "finished": "2026-10-17T01:48:45-0700"
+}

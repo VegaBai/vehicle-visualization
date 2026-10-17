@@ -1,0 +1,11 @@
+{
+  "id": "19_capture_normals",
+  "started": "2026-10-16T13:53:23-0700",
+  "status": "success",
+  "result": {
+    "requested": "C:\\github2\\vehicle_visualization\\art\\YU7_UNREAL\\reports\\ue_world_normals.png",
+    "camera": "CAM_YU7_Front",
+    "buffer": "WorldNormal"
+  },
+  "finished": "2026-10-16T13:53:23-0700"
+}

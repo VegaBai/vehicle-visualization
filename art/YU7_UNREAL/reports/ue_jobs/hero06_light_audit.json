@@ -1,0 +1,7 @@
+{
+  "id": "hero06_light_audit",
+  "started": "2026-10-17T14:44:07-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_hero_light_probe.py\", line 6, in <module>\n    r.append({'actor':a.get_actor_label(),'actor_hidden':a.is_hidden(),'component':c.get_name(),'class':c.get_class().get_name(),'intensity':c.intensity,'visible':c.visible,'hidden_in_game':c.hidden_in_game})\n                                                         ^^^^^^^^^^^\nAttributeError: 'RectLight' object has no attribute 'is_hidden'\n",
+  "finished": "2026-10-17T14:44:07-0700"
+}

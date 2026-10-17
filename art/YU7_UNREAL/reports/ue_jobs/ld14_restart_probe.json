@@ -1,0 +1,97 @@
+{
+  "id": "ld14_restart_probe",
+  "started": "2026-10-17T01:45:55-0700",
+  "status": "success",
+  "result": {
+    "world": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+    "mesh_components": 121,
+    "lights": {
+      "Key_Softbox": {
+        "intensity": 44000.0,
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x0000027940FD9C00) Class 'Texture2D'>",
+        "size": [
+          640.0,
+          170.0
+        ]
+      },
+      "Side_Strip": {
+        "intensity": 20000.0,
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x0000027940FD9C00) Class 'Texture2D'>",
+        "size": [
+          540.0,
+          75.0
+        ]
+      },
+      "Rear_Rim": {
+        "intensity": 42000.0,
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x0000027940FD9C00) Class 'Texture2D'>",
+        "size": [
+          440.0,
+          85.0
+        ]
+      },
+      "Front_Fill": {
+        "intensity": 16000.0,
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x0000027940FD9C00) Class 'Texture2D'>",
+        "size": [
+          240.0,
+          230.0
+        ]
+      },
+      "Roof_Ribbon": {
+        "intensity": 10000.0,
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x0000027940FD9C00) Class 'Texture2D'>",
+        "size": [
+          520.0,
+          90.0
+        ]
+      },
+      "Backdrop_Wash": {
+        "intensity": 46000.0,
+        "source_texture": "None",
+        "size": [
+          380.0,
+          300.0
+        ]
+      }
+    },
+    "variant_asset_exists": false,
+    "car_materials": [
+      "MI_Detail_Charcoal",
+      "MI_Glass_Clear",
+      "MI_Glass_Lens",
+      "MI_Glass_Roof",
+      "MI_Paint_MineralTeal",
+      "MI_Trim_Obsidian",
+      "M_YU7_ALUM",
+      "M_YU7_Blaack_Paint",
+      "M_YU7_Black_Mat",
+      "M_YU7_CAR_L",
+      "M_YU7_Caliper_C1",
+      "M_YU7_Caliper_C2",
+      "M_YU7_DISK",
+      "M_YU7_INT_Bottom",
+      "M_YU7_INT_Console",
+      "M_YU7_INT_Dash",
+      "M_YU7_INT_Frame_Top",
+      "M_YU7_INT_Roof",
+      "M_YU7_INT_SW",
+      "M_YU7_INT_Seat_Back",
+      "M_YU7_INT_Seat_Front",
+      "M_YU7_INT_Trunk",
+      "M_YU7_INT_Trunk_E",
+      "M_YU7_Int_DoorF",
+      "M_YU7_Int_DoorF__UVFallback",
+      "M_YU7_Int_Door_Back",
+      "M_YU7_LIGHT_CHROME_SH",
+      "M_YU7_LIGHT_PLASTIC_SH",
+      "M_YU7_Metal_Mat",
+      "M_YU7_Mirrors",
+      "M_YU7_RIM_C2",
+      "M_YU7_Yu7_RIM_C1",
+      "M_YU7_Yu7_lambert272",
+      "M_YU7_tyre_3"
+    ]
+  },
+  "finished": "2026-10-17T01:45:55-0700"
+}

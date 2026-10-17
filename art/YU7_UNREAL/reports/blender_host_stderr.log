@@ -1,0 +1,36 @@
+Traceback (most recent call last):
+  File "C:\Users\vegab\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\blender_mcp.py", line 1377, in execute_code
+    exec(code, namespace)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+  File "yu7_repair_materials.py", line 101, in <module>
+RuntimeError: Error: Unable to pack file, source path 'C:\Textures\carCaliper_1Shape.png' not found
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vegab\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\blender_mcp.py", line 829, in _execute_command_internal
+    result = handler(**params)
+  File "C:\Users\vegab\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\blender_mcp.py", line 1382, in execute_code
+    raise Exception(f"Code execution error: {str(e)}")
+Exception: Code execution error: Error: Unable to pack file, source path 'C:\Textures\carCaliper_1Shape.png' not found
+
+Traceback (most recent call last):
+  File "C:\Users\vegab\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\blender_mcp.py", line 1377, in execute_code
+    exec(code, namespace)
+    ~~~~^^^^^^^^^^^^^^^^^
+  File "<string>", line 4, in <module>
+  File "material_finalize", line 3, in <module>
+RuntimeError: Error: Unable to pack file, source path 'C:\github2\vehicle_visualization\art\YU7_UNREAL\Textures' not found
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\vegab\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\blender_mcp.py", line 829, in _execute_command_internal
+    result = handler(**params)
+  File "C:\Users\vegab\AppData\Roaming\Blender Foundation\Blender\5.2\scripts\addons\blender_mcp.py", line 1382, in execute_code
+    raise Exception(f"Code execution error: {str(e)}")
+Exception: Code execution error: Error: Unable to pack file, source path 'C:\github2\vehicle_visualization\art\YU7_UNREAL\Textures' not found
+

@@ -1,0 +1,557 @@
+{
+  "id": "01_inspect",
+  "started": "2026-10-16T13:43:17-0700",
+  "status": "success",
+  "result": {
+    "engine": "5.8.3-58210709+++UE5+Release-5.8",
+    "project": "../../../../../../github2/vehicle_visualization/VehicleStudio/VehicleStudio.uproject",
+    "world": "/Game/Studios/Levels/Studio_White.Studio_White",
+    "dirty_maps": [],
+    "dirty_content": [],
+    "actors": [
+      {
+        "name": "StaticMeshActor_1",
+        "label": "SM_HalfDome",
+        "class": "/Script/Engine.StaticMeshActor",
+        "location": "<Struct 'Vector' (0x00000125B80C31C0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80C31C0) {pitch: 0.000000, yaw: -179.999999, roll: 0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80C31C0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80C31C0) {x: 0.000003, y: -196.549805, z: 293.999739}>, <Struct 'Vector' (0x00000125B80C3210) {x: 1093.099747, y: 896.549946, z: 306.500139}>)",
+        "components": [
+          {
+            "name": "StaticMeshComponent0",
+            "class": "StaticMeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_3",
+        "label": "SM_AutomotiveTP_Car",
+        "class": "/Script/Engine.StaticMeshActor",
+        "location": "<Struct 'Vector' (0x00000125B80C3350) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80C3350) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80C3350) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80C3350) {x: -12.498856, y: 0.000000, z: 74.110617}>, <Struct 'Vector' (0x00000125B80C33A0) {x: 219.323822, y: 102.442627, z: 74.018228}>)",
+        "components": [
+          {
+            "name": "StaticMeshComponent0",
+            "class": "StaticMeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_4",
+        "label": "SM_InvertedCube",
+        "class": "/Script/Engine.StaticMeshActor",
+        "location": "<Struct 'Vector' (0x00000125B80C3490) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80C3490) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80C3490) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80C3490) {x: 0.000000, y: -198.015045, z: 376.376203}>, <Struct 'Vector' (0x00000125B80C3530) {x: 1112.620239, y: 907.835052, z: 397.568683}>)",
+        "components": [
+          {
+            "name": "StaticMeshComponent0",
+            "class": "StaticMeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "RectLight_0",
+        "label": "RectLight",
+        "class": "/Script/Engine.RectLight",
+        "location": "<Struct 'Vector' (0x00000125B80C35D0) {x: 0.000000, y: 0.000000, z: 610.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80C35D0) {pitch: -89.000000, yaw: -90.000000, roll: 180.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80C35D0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80C35D0) {x: 0.000000, y: 0.000000, z: 610.000000}>, <Struct 'Vector' (0x00000125B80C3760) {x: 128.000000, y: 128.000000, z: 128.000000}>)",
+        "components": [
+          {
+            "name": "LightComponent0",
+            "class": "RectLightComponent"
+          },
+          {
+            "name": "BillboardComponent_0",
+            "class": "BillboardComponent"
+          }
+        ]
+      },
+      {
+        "name": "BP_CStand_C_1",
+        "label": "BP_CStand",
+        "class": "/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C",
+        "location": "<Struct 'Vector' (0x00000125B80C37B0) {x: -343.301271, y: -146.243557, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80C37B0) {pitch: 0.000000, yaw: 30.000000, roll: -0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80C37B0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80C37B0) {x: -343.301271, y: -146.243557, z: 25.107118}>, <Struct 'Vector' (0x00000125B80C3800) {x: 128.000000, y: 128.000000, z: 153.107118}>)",
+        "components": [
+          {
+            "name": "DefaultSceneRoot",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "BillboardComponent_1",
+            "class": "BillboardComponent"
+          },
+          {
+            "name": "CStand_Group",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CTR01_InnerRod_A",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CTR02_InnerRod_B",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_03_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR03_BarClamp_Main",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_02_Head",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR04_GoboArm",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_01_Base",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_05_GoboArm",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR05_BarClamp_Tip",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_02_Head",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_01_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR06_Mount_Rotator",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_02_Rotator",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_FluorescentLight",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_FluorescentLight_Tube",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR10_LockHandle_04",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR09_LockHandle_03",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_01_Base",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_02_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR08_LockHandle_02",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_02_Rod_LockHandle_02",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_01_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_00_Leg",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_08_Grip",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR07_LockHandle_01",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_01_Rod_LockHandle_01",
+            "class": "StaticMeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "BP_CStand_C_2",
+        "label": "BP_CStand2",
+        "class": "/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C",
+        "location": "<Struct 'Vector' (0x00000125B80E0560) {x: 34.185842, y: -240.070416, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80E0560) {pitch: 0.000000, yaw: 99.999999, roll: -0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80E0560) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80E0560) {x: 34.185842, y: -240.070416, z: 41.219117}>, <Struct 'Vector' (0x00000125B80E05B0) {x: 128.000000, y: 128.000000, z: 169.219117}>)",
+        "components": [
+          {
+            "name": "DefaultSceneRoot",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "BillboardComponent_1",
+            "class": "BillboardComponent"
+          },
+          {
+            "name": "CStand_Group",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CTR01_InnerRod_A",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CTR02_InnerRod_B",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_03_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR03_BarClamp_Main",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_02_Head",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR04_GoboArm",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_01_Base",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_05_GoboArm",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR05_BarClamp_Tip",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_02_Head",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_01_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR06_Mount_Rotator",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_02_Rotator",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_FluorescentLight",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_FluorescentLight_Tube",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR10_LockHandle_04",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR09_LockHandle_03",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_01_Base",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_02_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR08_LockHandle_02",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_02_Rod_LockHandle_02",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_01_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_00_Leg",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_08_Grip",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR07_LockHandle_01",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_01_Rod_LockHandle_01",
+            "class": "StaticMeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "BP_CStand_C_3",
+        "label": "BP_CStand3",
+        "class": "/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C",
+        "location": "<Struct 'Vector' (0x00000125B80E12D0) {x: 348.092198, y: 180.959967, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80E12D0) {pitch: 0.000000, yaw: -150.000002, roll: 0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80E12D0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80E12D0) {x: 348.092198, y: 180.959967, z: 49.024449}>, <Struct 'Vector' (0x00000125B80E1320) {x: 128.000000, y: 128.000000, z: 177.024449}>)",
+        "components": [
+          {
+            "name": "DefaultSceneRoot",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "BillboardComponent_1",
+            "class": "BillboardComponent"
+          },
+          {
+            "name": "CStand_Group",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CTR01_InnerRod_A",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CTR02_InnerRod_B",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_03_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR03_BarClamp_Main",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_02_Head",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR04_GoboArm",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_01_Base",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_05_GoboArm",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR05_BarClamp_Tip",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_02_Head",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_01_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR06_Mount_Rotator",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_02_Rotator",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_FluorescentLight",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_FluorescentLight_Tube",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_07_Mount_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR10_LockHandle_04",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR09_LockHandle_03",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_03_Lockhandle",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_04_BarClamp_Main_01_Base",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_02_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR08_LockHandle_02",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_02_Rod_LockHandle_02",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_01_Rod",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_00_Leg",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "SM_CStand_08_Grip",
+            "class": "StaticMeshComponent"
+          },
+          {
+            "name": "CTR07_LockHandle_01",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "SM_CStand_01_Rod_LockHandle_01",
+            "class": "StaticMeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "CineCameraActor_3",
+        "label": "CineCameraActor",
+        "class": "/Script/CinematicCamera.CineCameraActor",
+        "location": "<Struct 'Vector' (0x00000125B80E2090) {x: -857.175738, y: 0.000016, z: 131.192060}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80E2090) {pitch: -4.676806, yaw: 0.209275, roll: 0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80E2090) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80E2090) {x: -857.175738, y: 0.000016, z: 131.192060}>, <Struct 'Vector' (0x00000125B80E20E0) {x: 1010.000000, y: 1010.000000, z: 1010.000000}>)",
+        "components": [
+          {
+            "name": "SceneComponent",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "CameraComponent",
+            "class": "CineCameraComponent"
+          },
+          {
+            "name": "CameraProxyMeshComponent_0",
+            "class": "CameraProxyMeshComponent"
+          },
+          {
+            "name": "DrawFrustumComponent_0",
+            "class": "DrawFrustumComponent"
+          }
+        ]
+      },
+      {
+        "name": "PostProcessVolume_1",
+        "label": "PostProcessVolume",
+        "class": "/Script/Engine.PostProcessVolume",
+        "location": "<Struct 'Vector' (0x00000125B80E22C0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80E22C0) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80E22C0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80E22C0) {x: 0.000000, y: 0.000000, z: 0.000000}>, <Struct 'Vector' (0x00000125B80E2310) {x: 100.000000, y: 100.000000, z: 100.000000}>)",
+        "components": [
+          {
+            "name": "BrushComponent0",
+            "class": "BrushComponent"
+          }
+        ]
+      },
+      {
+        "name": "LevelSequenceActor_0",
+        "label": "SEQ_Truck_Studio_White",
+        "class": "/Script/LevelSequence.LevelSequenceActor",
+        "location": "<Struct 'Vector' (0x00000125B80E2360) {x: -33.963879, y: 1136.834610, z: 1250.491847}>",
+        "rotation": "<Struct 'Rotator' (0x00000125B80E2360) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "scale": "<Struct 'Vector' (0x00000125B80E2360) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "bounds": "(<Struct 'Vector' (0x00000125B80E2360) {x: -33.963879, y: 1136.834610, z: 1250.491847}>, <Struct 'Vector' (0x00000125B80E23B0) {x: 128.000000, y: 128.000000, z: 128.000000}>)",
+        "components": [
+          {
+            "name": "SceneComp",
+            "class": "SceneComponent"
+          },
+          {
+            "name": "Sprite",
+            "class": "BillboardComponent"
+          }
+        ]
+      }
+    ]
+  },
+  "finished": "2026-10-16T13:43:17-0700"
+}

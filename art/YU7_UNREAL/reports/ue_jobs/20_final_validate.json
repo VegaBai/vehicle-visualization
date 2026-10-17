@@ -1,0 +1,36 @@
+{
+  "id": "20_final_validate",
+  "started": "2026-10-16T13:53:46-0700",
+  "status": "success",
+  "result": {
+    "engine": "5.8.3-58210709+++UE5+Release-5.8",
+    "world": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+    "mesh_count": 121,
+    "errors": [],
+    "normal_validation": "All triangle corners of actual render LOD0, including tangents/bitangents; UV0 every triangle. Geometry Script read-only copies.",
+    "blueprint_component_count": 121,
+    "actor_scale": "<Struct 'Vector' (0x000001A8111CD9B0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+    "geometry_bounds_min_cm": [
+      -249.94998931884766,
+      -106.87522506713867,
+      0.0
+    ],
+    "geometry_bounds_max_cm": [
+      249.9499740600586,
+      106.8752555847168,
+      159.10018920898438
+    ],
+    "geometry_dimensions_cm": [
+      499.89996337890625,
+      213.75048065185547,
+      159.10018920898438
+    ],
+    "render_triangle_count": 579252,
+    "checked_triangle_count": 579252,
+    "zero_area_uv_triangle_count": 0,
+    "max_unit_length_error": 4.3565738335971105e-05,
+    "max_abs_normal_tangent_dot": 4.89170027614394e-05,
+    "passed": true
+  },
+  "finished": "2026-10-16T13:53:59-0700"
+}

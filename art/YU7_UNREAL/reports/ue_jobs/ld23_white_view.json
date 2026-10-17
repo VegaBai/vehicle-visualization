@@ -1,0 +1,15 @@
+{
+  "id": "ld23_white_view",
+  "started": "2026-10-17T01:49:47-0700",
+  "status": "success",
+  "result": {
+    "camera": "CAM_YU7_Beauty",
+    "variants": {
+      "Paint": "Pearl White",
+      "Glass": "Clear",
+      "WindowTrim": "Satin Metal",
+      "Lighting": "Beauty"
+    }
+  },
+  "finished": "2026-10-17T01:49:47-0700"
+}

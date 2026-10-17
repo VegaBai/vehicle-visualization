@@ -1,0 +1,11 @@
+{
+  "id": "ld09_refine",
+  "started": "2026-10-17T01:42:40-0700",
+  "status": "success",
+  "result": {
+    "trim_assignments": 22,
+    "glass_root_opacity": 0.0,
+    "thin_surface_coverage": 1.0
+  },
+  "finished": "2026-10-17T01:42:46-0700"
+}

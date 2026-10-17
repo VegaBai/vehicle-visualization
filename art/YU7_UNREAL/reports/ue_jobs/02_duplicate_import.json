@@ -1,0 +1,7 @@
+{
+  "id": "02_duplicate_import",
+  "started": "2026-10-16T13:43:41-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 50, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_duplicate_and_import.py\", line 14, in <module>\n    assert world.get_path_name() == target + '.Studio_YU7', world.get_path_name()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: /Game/Studios/Levels/Studio_White.Studio_White\n",
+  "finished": "2026-10-16T13:43:42-0700"
+}

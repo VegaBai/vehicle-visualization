@@ -1,0 +1,162 @@
+{
+  "version": "v3",
+  "camera": {
+    "location": [
+      -780,
+      880,
+      235
+    ],
+    "target": [
+      0,
+      0,
+      45
+    ],
+    "focal_length": 65
+  },
+  "lights": {
+    "YU7_Light_Key_Softbox": {
+      "location": [
+        80,
+        -450,
+        600
+      ],
+      "target": [
+        -80,
+        0,
+        90
+      ],
+      "source_width": 400,
+      "source_height": 220,
+      "intensity": 4000,
+      "temperature": 5800,
+      "specular_scale": 1
+    },
+    "YU7_Light_Side_Strip": {
+      "location": [
+        20,
+        470,
+        300
+      ],
+      "target": [
+        0,
+        0,
+        95
+      ],
+      "source_width": 620,
+      "source_height": 65,
+      "intensity": 32000,
+      "temperature": 6000,
+      "specular_scale": 1
+    },
+    "YU7_Light_Rear_Rim": {
+      "location": [
+        430,
+        200,
+        320
+      ],
+      "target": [
+        140,
+        0,
+        90
+      ],
+      "source_width": 240,
+      "source_height": 120,
+      "intensity": 5000,
+      "temperature": 6500,
+      "specular_scale": 1
+    },
+    "YU7_Light_Front_Fill": {
+      "location": [
+        -600,
+        420,
+        200
+      ],
+      "target": [
+        -160,
+        0,
+        70
+      ],
+      "source_width": 450,
+      "source_height": 300,
+      "intensity": 52000,
+      "temperature": 5600,
+      "specular_scale": 0.15
+    },
+    "YU7_Light_Roof_Ribbon": {
+      "location": [
+        100,
+        -60,
+        650
+      ],
+      "target": [
+        0,
+        0,
+        80
+      ],
+      "source_width": 500,
+      "source_height": 45,
+      "intensity": 7000,
+      "temperature": 6000,
+      "specular_scale": 1
+    },
+    "YU7_Light_Backdrop_Wash": {
+      "intensity": 38000,
+      "specular_scale": 0.4
+    },
+    "YU7_Hero_WheelFill": {
+      "location": [
+        0,
+        500,
+        95
+      ],
+      "target": [
+        0,
+        0,
+        45
+      ],
+      "source_width": 650,
+      "source_height": 180,
+      "intensity": 24000,
+      "temperature": 6000,
+      "specular_scale": 0.2
+    }
+  },
+  "materials": {
+    "MI_Hero_MineralTeal": {
+      "PigmentColor": [
+        0.029,
+        0.112,
+        0.12
+      ],
+      "Metallic": 0.32,
+      "BaseRoughness": 0.32,
+      "CoatRoughness": 0.095,
+      "ColorFlop": 0.12
+    },
+    "MI_Hero_GlassClear": {
+      "TransmissionTint": [
+        0.87,
+        0.92,
+        0.91
+      ],
+      "Roughness": 0.025,
+      "Specular": 0.4
+    },
+    "MI_Hero_Studio": {
+      "Color": [
+        0.13,
+        0.15,
+        0.18
+      ],
+      "Roughness": 0.56
+    }
+  },
+  "post": {
+    "auto_exposure_bias": 1.0,
+    "bloom_intensity": 0.08,
+    "vignette_intensity": 0.1,
+    "lumen_scene_lighting_quality": 4.0,
+    "lumen_final_gather_quality": 6.0,
+    "lumen_reflection_quality": 4.0
+  }
+}

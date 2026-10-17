@@ -1,0 +1,82 @@
+{
+  "Content\\YU7\\Lookdev\\Blueprints\\BP_YU7_StudioLighting.uasset": {
+    "bytes": 32178,
+    "sha256": "4773874c37040825fef77bf490dff0f5fc3eb8242f7d70d690b19fe20f998d5b"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Detail_Charcoal.uasset": {
+    "bytes": 8866,
+    "sha256": "4c091299b3600b92294751243b0a5450dbdae2e7e5298535b775cb5346129c93"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Clear.uasset": {
+    "bytes": 8476,
+    "sha256": "548aa6e5cc09b837b5e3cce7cbd6a6269c7904654b226ce5df301b7bba6adf06"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Lens.uasset": {
+    "bytes": 7521,
+    "sha256": "66ce9050c8b14821af0df0b46f5c9c2379822302f66d4fc11a5d6540f4a90db4"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Roof.uasset": {
+    "bytes": 7521,
+    "sha256": "05fba18271dc91098c1a2b0943ffcbf9ea0452f040030657abf2fdc0d79acb8f"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Smoked.uasset": {
+    "bytes": 7533,
+    "sha256": "c62818e9412c67bc035f9bfdf2675c22b0f9b52a10a8dcf7c6e2847ea607a4ec"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Paint_Graphite.uasset": {
+    "bytes": 10665,
+    "sha256": "4544769a215eb951b00047d7fea12b8876d2447b37f9eddf8643adf402a539f3"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Paint_MineralTeal.uasset": {
+    "bytes": 10578,
+    "sha256": "c6ac182aba01cafc8c85c959e910b4942b2b2f98ab99686a982d966c5b06e0d7"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Paint_PearlWhite.uasset": {
+    "bytes": 10151,
+    "sha256": "70f61149d6a7f127d4478d1a485fd987b83d67ce75fcde7db8aad5384dcf91f4"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Studio_CoolGrey.uasset": {
+    "bytes": 8246,
+    "sha256": "c5a4c72abe3647632c8186e7b568c7c75a948f9aefdb7662ea0109a20ea33854"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Trim_Obsidian.uasset": {
+    "bytes": 11606,
+    "sha256": "305d34c36a9fdacaf66c77050e77ec9f56c571b753941dc9ceee7f3dc3c4d909"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\MI_Trim_SatinMetal.uasset": {
+    "bytes": 13011,
+    "sha256": "fefe269aa1ce610d196e91e45bff41f6164063fa018621889d6e5f41b70e0d2e"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\M_StudioSurface.uasset": {
+    "bytes": 10506,
+    "sha256": "b564c1c0e0d8604c84e5cca5eb10065bc9bd9a580988aa512046a4dca7d866d9"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\M_YU7_AutomotivePaint.uasset": {
+    "bytes": 17429,
+    "sha256": "4bde54ab3bd7896e5f966a971d1cfd1535c46223b420e4f34ac65cbaab8f3cc8"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\M_YU7_ThinGlass.uasset": {
+    "bytes": 13972,
+    "sha256": "37df4d48504374f018e08becda8e2c0ebc35123374ac152c51301027f23b6bb0"
+  },
+  "Content\\YU7\\Lookdev\\Materials\\M_YU7_TrimMasked.uasset": {
+    "bytes": 15094,
+    "sha256": "e4fb8a60e46b00360df09f23458669593a67c39671833f34ba4944b6782269f0"
+  },
+  "Content\\YU7\\Lookdev\\Textures\\T_SoftboxDiffuser.uasset": {
+    "bytes": 24324,
+    "sha256": "71bcb5d7d43cd588309981195ceb83eee869aa8025b803f4a9d049c26e4d88eb"
+  },
+  "Content\\YU7\\Lookdev\\Variants\\LVS_YU7_Lookdev.uasset": {
+    "bytes": 219992,
+    "sha256": "ae2d89c56f6855f0bd5ef029a6717c78a9fc0157dae83f642311fb9ae7457a57"
+  },
+  "Content\\YU7\\Maps\\Studio_YU7.umap": {
+    "bytes": 252055,
+    "sha256": "cb52a4f3980c3aaf987351c924d3a50e36293d269f477d46cfd806f5ee5c0ee0"
+  },
+  "Content\\YU7\\Maps\\Studio_YU7_ImportBaseline.umap": {
+    "bytes": 173626,
+    "sha256": "0f105f435355af458c478d93843b49f98073f163f82b53fbbd091dd4e0962a7f"
+  }
+}

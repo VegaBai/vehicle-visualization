@@ -1,0 +1,11 @@
+{
+  "id": "hero19_reload",
+  "started": "2026-10-17T14:57:44-0700",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero.Studio_YU7_MineralHero",
+    "original_lvs_cache_cleared": "(True, Text(\"\"))",
+    "post_reload_audit_pending": true
+  },
+  "finished": "2026-10-17T14:57:45-0700"
+}

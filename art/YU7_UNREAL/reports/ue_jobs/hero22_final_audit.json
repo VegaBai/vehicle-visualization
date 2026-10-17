@@ -1,0 +1,134 @@
+{
+  "id": "hero22_final_audit",
+  "started": "2026-10-17T14:59:14-0700",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero.Studio_YU7_MineralHero",
+    "active_unique_car_meshes": 121,
+    "native_parts": 21,
+    "lights": [
+      {
+        "label": "YU7_Light_Key_Softbox",
+        "location": "<Struct 'Vector' (0x000002765FC0AD10) {x: 80.000000, y: -450.000000, z: 600.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002765FC0AD10) {pitch: -46.879128, yaw: 109.573126, roll: 0.000001}>",
+        "intensity": 4000.0,
+        "specular_scale": 1.0,
+        "width": 400.0,
+        "height": 220.0
+      },
+      {
+        "label": "YU7_Light_Side_Strip",
+        "location": "<Struct 'Vector' (0x000002765FC0AD10) {x: 20.000000, y: 470.000000, z: 300.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002765FC0AD10) {pitch: -23.546409, yaw: -92.436648, roll: -0.000000}>",
+        "intensity": 32000.0,
+        "specular_scale": 1.0,
+        "width": 620.0,
+        "height": 65.0
+      },
+      {
+        "label": "YU7_Light_Rear_Rim",
+        "location": "<Struct 'Vector' (0x000002765FC0B710) {x: 430.000000, y: 200.000000, z: 320.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002765FC0B710) {pitch: -33.140234, yaw: -145.407711, roll: -0.000001}>",
+        "intensity": 3000.0,
+        "specular_scale": 1.0,
+        "width": 240.0,
+        "height": 120.0
+      },
+      {
+        "label": "YU7_Light_Front_Fill",
+        "location": "<Struct 'Vector' (0x000002765FC0B350) {x: -600.000000, y: 420.000000, z: 200.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002765FC0B350) {pitch: -12.063691, yaw: -43.667780, roll: -0.000000}>",
+        "intensity": 65000.0,
+        "specular_scale": 0.15000000596046448,
+        "width": 450.0,
+        "height": 300.0
+      },
+      {
+        "label": "YU7_Light_Roof_Ribbon",
+        "location": "<Struct 'Vector' (0x000002778CA506A0) {x: 100.000000, y: -60.000000, z: 650.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002778CA506A0) {pitch: -78.437155, yaw: 149.036243, roll: 0.000001}>",
+        "intensity": 7000.0,
+        "specular_scale": 1.0,
+        "width": 500.0,
+        "height": 45.0
+      },
+      {
+        "label": "YU7_Light_Backdrop_Wash",
+        "location": "<Struct 'Vector' (0x000002778CA51280) {x: 360.000000, y: -180.000000, z: 340.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002778CA51280) {pitch: -17.704890, yaw: -61.389540, roll: -0.000000}>",
+        "intensity": 38000.0,
+        "specular_scale": 0.4000000059604645,
+        "width": 380.0,
+        "height": 300.0
+      },
+      {
+        "label": "YU7_Hero_WheelFill",
+        "location": "<Struct 'Vector' (0x000002778CA515F0) {x: 0.000000, y: 500.000000, z: 95.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002778CA515F0) {pitch: -5.710593, yaw: -90.000000, roll: -0.000000}>",
+        "intensity": 24000.0,
+        "specular_scale": 0.20000000298023224,
+        "width": 650.0,
+        "height": 180.0
+      },
+      {
+        "label": "YU7_Hero_TopFill",
+        "location": "<Struct 'Vector' (0x000002778CA523B0) {x: -100.000000, y: 150.000000, z: 700.000000}>",
+        "rotation": "<Struct 'Rotator' (0x000002778CA523B0) {pitch: -75.557919, yaw: -56.309932, roll: -0.000000}>",
+        "intensity": 85000.0,
+        "specular_scale": 0.0,
+        "width": 800.0,
+        "height": 600.0
+      }
+    ],
+    "camera_focal_length": 68.0,
+    "native_sequence": "/Game/YU7/Cinematics/Sequences/LS_YU7_MineralHero_5s.LS_YU7_MineralHero_5s",
+    "fps": 24,
+    "frames": 120,
+    "keys_per_transform_channel": [
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33,
+      33
+    ],
+    "presets": [
+      {
+        "asset": "/Game/YU7/Cinematics/RenderPresets/MRQ_YU7_MineralTeal_4K.MRQ_YU7_MineralTeal_4K",
+        "resolution": [
+          3840,
+          2160
+        ],
+        "frame_range": [
+          0,
+          1
+        ],
+        "spatial": 64,
+        "temporal": 1
+      },
+      {
+        "asset": "/Game/YU7/Cinematics/RenderPresets/MRQ_YU7_MineralTeal_Motion_4K.MRQ_YU7_MineralTeal_Motion_4K",
+        "resolution": [
+          3840,
+          2160
+        ],
+        "frame_range": [
+          0,
+          120
+        ],
+        "spatial": 1,
+        "temporal": 16
+      }
+    ],
+    "protected_files_unchanged": 223,
+    "dirty_maps": [],
+    "dirty_content": [],
+    "runtime_python_required": false,
+    "cpp_added": false,
+    "visible_project_credits": "pending later UI/final-film delivery; source attribution retained verbatim in delivery CREDITS.txt and MP4 metadata"
+  },
+  "finished": "2026-10-17T14:59:14-0700"
+}

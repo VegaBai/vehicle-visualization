@@ -1,0 +1,120 @@
+{
+  "trim_assignments": [
+    {
+      "component": "Part_007_carPlastic_BrilliantBlack_3_1",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_008_carWindowTrim_3_1_",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_009_carPlastic_BrilliantBlack_1_6_3_",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_010_carDuckTail",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    },
+    {
+      "component": "Part_018_carPlastic_BrilliantBlack_2_3",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_019_carWindowTrim_3",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_020_carPlastic_BrilliantBlack_1_6_1_",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_025_carPlastic_BrilliantBlack_1_6",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_030_carFrontBonnetNet",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    },
+    {
+      "component": "Part_033_carWindowTrim_1_1_",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_035_carPlastic_BrilliantGray_1",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_039_carWindowTrim_5",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_048_carHoodOutletWisp",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    },
+    {
+      "component": "Part_050_carPlastic_BrilliantBlack_2_1",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_054_carPlastic_BrilliantBlack_1_6_2_",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    },
+    {
+      "component": "Part_064_carHoodOutletPanel",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    },
+    {
+      "component": "Part_070_carRoofSpoiler",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    },
+    {
+      "component": "Part_078_carPlastic_BrilliantBlack_2",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_080_carWindowTrim_1",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_082_carPlastic_BrilliantBlack_1_1",
+      "slot": 0,
+      "new": "MI_Trim_Obsidian"
+    },
+    {
+      "component": "Part_085_carHeadLampPanel",
+      "slot": 0,
+      "new": "MI_Detail_Charcoal"
+    }
+  ],
+  "glass_fix": "Root Opacity=0, ThinTranslucent SurfaceCoverage=1; separate TransmissionTint",
+  "key_softbox": [
+    640,
+    170,
+    44000
+  ]
+}

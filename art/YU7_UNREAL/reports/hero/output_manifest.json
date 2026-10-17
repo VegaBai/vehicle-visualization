@@ -1,0 +1,42 @@
+{
+  "Content/YU7/Cinematics/Maps/Studio_YU7_MineralHero.umap": {
+    "bytes": 259035,
+    "sha256": "90da023369e8d83d14e899d7b40f26aaffd94e1daf86c901bc30feb611cc287a"
+  },
+  "Content/YU7/Cinematics/Materials/MI_Hero_GlassClear.uasset": {
+    "bytes": 7992,
+    "sha256": "7e4a17e7b926f501f33e5e3dea91fc31149e9a1869f02edac50adf4cb9f10d03"
+  },
+  "Content/YU7/Cinematics/Materials/MI_Hero_MineralTeal.uasset": {
+    "bytes": 10643,
+    "sha256": "707070584d75051c405e3fc8f66e80b3358f01f825b171a7e2b9de34f194863f"
+  },
+  "Content/YU7/Cinematics/Materials/MI_Hero_Studio.uasset": {
+    "bytes": 8181,
+    "sha256": "cd25f216ff1ae50b59b6f7d1fc17736e38f45d7c0b9171498c8660349051372b"
+  },
+  "Content/YU7/Cinematics/RenderPresets/MRQ_Hero_preview_v1.uasset": {
+    "bytes": 4665,
+    "sha256": "22dfbd4974b8cd10c65462682bac78303ff66821d30a8bb4eb9d2c57c4aaf603"
+  },
+  "Content/YU7/Cinematics/RenderPresets/MRQ_Hero_preview_v3.uasset": {
+    "bytes": 4665,
+    "sha256": "c21abd837eef4684651e570972b4a8955b69bed075a9e749dc4b14ff8e794128"
+  },
+  "Content/YU7/Cinematics/RenderPresets/MRQ_Hero_preview_v4.uasset": {
+    "bytes": 4718,
+    "sha256": "540245b05c4a9e5ba082f938effbd11603d54361f3b7af7454430ec7e06ed4c7"
+  },
+  "Content/YU7/Cinematics/RenderPresets/MRQ_YU7_MineralTeal_4K.uasset": {
+    "bytes": 4987,
+    "sha256": "bb7953213722058b0a8144ec02b1ad2ff0f37469b52648b9c83e4675551f9b94"
+  },
+  "Content/YU7/Cinematics/RenderPresets/MRQ_YU7_MineralTeal_Motion_4K.uasset": {
+    "bytes": 4813,
+    "sha256": "7ebbc7bb7c3e031fe47c43321cf03389cf3a895372eda5ed7f8193d2589045e2"
+  },
+  "Content/YU7/Cinematics/Sequences/LS_YU7_MineralHero_5s.uasset": {
+    "bytes": 20411,
+    "sha256": "177a64d389330b7d4097631f7d83a9554fbaac34523f4e7700466e5a243ffdab"
+  }
+}

@@ -1,0 +1,1642 @@
+{
+  "materials": [
+    {
+      "name": "M_YU7_ALUM",
+      "source_material": "ALUM",
+      "base_color_linear": [
+        0.55,
+        0.55,
+        0.55
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 1.0,
+      "roughness": 0.25,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Blaack_Paint",
+      "source_material": "Blaack_Paint",
+      "base_color_linear": [
+        0.012,
+        0.014,
+        0.017
+      ],
+      "base_texture": "carPaint_Shape1.png",
+      "base_texture_data": false,
+      "metallic": 0.15,
+      "roughness": 0.27,
+      "clear_coat": 1.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Black_Mat",
+      "source_material": "Black_Mat",
+      "base_color_linear": [
+        0.012,
+        0.012,
+        0.012
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.58,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_CAR_L",
+      "source_material": "CAR_L",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carLight_bulb_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.22,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Caliper_C1",
+      "source_material": "Caliper_C1",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carCaliper_1Shape.png",
+      "base_texture_data": false,
+      "metallic": 0.4,
+      "roughness": 0.32,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Caliper_C2",
+      "source_material": "Caliper_C2",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carCaliper_1Shape.png",
+      "base_texture_data": false,
+      "metallic": 0.4,
+      "roughness": 0.32,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_CarPaint",
+      "source_material": "CarPaint",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carPaint_Shape1.png",
+      "base_texture_data": false,
+      "metallic": 0.25,
+      "roughness": 0.28,
+      "clear_coat": 1.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_CarPaint__UVFallback",
+      "source_material": "CarPaint__UVFallback",
+      "base_color_linear": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.25,
+      "roughness": 0.28,
+      "clear_coat": 1.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": true
+    },
+    {
+      "name": "M_YU7_DISK",
+      "source_material": "DISK",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carBrakeDisc_2_MP.png",
+      "base_texture_data": false,
+      "metallic": 1.0,
+      "roughness": 0.38,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_D_Glass",
+      "source_material": "D_Glass",
+      "base_color_linear": [
+        0.92,
+        0.96,
+        1.0
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.055,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "TRANSLUCENT",
+      "opacity": 0.42,
+      "ior": 1.45,
+      "ue_glass_color_linear": [
+        0.08,
+        0.11,
+        0.14
+      ],
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Bottom",
+      "source_material": "INT_Bottom",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_Frame_Bottom_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Console",
+      "source_material": "INT_Console",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_CenterConsole_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Dash",
+      "source_material": "INT_Dash",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_Dashboard_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Frame_Top",
+      "source_material": "INT_Frame_Top",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_Frame_Top_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Roof",
+      "source_material": "INT_Roof",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_Roof_MT_Turquoise_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_SW",
+      "source_material": "INT_SW",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_SteeringWheel_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Seat_Back",
+      "source_material": "INT_Seat_Back",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_PassengerSeatBack_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Seat_Front",
+      "source_material": "INT_Seat_Front",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_PassengerSeatFront_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Trunk",
+      "source_material": "INT_Trunk",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_TrunkExternal_MT_Turquoise_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_INT_Trunk_E",
+      "source_material": "INT_Trunk_E",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_TrunkInternal_MT_Turquoise_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Int_DoorF",
+      "source_material": "Int_DoorF",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_DoorFront_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Int_DoorF__UVFallback",
+      "source_material": "Int_DoorF__UVFallback",
+      "base_color_linear": [
+        0.055,
+        0.025,
+        0.012
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": true
+    },
+    {
+      "name": "M_YU7_Int_Door_Back",
+      "source_material": "Int_Door_Back",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carInternal_DoorBack_MT_OrangeMinium_MP.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_LIGHT_CHROME_SH",
+      "source_material": "LIGHT_CHROME_SH",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carLightShape.png",
+      "base_texture_data": false,
+      "metallic": 0.95,
+      "roughness": 0.18,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "MASKED",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_LIGHT_PLASTIC_SH",
+      "source_material": "LIGHT_PLASTIC_SH",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carLightShape.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.24,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "MASKED",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Light_Glass",
+      "source_material": "Light_Glass",
+      "base_color_linear": [
+        0.92,
+        0.96,
+        1.0
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.055,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "TRANSLUCENT",
+      "opacity": 0.12,
+      "ior": 1.45,
+      "ue_glass_color_linear": [
+        0.08,
+        0.11,
+        0.14
+      ],
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Metal_Mat",
+      "source_material": "Metal_Mat",
+      "base_color_linear": [
+        0.055,
+        0.055,
+        0.055
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.8,
+      "roughness": 0.45,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Mirrors",
+      "source_material": "Mirrors",
+      "base_color_linear": [
+        0.85,
+        0.85,
+        0.85
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 1.0,
+      "roughness": 0.045,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Plastic_SH",
+      "source_material": "Plastic_SH",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carPlastic_BrilliantBlackShape.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.26,
+      "clear_coat": 0.35,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "MASKED",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_RIM_C2",
+      "source_material": "RIM_C2",
+      "base_color_linear": [
+        0.3,
+        0.32,
+        0.34
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 1.0,
+      "roughness": 0.26,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Windows",
+      "source_material": "Windows",
+      "base_color_linear": [
+        0.92,
+        0.96,
+        1.0
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.055,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "TRANSLUCENT",
+      "opacity": 0.25,
+      "ior": 1.45,
+      "ue_glass_color_linear": [
+        0.08,
+        0.11,
+        0.14
+      ],
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Yu7_RIM_C1",
+      "source_material": "Yu7:RIM_C1",
+      "base_color_linear": [
+        0.018,
+        0.02,
+        0.025
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 1.0,
+      "roughness": 0.26,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_Yu7_lambert272",
+      "source_material": "Yu7:lambert272",
+      "base_color_linear": [
+        0.04895104840397835,
+        0.04895104840397835,
+        0.04895104840397835
+      ],
+      "base_texture": null,
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.5,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_dark_Gray_Map",
+      "source_material": "dark_Gray_Map",
+      "base_color_linear": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "base_texture": "carHoodOutletPanelShape.png",
+      "base_texture_data": false,
+      "metallic": 0.0,
+      "roughness": 0.55,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": null,
+      "blend_mode": "MASKED",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    },
+    {
+      "name": "M_YU7_tyre_3",
+      "source_material": "tyre_3",
+      "base_color_linear": [
+        0.024,
+        0.026,
+        0.028
+      ],
+      "base_texture": "carTyre_02_ao.png",
+      "base_texture_data": true,
+      "metallic": 0.0,
+      "roughness": 0.65,
+      "clear_coat": 0.0,
+      "clear_coat_roughness": 0.12,
+      "normal_texture_dx": "T_YU7_Tyre_Normal_DX.png",
+      "blend_mode": "OPAQUE",
+      "opacity": 1.0,
+      "ior": 1.5,
+      "ue_glass_color_linear": null,
+      "emission_strength": 0,
+      "uv_fallback": false
+    }
+  ],
+  "meshes": [
+    {
+      "mesh": "SM_YU7_001_carGlass_front_1",
+      "source": "Yu7:carGlass_front_1_carGlass_front_1_pasted__Car glass1",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_002_carLight_backbulb",
+      "source": "Yu7:carLight_backbulb_carLight_backbulb_blinn25",
+      "material_slots": [
+        "M_YU7_CAR_L"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_003_carLight_bulb_2",
+      "source": "Yu7:carLight_bulb_2_carLight_bulb_2_blinn25",
+      "material_slots": [
+        "M_YU7_CAR_L"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_004_carLightPlastic_MatteBlack_2",
+      "source": "Yu7:carLightPlastic_MatteBlack_2_carLightPlastic_MatteB_20374b1",
+      "material_slots": [
+        "M_YU7_LIGHT_CHROME_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_005_carBonnetLogoBase_body",
+      "source": "Yu7:carBonnetLogoBase_body_carBonnetLogoBase_body_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_006_carPaint_2",
+      "source": "Yu7:carPaint_2_carPaint_2_pasted__blinn6",
+      "material_slots": [
+        "M_YU7_Int_DoorF__UVFallback",
+        "M_YU7_CarPaint__UVFallback"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_007_carPlastic_BrilliantBlack_3_1",
+      "source": "Yu7:carPlastic_BrilliantBlack_3_1_carPlastic_BrilliantB_e13a59f",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_008_carWindowTrim_3_1_",
+      "source": "Yu7:carWindowTrim_3_1__carWindowTrim_3_001_Material #51",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_",
+      "source": "Yu7:carPlastic_BrilliantBlack_1_6_3__carPlastic_Brillia_7fb7721",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_010_carDuckTail",
+      "source": "Yu7:carDuckTail_carDuckTail_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_011_carLightGlass_Back_1",
+      "source": "Yu7:carLightGlass_Back_1_carLightGlass_Back_1_Car glass2",
+      "material_slots": [
+        "M_YU7_Light_Glass"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_012_carXiaoMi_3_yu7",
+      "source": "Yu7:carXiaoMi_3_yu7_carXiaoMi_3_yu7_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_013_carPlastic_BrilliantBlack_3_2",
+      "source": "Yu7:carPlastic_BrilliantBlack_3_2_carPlastic_BrilliantB_674781b",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_014_carBonnetLogoFont_body",
+      "source": "Yu7:carBonnetLogoFont_body_carBonnetLogoFont_body_lambert258",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_015_carMirror_bottom_2",
+      "source": "Yu7:carMirror_bottom_2_carMirror_bottom_2_lambert266_001",
+      "material_slots": [
+        "M_YU7_Blaack_Paint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_016_carLight_bulb_1",
+      "source": "Yu7:carLight_bulb_1_carLight_bulb_1_blinn25",
+      "material_slots": [
+        "M_YU7_CAR_L"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_017_carPlastic_MatteBlack_2",
+      "source": "Yu7:carPlastic_MatteBlack_2_carPlastic_MatteBlack_2_lambert225",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_018_carPlastic_BrilliantBlack_2_3",
+      "source": "Yu7:carPlastic_BrilliantBlack_2_3_carPlastic_BrilliantB_ff7a3de",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_019_carWindowTrim_3",
+      "source": "Yu7:carWindowTrim_3_carWindowTrim_3_Material #51",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_",
+      "source": "Yu7:carPlastic_BrilliantBlack_1_6_1__carPlastic_Brillia_a2a033b",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_021_carInternal_PassengerSeatFront",
+      "source": "Yu7:carInternal_PassengerSeatFront_carInternal_Passenge_110ce00",
+      "material_slots": [
+        "M_YU7_INT_Seat_Front"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_022_carLightGlass_Front",
+      "source": "Yu7:carLightGlass_Front_carLightGlass_Front_pasted__pas_8222b8b",
+      "material_slots": [
+        "M_YU7_Light_Glass"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_023_carXiaoMi_3",
+      "source": "Yu7:carXiaoMi_3_carXiaoMi_3_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_024_carPlate",
+      "source": "Yu7:carPlate_carPlate_pasted__pasted__pasted__blinn15",
+      "material_slots": [
+        "M_YU7_CAR_L"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_025_carPlastic_BrilliantBlack_1_6",
+      "source": "Yu7:carPlastic_BrilliantBlack_1_6_carPlastic_BrilliantB_602d4d5",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_026_carGlass_front_2",
+      "source": "Yu7:carGlass_front_2_carGlass_front_2_pasted__pasted__p_82ea34c",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_027_carLightPlastic_BrilliantBlack_2",
+      "source": "Yu7:carLightPlastic_BrilliantBlack_2_carLightPlastic_Br_3011283",
+      "material_slots": [
+        "M_YU7_LIGHT_PLASTIC_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_028_carPaint_10",
+      "source": "Yu7:carPaint_10_carPaint_10_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_029_carInternal_TrunkInternal",
+      "source": "Yu7:carInternal_TrunkInternal_carInternal_TrunkInternal_cc73a2f",
+      "material_slots": [
+        "M_YU7_INT_Trunk_E"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_030_carFrontBonnetNet",
+      "source": "Yu7:carFrontBonnetNet_carFrontBonnetNet_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_031_carRearviewMirror_2",
+      "source": "Yu7:carRearviewMirror_2_carRearviewMirror_2_pasted__pas_738fae6",
+      "material_slots": [
+        "M_YU7_Mirrors"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_032_carWheelLogoBase_ScuffPlate_Font",
+      "source": "Yu7:carWheelLogoBase_ScuffPlate_Font_carWheelLogoBase_S_a7e7ccc",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_033_carWindowTrim_1_1_",
+      "source": "Yu7:carWindowTrim_1_1__carWindowTrim_1_001_Material #51",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_034_carLight_bulb_3",
+      "source": "Yu7:carLight_bulb_3_carLight_bulb_3_blinn25",
+      "material_slots": [
+        "M_YU7_CAR_L"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_035_carPlastic_BrilliantGray_1",
+      "source": "Yu7:carPlastic_BrilliantGray_1_carPlastic_BrilliantGray_2763b7a",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_036_carInternal_DoorBack_1_",
+      "source": "Yu7:carInternal_DoorBack_1__carInternal_DoorBack_001_pa_d256030",
+      "material_slots": [
+        "M_YU7_Int_Door_Back"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_037_carInternal_CenterConsole_2",
+      "source": "Yu7:carInternal_CenterConsole_2_carInternal_CenterConso_00bd52e",
+      "material_slots": [
+        "M_YU7_INT_SW"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_038_carPaint_4_1_",
+      "source": "Yu7:carPaint_4_1__carPaint_4_001_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_039_carWindowTrim_5",
+      "source": "Yu7:carWindowTrim_5_carWindowTrim_5_Material #51",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_040_carPaint_2_1_",
+      "source": "Yu7:carPaint_2_1__carPaint_2_001_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_041_carPlastic_BrilliantBlack_3_3",
+      "source": "Yu7:carPlastic_BrilliantBlack_3_3_carPlastic_BrilliantB_4a28a01",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_042_carInternal_SteeringWheel_Bottom",
+      "source": "Yu7:carInternal_SteeringWheel_Bottom_carInternal_Steeri_fd4830e",
+      "material_slots": [
+        "M_YU7_Int_DoorF"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_043_carInternal_TrunkExternal",
+      "source": "Yu7:carInternal_TrunkExternal_carInternal_TrunkExternal_9810f0b",
+      "material_slots": [
+        "M_YU7_INT_Trunk"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_044_carInternal_Roof",
+      "source": "Yu7:carInternal_Roof_carInternal_Roof_pasted__blinn6",
+      "material_slots": [
+        "M_YU7_INT_Roof"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_045_carPaint_13",
+      "source": "Yu7:carPaint_13_carPaint_13_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_046_carPlastic_MatteBlack_1_1",
+      "source": "Yu7:carPlastic_MatteBlack_1_1_carPlastic_MatteBlack_1_1_e2a2770",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_047_carGlass_front_2_Side_2_1_",
+      "source": "Yu7:carGlass_front_2_Side_2_1__carGlass_front_2_Side_2__bf038aa",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_048_carHoodOutletWisp",
+      "source": "Yu7:carHoodOutletWisp_carHoodOutletWisp_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_049_carGlass_back_2_Side",
+      "source": "Yu7:carGlass_back_2_Side_carGlass_back_2_Side_pasted__C_e17256d",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_050_carPlastic_BrilliantBlack_2_1",
+      "source": "Yu7:carPlastic_BrilliantBlack_2_1_carPlastic_BrilliantB_b79d99c",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_051_carLightPlastic_MatteBlack",
+      "source": "Yu7:carLightPlastic_MatteBlack_carLightPlastic_MatteBla_5472d3a",
+      "material_slots": [
+        "M_YU7_Metal_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_052_carInternal_Dashboard",
+      "source": "Yu7:carInternal_Dashboard_carInternal_Dashboard_pasted__8567e1c",
+      "material_slots": [
+        "M_YU7_INT_Dash"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_053_carInternal_DoorFront",
+      "source": "Yu7:carInternal_DoorFront_carInternal_DoorFront_pasted__blinn6",
+      "material_slots": [
+        "M_YU7_Int_DoorF"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_",
+      "source": "Yu7:carPlastic_BrilliantBlack_1_6_2__carPlastic_Brillia_381c6c4",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_055_carRoof_yu7",
+      "source": "Yu7:carRoof_yu7_carRoof_yu7_pasted__Car glass",
+      "material_slots": [
+        "M_YU7_D_Glass"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_056_carInternal_Frame_Top_2",
+      "source": "Yu7:carInternal_Frame_Top_2_carInternal_Frame_Top_2_pas_25193d3",
+      "material_slots": [
+        "M_YU7_INT_Frame_Top"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_057_carGlass_back_2_Side_1_1_",
+      "source": "Yu7:carGlass_back_2_Side_1_1__carGlass_back_2_Side_1_00_bf951ca",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_058_carPaint_4",
+      "source": "Yu7:carPaint_4_carPaint_4_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_059_carMirror_top_2",
+      "source": "Yu7:carMirror_top_2_carMirror_top_2_lambert266",
+      "material_slots": [
+        "M_YU7_Blaack_Paint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_060_carPaint_1",
+      "source": "Yu7:carPaint_1_carPaint_1_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_061_carInternal_SteeringWheel_Top_4",
+      "source": "Yu7:carInternal_SteeringWheel_Top_4_carInternal_Steerin_add9616",
+      "material_slots": [
+        "M_YU7_INT_SW"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "source": "Yu7:scuffPlate_Base_scuffPlate_Base_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_063_carInternal_CenterConsole_1",
+      "source": "Yu7:carInternal_CenterConsole_1_carInternal_CenterConso_7dba9f6",
+      "material_slots": [
+        "M_YU7_INT_Console"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_064_carHoodOutletPanel",
+      "source": "Yu7:carHoodOutletPanel_carHoodOutletPanel_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_065_carInternal_DoorFront_1_",
+      "source": "Yu7:carInternal_DoorFront_1__carInternal_DoorFront_001__9e82f45",
+      "material_slots": [
+        "M_YU7_Int_DoorF"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_066_carMirror_top_2_1_",
+      "source": "Yu7:carMirror_top_2_1__carMirror_top_2_001_lambert266",
+      "material_slots": [
+        "M_YU7_Blaack_Paint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_067_carInternal_Frame_Bottom",
+      "source": "Yu7:carInternal_Frame_Bottom_carInternal_Frame_Bottom_p_c956721",
+      "material_slots": [
+        "M_YU7_INT_Bottom",
+        "M_YU7_Mirrors"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_068_carPaint_9",
+      "source": "Yu7:carPaint_9_carPaint_9_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_069_carPlastic_MatteBlack_2_1",
+      "source": "Yu7:carPlastic_MatteBlack_2_1_carPlastic_MatteBlack_2_1_5cc8952",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_070_carRoofSpoiler",
+      "source": "Yu7:carRoofSpoiler_carRoofSpoiler_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_071_carMirror_bottom_2_1_",
+      "source": "Yu7:carMirror_bottom_2_1__carMirror_bottom_2_001_lambert266_001",
+      "material_slots": [
+        "M_YU7_Blaack_Paint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_072_carInternal_DoorBack",
+      "source": "Yu7:carInternal_DoorBack_carInternal_DoorBack_pasted__blinn6",
+      "material_slots": [
+        "M_YU7_Int_Door_Back"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_073_carRearviewMirror_3",
+      "source": "Yu7:carRearviewMirror_3_carRearviewMirror_3_pasted__pas_ead6317",
+      "material_slots": [
+        "M_YU7_Mirrors"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_074_carGlass_back_2_Side_1",
+      "source": "Yu7:carGlass_back_2_Side_1_carGlass_back_2_Side_1_paste_abbf3d7",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_075_carGlass_front_2_Side_2",
+      "source": "Yu7:carGlass_front_2_Side_2_carGlass_front_2_Side_2_pas_f4d2435",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_076_carGlass_back_1",
+      "source": "Yu7:carGlass_back_1_carGlass_back_1_Car glass6",
+      "material_slots": [
+        "M_YU7_Windows"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_077_carLightPlastic_BrilliantBlack_3",
+      "source": "Yu7:carLightPlastic_BrilliantBlack_3_carLightPlastic_Br_94225d0",
+      "material_slots": [
+        "M_YU7_LIGHT_PLASTIC_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_078_carPlastic_BrilliantBlack_2",
+      "source": "Yu7:carPlastic_BrilliantBlack_2_carPlastic_BrilliantBla_05a5d5a",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_079_carPaint_8",
+      "source": "Yu7:carPaint_8_carPaint_8_lambert266",
+      "material_slots": [
+        "M_YU7_CarPaint"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_080_carWindowTrim_1",
+      "source": "Yu7:carWindowTrim_1_carWindowTrim_1_Material #51",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_081_carHeaterStrip",
+      "source": "Yu7:carHeaterStrip_carHeaterStrip_lambert2",
+      "material_slots": [
+        "M_YU7_Yu7_lambert272"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_082_carPlastic_BrilliantBlack_1_1",
+      "source": "Yu7:carPlastic_BrilliantBlack_1_1_carPlastic_BrilliantB_3bae8b0",
+      "material_slots": [
+        "M_YU7_Plastic_SH"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_083_carLightGlass_Back_2",
+      "source": "Yu7:carLightGlass_Back_2_carLightGlass_Back_2_pasted__C_8e87ca0",
+      "material_slots": [
+        "M_YU7_Light_Glass"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_084_carInternal_PassengerSeatBack",
+      "source": "Yu7:carInternal_PassengerSeatBack_carInternal_Passenger_5d1682b",
+      "material_slots": [
+        "M_YU7_INT_Seat_Back"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_085_carHeadLampPanel",
+      "source": "Yu7:carHeadLampPanel_carHeadLampPanel_lambert277",
+      "material_slots": [
+        "M_YU7_dark_Gray_Map"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_086_carBackDrop",
+      "source": "Yu7:carBackDrop_carBackDrop_pasted__blinn6",
+      "material_slots": [
+        "M_YU7_INT_Roof"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_087_carXiaoMi_1",
+      "source": "Yu7:carXiaoMi_1_carXiaoMi_1_lambert279",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_088_carInternal_SteeringWheel_Top_2",
+      "source": "Yu7:carInternal_SteeringWheel_Top_2_carInternal_Steerin_8a91a66",
+      "material_slots": [
+        "M_YU7_INT_SW"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_089_carPlastic_MatteBlack_trunk_9",
+      "source": "Yu7:carPlastic_MatteBlack_trunk_9_carPlastic_MatteBlack_b76a109",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_090_carWheelLogoFont_ACAL09",
+      "source": "Yu7:carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert258",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_091_carTyre_02",
+      "source": "Yu7:carTyre_02_carTyre_02_aiAmbientOcclusion4",
+      "material_slots": [
+        "M_YU7_tyre_3"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_092_carWheelLogoBase_ACAL09",
+      "source": "Yu7:carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_093_carWheelAirVent_ACAL09",
+      "source": "Yu7:carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_094_carWheelHub_ACAL09",
+      "source": "Yu7:carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__paste_0660ce0",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_095_carWheelRim_ACAL09",
+      "source": "Yu7:carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__paste_e4531aa",
+      "material_slots": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_096_carWheelLogoFont_ACAL09",
+      "source": "carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert258",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_097_carTyre_02",
+      "source": "carTyre_02_carTyre_02_aiAmbientOcclusion4",
+      "material_slots": [
+        "M_YU7_tyre_3"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_098_carWheelLogoBase_ACAL09",
+      "source": "carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_099_carWheelAirVent_ACAL09",
+      "source": "carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert258",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_100_carWheelHub_ACAL09",
+      "source": "carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__pasted__Zinc$7",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_101_carWheelRim_ACAL09",
+      "source": "carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__pasted__Zinc$6",
+      "material_slots": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_102_carWheelLogoFont_ACAL09",
+      "source": "carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert259",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_103_carTyre_02",
+      "source": "carTyre_02_carTyre_02_aiAmbientOcclusion5",
+      "material_slots": [
+        "M_YU7_tyre_3"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_104_carWheelLogoBase_ACAL09",
+      "source": "carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert259",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_105_carWheelAirVent_ACAL09",
+      "source": "carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert259",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_106_carWheelHub_ACAL09",
+      "source": "carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__pasted__Zinc$8",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_107_carWheelRim_ACAL09",
+      "source": "carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__pasted__Zinc$7",
+      "material_slots": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_108_carWheelLogoFont_ACAL09",
+      "source": "carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert260",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_109_carTyre_02",
+      "source": "carTyre_02_carTyre_02_aiAmbientOcclusion6",
+      "material_slots": [
+        "M_YU7_tyre_3"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_110_carWheelLogoBase_ACAL09",
+      "source": "carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert260",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_111_carWheelAirVent_ACAL09",
+      "source": "carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert260",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_112_carWheelHub_ACAL09",
+      "source": "carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__pasted__Zinc$9",
+      "material_slots": [
+        "M_YU7_ALUM"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_113_carWheelRim_ACAL09",
+      "source": "carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__pasted__Zinc$8",
+      "material_slots": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_114_carBrakeDisc_Back_2",
+      "source": "Yu7:carBrakeDisc_Back_2_carBrakeDisc_Back_2_pasted__pas_2f3d411",
+      "material_slots": [
+        "M_YU7_DISK"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_115_carBrakeDisc_Back",
+      "source": "Yu7:carBrakeDisc_Back_carBrakeDisc_Back_lambert274",
+      "material_slots": [
+        "M_YU7_DISK"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_116_carCaliper_MainBack",
+      "source": "Yu7:carCaliper_MainBack_carCaliper_MainBack_pasted__pas_10e4aa3",
+      "material_slots": [
+        "M_YU7_Caliper_C2",
+        "M_YU7_Caliper_C1"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_117_carCaliper_Screw_1",
+      "source": "Yu7:carCaliper_Screw_1_carCaliper_Screw_1_pasted__paste_17cf3c9",
+      "material_slots": [
+        "M_YU7_Caliper_C1"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_118_carBrakeDisc_Front_2",
+      "source": "Yu7:carBrakeDisc_Front_2_carBrakeDisc_Front_2_pasted__p_2f883d0",
+      "material_slots": [
+        "M_YU7_DISK"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_119_carBrakeDisc_Front",
+      "source": "Yu7:carBrakeDisc_Front_carBrakeDisc_Front_lambert274",
+      "material_slots": [
+        "M_YU7_DISK"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_120_carCaliper_MainFront_1",
+      "source": "Yu7:carCaliper_MainFront_1_carCaliper_MainFront_1_paste_bf07cbe",
+      "material_slots": [
+        "M_YU7_Caliper_C2"
+      ]
+    },
+    {
+      "mesh": "SM_YU7_121_carCaliper_PartFront_1",
+      "source": "Yu7:carCaliper_PartFront_1_carCaliper_PartFront_1_paste_b339050",
+      "material_slots": [
+        "M_YU7_Black_Mat"
+      ]
+    }
+  ]
+}

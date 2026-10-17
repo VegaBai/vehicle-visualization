@@ -1,0 +1,566 @@
+{
+  "asset": "/Game/YU7/Lookdev/Variants/LVS_YU7_Lookdev.LVS_YU7_Lookdev",
+  "groups": {
+    "Paint": {
+      "Mineral Teal": [
+        {
+          "actor": "YU7_VP_006_carPaint_2",
+          "property": "Static Mesh Component / Material[1]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_028_carPaint_10",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_038_carPaint_4_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_040_carPaint_2_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_045_carPaint_13",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_058_carPaint_4",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_060_carPaint_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_068_carPaint_9",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        },
+        {
+          "actor": "YU7_VP_079_carPaint_8",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+        }
+      ],
+      "Pearl White": [
+        {
+          "actor": "YU7_VP_006_carPaint_2",
+          "property": "Static Mesh Component / Material[1]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_028_carPaint_10",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_038_carPaint_4_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_040_carPaint_2_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_045_carPaint_13",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_058_carPaint_4",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_060_carPaint_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_068_carPaint_9",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        },
+        {
+          "actor": "YU7_VP_079_carPaint_8",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite"
+        }
+      ],
+      "Graphite": [
+        {
+          "actor": "YU7_VP_006_carPaint_2",
+          "property": "Static Mesh Component / Material[1]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_028_carPaint_10",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_038_carPaint_4_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_040_carPaint_2_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_045_carPaint_13",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_058_carPaint_4",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_060_carPaint_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_068_carPaint_9",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        },
+        {
+          "actor": "YU7_VP_079_carPaint_8",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite"
+        }
+      ]
+    },
+    "Glass": {
+      "Clear": [
+        {
+          "actor": "YU7_VP_001_carGlass_front_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        },
+        {
+          "actor": "YU7_VP_047_carGlass_front_2_Side_2_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        },
+        {
+          "actor": "YU7_VP_049_carGlass_back_2_Side",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        },
+        {
+          "actor": "YU7_VP_057_carGlass_back_2_Side_1_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        },
+        {
+          "actor": "YU7_VP_074_carGlass_back_2_Side_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        },
+        {
+          "actor": "YU7_VP_075_carGlass_front_2_Side_2",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        },
+        {
+          "actor": "YU7_VP_076_carGlass_back_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+        }
+      ],
+      "Smoked": [
+        {
+          "actor": "YU7_VP_001_carGlass_front_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        },
+        {
+          "actor": "YU7_VP_047_carGlass_front_2_Side_2_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        },
+        {
+          "actor": "YU7_VP_049_carGlass_back_2_Side",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        },
+        {
+          "actor": "YU7_VP_057_carGlass_back_2_Side_1_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        },
+        {
+          "actor": "YU7_VP_074_carGlass_back_2_Side_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        },
+        {
+          "actor": "YU7_VP_075_carGlass_front_2_Side_2",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        },
+        {
+          "actor": "YU7_VP_076_carGlass_back_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked"
+        }
+      ]
+    },
+    "WindowTrim": {
+      "Obsidian": [
+        {
+          "actor": "YU7_VP_008_carWindowTrim_3_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian"
+        },
+        {
+          "actor": "YU7_VP_019_carWindowTrim_3",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian"
+        },
+        {
+          "actor": "YU7_VP_033_carWindowTrim_1_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian"
+        },
+        {
+          "actor": "YU7_VP_039_carWindowTrim_5",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian"
+        },
+        {
+          "actor": "YU7_VP_080_carWindowTrim_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian"
+        }
+      ],
+      "Satin Metal": [
+        {
+          "actor": "YU7_VP_008_carWindowTrim_3_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal"
+        },
+        {
+          "actor": "YU7_VP_019_carWindowTrim_3",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal"
+        },
+        {
+          "actor": "YU7_VP_033_carWindowTrim_1_1_",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal"
+        },
+        {
+          "actor": "YU7_VP_039_carWindowTrim_5",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal"
+        },
+        {
+          "actor": "YU7_VP_080_carWindowTrim_1",
+          "property": "Static Mesh Component / Material[0]",
+          "value": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal"
+        }
+      ]
+    },
+    "Lighting": {
+      "Beauty": [
+        {
+          "actor": "YU7_Light_Key_Softbox",
+          "property": "Rect Light Component / Intensity",
+          "value": 44000.0
+        },
+        {
+          "actor": "YU7_Light_Side_Strip",
+          "property": "Rect Light Component / Intensity",
+          "value": 20000.0
+        },
+        {
+          "actor": "YU7_Light_Rear_Rim",
+          "property": "Rect Light Component / Intensity",
+          "value": 42000.0
+        },
+        {
+          "actor": "YU7_Light_Front_Fill",
+          "property": "Rect Light Component / Intensity",
+          "value": 16000.0
+        },
+        {
+          "actor": "YU7_Light_Roof_Ribbon",
+          "property": "Rect Light Component / Intensity",
+          "value": 10000.0
+        },
+        {
+          "actor": "YU7_Light_Backdrop_Wash",
+          "property": "Rect Light Component / Intensity",
+          "value": 46000.0
+        }
+      ],
+      "Sculpted Contrast": [
+        {
+          "actor": "YU7_Light_Key_Softbox",
+          "property": "Rect Light Component / Intensity",
+          "value": 33000.0
+        },
+        {
+          "actor": "YU7_Light_Side_Strip",
+          "property": "Rect Light Component / Intensity",
+          "value": 10000.0
+        },
+        {
+          "actor": "YU7_Light_Rear_Rim",
+          "property": "Rect Light Component / Intensity",
+          "value": 46200.0
+        },
+        {
+          "actor": "YU7_Light_Front_Fill",
+          "property": "Rect Light Component / Intensity",
+          "value": 6400.0
+        },
+        {
+          "actor": "YU7_Light_Roof_Ribbon",
+          "property": "Rect Light Component / Intensity",
+          "value": 5000.0
+        },
+        {
+          "actor": "YU7_Light_Backdrop_Wash",
+          "property": "Rect Light Component / Intensity",
+          "value": 27600.0
+        }
+      ]
+    }
+  },
+  "combination_tests": [
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    }
+  ],
+  "verified_combinations": 24,
+  "garbage_collection_before_test": true
+}

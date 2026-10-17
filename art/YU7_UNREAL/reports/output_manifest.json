@@ -1,0 +1,162 @@
+{
+  "CREDITS.txt": {
+    "bytes": 169,
+    "sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb"
+  },
+  "import_into_unreal.py": {
+    "bytes": 8891,
+    "sha256": "8c8e01129c494afa44fb7c18c90874afe974943c50c828f220941046a0bada31"
+  },
+  "materials.json": {
+    "bytes": 45398,
+    "sha256": "5070bc9a42f0b8d8f80232ea275d37abe42f49cf8cb1d8b22e8cce1981d9ebbd"
+  },
+  "README_UE.txt": {
+    "bytes": 5452,
+    "sha256": "114bb9fed3186fc8980b068697a97d55b984d82fa9db59b28d8f12ca64c25979"
+  },
+  "YU7_Prepared.blend": {
+    "bytes": 34448928,
+    "sha256": "603b100a79c82f7e39b748239d057e9906c048fbf39f7d8f97e4d0c9ecd3532f"
+  },
+  "YU7_Unreal.fbx": {
+    "bytes": 34873916,
+    "sha256": "991588c198227ee45229ea72afd7d94e527b322bf2b08b7d8ccd61d754099c2a"
+  },
+  "reports/export_settings.json": {
+    "bytes": 607,
+    "sha256": "e6f56f9e5f690149c82fe8e71a160993c96f4d94ac7e2605ca097a9d1de91841"
+  },
+  "reports/final_validation.json": {
+    "bytes": 163154,
+    "sha256": "94fd5874a8ffd2f66397a5d94428cce678d0412afa7d07eb0ca8bec8a8a24327"
+  },
+  "reports/geometry_audit.json": {
+    "bytes": 270036,
+    "sha256": "2f36e827c010dde3d2eedfaad3871e28093145e4a0b54cb816ecf397ed85e847"
+  },
+  "reports/geometry_repairs.json": {
+    "bytes": 35764,
+    "sha256": "391dc6fe49224f965ce91a864e88c2cb0c97b5ac14981a926d312c54bc930a6c"
+  },
+  "reports/import_audit.json": {
+    "bytes": 130748,
+    "sha256": "4d8782bf3d7acb6c7b377b6217968c00efe4e2596c0646c59c45ea2a92a5dec8"
+  },
+  "reports/preview_front.png": {
+    "bytes": 1205130,
+    "sha256": "7b536979099cfef3a451b35133cd1fc3ed3016b68547130f852e1019611396ba"
+  },
+  "reports/preview_rear.png": {
+    "bytes": 1200878,
+    "sha256": "bcad8906b19d2428549df491e6ee0f27fe6017612d5169332df7f3ea2e8eed5d"
+  },
+  "reports/source_manifest.json": {
+    "bytes": 3691,
+    "sha256": "0dcece0b0c2b3a32b29546375a86233b4760ba0ee0bcdeaf1a11aacec8019e34"
+  },
+  "reports/texture_manifest.json": {
+    "bytes": 5060,
+    "sha256": "b27afa8b1fb38fb6f511c2c00e9186d8bcf48293af731f464f08099f757dfe18"
+  },
+  "Textures/carBrakeDisc_2_MP.png": {
+    "bytes": 96151,
+    "sha256": "56a1f19d0b349688d97ebc1562cc1b49c7251a9c5b5b54e86a1609f90c5195ed"
+  },
+  "Textures/carCaliper_1Shape.png": {
+    "bytes": 584393,
+    "sha256": "f346797724e479883e775c509bf4b4471e11c7ced2f6583135b2983a751a43c3"
+  },
+  "Textures/carHoodOutletPanelShape.png": {
+    "bytes": 242892,
+    "sha256": "3250802c4c44f6be4e799e919b7850514f1092e8bace0fe3afdafae6bf0a9f7d"
+  },
+  "Textures/carInternal_CenterConsole_MT_OrangeMinium_MP.png": {
+    "bytes": 84909,
+    "sha256": "cf85af600e0d1d0b6895c88508e9bbe866c4756853631d8e7c17cffc8634196f"
+  },
+  "Textures/carInternal_Dashboard_MT_OrangeMinium_MP.png": {
+    "bytes": 90071,
+    "sha256": "054d94e40b98bd9f5277bb2ca70b01c166d9efafa63feed02d57ebdffb6efa4f"
+  },
+  "Textures/carInternal_DoorBack_MT_OrangeMinium_MP.png": {
+    "bytes": 255236,
+    "sha256": "2d75f28d1f0c9539d1e2c7349fb4aa3f6a3cf4a84cb0e7626bdbe2b8761cd31e"
+  },
+  "Textures/carInternal_DoorFront_MT_OrangeMinium_MP.png": {
+    "bytes": 104927,
+    "sha256": "9b317c40fa615caf5e42cd5f1a1b5fe4a1f13ad6c7b5eaf89389671d9a8588db"
+  },
+  "Textures/carInternal_Frame_Bottom_MT_OrangeMinium_MP.png": {
+    "bytes": 154399,
+    "sha256": "d155699add16c4ed67c51d79ca5e5808db6b234eab69c93d50f64057e70a0e98"
+  },
+  "Textures/carInternal_Frame_Top_MT_OrangeMinium_MP.png": {
+    "bytes": 29272,
+    "sha256": "a47c0970fa228a38c0174d46248a7385119f5a3988127cecc90a4fbc32cc5d13"
+  },
+  "Textures/carInternal_PassengerSeatBack_MT_OrangeMinium_MP.png": {
+    "bytes": 216683,
+    "sha256": "ae780d86c40222c2386e3a5b5ad66eab11580fcb9f3daeaf28c03cde47a9d525"
+  },
+  "Textures/carInternal_PassengerSeatFront_MT_OrangeMinium_MP.png": {
+    "bytes": 186656,
+    "sha256": "02a0d3b708d19c630883d163b82759e3209d39075d08334fe0625b91cb244a2b"
+  },
+  "Textures/carInternal_Roof_MT_Turquoise_MP.png": {
+    "bytes": 211146,
+    "sha256": "5f4289852deadeae84d7f9f04688e3d8881f99a5ef20f3c7e2504f36a6ac0cfb"
+  },
+  "Textures/carInternal_SteeringWheel_MT_OrangeMinium_MP.png": {
+    "bytes": 122452,
+    "sha256": "71ceea6a21df22b164011b0b080734557f48db69c07fab6cf4f020f4477bddfe"
+  },
+  "Textures/carInternal_TrunkExternal_MT_Turquoise_MP.png": {
+    "bytes": 1485980,
+    "sha256": "8cc5b7638e0459ba48dd251e86c75a554e313217b697109949dae224aa12677a"
+  },
+  "Textures/carInternal_TrunkInternal_MT_Turquoise_MP.png": {
+    "bytes": 962529,
+    "sha256": "590ab226b7ff3805aac622b7e59743a928c03243461d1816a80f48ac96131ddc"
+  },
+  "Textures/carLightShape.png": {
+    "bytes": 4023780,
+    "sha256": "f27dd79290dc518dc394b68b5b6c594b91177f1d7f3a6e4140fc3650dcf7d386"
+  },
+  "Textures/carLight_bulb_MP.png": {
+    "bytes": 783895,
+    "sha256": "17ea8b1b4101a0cfb2a06cc7e17f23cf12c34d60e479b7645ae1a777bd23956e"
+  },
+  "Textures/carPaint_Shape1.png": {
+    "bytes": 1560823,
+    "sha256": "ec563912fa45f9fe86a8b6abaa8617ad2f0473f97d5af64fe3fb7ab57dec6154"
+  },
+  "Textures/carPlastic_BrilliantBlackShape.png": {
+    "bytes": 807328,
+    "sha256": "6665b131a566969a3bad17772456c111f4427462ad1e1e80124961a44448410c"
+  },
+  "Textures/carPlastic_MatteBlackShape.png": {
+    "bytes": 1114137,
+    "sha256": "6339af7b9b27f3bca1597dd01e56eb629ee5de91d993606cecca25449364a1bc"
+  },
+  "Textures/carPlastic_MatteBlack_trunkShape.png": {
+    "bytes": 1750203,
+    "sha256": "ac67f5ad29c69fbd99202907fc370f983c73f4165075491f27013262b0514743"
+  },
+  "Textures/carTyre_02_245_bump.png": {
+    "bytes": 711680,
+    "sha256": "0570b81b28e7092ada9198f10a78cd3cac5a3621b34edb03231907131b0669b8"
+  },
+  "Textures/carTyre_02_ao.png": {
+    "bytes": 1589773,
+    "sha256": "8ff13fe391d05d3b6e248aa9ff656c0d04d8e6c359eed574c7fedd127cbef73d"
+  },
+  "Textures/T_YU7_Tyre_Normal_DX.png": {
+    "bytes": 853684,
+    "sha256": "f435266600b0c221a4849a597dbafcbf8bf538e3509d39360b2c1d63c9a1ed9e"
+  },
+  "Textures/T_YU7_Tyre_Normal_GL.png": {
+    "bytes": 850812,
+    "sha256": "98b127719b2128b73af15f8d54632505af760df9e1ec2080e42e0c7ae8777a4f"
+  }
+}

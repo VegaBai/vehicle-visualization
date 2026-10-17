@@ -1,0 +1,23 @@
+{
+  "filepath": "C:\\github2\\vehicle_visualization\\art\\YU7_UNREAL\\YU7_Unreal.fbx",
+  "use_selection": true,
+  "object_types": [
+    "MESH"
+  ],
+  "global_scale": 1.0,
+  "apply_unit_scale": true,
+  "apply_scale_options": "FBX_SCALE_ALL",
+  "axis_forward": "-Y",
+  "axis_up": "Z",
+  "use_space_transform": true,
+  "bake_space_transform": false,
+  "use_mesh_modifiers": true,
+  "mesh_smooth_type": "FACE",
+  "use_tspace": true,
+  "use_triangles": true,
+  "use_custom_props": true,
+  "add_leaf_bones": false,
+  "bake_anim": false,
+  "path_mode": "RELATIVE",
+  "embed_textures": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ld31_safe_reload",
+  "started": "2026-10-17T01:53:03-0700",
+  "status": "success",
+  "result": {
+    "reloaded_map": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+    "variant_asset_reload": "(True, Text(\"\"))",
+    "validation_pending": true
+  },
+  "finished": "2026-10-17T01:53:03-0700"
+}

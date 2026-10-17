@@ -1,0 +1,221 @@
+[
+  {
+    "source": "carBrakeDisc_2_MP.png",
+    "output": "carBrakeDisc_2_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carCaliper_1Shape.png",
+    "output": "carCaliper_1Shape.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carHoodOutletPanelShape.png",
+    "output": "carHoodOutletPanelShape.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_CenterConsole_MT_OrangeMinium_MP.png",
+    "output": "carInternal_CenterConsole_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_Dashboard_MT_OrangeMinium_MP.png",
+    "output": "carInternal_Dashboard_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_DoorBack_MT_OrangeMinium_MP.png",
+    "output": "carInternal_DoorBack_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_DoorFront_MT_OrangeMinium_MP.png",
+    "output": "carInternal_DoorFront_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_Frame_Bottom_MT_OrangeMinium_MP.png",
+    "output": "carInternal_Frame_Bottom_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_Frame_Top_MT_OrangeMinium_MP.png",
+    "output": "carInternal_Frame_Top_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_PassengerSeatBack_MT_OrangeMinium_MP.png",
+    "output": "carInternal_PassengerSeatBack_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_PassengerSeatFront_MT_OrangeMinium_MP.png",
+    "output": "carInternal_PassengerSeatFront_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_Roof_MT_Turquoise_MP.png",
+    "output": "carInternal_Roof_MT_Turquoise_MP.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_SteeringWheel_MT_OrangeMinium_MP.png",
+    "output": "carInternal_SteeringWheel_MT_OrangeMinium_MP.png",
+    "size": [
+      512,
+      512
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_TrunkExternal_MT_Turquoise_MP.png",
+    "output": "carInternal_TrunkExternal_MT_Turquoise_MP.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carInternal_TrunkInternal_MT_Turquoise_MP.png",
+    "output": "carInternal_TrunkInternal_MT_Turquoise_MP.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carLight_bulb_MP.png",
+    "output": "carLight_bulb_MP.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carLightShape.png",
+    "output": "carLightShape.png",
+    "size": [
+      4096,
+      4096
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carPaint_Shape1.png",
+    "output": "carPaint_Shape1.png",
+    "size": [
+      4096,
+      4096
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carPlastic_BrilliantBlackShape.png",
+    "output": "carPlastic_BrilliantBlackShape.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carPlastic_MatteBlack_trunkShape.webp",
+    "output": "carPlastic_MatteBlack_trunkShape.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "lossless format conversion"
+  },
+  {
+    "source": "carPlastic_MatteBlackShape.webp",
+    "output": "carPlastic_MatteBlackShape.png",
+    "size": [
+      2048,
+      2048
+    ],
+    "operation": "lossless format conversion"
+  },
+  {
+    "source": "carTyre_02_245_bump.png",
+    "output": "carTyre_02_245_bump.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carTyre_02_ao.png",
+    "output": "carTyre_02_ao.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "operation": "unchanged copy"
+  },
+  {
+    "source": "carTyre_02_245_bump.png",
+    "output": "T_YU7_Tyre_Normal_GL.png",
+    "operation": "height-gradient tangent normal, strength 3.0",
+    "convention": "OpenGL +Y"
+  },
+  {
+    "source": "carTyre_02_245_bump.png",
+    "output": "T_YU7_Tyre_Normal_DX.png",
+    "operation": "height-gradient tangent normal, strength 3.0",
+    "convention": "DirectX -Y"
+  }
+]

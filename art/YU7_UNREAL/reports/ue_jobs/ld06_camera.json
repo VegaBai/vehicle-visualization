@@ -1,0 +1,7 @@
+{
+  "id": "ld06_camera",
+  "started": "2026-10-17T01:41:34-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_lookdev_camera.py\", line 11, in <module>\n    c.set_current_focal_length(55); c.set_current_aperture(8)\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'CineCameraComponent' object has no attribute 'set_current_focal_length'\n",
+  "finished": "2026-10-17T01:41:34-0700"
+}

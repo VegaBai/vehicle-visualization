@@ -1,0 +1,35 @@
+{
+  "id": "ld03_param_probe",
+  "started": "2026-10-17T01:40:56-0700",
+  "status": "success",
+  "result": {
+    "master_scalars": [
+      "ColorFlop",
+      "Metallic",
+      "BaseRoughness",
+      "ClearCoat",
+      "CoatRoughness",
+      "Specular"
+    ],
+    "mi_scalars": [
+      "ColorFlop",
+      "Metallic",
+      "BaseRoughness",
+      "ClearCoat",
+      "CoatRoughness",
+      "Specular"
+    ],
+    "vectors": [
+      "PigmentColor",
+      "EdgeTint"
+    ],
+    "set_doc": "X.set_material_instance_scalar_parameter_value(instance, parameter_name, value, association=MaterialParameterAssociation.GLOBAL_PARAMETER) -> bool\r\nSet the scalar (float) parameter value for a Material Instance\r\n\r\nArgs:\r\n    instance (MaterialInstanceConstant): \r\n    parameter_name (Name): \r\n    value (float): \r\n    association (MaterialParameterAssociation): \r\n\r\nReturns:\r\n    bool:",
+    "parent": "<Object '/Game/YU7/Lookdev/Materials/M_YU7_AutomotivePaint.M_YU7_AutomotivePaint' (0x000001AA1DB0A800) Class 'Material'>",
+    "classes": [
+      "BlueprintMaterialTextureNodesBPLibrary",
+      "MaterialEditingLibrary",
+      "MaterialLibrary"
+    ]
+  },
+  "finished": "2026-10-17T01:40:56-0700"
+}

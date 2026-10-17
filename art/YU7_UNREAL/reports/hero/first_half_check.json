@@ -1,0 +1,8 @@
+{
+  "frames_checked": 60,
+  "background_mean_luma_min": 0.3342127333177328,
+  "background_mean_luma_max": 0.34143527929246426,
+  "adjacent_frame_mean_abs_difference_min": 0.0002459049574099481,
+  "adjacent_frame_mean_abs_difference_max": 0.0014335107989609241,
+  "note": "Diagnostic only. Camera motion contributes to frame differences; not a proof of absence of all flicker."
+}

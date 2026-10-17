@@ -1,0 +1,44 @@
+{
+  "id": "04_api_probe",
+  "started": "2026-10-16T13:44:16-0700",
+  "status": "success",
+  "result": {
+    "material_properties": [
+      "MP_AMBIENT_OCCLUSION",
+      "MP_ANISOTROPY",
+      "MP_BASE_COLOR",
+      "MP_EMISSIVE_COLOR",
+      "MP_FRONT_MATERIAL",
+      "MP_LAST_CUSTOMIZED_U_VS",
+      "MP_MATERIAL_ATTRIBUTES",
+      "MP_MAX",
+      "MP_METALLIC",
+      "MP_NORMAL",
+      "MP_OPACITY",
+      "MP_OPACITY_MASK",
+      "MP_REFRACTION",
+      "MP_ROUGHNESS",
+      "MP_SPECULAR",
+      "MP_SUBSURFACE_COLOR",
+      "MP_TANGENT",
+      "MP_WORLD_POSITION_OFFSET"
+    ],
+    "material_nodes": [
+      "MaterialExpressionMakeMaterialAttributes"
+    ],
+    "geometry_classes": [
+      "GeometryScriptColorList",
+      "GeometryScriptGeneralPolygonList",
+      "GeometryScriptIndexList",
+      "GeometryScriptMeshReadLOD",
+      "GeometryScriptReadGammaSpace",
+      "GeometryScriptScalarList",
+      "GeometryScriptTriangleList",
+      "GeometryScriptUVList",
+      "GeometryScriptVectorList",
+      "GeometryScript_List",
+      "GeometryScript_PolygonList"
+    ]
+  },
+  "finished": "2026-10-16T13:44:16-0700"
+}

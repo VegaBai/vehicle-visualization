@@ -1,0 +1,3752 @@
+{
+  "engine": "5.8.3-58210709+++UE5+Release-5.8",
+  "world": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+  "mesh_count": 121,
+  "meshes": [
+    {
+      "name": "YU7_Unreal_SM_YU7_001_carGlass_front_1",
+      "triangles": 376,
+      "render_vertices": 229,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 376,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.9545924520535394e-05,
+      "max_abs_normal_tangent_dot": 3.1920483687386536e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_002_carLight_backbulb",
+      "triangles": 30,
+      "render_vertices": 36,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CAR_L"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 30,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 1.9587853172353675e-05,
+      "max_abs_normal_tangent_dot": 2.618239933210864e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_003_carLight_bulb_2",
+      "triangles": 538,
+      "render_vertices": 786,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CAR_L"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 538,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.38981510927816e-05,
+      "max_abs_normal_tangent_dot": 3.5995526608045836e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2",
+      "triangles": 6993,
+      "render_vertices": 7613,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_LIGHT_CHROME_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 6993,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6294073619602685e-05,
+      "max_abs_normal_tangent_dot": 3.643052726804569e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body",
+      "triangles": 1331,
+      "render_vertices": 1002,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1331,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.828860469956563e-05,
+      "max_abs_normal_tangent_dot": 3.558893843536026e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_006_carPaint_2",
+      "triangles": 3800,
+      "render_vertices": 3054,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Int_DoorF__UVFallback",
+        "M_YU7_CarPaint__UVFallback"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 3800,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.8280465397999563e-05,
+      "max_abs_normal_tangent_dot": 3.704046502228664e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1",
+      "triangles": 576,
+      "render_vertices": 375,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 576,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.195055010785097e-05,
+      "max_abs_normal_tangent_dot": 3.9469064782582386e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_",
+      "triangles": 443,
+      "render_vertices": 263,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 443,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.070662136983593e-05,
+      "max_abs_normal_tangent_dot": 3.318699916654566e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_",
+      "triangles": 1745,
+      "render_vertices": 1069,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1745,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.285540158037836e-05,
+      "max_abs_normal_tangent_dot": 3.388118047231714e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_010_carDuckTail",
+      "triangles": 918,
+      "render_vertices": 522,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 918,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.480295347690898e-05,
+      "max_abs_normal_tangent_dot": 3.333320888065927e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_011_carLightGlass_Back_1",
+      "triangles": 2484,
+      "render_vertices": 1775,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Light_Glass"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2484,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.8599719699883295e-05,
+      "max_abs_normal_tangent_dot": 3.481454554865593e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7",
+      "triangles": 307,
+      "render_vertices": 194,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 307,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.3239083778946465e-05,
+      "max_abs_normal_tangent_dot": 3.6330427187314385e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2",
+      "triangles": 2776,
+      "render_vertices": 2235,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2776,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.762122322892303e-05,
+      "max_abs_normal_tangent_dot": 4.079745862706208e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body",
+      "triangles": 872,
+      "render_vertices": 499,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 872,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6196544673239295e-05,
+      "max_abs_normal_tangent_dot": 3.476048620498773e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_015_carMirror_bottom_2",
+      "triangles": 641,
+      "render_vertices": 628,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Blaack_Paint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 641,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6804775187637695e-05,
+      "max_abs_normal_tangent_dot": 3.303849194136177e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_016_carLight_bulb_1",
+      "triangles": 92,
+      "render_vertices": 156,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CAR_L"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 92,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.7415825858301268e-05,
+      "max_abs_normal_tangent_dot": 3.137990927104539e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2",
+      "triangles": 192,
+      "render_vertices": 192,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 192,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.682969037477335e-05,
+      "max_abs_normal_tangent_dot": 3.076178069849611e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3",
+      "triangles": 2060,
+      "render_vertices": 1148,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2060,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.453011848941756e-05,
+      "max_abs_normal_tangent_dot": 3.493347274383107e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_019_carWindowTrim_3",
+      "triangles": 443,
+      "render_vertices": 263,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 443,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.315139326631744e-05,
+      "max_abs_normal_tangent_dot": 3.035441147308804e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_",
+      "triangles": 1764,
+      "render_vertices": 1095,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1764,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.5795231646984504e-05,
+      "max_abs_normal_tangent_dot": 3.4720886791683725e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront",
+      "triangles": 33956,
+      "render_vertices": 19357,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Seat_Front"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 33956,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.9998295407572826e-05,
+      "max_abs_normal_tangent_dot": 4.020057212095196e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_022_carLightGlass_Front",
+      "triangles": 1012,
+      "render_vertices": 686,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Light_Glass"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1012,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.3739303786584074e-05,
+      "max_abs_normal_tangent_dot": 3.616235209880081e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_023_carXiaoMi_3",
+      "triangles": 615,
+      "render_vertices": 382,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 615,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.3913576964472725e-05,
+      "max_abs_normal_tangent_dot": 3.075149527792531e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_024_carPlate",
+      "triangles": 250,
+      "render_vertices": 170,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CAR_L"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 250,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.093376519669455e-05,
+      "max_abs_normal_tangent_dot": 2.9736320247941705e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6",
+      "triangles": 1745,
+      "render_vertices": 1069,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1745,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.251833289019679e-05,
+      "max_abs_normal_tangent_dot": 3.5886378001670494e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_026_carGlass_front_2",
+      "triangles": 318,
+      "render_vertices": 262,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 318,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.53363470984025e-05,
+      "max_abs_normal_tangent_dot": 3.23194463665577e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2",
+      "triangles": 1442,
+      "render_vertices": 3246,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_LIGHT_PLASTIC_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1442,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.5701475675109506e-05,
+      "max_abs_normal_tangent_dot": 3.7216876623169526e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_028_carPaint_10",
+      "triangles": 12615,
+      "render_vertices": 7923,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 12615,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.626854348004471e-05,
+      "max_abs_normal_tangent_dot": 3.9030710116405576e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal",
+      "triangles": 9454,
+      "render_vertices": 5543,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Trunk_E"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 9454,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.797180478382067e-05,
+      "max_abs_normal_tangent_dot": 3.6560978651900555e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_030_carFrontBonnetNet",
+      "triangles": 16,
+      "render_vertices": 24,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 16,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.725486745125405e-05,
+      "max_abs_normal_tangent_dot": 2.8885844585602172e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_031_carRearviewMirror_2",
+      "triangles": 817,
+      "render_vertices": 445,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Mirrors"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 817,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.169308597028575e-05,
+      "max_abs_normal_tangent_dot": 3.4615610362997984e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font",
+      "triangles": 782,
+      "render_vertices": 799,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 782,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.5242636930332694e-05,
+      "max_abs_normal_tangent_dot": 3.5029158685029316e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_",
+      "triangles": 306,
+      "render_vertices": 180,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 306,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.8801101091380232e-05,
+      "max_abs_normal_tangent_dot": 2.9699614366052174e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_034_carLight_bulb_3",
+      "triangles": 1579,
+      "render_vertices": 1527,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CAR_L"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1579,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.4896564877096026e-05,
+      "max_abs_normal_tangent_dot": 3.723849116843425e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1",
+      "triangles": 184,
+      "render_vertices": 111,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 184,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.849231077151071e-05,
+      "max_abs_normal_tangent_dot": 3.170525400886248e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_",
+      "triangles": 18098,
+      "render_vertices": 11042,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Int_Door_Back"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 18098,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.845267440816258e-05,
+      "max_abs_normal_tangent_dot": 3.857041555210827e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2",
+      "triangles": 2206,
+      "render_vertices": 1288,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_SW"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2206,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6060226783929394e-05,
+      "max_abs_normal_tangent_dot": 3.506536268105265e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_038_carPaint_4_1_",
+      "triangles": 6077,
+      "render_vertices": 3202,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 6077,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.759256370094999e-05,
+      "max_abs_normal_tangent_dot": 3.3207646065624985e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_039_carWindowTrim_5",
+      "triangles": 2107,
+      "render_vertices": 1189,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2107,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.3537013662821025e-05,
+      "max_abs_normal_tangent_dot": 4.330343242875401e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_040_carPaint_2_1_",
+      "triangles": 14446,
+      "render_vertices": 7484,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 14446,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.579697116862235e-05,
+      "max_abs_normal_tangent_dot": 4.111791436933743e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3",
+      "triangles": 2776,
+      "render_vertices": 2239,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2776,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.461132135473832e-05,
+      "max_abs_normal_tangent_dot": 3.95944356031408e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom",
+      "triangles": 4002,
+      "render_vertices": 2690,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Int_DoorF"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4002,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6039887016170447e-05,
+      "max_abs_normal_tangent_dot": 3.7220840350737916e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal",
+      "triangles": 9214,
+      "render_vertices": 5491,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Trunk"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 9214,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.732023610647506e-05,
+      "max_abs_normal_tangent_dot": 4.0230682488484604e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_044_carInternal_Roof",
+      "triangles": 506,
+      "render_vertices": 298,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Roof"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 506,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.4689903259277344e-05,
+      "max_abs_normal_tangent_dot": 2.9036049064623537e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_045_carPaint_13",
+      "triangles": 4942,
+      "render_vertices": 2614,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4942,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.662807221949116e-05,
+      "max_abs_normal_tangent_dot": 3.6005437020758535e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1",
+      "triangles": 6194,
+      "render_vertices": 5608,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 6194,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.739350050246948e-05,
+      "max_abs_normal_tangent_dot": 3.638504529046571e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_",
+      "triangles": 2796,
+      "render_vertices": 1489,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2796,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.930288090359113e-05,
+      "max_abs_normal_tangent_dot": 3.1838941588369085e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_048_carHoodOutletWisp",
+      "triangles": 592,
+      "render_vertices": 373,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 592,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.141385830240928e-05,
+      "max_abs_normal_tangent_dot": 3.662673931503768e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_049_carGlass_back_2_Side",
+      "triangles": 4032,
+      "render_vertices": 2140,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4032,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6563786535825926e-05,
+      "max_abs_normal_tangent_dot": 3.839517035708617e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1",
+      "triangles": 4216,
+      "render_vertices": 2321,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4216,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.031490690126205e-05,
+      "max_abs_normal_tangent_dot": 3.654422777898958e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack",
+      "triangles": 2238,
+      "render_vertices": 2094,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Metal_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2238,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.8648381096129114e-05,
+      "max_abs_normal_tangent_dot": 3.6841500304918284e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_052_carInternal_Dashboard",
+      "triangles": 11820,
+      "render_vertices": 7091,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Dash"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 11820,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.923333241584448e-05,
+      "max_abs_normal_tangent_dot": 3.887095363364068e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_053_carInternal_DoorFront",
+      "triangles": 16889,
+      "render_vertices": 10792,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Int_DoorF"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 16889,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.260960901847355e-05,
+      "max_abs_normal_tangent_dot": 3.745002758925864e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_",
+      "triangles": 1764,
+      "render_vertices": 1095,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1764,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.8946355249924736e-05,
+      "max_abs_normal_tangent_dot": 3.544036893632363e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_055_carRoof_yu7",
+      "triangles": 1764,
+      "render_vertices": 983,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_D_Glass"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1764,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.170159151544283e-05,
+      "max_abs_normal_tangent_dot": 3.488619764269174e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2",
+      "triangles": 3138,
+      "render_vertices": 1863,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Frame_Top"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 3138,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.3296226785495264e-05,
+      "max_abs_normal_tangent_dot": 3.3807550337938697e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_",
+      "triangles": 3164,
+      "render_vertices": 1685,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 3164,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.428602194355257e-05,
+      "max_abs_normal_tangent_dot": 3.515645826190905e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_058_carPaint_4",
+      "triangles": 6077,
+      "render_vertices": 3202,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 6077,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.511526449617719e-05,
+      "max_abs_normal_tangent_dot": 3.400740317388573e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_059_carMirror_top_2",
+      "triangles": 1122,
+      "render_vertices": 601,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Blaack_Paint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1122,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.4880160785344394e-05,
+      "max_abs_normal_tangent_dot": 3.736992432601394e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_060_carPaint_1",
+      "triangles": 32660,
+      "render_vertices": 17574,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 32660,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.980893426125398e-05,
+      "max_abs_normal_tangent_dot": 4.0014092534373935e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4",
+      "triangles": 4638,
+      "render_vertices": 2676,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_SW"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4638,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.278900925469564e-05,
+      "max_abs_normal_tangent_dot": 4.030855204906203e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "triangles": 276,
+      "render_vertices": 171,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 276,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.1775864408833954e-05,
+      "max_abs_normal_tangent_dot": 3.4997572249118036e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1",
+      "triangles": 13076,
+      "render_vertices": 7820,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Console"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 13076,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.89841883717823e-05,
+      "max_abs_normal_tangent_dot": 3.955612358996774e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_064_carHoodOutletPanel",
+      "triangles": 3428,
+      "render_vertices": 1863,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 3428,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6498091629089124e-05,
+      "max_abs_normal_tangent_dot": 3.6985108046394544e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_",
+      "triangles": 15473,
+      "render_vertices": 9829,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Int_DoorF"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 15473,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.5417001747029e-05,
+      "max_abs_normal_tangent_dot": 3.950723505175002e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_066_carMirror_top_2_1_",
+      "triangles": 1122,
+      "render_vertices": 601,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Blaack_Paint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1122,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.554678651251919e-05,
+      "max_abs_normal_tangent_dot": 3.5216079192323946e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom",
+      "triangles": 56396,
+      "render_vertices": 36850,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Bottom",
+        "M_YU7_Mirrors"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 56396,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.30420153022526e-05,
+      "max_abs_normal_tangent_dot": 4.89170027614394e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_068_carPaint_9",
+      "triangles": 4940,
+      "render_vertices": 2608,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4940,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.782050717004992e-05,
+      "max_abs_normal_tangent_dot": 3.5570005475937805e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1",
+      "triangles": 2118,
+      "render_vertices": 2202,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2118,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.683530649833955e-05,
+      "max_abs_normal_tangent_dot": 3.816132775548431e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_070_carRoofSpoiler",
+      "triangles": 4066,
+      "render_vertices": 2240,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 4066,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6995989029176e-05,
+      "max_abs_normal_tangent_dot": 3.565021537976776e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_",
+      "triangles": 641,
+      "render_vertices": 591,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Blaack_Paint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 641,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.549255830548326e-05,
+      "max_abs_normal_tangent_dot": 3.496672690328495e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_072_carInternal_DoorBack",
+      "triangles": 18096,
+      "render_vertices": 11106,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Int_Door_Back"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 18096,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.7847455351958104e-05,
+      "max_abs_normal_tangent_dot": 3.8691533331913774e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_073_carRearviewMirror_3",
+      "triangles": 817,
+      "render_vertices": 448,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Mirrors"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 817,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.085475457316079e-05,
+      "max_abs_normal_tangent_dot": 3.186087523410208e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1",
+      "triangles": 2956,
+      "render_vertices": 1577,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2956,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.533652515841368e-05,
+      "max_abs_normal_tangent_dot": 3.5978946553827384e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2",
+      "triangles": 2796,
+      "render_vertices": 1492,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2796,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.177812141563763e-05,
+      "max_abs_normal_tangent_dot": 3.3126248693893245e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_076_carGlass_back_1",
+      "triangles": 1920,
+      "render_vertices": 1061,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Windows"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1920,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.7472950546346695e-05,
+      "max_abs_normal_tangent_dot": 3.9493131684054106e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3",
+      "triangles": 2256,
+      "render_vertices": 2078,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_LIGHT_PLASTIC_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2256,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.338670354713358e-05,
+      "max_abs_normal_tangent_dot": 3.606763056468454e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2",
+      "triangles": 1430,
+      "render_vertices": 1743,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1430,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.318481146585839e-05,
+      "max_abs_normal_tangent_dot": 3.6527390215757016e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_079_carPaint_8",
+      "triangles": 6492,
+      "render_vertices": 3432,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_CarPaint"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 6492,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.9874925668370587e-05,
+      "max_abs_normal_tangent_dot": 3.501221456564396e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_080_carWindowTrim_1",
+      "triangles": 306,
+      "render_vertices": 180,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 306,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.0004502175717818e-05,
+      "max_abs_normal_tangent_dot": 3.2789466512639365e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_081_carHeaterStrip",
+      "triangles": 990,
+      "render_vertices": 1030,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Yu7_lambert272"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 990,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.486961866072669e-05,
+      "max_abs_normal_tangent_dot": 3.486590000045808e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1",
+      "triangles": 32472,
+      "render_vertices": 17786,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Plastic_SH"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 32472,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.822834102906736e-05,
+      "max_abs_normal_tangent_dot": 3.918687830606338e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_083_carLightGlass_Back_2",
+      "triangles": 2654,
+      "render_vertices": 1722,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Light_Glass"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2654,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.142333995982295e-05,
+      "max_abs_normal_tangent_dot": 3.6133294902263025e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack",
+      "triangles": 22735,
+      "render_vertices": 14166,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Seat_Back"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 22735,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.181442864070739e-05,
+      "max_abs_normal_tangent_dot": 3.84223649352311e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_085_carHeadLampPanel",
+      "triangles": 2977,
+      "render_vertices": 1632,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_dark_Gray_Map"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2977,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.252808288907062e-05,
+      "max_abs_normal_tangent_dot": 3.65442368739366e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_086_carBackDrop",
+      "triangles": 454,
+      "render_vertices": 270,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_Roof"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 454,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.417255837301347e-05,
+      "max_abs_normal_tangent_dot": 2.9356386455049732e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_087_carXiaoMi_1",
+      "triangles": 1986,
+      "render_vertices": 1445,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1986,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.640919565128797e-05,
+      "max_abs_normal_tangent_dot": 3.340762205716885e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2",
+      "triangles": 19928,
+      "render_vertices": 13014,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_INT_SW"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 19928,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.764556488616844e-05,
+      "max_abs_normal_tangent_dot": 3.8199943634964484e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9",
+      "triangles": 12015,
+      "render_vertices": 9323,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 12015,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.981510059958282e-05,
+      "max_abs_normal_tangent_dot": 3.726791720493061e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09",
+      "triangles": 18,
+      "render_vertices": 24,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 18,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.7143003493934614e-05,
+      "max_abs_normal_tangent_dot": 3.0090074914879833e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_091_carTyre_02",
+      "triangles": 2040,
+      "render_vertices": 1334,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_tyre_3"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2040,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.562814326518726e-05,
+      "max_abs_normal_tangent_dot": 3.644148817882886e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09",
+      "triangles": 168,
+      "render_vertices": 125,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 168,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.216562718799665e-05,
+      "max_abs_normal_tangent_dot": 2.416558538151717e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09",
+      "triangles": 216,
+      "render_vertices": 255,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 216,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.508534257334883e-05,
+      "max_abs_normal_tangent_dot": 3.061902168344233e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09",
+      "triangles": 695,
+      "render_vertices": 573,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 695,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.626036927495413e-05,
+      "max_abs_normal_tangent_dot": 3.5346169667604954e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09",
+      "triangles": 10250,
+      "render_vertices": 6979,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 10250,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.3565738335971105e-05,
+      "max_abs_normal_tangent_dot": 4.1386100480877985e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09",
+      "triangles": 18,
+      "render_vertices": 24,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 18,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.619350526067432e-05,
+      "max_abs_normal_tangent_dot": 2.7065903535281044e-06,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_097_carTyre_02",
+      "triangles": 2040,
+      "render_vertices": 1334,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_tyre_3"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2040,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.5523778610602186e-05,
+      "max_abs_normal_tangent_dot": 3.9629914993621895e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09",
+      "triangles": 168,
+      "render_vertices": 125,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 168,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.135926296382596e-05,
+      "max_abs_normal_tangent_dot": 2.6887787773266503e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09",
+      "triangles": 216,
+      "render_vertices": 255,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 216,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.583937385365221e-05,
+      "max_abs_normal_tangent_dot": 3.571778738375997e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09",
+      "triangles": 695,
+      "render_vertices": 573,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 695,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.232706676059571e-05,
+      "max_abs_normal_tangent_dot": 3.443765626864881e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09",
+      "triangles": 10250,
+      "render_vertices": 6979,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 10250,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.244078385240435e-05,
+      "max_abs_normal_tangent_dot": 4.458633801363021e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09",
+      "triangles": 18,
+      "render_vertices": 24,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 18,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.5835877144997355e-05,
+      "max_abs_normal_tangent_dot": 2.781005639205386e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_103_carTyre_02",
+      "triangles": 2040,
+      "render_vertices": 1334,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_tyre_3"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2040,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.6455427225856596e-05,
+      "max_abs_normal_tangent_dot": 3.912538563444201e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09",
+      "triangles": 168,
+      "render_vertices": 125,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 168,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.6941734376784154e-05,
+      "max_abs_normal_tangent_dot": 3.1006064417971047e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09",
+      "triangles": 216,
+      "render_vertices": 255,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 216,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.201892190429767e-05,
+      "max_abs_normal_tangent_dot": 3.0906181514467335e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09",
+      "triangles": 695,
+      "render_vertices": 573,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 695,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.238569542252101e-05,
+      "max_abs_normal_tangent_dot": 3.153099422514849e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09",
+      "triangles": 10250,
+      "render_vertices": 6979,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 10250,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.735552473149717e-05,
+      "max_abs_normal_tangent_dot": 3.824360642568081e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09",
+      "triangles": 18,
+      "render_vertices": 24,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 18,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.619350526067432e-05,
+      "max_abs_normal_tangent_dot": 2.714041388879318e-06,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_109_carTyre_02",
+      "triangles": 2040,
+      "render_vertices": 1334,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_tyre_3"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 2040,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.525894426958942e-05,
+      "max_abs_normal_tangent_dot": 3.912538563444201e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09",
+      "triangles": 168,
+      "render_vertices": 125,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 168,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.7299645835476838e-05,
+      "max_abs_normal_tangent_dot": 2.8002014943240283e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09",
+      "triangles": 216,
+      "render_vertices": 255,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 216,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.583937385365221e-05,
+      "max_abs_normal_tangent_dot": 3.818518822473749e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09",
+      "triangles": 695,
+      "render_vertices": 573,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_ALUM"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 695,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.483428157502466e-05,
+      "max_abs_normal_tangent_dot": 3.5277960656387997e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09",
+      "triangles": 10250,
+      "render_vertices": 6979,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Yu7_RIM_C1",
+        "M_YU7_RIM_C2"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 10250,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 4.127052983826651e-05,
+      "max_abs_normal_tangent_dot": 3.7546610063721175e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2",
+      "triangles": 456,
+      "render_vertices": 486,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_DISK"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 456,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.2743065767837365e-05,
+      "max_abs_normal_tangent_dot": 3.255807569924052e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_115_carBrakeDisc_Back",
+      "triangles": 1340,
+      "render_vertices": 1254,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_DISK"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1340,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.552199624023977e-05,
+      "max_abs_normal_tangent_dot": 3.696298689659372e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_116_carCaliper_MainBack",
+      "triangles": 9832,
+      "render_vertices": 8678,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Caliper_C2",
+        "M_YU7_Caliper_C1"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 9832,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.975877642448111e-05,
+      "max_abs_normal_tangent_dot": 4.06116923312716e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_117_carCaliper_Screw_1",
+      "triangles": 1040,
+      "render_vertices": 1265,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Caliper_C1"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1040,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.843731733432776e-05,
+      "max_abs_normal_tangent_dot": 3.627373324199823e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2",
+      "triangles": 552,
+      "render_vertices": 618,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_DISK"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 552,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.3197510694082943e-05,
+      "max_abs_normal_tangent_dot": 3.0385005165278756e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_119_carBrakeDisc_Front",
+      "triangles": 1340,
+      "render_vertices": 1254,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_DISK"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1340,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.530551248975833e-05,
+      "max_abs_normal_tangent_dot": 3.696298689659372e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1",
+      "triangles": 14080,
+      "render_vertices": 11266,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Caliper_C2"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 14080,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 3.964977174819584e-05,
+      "max_abs_normal_tangent_dot": 4.064596384800723e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    },
+    {
+      "name": "YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1",
+      "triangles": 1298,
+      "render_vertices": 1306,
+      "settings": {
+        "recompute_normals": false,
+        "recompute_tangents": false,
+        "use_full_precision_u_vs": true,
+        "use_high_precision_tangent_basis": true,
+        "generate_lightmap_u_vs": false,
+        "remove_degenerates": true
+      },
+      "materials": [
+        "M_YU7_Black_Mat"
+      ],
+      "material_slots_match": true,
+      "credit_matches": true,
+      "checked_triangles": 1298,
+      "invalid_normal_tangent_elements": 0,
+      "nonfinite_vectors": 0,
+      "zero_vectors": 0,
+      "max_unit_length_error": 2.9631137576702216e-05,
+      "max_abs_normal_tangent_dot": 3.01934580588005e-05,
+      "invalid_uv_triangles": 0,
+      "zero_area_uv_triangles": 0,
+      "uv_channels": 1
+    }
+  ],
+  "materials": [
+    {
+      "name": "M_YU7_ALUM",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 254,
+      "expression_count": 4
+    },
+    {
+      "name": "M_YU7_Blaack_Paint",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_CLEAR_COAT: 4>",
+      "textures": [
+        "carPaint_Shape1"
+      ],
+      "expected_textures": [
+        "carPaint_Shape1"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 287,
+      "expression_count": 10
+    },
+    {
+      "name": "M_YU7_Black_Mat",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 256,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_CAR_L",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carLight_bulb_MP"
+      ],
+      "expected_textures": [
+        "carLight_bulb_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_Caliper_C1",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carCaliper_1Shape"
+      ],
+      "expected_textures": [
+        "carCaliper_1Shape"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 270,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_Caliper_C2",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carCaliper_1Shape"
+      ],
+      "expected_textures": [
+        "carCaliper_1Shape"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 270,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_CarPaint",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_CLEAR_COAT: 4>",
+      "textures": [
+        "carPaint_Shape1"
+      ],
+      "expected_textures": [
+        "carPaint_Shape1"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 288,
+      "expression_count": 8
+    },
+    {
+      "name": "M_YU7_CarPaint__UVFallback",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_CLEAR_COAT: 4>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 274,
+      "expression_count": 6
+    },
+    {
+      "name": "M_YU7_DISK",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carBrakeDisc_2_MP"
+      ],
+      "expected_textures": [
+        "carBrakeDisc_2_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 263,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_D_Glass",
+      "blend_mode": "<BlendMode.BLEND_TRANSLUCENT: 2>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 2398,
+      "expression_count": 4
+    },
+    {
+      "name": "M_YU7_INT_Bottom",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_Frame_Bottom_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_Frame_Bottom_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Console",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_CenterConsole_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_CenterConsole_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Dash",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_Dashboard_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_Dashboard_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Frame_Top",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_Frame_Top_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_Frame_Top_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Roof",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_Roof_MT_Turquoise_MP"
+      ],
+      "expected_textures": [
+        "carInternal_Roof_MT_Turquoise_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_SW",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_SteeringWheel_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_SteeringWheel_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Seat_Back",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_PassengerSeatBack_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_PassengerSeatBack_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Seat_Front",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_PassengerSeatFront_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_PassengerSeatFront_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Trunk",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_TrunkExternal_MT_Turquoise_MP"
+      ],
+      "expected_textures": [
+        "carInternal_TrunkExternal_MT_Turquoise_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_INT_Trunk_E",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_TrunkInternal_MT_Turquoise_MP"
+      ],
+      "expected_textures": [
+        "carInternal_TrunkInternal_MT_Turquoise_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_Int_DoorF",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_DoorFront_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_DoorFront_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_Int_DoorF__UVFallback",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 256,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_Int_Door_Back",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carInternal_DoorBack_MT_OrangeMinium_MP"
+      ],
+      "expected_textures": [
+        "carInternal_DoorBack_MT_OrangeMinium_MP"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_LIGHT_CHROME_SH",
+      "blend_mode": "<BlendMode.BLEND_MASKED: 1>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carLightShape"
+      ],
+      "expected_textures": [
+        "carLightShape"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 270,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_LIGHT_PLASTIC_SH",
+      "blend_mode": "<BlendMode.BLEND_MASKED: 1>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carLightShape"
+      ],
+      "expected_textures": [
+        "carLightShape"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_Light_Glass",
+      "blend_mode": "<BlendMode.BLEND_TRANSLUCENT: 2>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 2398,
+      "expression_count": 4
+    },
+    {
+      "name": "M_YU7_Metal_Mat",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 256,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_Mirrors",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 254,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_Plastic_SH",
+      "blend_mode": "<BlendMode.BLEND_MASKED: 1>",
+      "shading_model": "<MaterialShadingModel.MSM_CLEAR_COAT: 4>",
+      "textures": [
+        "carPlastic_BrilliantBlackShape"
+      ],
+      "expected_textures": [
+        "carPlastic_BrilliantBlackShape"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 279,
+      "expression_count": 8
+    },
+    {
+      "name": "M_YU7_RIM_C2",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 256,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_Windows",
+      "blend_mode": "<BlendMode.BLEND_TRANSLUCENT: 2>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 2398,
+      "expression_count": 4
+    },
+    {
+      "name": "M_YU7_Yu7_RIM_C1",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 255,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_Yu7_lambert272",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [],
+      "expected_textures": [],
+      "textures_match": true,
+      "pixel_shader_instructions": 256,
+      "expression_count": 3
+    },
+    {
+      "name": "M_YU7_dark_Gray_Map",
+      "blend_mode": "<BlendMode.BLEND_MASKED: 1>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "carHoodOutletPanelShape"
+      ],
+      "expected_textures": [
+        "carHoodOutletPanelShape"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 261,
+      "expression_count": 5
+    },
+    {
+      "name": "M_YU7_tyre_3",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>",
+      "textures": [
+        "T_YU7_Tyre_Normal_DX",
+        "carTyre_02_ao"
+      ],
+      "expected_textures": [
+        "T_YU7_Tyre_Normal_DX",
+        "carTyre_02_ao"
+      ],
+      "textures_match": true,
+      "pixel_shader_instructions": 280,
+      "expression_count": 6
+    }
+  ],
+  "errors": [],
+  "normal_validation": "All triangle corners of actual render LOD0, including tangents/bitangents; UV0 every triangle. Geometry Script read-only copies.",
+  "blueprint_component_count": 121,
+  "actor_scale": "<Struct 'Vector' (0x000001A8111CD9B0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+  "geometry_bounds_min_cm": [
+    -249.94998931884766,
+    -106.87522506713867,
+    0.0
+  ],
+  "geometry_bounds_max_cm": [
+    249.9499740600586,
+    106.8752555847168,
+    159.10018920898438
+  ],
+  "geometry_dimensions_cm": [
+    499.89996337890625,
+    213.75048065185547,
+    159.10018920898438
+  ],
+  "render_triangle_count": 579252,
+  "checked_triangle_count": 579252,
+  "zero_area_uv_triangle_count": 0,
+  "max_unit_length_error": 4.3565738335971105e-05,
+  "max_abs_normal_tangent_dot": 4.89170027614394e-05,
+  "passed": true
+}

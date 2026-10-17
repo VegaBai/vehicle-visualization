@@ -1,0 +1,92 @@
+{
+  "id": "ld12_variant_probe",
+  "started": "2026-10-17T01:43:39-0700",
+  "status": "success",
+  "result": {
+    "Beauty": {
+      "stored": [
+        {
+          "path": "DefaultSceneRoot / Key_Softbox / Intensity",
+          "type": "float",
+          "value": 44000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Side_Strip / Intensity",
+          "type": "float",
+          "value": 28000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Rear_Rim / Intensity",
+          "type": "float",
+          "value": 48000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Front_Fill / Intensity",
+          "type": "float",
+          "value": 16000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Roof_Ribbon / Intensity",
+          "type": "float",
+          "value": 22000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Backdrop_Wash / Intensity",
+          "type": "float",
+          "value": 46000.0
+        }
+      ],
+      "actual": {
+        "Key_Softbox": 44000.0,
+        "Side_Strip": 28000.0,
+        "Rear_Rim": 48000.0,
+        "Front_Fill": 16000.0,
+        "Roof_Ribbon": 22000.0,
+        "Backdrop_Wash": 46000.0
+      }
+    },
+    "Sculpted Contrast": {
+      "stored": [
+        {
+          "path": "DefaultSceneRoot / Key_Softbox / Intensity",
+          "type": "float",
+          "value": 33000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Side_Strip / Intensity",
+          "type": "float",
+          "value": 14000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Rear_Rim / Intensity",
+          "type": "float",
+          "value": 52800.0
+        },
+        {
+          "path": "DefaultSceneRoot / Front_Fill / Intensity",
+          "type": "float",
+          "value": 6400.0
+        },
+        {
+          "path": "DefaultSceneRoot / Roof_Ribbon / Intensity",
+          "type": "float",
+          "value": 11000.0
+        },
+        {
+          "path": "DefaultSceneRoot / Backdrop_Wash / Intensity",
+          "type": "float",
+          "value": 27600.0
+        }
+      ],
+      "actual": {
+        "Key_Softbox": 33000.0,
+        "Side_Strip": 14000.0,
+        "Rear_Rim": 52800.0,
+        "Front_Fill": 6400.0,
+        "Roof_Ribbon": 11000.0,
+        "Backdrop_Wash": 27600.0
+      }
+    }
+  },
+  "finished": "2026-10-17T01:43:39-0700"
+}

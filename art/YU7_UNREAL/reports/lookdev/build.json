@@ -1,0 +1,261 @@
+{
+  "baseline": "/Game/YU7/Maps/Studio_YU7_ImportBaseline",
+  "assets": [
+    "/Game/YU7/Lookdev/Materials/M_YU7_AutomotivePaint.M_YU7_AutomotivePaint",
+    "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite",
+    "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal",
+    "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite",
+    "/Game/YU7/Lookdev/Materials/M_YU7_ThinGlass.M_YU7_ThinGlass",
+    "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear",
+    "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked",
+    "/Game/YU7/Lookdev/Materials/MI_Glass_Roof.MI_Glass_Roof",
+    "/Game/YU7/Lookdev/Materials/MI_Glass_Lens.MI_Glass_Lens",
+    "/Game/YU7/Lookdev/Materials/M_StudioSurface.M_StudioSurface",
+    "/Game/YU7/Lookdev/Materials/MI_Studio_CoolGrey.MI_Studio_CoolGrey",
+    "/Game/YU7/Lookdev/Blueprints/BP_YU7_StudioLighting.BP_YU7_StudioLighting"
+  ],
+  "assignments": [
+    {
+      "component": "Part_001_carGlass_front_1",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_006_carPaint_2",
+      "slot": 1,
+      "original": "M_YU7_CarPaint__UVFallback",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_011_carLightGlass_Back_1",
+      "slot": 0,
+      "original": "M_YU7_Light_Glass",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Lens.MI_Glass_Lens"
+    },
+    {
+      "component": "Part_022_carLightGlass_Front",
+      "slot": 0,
+      "original": "M_YU7_Light_Glass",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Lens.MI_Glass_Lens"
+    },
+    {
+      "component": "Part_028_carPaint_10",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_038_carPaint_4_1_",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_040_carPaint_2_1_",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_045_carPaint_13",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_047_carGlass_front_2_Side_2_1_",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_049_carGlass_back_2_Side",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_055_carRoof_yu7",
+      "slot": 0,
+      "original": "M_YU7_D_Glass",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Roof.MI_Glass_Roof"
+    },
+    {
+      "component": "Part_057_carGlass_back_2_Side_1_1_",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_058_carPaint_4",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_060_carPaint_1",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_068_carPaint_9",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_074_carGlass_back_2_Side_1",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_075_carGlass_front_2_Side_2",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_076_carGlass_back_1",
+      "slot": 0,
+      "original": "M_YU7_Windows",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear"
+    },
+    {
+      "component": "Part_079_carPaint_8",
+      "slot": 0,
+      "original": "M_YU7_CarPaint",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal"
+    },
+    {
+      "component": "Part_083_carLightGlass_Back_2",
+      "slot": 0,
+      "original": "M_YU7_Light_Glass",
+      "new": "/Game/YU7/Lookdev/Materials/MI_Glass_Lens.MI_Glass_Lens"
+    }
+  ],
+  "lights": [
+    [
+      "Key_Softbox",
+      [
+        -150,
+        160,
+        480
+      ],
+      [
+        0,
+        0,
+        55
+      ],
+      600,
+      260,
+      60000,
+      5600
+    ],
+    [
+      "Side_Strip",
+      [
+        60,
+        390,
+        240
+      ],
+      [
+        0,
+        0,
+        95
+      ],
+      540,
+      75,
+      28000,
+      6200
+    ],
+    [
+      "Rear_Rim",
+      [
+        270,
+        -260,
+        320
+      ],
+      [
+        60,
+        0,
+        90
+      ],
+      440,
+      85,
+      48000,
+      7000
+    ],
+    [
+      "Front_Fill",
+      [
+        -430,
+        -160,
+        230
+      ],
+      [
+        -130,
+        0,
+        70
+      ],
+      240,
+      230,
+      16000,
+      5200
+    ],
+    [
+      "Roof_Ribbon",
+      [
+        130,
+        -40,
+        520
+      ],
+      [
+        0,
+        0,
+        70
+      ],
+      520,
+      90,
+      22000,
+      6500
+    ],
+    [
+      "Backdrop_Wash",
+      [
+        360,
+        -180,
+        340
+      ],
+      [
+        600,
+        -620,
+        180
+      ],
+      380,
+      300,
+      46000,
+      6900
+    ]
+  ],
+  "postprocess": {
+    "auto_exposure_min_brightness": 9.0,
+    "auto_exposure_max_brightness": 9.0,
+    "auto_exposure_bias": 1.0,
+    "bloom_intensity": 0.12,
+    "vignette_intensity": 0.12,
+    "motion_blur_amount": 0.0,
+    "lumen_scene_lighting_quality": 4.0,
+    "lumen_final_gather_quality": 4.0,
+    "lumen_reflection_quality": 4.0,
+    "lumen_front_layer_translucency_reflections": true,
+    "path_tracing_samples_per_pixel": 256,
+    "path_tracing_max_bounces": 12
+  },
+  "glass_input_pins": [
+    "TransmittanceColor",
+    "SurfaceCoverage"
+  ]
+}

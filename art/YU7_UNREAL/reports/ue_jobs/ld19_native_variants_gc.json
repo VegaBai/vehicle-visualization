@@ -1,0 +1,7 @@
+{
+  "id": "ld19_native_variants_gc",
+  "started": "2026-10-17T01:48:56-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_lookdev_validate_variants.py\", line 36, in <module>\n    report['groups'].setdefault(group,{})[name]=check_variant(v)\n                                                ^^^^^^^^^^^^^^^^\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_lookdev_validate_variants.py\", line 19, in check_variant\n    c=comps[parts[-2]]\n      ~~~~~^^^^^^^^^^^\nKeyError: 'Static Mesh Component'\n",
+  "finished": "2026-10-17T01:48:56-0700"
+}

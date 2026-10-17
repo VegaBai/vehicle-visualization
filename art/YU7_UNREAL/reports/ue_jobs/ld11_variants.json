@@ -1,0 +1,7 @@
+{
+  "id": "ld11_variants",
+  "started": "2026-10-17T01:43:18-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_lookdev_variants.py\", line 61, in <module>\n    for n,c in lights.items(): assert abs(c.intensity-lighting[light][n])<.01,(choices,n)\n                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: ({'Paint': 'Mineral Teal', 'Glass': 'Clear', 'WindowTrim': 'Obsidian', 'Lighting': 'Sculpted Contrast'}, 'Key_Softbox')\n",
+  "finished": "2026-10-17T01:43:18-0700"
+}

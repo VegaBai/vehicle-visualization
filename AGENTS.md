@@ -1,0 +1,23 @@
+# Project context
+
+## Working rules (user request, 2026-10-16)
+
+- Maintain `DEV_HISTORY.md` as an append-only development and decision log. Record every meaningful decision, implementation step, validation result, failure and workaround as work proceeds. Include affected paths, reason, evidence and remaining work; distinguish retrospective entries from contemporaneous ones. Do not mark untested work as verified.
+- Implement project/runtime functionality with Blueprint. Prefer existing Blueprint/editor interfaces and workarounds; use C++ only when no adequate interface or workaround exists, and record the reason first. Python may automate editor asset preparation and validation; it must not become a runtime dependency.
+- Unreal project: `VehicleStudio/VehicleStudio.uproject` (UE 5.8). Duplicate the currently open map before placing YU7; preserve the original map and model sources.
+
+## Assets and attribution
+
+- The user has selected a downloaded Xiaomi YU7 model for this automotive visualization portfolio project, replacing the previously considered Tesla Model 3 asset.
+- Source asset directory: `C:\github2\vehicle_visualization\art\FINAL_MODEL`. Main mesh: `FINAL_MODEL.fbx`; companion textures are in the same directory. Preserve these source files and save any prepared assets separately.
+- Prepared assets are in `art/YU7_UNREAL`: `YU7_Prepared.blend`, `YU7_Unreal.fbx`, `Textures`, `materials.json`, `README_UE.txt`, and audit reports. Blender MCP preparation and FBX roundtrip validation passed on 2026-10-16; original source hashes match. Imported into UE 5.8.3 in `VehicleStudio`; use `/Game/YU7/Maps/Studio_YU7` and `/Game/Vehicles/YU7_Prepared/Blueprints/BP_YU7`. See `reports/ue_validation.json` and the latest `DEV_HISTORY.md` entry for verification status. Preserve the original `Studio_White` map.
+- UE meshes use imported normals/tangents, full-precision UVs and high-precision tangent basis. Two meshes received additional local UV fixes after import (steering-wheel bottom and mirror bottom); reimporting the prepared FBX requires rerunning validation and the editor UV repair script. Read the README for the two UV/material fallbacks. Do not blindly rerun one-time creation scripts over existing assets.
+- Preserve the exact user-provided attribution in `CREDITS.txt`.
+- Current lookdev assets are in `/Game/YU7/Lookdev`; read `art/YU7_UNREAL/LOOKDEV_GUIDE.txt`. `LVS_YU7_Lookdev` manages Paint, Glass, WindowTrim and Lighting. The current map preserves a pre-lookdev copy at `/Game/YU7/Maps/Studio_YU7_ImportBaseline`.
+- UE 5.8 Variant Manager crashed when capturing materials/intensity on Blueprint construction-script components across frames. Use the existing stable native actor bindings: 21 `YU7_VP_*` parts attached to `YU7_Hero`, and six `YU7_Light_*` RectLights. Corresponding original BP components are hidden/disabled only in the working map. Do not rebind those variants to the old SCS components or blindly rerun creation scripts. Keep runtime controls Blueprint-based; no C++ workaround was added.
+- For Thin Translucent glass with this project's Substrate conversion, root `OpaqueLayerAmount` is 0 and the thin output `SurfaceCoverage` is 1; control tint with `TransmissionTint`. See lookdev reports and dev history for validation and engine-source reasoning.
+- When reloading the working map after variants have been used, use `tools/ue_lookdev_reload.py` (saves then reloads the LVS package before the map), or restart the editor. UE 5.8 retains unsafe cached component addresses when only the map is reloaded; native bindings fix ordinary cross-frame switching but do not by themselves clear map-reload caches. Do not claim plain map reload is validated.
+- Include that attribution verbatim in the final Unreal Engine project's Credits. This is a required delivery item, authorized by the user on 2026-10-16.
+- The attribution has been recorded; integration into Unreal Engine Credits is still pending. Verify the final Credits before marking this requirement complete.
+- The license identified by the user is CC Attribution-NonCommercial-ShareAlike 4.0. Do not assume that attribution alone grants unrestricted commercial or AI usage rights.
+- Mineral-teal cinematic work is isolated in `/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero`, with `LS_YU7_MineralHero_5s`, copied material instances and MRQ presets. Read `art/YU7_UNREAL/HERO_RENDER_GUIDE.txt` and the latest dev history/status reports before continuing. The shot's VariantManager is intentionally unbound; preserve the original lookdev map/bindings. One-time hero preparation scripts must not overwrite existing assets. Output and validation live in `renders/YU7_MineralHero` and `art/YU7_UNREAL/reports/hero`.

@@ -1,0 +1,43 @@
+YU7 · Unreal 导入验收
+日期：2026-10-16；Unreal Engine 5.8.3
+
+打开：VehicleStudio/VehicleStudio.uproject
+地图：/Game/YU7/Maps/Studio_YU7
+车辆：/Game/Vehicles/YU7_Prepared/Blueprints/BP_YU7
+关卡实例：YU7_Hero
+
+结果
+- 原 Studio_White 地图复制后编辑，原地图 SHA256 不变。
+- 121 个独立网格组件组装为 Blueprint，35 材质、21 张引用纹理。
+- 实测尺寸：499.90 × 213.75 × 159.10 cm（宽含后视镜），底部 Z=0，Scale=1。
+- Blueprint 局部前方 +X，上方 +Z；关卡实例沿用原车位置和 180 度旋转。
+- 实际 Render LOD0：579252 三角形；逐角点检查法线、切线和副切线全部有效。
+- UV0 全面复检：零缺失/非有限值、零面积三角形。
+- 所有材质槽位与 materials.json 一致，实际引用纹理全部匹配。
+- 使用导入法线和切线、16 bit 切线基底、全精度 UV；适用于本项目 Lumen 工作流。
+- 项目功能和车辆组织使用 Blueprint，没有新增 C++；Python 仅用于编辑器自动化。
+
+额外处理
+- UE 构建清理了 FBX 中 30 个微小退化面。
+- 导入后修复了方向盘底部和后视镜底部共 12 个 UV 三角形，保持几何位置和作者法线。
+- 若重新导入 FBX，需按 README_UE.txt 重跑 UE 验证和局部修复。
+- FBX 有 6 条重复纹理节点名提示；已绕开自动材质关联，按 manifest 显式绑定并验证。
+- 原示例车在副本的 Reference/OriginalCar_Hidden 文件夹保留，关闭显示与阴影。
+
+检查视图
+CAM_YU7_Front / CAM_YU7_Rear / CAM_YU7_Side
+reports/ue_front.png：前方材质预览
+reports/ue_rear.png：后方材质预览
+reports/ue_world_normals.png：WorldNormal 曲面检查
+这些是实时验收图，仍有噪声；最终车漆、玻璃、内饰和摄影棚灯光需要继续美术调校。
+
+证据
+reports/ue_validation.json：最终完整渲染数据审计
+reports/ue_session_final.json：Blueprint 编译、保存状态和原始文件校验
+reports/ue_uv_repairs_pass1.json、ue_uv_repairs.json：局部 UV 修改
+reports/ue_output_manifest.json：UE 交付资产哈希
+项目根目录 DEV_HISTORY.md：开发决策、失败、workaround 与验证记录
+
+Credits
+署名已随模型、UE 网格和 Blueprint 元数据保存；最终屏幕 Credits 仍待 UI/成片制作时完成。
+"2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).

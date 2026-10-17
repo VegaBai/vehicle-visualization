@@ -1,0 +1,29 @@
+{
+  "id": "ld15_variants_rebuild",
+  "started": "2026-10-17T01:46:13-0700",
+  "status": "success",
+  "result": {
+    "asset": "/Game/YU7/Lookdev/Variants/LVS_YU7_Lookdev.LVS_YU7_Lookdev",
+    "groups": {
+      "Paint": [
+        "Mineral Teal",
+        "Pearl White",
+        "Graphite"
+      ],
+      "Glass": [
+        "Clear",
+        "Smoked"
+      ],
+      "WindowTrim": [
+        "Obsidian",
+        "Satin Metal"
+      ],
+      "Lighting": [
+        "Beauty",
+        "Sculpted Contrast"
+      ]
+    },
+    "verified_combinations": 24
+  },
+  "finished": "2026-10-17T01:46:14-0700"
+}

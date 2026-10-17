@@ -1,0 +1,438 @@
+{
+  "world": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+  "dirty_maps": [],
+  "dirty_content": [],
+  "actors": [
+    {
+      "name": "StaticMeshActor_1",
+      "label": "SM_HalfDome",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002778CA507E0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA507E0) {pitch: 0.000000, yaw: -179.999999, roll: 0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_3",
+      "label": "SM_AutomotiveTP_Car",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002778CA50560) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50560) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_4",
+      "label": "SM_InvertedCube",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002778CA50380) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50380) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "RectLight_0",
+      "label": "RectLight",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA50380) {x: 0.000000, y: 0.000000, z: 610.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50380) {pitch: -89.000000, yaw: -90.000000, roll: 180.000000}>",
+      "light": {
+        "intensity": "0.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "970.0",
+        "source_height": "580.0",
+        "source_texture": "None",
+        "temperature": "6500.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "BP_CStand_C_1",
+      "label": "BP_CStand",
+      "class": "BP_CStand_C",
+      "location": "<Struct 'Vector' (0x000002778CA50380) {x: -343.301271, y: -146.243557, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50380) {pitch: 0.000000, yaw: 30.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "BP_CStand_C_2",
+      "label": "BP_CStand2",
+      "class": "BP_CStand_C",
+      "location": "<Struct 'Vector' (0x000002778CA50380) {x: 34.185842, y: -240.070416, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50380) {pitch: 0.000000, yaw: 99.999999, roll: -0.000000}>"
+    },
+    {
+      "name": "BP_CStand_C_3",
+      "label": "BP_CStand3",
+      "class": "BP_CStand_C",
+      "location": "<Struct 'Vector' (0x000002778CA50380) {x: 348.092198, y: 180.959967, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50380) {pitch: 0.000000, yaw: -150.000002, roll: 0.000000}>"
+    },
+    {
+      "name": "CineCameraActor_3",
+      "label": "CineCameraActor",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000002778CA50420) {x: -857.175738, y: 0.000016, z: 131.192060}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50420) {pitch: -4.676806, yaw: 0.209275, roll: 0.000000}>",
+      "camera": {
+        "current_focal_length": "35.0",
+        "current_aperture": "2.799999952316284",
+        "filmback": "<Struct 'CameraFilmbackSettings' (0x00000277F2FDEB8C) {sensor_width: 23.760000, sensor_height: 13.365000, sensor_horizontal_offset: 0.000000, sensor_vertical_offset: 0.000000, sensor_aspect_ratio: 1.777778}>",
+        "focus_settings": "<Struct 'CameraFocusSettings' (0x00000277F2FDEBC0) {focus_method: Manual, manual_focus_distance: 100000.000000, tracking_focus_settings: {actor_to_track: None, relative_offset: {x: 0.000000, y: 0.000000, z: 0.000000}, draw_debug_tracking_focus_point: False}, smooth_focus_changes: False, focus_smoothing_interp_speed: 8.000000, focus_offset: 0.000000}>"
+      }
+    },
+    {
+      "name": "PostProcessVolume_1",
+      "label": "PostProcessVolume",
+      "class": "PostProcessVolume",
+      "location": "<Struct 'Vector' (0x000002776F914C90) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002776F914D30) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "post": {
+        "auto_exposure_min_brightness": "9.0",
+        "auto_exposure_max_brightness": "9.0",
+        "auto_exposure_bias": "1.0",
+        "lumen_scene_lighting_quality": "4.0",
+        "lumen_final_gather_quality": "4.0",
+        "lumen_reflection_quality": "4.0",
+        "lumen_front_layer_translucency_reflections": "True"
+      }
+    },
+    {
+      "name": "CineCameraActor_0",
+      "label": "CAM_YU7_Front",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000002776F914C90) {x: -750.000000, y: 650.000000, z: 300.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002776F914C90) {pitch: -12.773426, yaw: -40.914383, roll: -0.000000}>",
+      "camera": {
+        "current_focal_length": "50.0",
+        "current_aperture": "8.0",
+        "filmback": "<Struct 'CameraFilmbackSettings' (0x00000278BA3D0B8C) {sensor_width: 36.000000, sensor_height: 20.250000, sensor_horizontal_offset: 0.000000, sensor_vertical_offset: 0.000000, sensor_aspect_ratio: 1.777778}>",
+        "focus_settings": "<Struct 'CameraFocusSettings' (0x00000278BA3D0BC0) {focus_method: Disable, manual_focus_distance: 100000.000000, tracking_focus_settings: {actor_to_track: None, relative_offset: {x: 0.000000, y: 0.000000, z: 0.000000}, draw_debug_tracking_focus_point: False}, smooth_focus_changes: False, focus_smoothing_interp_speed: 8.000000, focus_offset: 0.000000}>"
+      }
+    },
+    {
+      "name": "CineCameraActor_1",
+      "label": "CAM_YU7_Rear",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000002778CA512D0) {x: 750.000000, y: -650.000000, z: 270.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA512D0) {pitch: -11.115831, yaw: 139.085617, roll: 0.000000}>",
+      "camera": {
+        "current_focal_length": "50.0",
+        "current_aperture": "8.0",
+        "filmback": "<Struct 'CameraFilmbackSettings' (0x00000278127E5F8C) {sensor_width: 36.000000, sensor_height: 20.250000, sensor_horizontal_offset: 0.000000, sensor_vertical_offset: 0.000000, sensor_aspect_ratio: 1.777778}>",
+        "focus_settings": "<Struct 'CameraFocusSettings' (0x00000278127E5FC0) {focus_method: Disable, manual_focus_distance: 100000.000000, tracking_focus_settings: {actor_to_track: None, relative_offset: {x: 0.000000, y: 0.000000, z: 0.000000}, draw_debug_tracking_focus_point: False}, smooth_focus_changes: False, focus_smoothing_interp_speed: 8.000000, focus_offset: 0.000000}>"
+      }
+    },
+    {
+      "name": "CineCameraActor_2",
+      "label": "CAM_YU7_Side",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000002778CA51320) {x: 0.000000, y: 1080.000000, z: 205.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51320) {pitch: -6.863692, yaw: -90.000000, roll: -0.000000}>",
+      "camera": {
+        "current_focal_length": "50.0",
+        "current_aperture": "8.0",
+        "filmback": "<Struct 'CameraFilmbackSettings' (0x00000277E825B38C) {sensor_width: 36.000000, sensor_height: 20.250000, sensor_horizontal_offset: 0.000000, sensor_vertical_offset: 0.000000, sensor_aspect_ratio: 1.777778}>",
+        "focus_settings": "<Struct 'CameraFocusSettings' (0x00000277E825B3C0) {focus_method: Disable, manual_focus_distance: 100000.000000, tracking_focus_settings: {actor_to_track: None, relative_offset: {x: 0.000000, y: 0.000000, z: 0.000000}, draw_debug_tracking_focus_point: False}, smooth_focus_changes: False, focus_smoothing_interp_speed: 8.000000, focus_offset: 0.000000}>"
+      }
+    },
+    {
+      "name": "BP_YU7_C_0",
+      "label": "YU7_Hero",
+      "class": "BP_YU7_C",
+      "location": "<Struct 'Vector' (0x000002778CA51320) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51320) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "BP_YU7_StudioLighting_C_0",
+      "label": "YU7_StudioLighting",
+      "class": "BP_YU7_StudioLighting_C",
+      "location": "<Struct 'Vector' (0x000002778CA51190) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51190) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>"
+    },
+    {
+      "name": "CineCameraActor_4",
+      "label": "CAM_YU7_Beauty",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000002778CA50BA0) {x: -850.000000, y: 780.000000, z: 265.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50BA0) {pitch: -9.110449, yaw: -42.540956, roll: -0.000000}>",
+      "camera": {
+        "current_focal_length": "55.0",
+        "current_aperture": "8.0",
+        "filmback": "<Struct 'CameraFilmbackSettings' (0x00000277F2FDDD8C) {sensor_width: 36.000000, sensor_height: 20.250000, sensor_horizontal_offset: 0.000000, sensor_vertical_offset: 0.000000, sensor_aspect_ratio: 1.777778}>",
+        "focus_settings": "<Struct 'CameraFocusSettings' (0x00000277F2FDDDC0) {focus_method: Disable, manual_focus_distance: 100000.000000, tracking_focus_settings: {actor_to_track: None, relative_offset: {x: 0.000000, y: 0.000000, z: 0.000000}, draw_debug_tracking_focus_point: False}, smooth_focus_changes: False, focus_smoothing_interp_speed: 8.000000, focus_offset: 0.000000}>"
+      }
+    },
+    {
+      "name": "LevelVariantSetsActor_0",
+      "label": "YU7_VariantManager",
+      "class": "LevelVariantSetsActor",
+      "location": "<Struct 'Vector' (0x000002778CA51140) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51140) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>"
+    },
+    {
+      "name": "RectLight_1",
+      "label": "YU7_Light_Key_Softbox",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA51460) {x: -100.000000, y: -100.000000, z: 480.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51460) {pitch: -71.182206, yaw: 45.000000, roll: 0.000000}>",
+      "light": {
+        "intensity": "44000.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "640.0",
+        "source_height": "170.0",
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x000002773BB23600) Class 'Texture2D'>",
+        "temperature": "5600.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "RectLight_2",
+      "label": "YU7_Light_Side_Strip",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA513C0) {x: 60.000000, y: 390.000000, z: 240.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA513C0) {pitch: -20.176943, yaw: -98.746162, roll: -0.000000}>",
+      "light": {
+        "intensity": "20000.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "540.0",
+        "source_height": "75.0",
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x000002773BB23600) Class 'Texture2D'>",
+        "temperature": "6200.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "RectLight_3",
+      "label": "YU7_Light_Rear_Rim",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA51550) {x: 270.000000, y: -260.000000, z: 320.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51550) {pitch: -34.534922, yaw: 128.927544, roll: 0.000001}>",
+      "light": {
+        "intensity": "42000.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "440.0",
+        "source_height": "85.0",
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x000002773BB23600) Class 'Texture2D'>",
+        "temperature": "7000.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "RectLight_4",
+      "label": "YU7_Light_Front_Fill",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA515F0) {x: -430.000000, y: -160.000000, z: 230.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA515F0) {pitch: -25.201124, yaw: 28.072487, roll: 0.000000}>",
+      "light": {
+        "intensity": "16000.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "240.0",
+        "source_height": "230.0",
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x000002773BB23600) Class 'Texture2D'>",
+        "temperature": "5200.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "RectLight_5",
+      "label": "YU7_Light_Roof_Ribbon",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA50330) {x: 130.000000, y: -40.000000, z: 520.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50330) {pitch: -73.182301, yaw: 162.897271, roll: 0.000001}>",
+      "light": {
+        "intensity": "10000.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "520.0",
+        "source_height": "90.0",
+        "source_texture": "<Object '/Game/YU7/Lookdev/Textures/T_SoftboxDiffuser.T_SoftboxDiffuser' (0x000002773BB23600) Class 'Texture2D'>",
+        "temperature": "6500.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "RectLight_6",
+      "label": "YU7_Light_Backdrop_Wash",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000002778CA511E0) {x: 360.000000, y: -180.000000, z: 340.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA511E0) {pitch: -17.704890, yaw: -61.389540, roll: -0.000000}>",
+      "light": {
+        "intensity": "46000.0",
+        "specular_scale": "1.0",
+        "cast_shadows": "True",
+        "indirect_lighting_intensity": "1.0",
+        "source_width": "380.0",
+        "source_height": "300.0",
+        "source_texture": "None",
+        "temperature": "6900.0",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    },
+    {
+      "name": "StaticMeshActor_0",
+      "label": "YU7_VP_001_carGlass_front_1",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002778CA51640) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA51640) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_2",
+      "label": "YU7_VP_006_carPaint_2",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002778CA50650) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA50650) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_5",
+      "label": "YU7_VP_008_carWindowTrim_3_1_",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002778CA514B0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002778CA514B0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_6",
+      "label": "YU7_VP_019_carWindowTrim_3",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09D70) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09D70) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_7",
+      "label": "YU7_VP_028_carPaint_10",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08740) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08740) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_8",
+      "label": "YU7_VP_033_carWindowTrim_1_1_",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC086A0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC086A0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_9",
+      "label": "YU7_VP_038_carPaint_4_1_",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC082E0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC082E0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_10",
+      "label": "YU7_VP_039_carWindowTrim_5",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08240) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08240) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_11",
+      "label": "YU7_VP_040_carPaint_2_1_",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08380) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08380) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_12",
+      "label": "YU7_VP_045_carPaint_13",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08880) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08880) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_13",
+      "label": "YU7_VP_047_carGlass_front_2_Side_2_1_",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08330) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08330) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_14",
+      "label": "YU7_VP_049_carGlass_back_2_Side",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09B40) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09B40) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_15",
+      "label": "YU7_VP_057_carGlass_back_2_Side_1_1_",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09F50) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09F50) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_16",
+      "label": "YU7_VP_058_carPaint_4",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09B90) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09B90) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_17",
+      "label": "YU7_VP_060_carPaint_1",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08D30) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08D30) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_18",
+      "label": "YU7_VP_068_carPaint_9",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09A00) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09A00) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_19",
+      "label": "YU7_VP_074_carGlass_back_2_Side_1",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09960) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09960) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_20",
+      "label": "YU7_VP_075_carGlass_front_2_Side_2",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC08CE0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC08CE0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_21",
+      "label": "YU7_VP_076_carGlass_back_1",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09910) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09910) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_22",
+      "label": "YU7_VP_079_carPaint_8",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC09190) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09190) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "StaticMeshActor_23",
+      "label": "YU7_VP_080_carWindowTrim_1",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000002765FC088D0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC088D0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>"
+    },
+    {
+      "name": "LevelSequenceActor_0",
+      "label": "SEQ_Truck_Studio_White",
+      "class": "LevelSequenceActor",
+      "location": "<Struct 'Vector' (0x000002765FC09C30) {x: -33.963879, y: 1136.834610, z: 1250.491847}>",
+      "rotation": "<Struct 'Rotator' (0x000002765FC09C30) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>"
+    }
+  ]
+}

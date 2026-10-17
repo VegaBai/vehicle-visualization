@@ -1,0 +1,15 @@
+{
+  "id": "ld25_graphite_view",
+  "started": "2026-10-17T01:50:34-0700",
+  "status": "success",
+  "result": {
+    "camera": "CAM_YU7_Beauty",
+    "variants": {
+      "Paint": "Graphite",
+      "Glass": "Smoked",
+      "WindowTrim": "Obsidian",
+      "Lighting": "Sculpted Contrast"
+    }
+  },
+  "finished": "2026-10-17T01:50:34-0700"
+}

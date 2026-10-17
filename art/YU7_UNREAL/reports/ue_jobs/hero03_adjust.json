@@ -1,0 +1,11 @@
+{
+  "id": "hero03_adjust",
+  "started": "2026-10-17T14:43:07-0700",
+  "status": "success",
+  "result": {
+    "version": "v1",
+    "lights": 7,
+    "saved": true
+  },
+  "finished": "2026-10-17T14:43:10-0700"
+}

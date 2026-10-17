@@ -1,0 +1,81 @@
+YU7 LOOKDEV / 2026-10-17
+
+打开与切换
+-----------
+项目：C:/github2/vehicle_visualization/VehicleStudio/VehicleStudio.uproject
+当前工作地图：/Game/YU7/Maps/Studio_YU7
+修改前基线：/Game/YU7/Maps/Studio_YU7_ImportBaseline
+原示例地图：/Game/Studios/Levels/Studio_White（保留）
+摄影机：CAM_YU7_Beauty，55 mm，36 × 20.25 mm 画幅。
+
+在 Content Browser 双击以下资产打开 Variant Manager：
+/Game/YU7/Lookdev/Variants/LVS_YU7_Lookdev
+场景中对应 Actor：YU7_VariantManager。
+双击一个 Variant 激活；不同组互相独立，可以组合。
+
+组名          方案名（Blueprint 调用时使用这些准确字符串）
+Paint         Mineral Teal / Pearl White / Graphite
+Glass         Clear / Smoked
+WindowTrim    Obsidian / Satin Metal
+Lighting      Beauty / Sculpted Contrast
+
+这次交付的是资产和原生 Variant Manager 切换。尚未制作运行时按钮界面。
+后续 UMG Button 的 OnClicked → 引用 YU7_VariantManager →
+Switch on Variant by Name，即可接入 Blueprint，无需 C++ 或运行时 Python。
+这是放在当前地图中的 Actor 绑定；复制整车到另一张地图时要重绑目标。
+
+材质调整
+--------
+文件夹：/Game/YU7/Lookdev/Materials
+M_YU7_AutomotivePaint：参数化底漆 + Clear Coat；PigmentColor、EdgeTint、
+ColorFlop、Metallic、BaseRoughness、CoatRoughness 可在 MI_Paint_* 调整。
+颜色是作品艺术方案，不是小米官方配色或实测光谱。
+
+M_YU7_ThinGlass：Thin Translucent。MI_Glass_Clear / Smoked 用于车窗；
+MI_Glass_Roof 用于天幕；MI_Glass_Lens 用于灯罩。
+TransmissionTint 控制透射吸收，Roughness 控制高光宽度，Specular 控制反射。
+当前 Substrate 转换下 OpaqueLayerAmount=0，SurfaceCoverage=1；不要把根
+Opacity 当成薄玻璃覆盖率，否则会变成不透明黑镜。此设置经实际渲染检查。
+
+M_YU7_TrimMasked：保留原贴图 Alpha 遮罩，独立调整黑色塑料和窗框金属。
+MI_Detail_Charcoal 修正出风口等深灰部位。原导入材质和网格未覆盖。
+
+灯光调整
+--------
+Outliner 的 YU7/LookdevLights 下有 6 个 YU7_Light_* RectLight：
+Key_Softbox 主柔光、Side_Strip 侧条光、Rear_Rim 后轮廓、Front_Fill 前补光、
+Roof_Ribbon 顶条光、Backdrop_Wash 背景光。
+5 个主体灯使用原创 T_SoftboxDiffuser 渐变，柔化反射边缘。
+Beauty / Sculpted Contrast 记录这 6 盏灯的强度；修改灯光强度后，需要在
+对应 Variant 的捕获属性里重新 Record，才能保存为该灯光方案。
+主后期：固定 EV 区间、较低 Bloom、无运动模糊、高质量 Lumen 反射。
+
+UE 5.8 稳定性处理
+-----------------
+制作中发现：Variant Manager 捕获 Blueprint 构造组件的材质/灯光后，
+跨帧切换可能在引擎 HasValidResolve 中遇到失效组件缓存并崩溃。
+因此 21 个参与切换的分件采用原生 StaticMeshActor，附着在 YU7_Hero 下；
+相应 BP 组件只在当前地图隐藏并关闭阴影。其余 100 个部件仍由 BP 显示。
+原 BP 的 121 个组件和源网格全部保留，不重复绘制，不改几何或法线。
+6 盏活动灯采用原生 RectLight；灯光 Blueprint 留在 Reference 下且已停用。
+这是编辑器绑定层的替代方案，运行时仍可通过 Blueprint 使用 Variant Manager。
+不要把这些变体重新绑定回 Blueprint 的构造组件；详见 DEV_HISTORY.md。
+
+当前 UE 5.8 还有地图重载时的缓存限制：使用过变体后，不要只重载关卡
+再继续使用内存中的同一 LVS。可正常保存并重开项目，或在 UE 的
+Tools > Execute Python Script 运行项目 tools/ue_lookdev_reload.py：
+它先保存、重新加载 LVS 资产清掉旧组件缓存，再加载 Studio_YU7。
+该脚本仅服务编辑器工作流；运行时切换无需 Python。
+
+输出与验收
+----------
+预览图和报告：art/YU7_UNREAL/reports/lookdev/
+beauty_mineral_teal.png / beauty_pearl_white.png / beauty_graphite_contrast.png
+预览为 UE 实时 Lumen 截图，有细微噪声；最终作品镜头仍需单独进行 MRQ
+采样、运动设计、构图与输出调色。此次没有新增最终成片或交互菜单。
+最终实际验收状态见 final_audit.json、variants.json、session_final.json，
+制作中间失败不能当作当前结果；完整过程与修复依据在根目录 DEV_HISTORY.md。
+
+署名（最终项目 Credits 需原样显示；本次尚未制作最终屏幕 Credits）
+----------------------------------------------------------------
+"2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).

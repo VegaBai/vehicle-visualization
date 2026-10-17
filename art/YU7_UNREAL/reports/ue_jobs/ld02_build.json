@@ -1,0 +1,7 @@
+{
+  "id": "ld02_build",
+  "started": "2026-10-17T01:40:48-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_lookdev_build.py\", line 62, in <module>\n    pearl=instance('MI_Paint_PearlWhite',paint,{'Metallic':.15,'BaseRoughness':.27,'CoatRoughness':.085,'ColorFlop':.18},{'PigmentColor':[.64,.66,.65],'EdgeTint':[.80,.82,.80]})\n          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_lookdev_build.py\", line 39, in instance\n    for k,v in scalars.items(): assert M.set_material_instance_scalar_parameter_value(mi,k,v)\n                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n",
+  "finished": "2026-10-17T01:40:50-0700"
+}

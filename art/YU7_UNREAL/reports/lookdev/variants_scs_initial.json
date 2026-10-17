@@ -1,0 +1,394 @@
+{
+  "asset": "/Game/YU7/Lookdev/Variants/LVS_YU7_Lookdev",
+  "groups": {
+    "Paint": {
+      "Mineral Teal": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Paint_MineralTeal.MI_Paint_MineralTeal",
+        "captures": 9
+      },
+      "Pearl White": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Paint_PearlWhite.MI_Paint_PearlWhite",
+        "captures": 9
+      },
+      "Graphite": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Paint_Graphite.MI_Paint_Graphite",
+        "captures": 9
+      }
+    },
+    "Glass": {
+      "Clear": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Glass_Clear.MI_Glass_Clear",
+        "captures": 7
+      },
+      "Smoked": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Glass_Smoked.MI_Glass_Smoked",
+        "captures": 7
+      }
+    },
+    "WindowTrim": {
+      "Obsidian": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Trim_Obsidian.MI_Trim_Obsidian",
+        "captures": 5
+      },
+      "Satin Metal": {
+        "material": "/Game/YU7/Lookdev/Materials/MI_Trim_SatinMetal.MI_Trim_SatinMetal",
+        "captures": 5
+      }
+    },
+    "Lighting": {
+      "Beauty": {
+        "intensities": {
+          "Key_Softbox": 44000.0,
+          "Side_Strip": 20000.0,
+          "Rear_Rim": 42000.0,
+          "Front_Fill": 16000.0,
+          "Roof_Ribbon": 10000.0,
+          "Backdrop_Wash": 46000.0
+        },
+        "captures": 6
+      },
+      "Sculpted Contrast": {
+        "intensities": {
+          "Key_Softbox": 33000.0,
+          "Side_Strip": 10000.0,
+          "Rear_Rim": 46200.00000000001,
+          "Front_Fill": 6400.0,
+          "Roof_Ribbon": 5000.0,
+          "Backdrop_Wash": 27600.0
+        },
+        "captures": 6
+      }
+    }
+  },
+  "bindings": {
+    "Paint": [
+      {
+        "component": "Part_006_carPaint_2",
+        "slot": 1,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_006_carPaint_2 / Material[1]"
+      },
+      {
+        "component": "Part_028_carPaint_10",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_028_carPaint_10 / Material[0]"
+      },
+      {
+        "component": "Part_038_carPaint_4_1_",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_038_carPaint_4_1_ / Material[0]"
+      },
+      {
+        "component": "Part_040_carPaint_2_1_",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_040_carPaint_2_1_ / Material[0]"
+      },
+      {
+        "component": "Part_045_carPaint_13",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_045_carPaint_13 / Material[0]"
+      },
+      {
+        "component": "Part_058_carPaint_4",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_058_carPaint_4 / Material[0]"
+      },
+      {
+        "component": "Part_060_carPaint_1",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_060_carPaint_1 / Material[0]"
+      },
+      {
+        "component": "Part_068_carPaint_9",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_068_carPaint_9 / Material[0]"
+      },
+      {
+        "component": "Part_079_carPaint_8",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_079_carPaint_8 / Material[0]"
+      }
+    ],
+    "Glass": [
+      {
+        "component": "Part_001_carGlass_front_1",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_001_carGlass_front_1 / Material[0]"
+      },
+      {
+        "component": "Part_047_carGlass_front_2_Side_2_1_",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_047_carGlass_front_2_Side_2_1_ / Material[0]"
+      },
+      {
+        "component": "Part_049_carGlass_back_2_Side",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_049_carGlass_back_2_Side / Material[0]"
+      },
+      {
+        "component": "Part_057_carGlass_back_2_Side_1_1_",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_057_carGlass_back_2_Side_1_1_ / Material[0]"
+      },
+      {
+        "component": "Part_074_carGlass_back_2_Side_1",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_074_carGlass_back_2_Side_1 / Material[0]"
+      },
+      {
+        "component": "Part_075_carGlass_front_2_Side_2",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_075_carGlass_front_2_Side_2 / Material[0]"
+      },
+      {
+        "component": "Part_076_carGlass_back_1",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_076_carGlass_back_1 / Material[0]"
+      }
+    ],
+    "WindowTrim": [
+      {
+        "component": "Part_008_carWindowTrim_3_1_",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_008_carWindowTrim_3_1_ / Material[0]"
+      },
+      {
+        "component": "Part_019_carWindowTrim_3",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_019_carWindowTrim_3 / Material[0]"
+      },
+      {
+        "component": "Part_033_carWindowTrim_1_1_",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_033_carWindowTrim_1_1_ / Material[0]"
+      },
+      {
+        "component": "Part_039_carWindowTrim_5",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_039_carWindowTrim_5 / Material[0]"
+      },
+      {
+        "component": "Part_080_carWindowTrim_1",
+        "slot": 0,
+        "property": "DefaultSceneRoot / VehicleGeometry / Part_080_carWindowTrim_1 / Material[0]"
+      }
+    ]
+  },
+  "combination_tests": [
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Mineral Teal",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Pearl White",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Clear",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Obsidian",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Beauty"
+      },
+      "passed": true
+    },
+    {
+      "choices": {
+        "Paint": "Graphite",
+        "Glass": "Smoked",
+        "WindowTrim": "Satin Metal",
+        "Lighting": "Sculpted Contrast"
+      },
+      "passed": true
+    }
+  ]
+}

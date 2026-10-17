@@ -1,0 +1,7 @@
+{
+  "id": "hero21_final_audit_retry",
+  "started": "2026-10-17T14:58:42-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_hero_final_audit.py\", line 32, in <module>\n    output=preset.get_output_setting()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'MoviePipelinePrimaryConfig' object has no attribute 'get_output_setting'\n",
+  "finished": "2026-10-17T14:58:42-0700"
+}

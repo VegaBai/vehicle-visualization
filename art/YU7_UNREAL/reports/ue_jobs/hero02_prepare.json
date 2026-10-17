@@ -1,0 +1,17 @@
+{
+  "id": "hero02_prepare",
+  "started": "2026-10-17T14:42:52-0700",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero.Studio_YU7_MineralHero",
+    "isolated_materials": [
+      "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "/Game/YU7/Cinematics/Materials/MI_Hero_GlassClear.MI_Hero_GlassClear",
+      "/Game/YU7/Cinematics/Materials/MI_Hero_Studio.MI_Hero_Studio"
+    ],
+    "assignments": 36,
+    "variant_cache_reloaded": "(True, Text(\"\"))",
+    "protected_files": 223
+  },
+  "finished": "2026-10-17T14:42:54-0700"
+}

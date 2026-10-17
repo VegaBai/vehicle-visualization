@@ -1,0 +1,15 @@
+{
+  "id": "ld34_final_view",
+  "started": "2026-10-17T01:53:51-0700",
+  "status": "success",
+  "result": {
+    "camera": "CAM_YU7_Beauty",
+    "variants": {
+      "Paint": "Mineral Teal",
+      "Glass": "Clear",
+      "WindowTrim": "Obsidian",
+      "Lighting": "Beauty"
+    }
+  },
+  "finished": "2026-10-17T01:53:51-0700"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hero23_finish",
+  "started": "2026-10-17T15:01:47-0700",
+  "status": "success",
+  "result": {
+    "saved": true,
+    "active_map": "/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero.Studio_YU7_MineralHero",
+    "native_sequence": "/Game/YU7/Cinematics/Sequences/LS_YU7_MineralHero_5s.LS_YU7_MineralHero_5s",
+    "cinematic_files": 10,
+    "dirty_maps": [],
+    "dirty_content": [],
+    "runner_stopped": true
+  },
+  "finished": "2026-10-17T15:01:47-0700"
+}

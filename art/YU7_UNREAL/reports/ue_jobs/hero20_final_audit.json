@@ -1,0 +1,7 @@
+{
+  "id": "hero20_final_audit",
+  "started": "2026-10-17T14:58:12-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_hero_final_audit.py\", line 32, in <module>\n    output=next(s for s in settings if isinstance(s,unreal.MoviePipelineOutputSetting))\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nStopIteration\n",
+  "finished": "2026-10-17T14:58:12-0700"
+}

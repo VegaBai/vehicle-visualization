@@ -1,0 +1,12 @@
+{
+  "id": "ld05_build_retry",
+  "started": "2026-10-17T01:41:14-0700",
+  "status": "success",
+  "result": {
+    "assets": 12,
+    "assignments": 20,
+    "lights": 6,
+    "baseline": "/Game/YU7/Maps/Studio_YU7_ImportBaseline"
+  },
+  "finished": "2026-10-17T01:41:20-0700"
+}

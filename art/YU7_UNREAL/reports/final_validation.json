@@ -1,0 +1,5285 @@
+{
+  "prepared": {
+    "objects": [
+      {
+        "name": "SM_YU7_001_carGlass_front_1",
+        "vertices": 190,
+        "triangles": 376,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_002_carLight_backbulb",
+        "vertices": 32,
+        "triangles": 30,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 32
+      },
+      {
+        "name": "SM_YU7_003_carLight_bulb_2",
+        "vertices": 368,
+        "triangles": 538,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 184
+      },
+      {
+        "name": "SM_YU7_004_carLightPlastic_MatteBlack_2",
+        "vertices": 4444,
+        "triangles": 6993,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_LIGHT_CHROME_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1773
+      },
+      {
+        "name": "SM_YU7_005_carBonnetLogoBase_body",
+        "vertices": 754,
+        "triangles": 1331,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 181
+      },
+      {
+        "name": "SM_YU7_006_carPaint_2",
+        "vertices": 2152,
+        "triangles": 3800,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF__UVFallback",
+          "M_YU7_CarPaint__UVFallback"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 496
+      },
+      {
+        "name": "SM_YU7_007_carPlastic_BrilliantBlack_3_1",
+        "vertices": 372,
+        "triangles": 576,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 156
+      },
+      {
+        "name": "SM_YU7_008_carWindowTrim_3_1_",
+        "vertices": 248,
+        "triangles": 443,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_",
+        "vertices": 947,
+        "triangles": 1745,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 145
+      },
+      {
+        "name": "SM_YU7_010_carDuckTail",
+        "vertices": 519,
+        "triangles": 918,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 118
+      },
+      {
+        "name": "SM_YU7_011_carLightGlass_Back_1",
+        "vertices": 1319,
+        "triangles": 2484,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Light_Glass"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 150
+      },
+      {
+        "name": "SM_YU7_012_carXiaoMi_3_yu7",
+        "vertices": 191,
+        "triangles": 307,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 69
+      },
+      {
+        "name": "SM_YU7_013_carPlastic_BrilliantBlack_3_2",
+        "vertices": 1525,
+        "triangles": 2776,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 264
+      },
+      {
+        "name": "SM_YU7_014_carBonnetLogoFont_body",
+        "vertices": 495,
+        "triangles": 872,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 112
+      },
+      {
+        "name": "SM_YU7_015_carMirror_bottom_2",
+        "vertices": 347,
+        "triangles": 641,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_016_carLight_bulb_1",
+        "vertices": 88,
+        "triangles": 92,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_017_carPlastic_MatteBlack_2",
+        "vertices": 134,
+        "triangles": 192,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_018_carPlastic_BrilliantBlack_2_3",
+        "vertices": 1141,
+        "triangles": 2060,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 220
+      },
+      {
+        "name": "SM_YU7_019_carWindowTrim_3",
+        "vertices": 248,
+        "triangles": 443,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_",
+        "vertices": 945,
+        "triangles": 1764,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 122
+      },
+      {
+        "name": "SM_YU7_021_carInternal_PassengerSeatFront",
+        "vertices": 18650,
+        "triangles": 33962,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Seat_Front"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 3382
+      },
+      {
+        "name": "SM_YU7_022_carLightGlass_Front",
+        "vertices": 602,
+        "triangles": 1012,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Light_Glass"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 184
+      },
+      {
+        "name": "SM_YU7_023_carXiaoMi_3",
+        "vertices": 379,
+        "triangles": 615,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 135
+      },
+      {
+        "name": "SM_YU7_024_carPlate",
+        "vertices": 148,
+        "triangles": 250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 42
+      },
+      {
+        "name": "SM_YU7_025_carPlastic_BrilliantBlack_1_6",
+        "vertices": 947,
+        "triangles": 1745,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 145
+      },
+      {
+        "name": "SM_YU7_026_carGlass_front_2",
+        "vertices": 184,
+        "triangles": 318,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 46
+      },
+      {
+        "name": "SM_YU7_027_carLightPlastic_BrilliantBlack_2",
+        "vertices": 1738,
+        "triangles": 1442,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_LIGHT_PLASTIC_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1564
+      },
+      {
+        "name": "SM_YU7_028_carPaint_10",
+        "vertices": 6761,
+        "triangles": 12615,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 789
+      },
+      {
+        "name": "SM_YU7_029_carInternal_TrunkInternal",
+        "vertices": 5240,
+        "triangles": 9454,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Trunk_E"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1028
+      },
+      {
+        "name": "SM_YU7_030_carFrontBonnetNet",
+        "vertices": 20,
+        "triangles": 16,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 20
+      },
+      {
+        "name": "SM_YU7_031_carRearviewMirror_2",
+        "vertices": 444,
+        "triangles": 817,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Mirrors"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 69
+      },
+      {
+        "name": "SM_YU7_032_carWheelLogoBase_ScuffPlate_Font",
+        "vertices": 802,
+        "triangles": 786,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 802
+      },
+      {
+        "name": "SM_YU7_033_carWindowTrim_1_1_",
+        "vertices": 174,
+        "triangles": 306,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 40
+      },
+      {
+        "name": "SM_YU7_034_carLight_bulb_3",
+        "vertices": 1149,
+        "triangles": 1579,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 685
+      },
+      {
+        "name": "SM_YU7_035_carPlastic_BrilliantGray_1",
+        "vertices": 108,
+        "triangles": 184,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 30
+      },
+      {
+        "name": "SM_YU7_036_carInternal_DoorBack_1_",
+        "vertices": 10101,
+        "triangles": 18100,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_Door_Back"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2068
+      },
+      {
+        "name": "SM_YU7_037_carInternal_CenterConsole_2",
+        "vertices": 1174,
+        "triangles": 2206,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_SW"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 136
+      },
+      {
+        "name": "SM_YU7_038_carPaint_4_1_",
+        "vertices": 3199,
+        "triangles": 6077,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 317
+      },
+      {
+        "name": "SM_YU7_039_carWindowTrim_5",
+        "vertices": 1185,
+        "triangles": 2107,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 259
+      },
+      {
+        "name": "SM_YU7_040_carPaint_2_1_",
+        "vertices": 7469,
+        "triangles": 14446,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 496
+      },
+      {
+        "name": "SM_YU7_041_carPlastic_BrilliantBlack_3_3",
+        "vertices": 1525,
+        "triangles": 2776,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 264
+      },
+      {
+        "name": "SM_YU7_042_carInternal_SteeringWheel_Bottom",
+        "vertices": 2295,
+        "triangles": 4002,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 546
+      },
+      {
+        "name": "SM_YU7_043_carInternal_TrunkExternal",
+        "vertices": 5127,
+        "triangles": 9214,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Trunk"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1000
+      },
+      {
+        "name": "SM_YU7_044_carInternal_Roof",
+        "vertices": 298,
+        "triangles": 506,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Roof"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 88
+      },
+      {
+        "name": "SM_YU7_045_carPaint_13",
+        "vertices": 2605,
+        "triangles": 4942,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 264
+      },
+      {
+        "name": "SM_YU7_046_carPlastic_MatteBlack_1_1",
+        "vertices": 3760,
+        "triangles": 6194,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1300
+      },
+      {
+        "name": "SM_YU7_047_carGlass_front_2_Side_2_1_",
+        "vertices": 1400,
+        "triangles": 2796,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_048_carHoodOutletWisp",
+        "vertices": 370,
+        "triangles": 592,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 148
+      },
+      {
+        "name": "SM_YU7_049_carGlass_back_2_Side",
+        "vertices": 2020,
+        "triangles": 4032,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_050_carPlastic_BrilliantBlack_2_1",
+        "vertices": 2317,
+        "triangles": 4216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 414
+      },
+      {
+        "name": "SM_YU7_051_carLightPlastic_MatteBlack",
+        "vertices": 1928,
+        "triangles": 2238,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Metal_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1538
+      },
+      {
+        "name": "SM_YU7_052_carInternal_Dashboard",
+        "vertices": 6477,
+        "triangles": 11824,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Dash"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1136
+      },
+      {
+        "name": "SM_YU7_053_carInternal_DoorFront",
+        "vertices": 9756,
+        "triangles": 16889,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2547
+      },
+      {
+        "name": "SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_",
+        "vertices": 945,
+        "triangles": 1764,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 122
+      },
+      {
+        "name": "SM_YU7_055_carRoof_yu7",
+        "vertices": 884,
+        "triangles": 1764,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_D_Glass"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_056_carInternal_Frame_Top_2",
+        "vertices": 1775,
+        "triangles": 3138,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Frame_Top"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 418
+      },
+      {
+        "name": "SM_YU7_057_carGlass_back_2_Side_1_1_",
+        "vertices": 1584,
+        "triangles": 3164,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_058_carPaint_4",
+        "vertices": 3199,
+        "triangles": 6077,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 317
+      },
+      {
+        "name": "SM_YU7_059_carMirror_top_2",
+        "vertices": 598,
+        "triangles": 1122,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_060_carPaint_1",
+        "vertices": 17496,
+        "triangles": 32660,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2312
+      },
+      {
+        "name": "SM_YU7_061_carInternal_SteeringWheel_Top_4",
+        "vertices": 2458,
+        "triangles": 4638,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_SW"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 324
+      },
+      {
+        "name": "SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+        "vertices": 168,
+        "triangles": 276,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 56
+      },
+      {
+        "name": "SM_YU7_063_carInternal_CenterConsole_1",
+        "vertices": 7368,
+        "triangles": 13076,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Console"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1666
+      },
+      {
+        "name": "SM_YU7_064_carHoodOutletPanel",
+        "vertices": 1860,
+        "triangles": 3428,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 292
+      },
+      {
+        "name": "SM_YU7_065_carInternal_DoorFront_1_",
+        "vertices": 8932,
+        "triangles": 15473,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2333
+      },
+      {
+        "name": "SM_YU7_066_carMirror_top_2_1_",
+        "vertices": 598,
+        "triangles": 1122,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_067_carInternal_Frame_Bottom",
+        "vertices": 31121,
+        "triangles": 56398,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Bottom",
+          "M_YU7_Mirrors"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 5750
+      },
+      {
+        "name": "SM_YU7_068_carPaint_9",
+        "vertices": 2605,
+        "triangles": 4940,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 266
+      },
+      {
+        "name": "SM_YU7_069_carPlastic_MatteBlack_2_1",
+        "vertices": 1223,
+        "triangles": 2118,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 310
+      },
+      {
+        "name": "SM_YU7_070_carRoofSpoiler",
+        "vertices": 2118,
+        "triangles": 4066,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 174
+      },
+      {
+        "name": "SM_YU7_071_carMirror_bottom_2_1_",
+        "vertices": 347,
+        "triangles": 641,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_072_carInternal_DoorBack",
+        "vertices": 10099,
+        "triangles": 18097,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_Door_Back"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2065
+      },
+      {
+        "name": "SM_YU7_073_carRearviewMirror_3",
+        "vertices": 444,
+        "triangles": 817,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Mirrors"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 69
+      },
+      {
+        "name": "SM_YU7_074_carGlass_back_2_Side_1",
+        "vertices": 1480,
+        "triangles": 2956,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_075_carGlass_front_2_Side_2",
+        "vertices": 1400,
+        "triangles": 2796,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_076_carGlass_back_1",
+        "vertices": 962,
+        "triangles": 1920,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_077_carLightPlastic_BrilliantBlack_3",
+        "vertices": 1290,
+        "triangles": 2256,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_LIGHT_PLASTIC_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 332
+      },
+      {
+        "name": "SM_YU7_078_carPlastic_BrilliantBlack_2",
+        "vertices": 832,
+        "triangles": 1430,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 200
+      },
+      {
+        "name": "SM_YU7_079_carPaint_8",
+        "vertices": 3420,
+        "triangles": 6492,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 342
+      },
+      {
+        "name": "SM_YU7_080_carWindowTrim_1",
+        "vertices": 174,
+        "triangles": 306,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 40
+      },
+      {
+        "name": "SM_YU7_081_carHeaterStrip",
+        "vertices": 1030,
+        "triangles": 990,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_lambert272"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1030
+      },
+      {
+        "name": "SM_YU7_082_carPlastic_BrilliantBlack_1_1",
+        "vertices": 17726,
+        "triangles": 32472,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2962
+      },
+      {
+        "name": "SM_YU7_083_carLightGlass_Back_2",
+        "vertices": 1407,
+        "triangles": 2654,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Light_Glass"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 154
+      },
+      {
+        "name": "SM_YU7_084_carInternal_PassengerSeatBack",
+        "vertices": 12845,
+        "triangles": 22745,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Seat_Back"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2921
+      },
+      {
+        "name": "SM_YU7_085_carHeadLampPanel",
+        "vertices": 1629,
+        "triangles": 2977,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 281
+      },
+      {
+        "name": "SM_YU7_086_carBackDrop",
+        "vertices": 270,
+        "triangles": 454,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Roof"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 84
+      },
+      {
+        "name": "SM_YU7_087_carXiaoMi_1",
+        "vertices": 1140,
+        "triangles": 1986,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 286
+      },
+      {
+        "name": "SM_YU7_088_carInternal_SteeringWheel_Top_2",
+        "vertices": 10786,
+        "triangles": 19929,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_SW"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1599
+      },
+      {
+        "name": "SM_YU7_089_carPlastic_MatteBlack_trunk_9",
+        "vertices": 6562,
+        "triangles": 12015,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1065
+      },
+      {
+        "name": "SM_YU7_090_carWheelLogoFont_ACAL09",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_091_carTyre_02",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_092_carWheelLogoBase_ACAL09",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_093_carWheelAirVent_ACAL09",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_094_carWheelHub_ACAL09",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_095_carWheelRim_ACAL09",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1",
+          "M_YU7_RIM_C2"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_096_carWheelLogoFont_ACAL09",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_097_carTyre_02",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_098_carWheelLogoBase_ACAL09",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_099_carWheelAirVent_ACAL09",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_100_carWheelHub_ACAL09",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_101_carWheelRim_ACAL09",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1",
+          "M_YU7_RIM_C2"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_102_carWheelLogoFont_ACAL09",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_103_carTyre_02",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_104_carWheelLogoBase_ACAL09",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_105_carWheelAirVent_ACAL09",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_106_carWheelHub_ACAL09",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_107_carWheelRim_ACAL09",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1",
+          "M_YU7_RIM_C2"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_108_carWheelLogoFont_ACAL09",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_109_carTyre_02",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_110_carWheelLogoBase_ACAL09",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_111_carWheelAirVent_ACAL09",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_112_carWheelHub_ACAL09",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_113_carWheelRim_ACAL09",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1",
+          "M_YU7_RIM_C2"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_114_carBrakeDisc_Back_2",
+        "vertices": 312,
+        "triangles": 456,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 164
+      },
+      {
+        "name": "SM_YU7_115_carBrakeDisc_Back",
+        "vertices": 674,
+        "triangles": 1340,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_116_carCaliper_MainBack",
+        "vertices": 4994,
+        "triangles": 9832,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Caliper_C2",
+          "M_YU7_Caliper_C1"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 136
+      },
+      {
+        "name": "SM_YU7_117_carCaliper_Screw_1",
+        "vertices": 590,
+        "triangles": 1040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Caliper_C1"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 96
+      },
+      {
+        "name": "SM_YU7_118_carBrakeDisc_Front_2",
+        "vertices": 280,
+        "triangles": 552,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_119_carBrakeDisc_Front",
+        "vertices": 674,
+        "triangles": 1340,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_120_carCaliper_MainFront_1",
+        "vertices": 7076,
+        "triangles": 14080,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Caliper_C2"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 56
+      },
+      {
+        "name": "SM_YU7_121_carCaliper_PartFront_1",
+        "vertices": 1306,
+        "triangles": 1298,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1306
+      }
+    ],
+    "bounds_min": [
+      -2.499500036239624,
+      -1.0687525272369385,
+      0.0
+    ],
+    "bounds_max": [
+      2.499499797821045,
+      1.0687522888183594,
+      1.5910018682479858
+    ],
+    "dimensions": [
+      4.998999834060669,
+      2.137504816055298,
+      1.5910018682479858
+    ],
+    "totals": {
+      "vertices": 322100,
+      "triangles": 579282,
+      "bad_uv_triangles": 0,
+      "invalid_uv_values": 0,
+      "invalid_normals": 0,
+      "invalid_tangents": 0
+    }
+  },
+  "reimported": {
+    "objects": [
+      {
+        "name": "SM_YU7_001_carGlass_front_1.001",
+        "vertices": 190,
+        "triangles": 376,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_002_carLight_backbulb.001",
+        "vertices": 32,
+        "triangles": 30,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 32
+      },
+      {
+        "name": "SM_YU7_003_carLight_bulb_2.001",
+        "vertices": 368,
+        "triangles": 538,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 184
+      },
+      {
+        "name": "SM_YU7_004_carLightPlastic_MatteBlack_2.001",
+        "vertices": 4444,
+        "triangles": 6993,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_LIGHT_CHROME_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1773
+      },
+      {
+        "name": "SM_YU7_005_carBonnetLogoBase_body.001",
+        "vertices": 754,
+        "triangles": 1331,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 181
+      },
+      {
+        "name": "SM_YU7_006_carPaint_2.001",
+        "vertices": 2152,
+        "triangles": 3800,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF__UVFallback.001",
+          "M_YU7_CarPaint__UVFallback.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 496
+      },
+      {
+        "name": "SM_YU7_007_carPlastic_BrilliantBlack_3_1.001",
+        "vertices": 372,
+        "triangles": 576,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 156
+      },
+      {
+        "name": "SM_YU7_008_carWindowTrim_3_1_.001",
+        "vertices": 248,
+        "triangles": 443,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_.001",
+        "vertices": 947,
+        "triangles": 1745,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 145
+      },
+      {
+        "name": "SM_YU7_010_carDuckTail.001",
+        "vertices": 519,
+        "triangles": 918,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 118
+      },
+      {
+        "name": "SM_YU7_011_carLightGlass_Back_1.001",
+        "vertices": 1319,
+        "triangles": 2484,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Light_Glass.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 150
+      },
+      {
+        "name": "SM_YU7_012_carXiaoMi_3_yu7.001",
+        "vertices": 191,
+        "triangles": 307,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 69
+      },
+      {
+        "name": "SM_YU7_013_carPlastic_BrilliantBlack_3_2.001",
+        "vertices": 1525,
+        "triangles": 2776,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 264
+      },
+      {
+        "name": "SM_YU7_014_carBonnetLogoFont_body.001",
+        "vertices": 495,
+        "triangles": 872,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 112
+      },
+      {
+        "name": "SM_YU7_015_carMirror_bottom_2.001",
+        "vertices": 347,
+        "triangles": 641,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_016_carLight_bulb_1.001",
+        "vertices": 88,
+        "triangles": 92,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_017_carPlastic_MatteBlack_2.001",
+        "vertices": 134,
+        "triangles": 192,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_018_carPlastic_BrilliantBlack_2_3.001",
+        "vertices": 1141,
+        "triangles": 2060,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 220
+      },
+      {
+        "name": "SM_YU7_019_carWindowTrim_3.001",
+        "vertices": 248,
+        "triangles": 443,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_.001",
+        "vertices": 945,
+        "triangles": 1764,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 122
+      },
+      {
+        "name": "SM_YU7_021_carInternal_PassengerSeatFront.001",
+        "vertices": 18650,
+        "triangles": 33962,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Seat_Front.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 3382
+      },
+      {
+        "name": "SM_YU7_022_carLightGlass_Front.001",
+        "vertices": 602,
+        "triangles": 1012,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Light_Glass.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 184
+      },
+      {
+        "name": "SM_YU7_023_carXiaoMi_3.001",
+        "vertices": 379,
+        "triangles": 615,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 135
+      },
+      {
+        "name": "SM_YU7_024_carPlate.001",
+        "vertices": 148,
+        "triangles": 250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 42
+      },
+      {
+        "name": "SM_YU7_025_carPlastic_BrilliantBlack_1_6.001",
+        "vertices": 947,
+        "triangles": 1745,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 145
+      },
+      {
+        "name": "SM_YU7_026_carGlass_front_2.001",
+        "vertices": 184,
+        "triangles": 318,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 46
+      },
+      {
+        "name": "SM_YU7_027_carLightPlastic_BrilliantBlack_2.001",
+        "vertices": 1738,
+        "triangles": 1442,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_LIGHT_PLASTIC_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1564
+      },
+      {
+        "name": "SM_YU7_028_carPaint_10.001",
+        "vertices": 6761,
+        "triangles": 12615,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 789
+      },
+      {
+        "name": "SM_YU7_029_carInternal_TrunkInternal.001",
+        "vertices": 5240,
+        "triangles": 9454,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Trunk_E.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1028
+      },
+      {
+        "name": "SM_YU7_030_carFrontBonnetNet.001",
+        "vertices": 20,
+        "triangles": 16,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 20
+      },
+      {
+        "name": "SM_YU7_031_carRearviewMirror_2.001",
+        "vertices": 444,
+        "triangles": 817,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Mirrors.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 69
+      },
+      {
+        "name": "SM_YU7_032_carWheelLogoBase_ScuffPlate_Font.001",
+        "vertices": 802,
+        "triangles": 786,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 802
+      },
+      {
+        "name": "SM_YU7_033_carWindowTrim_1_1_.001",
+        "vertices": 174,
+        "triangles": 306,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 40
+      },
+      {
+        "name": "SM_YU7_034_carLight_bulb_3.001",
+        "vertices": 1149,
+        "triangles": 1579,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CAR_L.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 685
+      },
+      {
+        "name": "SM_YU7_035_carPlastic_BrilliantGray_1.001",
+        "vertices": 108,
+        "triangles": 184,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 30
+      },
+      {
+        "name": "SM_YU7_036_carInternal_DoorBack_1_.001",
+        "vertices": 10101,
+        "triangles": 18100,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_Door_Back.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2068
+      },
+      {
+        "name": "SM_YU7_037_carInternal_CenterConsole_2.001",
+        "vertices": 1174,
+        "triangles": 2206,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_SW.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 136
+      },
+      {
+        "name": "SM_YU7_038_carPaint_4_1_.001",
+        "vertices": 3199,
+        "triangles": 6077,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 317
+      },
+      {
+        "name": "SM_YU7_039_carWindowTrim_5.001",
+        "vertices": 1185,
+        "triangles": 2107,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 259
+      },
+      {
+        "name": "SM_YU7_040_carPaint_2_1_.001",
+        "vertices": 7469,
+        "triangles": 14446,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 496
+      },
+      {
+        "name": "SM_YU7_041_carPlastic_BrilliantBlack_3_3.001",
+        "vertices": 1525,
+        "triangles": 2776,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 264
+      },
+      {
+        "name": "SM_YU7_042_carInternal_SteeringWheel_Bottom.001",
+        "vertices": 2295,
+        "triangles": 4002,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 546
+      },
+      {
+        "name": "SM_YU7_043_carInternal_TrunkExternal.001",
+        "vertices": 5127,
+        "triangles": 9214,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Trunk.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1000
+      },
+      {
+        "name": "SM_YU7_044_carInternal_Roof.001",
+        "vertices": 298,
+        "triangles": 506,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Roof.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 88
+      },
+      {
+        "name": "SM_YU7_045_carPaint_13.001",
+        "vertices": 2605,
+        "triangles": 4942,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 264
+      },
+      {
+        "name": "SM_YU7_046_carPlastic_MatteBlack_1_1.001",
+        "vertices": 3760,
+        "triangles": 6194,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1300
+      },
+      {
+        "name": "SM_YU7_047_carGlass_front_2_Side_2_1_.001",
+        "vertices": 1400,
+        "triangles": 2796,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_048_carHoodOutletWisp.001",
+        "vertices": 370,
+        "triangles": 592,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 148
+      },
+      {
+        "name": "SM_YU7_049_carGlass_back_2_Side.001",
+        "vertices": 2020,
+        "triangles": 4032,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_050_carPlastic_BrilliantBlack_2_1.001",
+        "vertices": 2317,
+        "triangles": 4216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 414
+      },
+      {
+        "name": "SM_YU7_051_carLightPlastic_MatteBlack.001",
+        "vertices": 1928,
+        "triangles": 2238,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Metal_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1538
+      },
+      {
+        "name": "SM_YU7_052_carInternal_Dashboard.001",
+        "vertices": 6477,
+        "triangles": 11824,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Dash.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1136
+      },
+      {
+        "name": "SM_YU7_053_carInternal_DoorFront.001",
+        "vertices": 9756,
+        "triangles": 16889,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2547
+      },
+      {
+        "name": "SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_.001",
+        "vertices": 945,
+        "triangles": 1764,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 122
+      },
+      {
+        "name": "SM_YU7_055_carRoof_yu7.001",
+        "vertices": 884,
+        "triangles": 1764,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_D_Glass.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_056_carInternal_Frame_Top_2.001",
+        "vertices": 1775,
+        "triangles": 3138,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Frame_Top.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 418
+      },
+      {
+        "name": "SM_YU7_057_carGlass_back_2_Side_1_1_.001",
+        "vertices": 1584,
+        "triangles": 3164,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_058_carPaint_4.001",
+        "vertices": 3199,
+        "triangles": 6077,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 317
+      },
+      {
+        "name": "SM_YU7_059_carMirror_top_2.001",
+        "vertices": 598,
+        "triangles": 1122,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_060_carPaint_1.001",
+        "vertices": 17496,
+        "triangles": 32660,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2312
+      },
+      {
+        "name": "SM_YU7_061_carInternal_SteeringWheel_Top_4.001",
+        "vertices": 2458,
+        "triangles": 4638,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_SW.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 324
+      },
+      {
+        "name": "SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277.001",
+        "vertices": 168,
+        "triangles": 276,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 56
+      },
+      {
+        "name": "SM_YU7_063_carInternal_CenterConsole_1.001",
+        "vertices": 7368,
+        "triangles": 13076,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Console.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1666
+      },
+      {
+        "name": "SM_YU7_064_carHoodOutletPanel.001",
+        "vertices": 1860,
+        "triangles": 3428,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 292
+      },
+      {
+        "name": "SM_YU7_065_carInternal_DoorFront_1_.001",
+        "vertices": 8932,
+        "triangles": 15473,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_DoorF.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2333
+      },
+      {
+        "name": "SM_YU7_066_carMirror_top_2_1_.001",
+        "vertices": 598,
+        "triangles": 1122,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 72
+      },
+      {
+        "name": "SM_YU7_067_carInternal_Frame_Bottom.001",
+        "vertices": 31121,
+        "triangles": 56398,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Bottom.001",
+          "M_YU7_Mirrors.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 5750
+      },
+      {
+        "name": "SM_YU7_068_carPaint_9.001",
+        "vertices": 2605,
+        "triangles": 4940,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 266
+      },
+      {
+        "name": "SM_YU7_069_carPlastic_MatteBlack_2_1.001",
+        "vertices": 1223,
+        "triangles": 2118,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 310
+      },
+      {
+        "name": "SM_YU7_070_carRoofSpoiler.001",
+        "vertices": 2118,
+        "triangles": 4066,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 174
+      },
+      {
+        "name": "SM_YU7_071_carMirror_bottom_2_1_.001",
+        "vertices": 347,
+        "triangles": 641,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Blaack_Paint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 51
+      },
+      {
+        "name": "SM_YU7_072_carInternal_DoorBack.001",
+        "vertices": 10099,
+        "triangles": 18097,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Int_Door_Back.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2065
+      },
+      {
+        "name": "SM_YU7_073_carRearviewMirror_3.001",
+        "vertices": 444,
+        "triangles": 817,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Mirrors.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 69
+      },
+      {
+        "name": "SM_YU7_074_carGlass_back_2_Side_1.001",
+        "vertices": 1480,
+        "triangles": 2956,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_075_carGlass_front_2_Side_2.001",
+        "vertices": 1400,
+        "triangles": 2796,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_076_carGlass_back_1.001",
+        "vertices": 962,
+        "triangles": 1920,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Windows.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_077_carLightPlastic_BrilliantBlack_3.001",
+        "vertices": 1290,
+        "triangles": 2256,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_LIGHT_PLASTIC_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 332
+      },
+      {
+        "name": "SM_YU7_078_carPlastic_BrilliantBlack_2.001",
+        "vertices": 832,
+        "triangles": 1430,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 200
+      },
+      {
+        "name": "SM_YU7_079_carPaint_8.001",
+        "vertices": 3420,
+        "triangles": 6492,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_CarPaint.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 342
+      },
+      {
+        "name": "SM_YU7_080_carWindowTrim_1.001",
+        "vertices": 174,
+        "triangles": 306,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 40
+      },
+      {
+        "name": "SM_YU7_081_carHeaterStrip.001",
+        "vertices": 1030,
+        "triangles": 990,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_lambert272.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1030
+      },
+      {
+        "name": "SM_YU7_082_carPlastic_BrilliantBlack_1_1.001",
+        "vertices": 17726,
+        "triangles": 32472,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Plastic_SH.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2962
+      },
+      {
+        "name": "SM_YU7_083_carLightGlass_Back_2.001",
+        "vertices": 1407,
+        "triangles": 2654,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Light_Glass.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 154
+      },
+      {
+        "name": "SM_YU7_084_carInternal_PassengerSeatBack.001",
+        "vertices": 12845,
+        "triangles": 22745,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Seat_Back.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 2921
+      },
+      {
+        "name": "SM_YU7_085_carHeadLampPanel.001",
+        "vertices": 1629,
+        "triangles": 2977,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_dark_Gray_Map.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 281
+      },
+      {
+        "name": "SM_YU7_086_carBackDrop.001",
+        "vertices": 270,
+        "triangles": 454,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_Roof.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 84
+      },
+      {
+        "name": "SM_YU7_087_carXiaoMi_1.001",
+        "vertices": 1140,
+        "triangles": 1986,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 286
+      },
+      {
+        "name": "SM_YU7_088_carInternal_SteeringWheel_Top_2.001",
+        "vertices": 10786,
+        "triangles": 19929,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_INT_SW.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1599
+      },
+      {
+        "name": "SM_YU7_089_carPlastic_MatteBlack_trunk_9.001",
+        "vertices": 6562,
+        "triangles": 12015,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1065
+      },
+      {
+        "name": "SM_YU7_090_carWheelLogoFont_ACAL09.001",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_091_carTyre_02.001",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_092_carWheelLogoBase_ACAL09.001",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_093_carWheelAirVent_ACAL09.001",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_094_carWheelHub_ACAL09.001",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_095_carWheelRim_ACAL09.001",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1.001",
+          "M_YU7_RIM_C2.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_096_carWheelLogoFont_ACAL09.001",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_097_carTyre_02.001",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_098_carWheelLogoBase_ACAL09.001",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_099_carWheelAirVent_ACAL09.001",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_100_carWheelHub_ACAL09.001",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_101_carWheelRim_ACAL09.001",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1.001",
+          "M_YU7_RIM_C2.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_102_carWheelLogoFont_ACAL09.001",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_103_carTyre_02.001",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_104_carWheelLogoBase_ACAL09.001",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_105_carWheelAirVent_ACAL09.001",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_106_carWheelHub_ACAL09.001",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_107_carWheelRim_ACAL09.001",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1.001",
+          "M_YU7_RIM_C2.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_108_carWheelLogoFont_ACAL09.001",
+        "vertices": 24,
+        "triangles": 18,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_109_carTyre_02.001",
+        "vertices": 1080,
+        "triangles": 2040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_tyre_3.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 120
+      },
+      {
+        "name": "SM_YU7_110_carWheelLogoBase_ACAL09.001",
+        "vertices": 97,
+        "triangles": 168,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 24
+      },
+      {
+        "name": "SM_YU7_111_carWheelAirVent_ACAL09.001",
+        "vertices": 132,
+        "triangles": 216,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 48
+      },
+      {
+        "name": "SM_YU7_112_carWheelHub_ACAL09.001",
+        "vertices": 555,
+        "triangles": 695,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_ALUM.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 395
+      },
+      {
+        "name": "SM_YU7_113_carWheelRim_ACAL09.001",
+        "vertices": 5764,
+        "triangles": 10250,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Yu7_RIM_C1.001",
+          "M_YU7_RIM_C2.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1302
+      },
+      {
+        "name": "SM_YU7_114_carBrakeDisc_Back_2.001",
+        "vertices": 312,
+        "triangles": 456,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 164
+      },
+      {
+        "name": "SM_YU7_115_carBrakeDisc_Back.001",
+        "vertices": 674,
+        "triangles": 1340,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_116_carCaliper_MainBack.001",
+        "vertices": 4994,
+        "triangles": 9832,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Caliper_C2.001",
+          "M_YU7_Caliper_C1.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 136
+      },
+      {
+        "name": "SM_YU7_117_carCaliper_Screw_1.001",
+        "vertices": 590,
+        "triangles": 1040,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Caliper_C1.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 96
+      },
+      {
+        "name": "SM_YU7_118_carBrakeDisc_Front_2.001",
+        "vertices": 280,
+        "triangles": 552,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_119_carBrakeDisc_Front.001",
+        "vertices": 674,
+        "triangles": 1340,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_DISK.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 0
+      },
+      {
+        "name": "SM_YU7_120_carCaliper_MainFront_1.001",
+        "vertices": 7076,
+        "triangles": 14080,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Caliper_C2.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 56
+      },
+      {
+        "name": "SM_YU7_121_carCaliper_PartFront_1.001",
+        "vertices": 1306,
+        "triangles": 1298,
+        "uv_channels": 1,
+        "bad_uv_triangles": 0,
+        "invalid_uv_values": 0,
+        "custom_normals": true,
+        "invalid_normals": 0,
+        "invalid_tangents": 0,
+        "material_slots": [
+          "M_YU7_Black_Mat.001"
+        ],
+        "inconsistent_edges": 0,
+        "degenerate_faces": 0,
+        "boundary_edges": 1306
+      }
+    ],
+    "bounds_min": [
+      -2.499500036239493,
+      -1.0687524972892808,
+      0.0
+    ],
+    "bounds_max": [
+      2.4994997978226667,
+      1.0687523187660224,
+      1.5910018682479858
+    ],
+    "dimensions": [
+      4.998999834062159,
+      2.137504816055303,
+      1.5910018682479858
+    ],
+    "totals": {
+      "vertices": 322100,
+      "triangles": 579282,
+      "bad_uv_triangles": 0,
+      "invalid_uv_values": 0,
+      "invalid_normals": 0,
+      "invalid_tangents": 0
+    }
+  },
+  "comparisons": [
+    {
+      "source": "SM_YU7_001_carGlass_front_1",
+      "imported": "SM_YU7_001_carGlass_front_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.0996099530230546e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.008445307184331003
+    },
+    {
+      "source": "SM_YU7_002_carLight_backbulb",
+      "imported": "SM_YU7_002_carLight_backbulb.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.147735446297524e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.008250830447384228
+    },
+    {
+      "source": "SM_YU7_003_carLight_bulb_2",
+      "imported": "SM_YU7_003_carLight_bulb_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1627399024063098e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.032963367385373143
+    },
+    {
+      "source": "SM_YU7_004_carLightPlastic_MatteBlack_2",
+      "imported": "SM_YU7_004_carLightPlastic_MatteBlack_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1435053729828744e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.032973538064973
+    },
+    {
+      "source": "SM_YU7_005_carBonnetLogoBase_body",
+      "imported": "SM_YU7_005_carBonnetLogoBase_body.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.9944566146063612e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0277669534483861
+    },
+    {
+      "source": "SM_YU7_006_carPaint_2",
+      "imported": "SM_YU7_006_carPaint_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4468325447589717e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019195954437583734
+    },
+    {
+      "source": "SM_YU7_007_carPlastic_BrilliantBlack_3_1",
+      "imported": "SM_YU7_007_carPlastic_BrilliantBlack_3_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.258336076716905e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02750053196918688
+    },
+    {
+      "source": "SM_YU7_008_carWindowTrim_3_1_",
+      "imported": "SM_YU7_008_carWindowTrim_3_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.3376182056843125e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005487347092238086
+    },
+    {
+      "source": "SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_",
+      "imported": "SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4408433205639968e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03295286490391327
+    },
+    {
+      "source": "SM_YU7_010_carDuckTail",
+      "imported": "SM_YU7_010_carDuckTail.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.161319168377005e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027554950409900022
+    },
+    {
+      "source": "SM_YU7_011_carLightGlass_Back_1",
+      "imported": "SM_YU7_011_carLightGlass_Back_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.0973625115548097e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.013780641813999706
+    },
+    {
+      "source": "SM_YU7_012_carXiaoMi_3_yu7",
+      "imported": "SM_YU7_012_carXiaoMi_3_yu7.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1516868249573715e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.010501560136466862
+    },
+    {
+      "source": "SM_YU7_013_carPlastic_BrilliantBlack_3_2",
+      "imported": "SM_YU7_013_carPlastic_BrilliantBlack_3_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.978994270787794e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.033233300080695666
+    },
+    {
+      "source": "SM_YU7_014_carBonnetLogoFont_body",
+      "imported": "SM_YU7_014_carBonnetLogoFont_body.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.9759940210471156e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027359480681944277
+    },
+    {
+      "source": "SM_YU7_015_carMirror_bottom_2",
+      "imported": "SM_YU7_015_carMirror_bottom_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.9560766969539e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019241831489026983
+    },
+    {
+      "source": "SM_YU7_016_carLight_bulb_1",
+      "imported": "SM_YU7_016_carLight_bulb_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1331031667010638e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019229797310754915
+    },
+    {
+      "source": "SM_YU7_017_carPlastic_MatteBlack_2",
+      "imported": "SM_YU7_017_carPlastic_MatteBlack_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.0220676246799787e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0030259782051703637
+    },
+    {
+      "source": "SM_YU7_018_carPlastic_BrilliantBlack_2_3",
+      "imported": "SM_YU7_018_carPlastic_BrilliantBlack_2_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6541353506397752e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03543656659168993
+    },
+    {
+      "source": "SM_YU7_019_carWindowTrim_3",
+      "imported": "SM_YU7_019_carWindowTrim_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.3376247735303488e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.010977891379872932
+    },
+    {
+      "source": "SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_",
+      "imported": "SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.1213449021541858e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027471781572806574
+    },
+    {
+      "source": "SM_YU7_021_carInternal_PassengerSeatFront",
+      "imported": "SM_YU7_021_carInternal_PassengerSeatFront.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 7.165157816322176e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.039403833445091366
+    },
+    {
+      "source": "SM_YU7_022_carLightGlass_Front",
+      "imported": "SM_YU7_022_carLightGlass_Front.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.0852912479890856e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027702826415734197
+    },
+    {
+      "source": "SM_YU7_023_carXiaoMi_3",
+      "imported": "SM_YU7_023_carXiaoMi_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1540646752101011e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005493618122413013
+    },
+    {
+      "source": "SM_YU7_024_carPlate",
+      "imported": "SM_YU7_024_carPlate.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1662140034296225e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005506871854856111
+    },
+    {
+      "source": "SM_YU7_025_carPlastic_BrilliantBlack_1_6",
+      "imported": "SM_YU7_025_carPlastic_BrilliantBlack_1_6.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4408438741959885e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02818039898153515
+    },
+    {
+      "source": "SM_YU7_026_carGlass_front_2",
+      "imported": "SM_YU7_026_carGlass_front_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 8.113996146552255e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.011060220001981444
+    },
+    {
+      "source": "SM_YU7_027_carLightPlastic_BrilliantBlack_2",
+      "imported": "SM_YU7_027_carLightPlastic_BrilliantBlack_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1499182011821182e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03845419172149764
+    },
+    {
+      "source": "SM_YU7_028_carPaint_10",
+      "imported": "SM_YU7_028_carPaint_10.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.048875861015108e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.038439472028773514
+    },
+    {
+      "source": "SM_YU7_029_carInternal_TrunkInternal",
+      "imported": "SM_YU7_029_carInternal_TrunkInternal.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1133089090293482e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03293733786876392
+    },
+    {
+      "source": "SM_YU7_030_carFrontBonnetNet",
+      "imported": "SM_YU7_030_carFrontBonnetNet.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.3144345401742834e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0027561230933476058
+    },
+    {
+      "source": "SM_YU7_031_carRearviewMirror_2",
+      "imported": "SM_YU7_031_carRearviewMirror_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.707782807549596e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02752629052297401
+    },
+    {
+      "source": "SM_YU7_032_carWheelLogoBase_ScuffPlate_Font",
+      "imported": "SM_YU7_032_carWheelLogoBase_ScuffPlate_Font.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 7.977511797810752e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027466374377216152
+    },
+    {
+      "source": "SM_YU7_033_carWindowTrim_1_1_",
+      "imported": "SM_YU7_033_carWindowTrim_1_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.441078193481956e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.010965738276003646
+    },
+    {
+      "source": "SM_YU7_034_carLight_bulb_3",
+      "imported": "SM_YU7_034_carLight_bulb_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1194354638611417e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027224275560755358
+    },
+    {
+      "source": "SM_YU7_035_carPlastic_BrilliantGray_1",
+      "imported": "SM_YU7_035_carPlastic_BrilliantGray_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6513625737581905e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.008241769059397778
+    },
+    {
+      "source": "SM_YU7_036_carInternal_DoorBack_1_",
+      "imported": "SM_YU7_036_carInternal_DoorBack_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.443096159517239e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03847246145270101
+    },
+    {
+      "source": "SM_YU7_037_carInternal_CenterConsole_2",
+      "imported": "SM_YU7_037_carInternal_CenterConsole_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.7481934042551716e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.008219855688644086
+    },
+    {
+      "source": "SM_YU7_038_carPaint_4_1_",
+      "imported": "SM_YU7_038_carPaint_4_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.1198580482971059e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03552255862908039
+    },
+    {
+      "source": "SM_YU7_039_carWindowTrim_5",
+      "imported": "SM_YU7_039_carWindowTrim_5.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5516861290342017e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027529729369887193
+    },
+    {
+      "source": "SM_YU7_040_carPaint_2_1_",
+      "imported": "SM_YU7_040_carPaint_2_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.0547809278175273e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.033329095816989146
+    },
+    {
+      "source": "SM_YU7_041_carPlastic_BrilliantBlack_3_3",
+      "imported": "SM_YU7_041_carPlastic_BrilliantBlack_3_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.978995014951103e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027471407497409818
+    },
+    {
+      "source": "SM_YU7_042_carInternal_SteeringWheel_Bottom",
+      "imported": "SM_YU7_042_carInternal_SteeringWheel_Bottom.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 7.398071502379774e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02833986813446873
+    },
+    {
+      "source": "SM_YU7_043_carInternal_TrunkExternal",
+      "imported": "SM_YU7_043_carInternal_TrunkExternal.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1801767728222037e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027782365856842912
+    },
+    {
+      "source": "SM_YU7_044_carInternal_Roof",
+      "imported": "SM_YU7_044_carInternal_Roof.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.2895322328815012e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027394139924701865
+    },
+    {
+      "source": "SM_YU7_045_carPaint_13",
+      "imported": "SM_YU7_045_carPaint_13.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.448164493388912e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.033267533139709794
+    },
+    {
+      "source": "SM_YU7_046_carPlastic_MatteBlack_1_1",
+      "imported": "SM_YU7_046_carPlastic_MatteBlack_1_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.0084827571163065e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02760667486260678
+    },
+    {
+      "source": "SM_YU7_047_carGlass_front_2_Side_2_1_",
+      "imported": "SM_YU7_047_carGlass_front_2_Side_2_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 8.392844018618561e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03304909446654913
+    },
+    {
+      "source": "SM_YU7_048_carHoodOutletWisp",
+      "imported": "SM_YU7_048_carHoodOutletWisp.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.311096592429613e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.01925727420873002
+    },
+    {
+      "source": "SM_YU7_049_carGlass_back_2_Side",
+      "imported": "SM_YU7_049_carGlass_back_2_Side.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.533075981524188e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.038547162487368
+    },
+    {
+      "source": "SM_YU7_050_carPlastic_BrilliantBlack_2_1",
+      "imported": "SM_YU7_050_carPlastic_BrilliantBlack_2_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4299452098563858e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03849387762812858
+    },
+    {
+      "source": "SM_YU7_051_carLightPlastic_MatteBlack",
+      "imported": "SM_YU7_051_carLightPlastic_MatteBlack.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1392921777295698e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03296075120950244
+    },
+    {
+      "source": "SM_YU7_052_carInternal_Dashboard",
+      "imported": "SM_YU7_052_carInternal_Dashboard.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.0855056208211499e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.015752945599148135
+    },
+    {
+      "source": "SM_YU7_053_carInternal_DoorFront",
+      "imported": "SM_YU7_053_carInternal_DoorFront.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.1164720094748622e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.029071113297137526
+    },
+    {
+      "source": "SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_",
+      "imported": "SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.1213442026741659e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.028646876752451613
+    },
+    {
+      "source": "SM_YU7_055_carRoof_yu7",
+      "imported": "SM_YU7_055_carRoof_yu7.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.2914456440759635e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027938467091663526
+    },
+    {
+      "source": "SM_YU7_056_carInternal_Frame_Top_2",
+      "imported": "SM_YU7_056_carInternal_Frame_Top_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.514965561405983e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.034603650108628994
+    },
+    {
+      "source": "SM_YU7_057_carGlass_back_2_Side_1_1_",
+      "imported": "SM_YU7_057_carGlass_back_2_Side_1_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.2507733140314203e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02755783802018749
+    },
+    {
+      "source": "SM_YU7_058_carPaint_4",
+      "imported": "SM_YU7_058_carPaint_4.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.119864299277638e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03556245708351165
+    },
+    {
+      "source": "SM_YU7_059_carMirror_top_2",
+      "imported": "SM_YU7_059_carMirror_top_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.946081574460807e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03409867749814569
+    },
+    {
+      "source": "SM_YU7_060_carPaint_1",
+      "imported": "SM_YU7_060_carPaint_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1880506463596112e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.038772783002067775
+    },
+    {
+      "source": "SM_YU7_061_carInternal_SteeringWheel_Top_4",
+      "imported": "SM_YU7_061_carInternal_SteeringWheel_Top_4.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 5.684728899137958e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019482991910182476
+    },
+    {
+      "source": "SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "imported": "SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 8.826426990968024e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.003213514747580771
+    },
+    {
+      "source": "SM_YU7_063_carInternal_CenterConsole_1",
+      "imported": "SM_YU7_063_carInternal_CenterConsole_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.105166968900184e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.038467346323572106
+    },
+    {
+      "source": "SM_YU7_064_carHoodOutletPanel",
+      "imported": "SM_YU7_064_carHoodOutletPanel.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.3242731629838219e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.035622549570060835
+    },
+    {
+      "source": "SM_YU7_065_carInternal_DoorFront_1_",
+      "imported": "SM_YU7_065_carInternal_DoorFront_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.1164698930870185e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03311431222780114
+    },
+    {
+      "source": "SM_YU7_066_carMirror_top_2_1_",
+      "imported": "SM_YU7_066_carMirror_top_2_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.946090971140395e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02519088273581219
+    },
+    {
+      "source": "SM_YU7_067_carInternal_Frame_Bottom",
+      "imported": "SM_YU7_067_carInternal_Frame_Bottom.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.8077260337853946e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.032953080355587604
+    },
+    {
+      "source": "SM_YU7_068_carPaint_9",
+      "imported": "SM_YU7_068_carPaint_9.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4481602234164094e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0330092473407467
+    },
+    {
+      "source": "SM_YU7_069_carPlastic_MatteBlack_2_1",
+      "imported": "SM_YU7_069_carPlastic_MatteBlack_2_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.093212061591137e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03848326258862827
+    },
+    {
+      "source": "SM_YU7_070_carRoofSpoiler",
+      "imported": "SM_YU7_070_carRoofSpoiler.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6706926736601552e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027961674621422718
+    },
+    {
+      "source": "SM_YU7_071_carMirror_bottom_2_1_",
+      "imported": "SM_YU7_071_carMirror_bottom_2_1_.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.956068845130263e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.008259035186775463
+    },
+    {
+      "source": "SM_YU7_072_carInternal_DoorBack",
+      "imported": "SM_YU7_072_carInternal_DoorBack.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4423390220285437e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02884369865942051
+    },
+    {
+      "source": "SM_YU7_073_carRearviewMirror_3",
+      "imported": "SM_YU7_073_carRearviewMirror_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.707774697848737e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0329802111759138
+    },
+    {
+      "source": "SM_YU7_074_carGlass_back_2_Side_1",
+      "imported": "SM_YU7_074_carGlass_back_2_Side_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.2507851990160064e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.038390102422377045
+    },
+    {
+      "source": "SM_YU7_075_carGlass_front_2_Side_2",
+      "imported": "SM_YU7_075_carGlass_front_2_Side_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 8.392969542520623e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.032901450207522547
+    },
+    {
+      "source": "SM_YU7_076_carGlass_back_1",
+      "imported": "SM_YU7_076_carGlass_back_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.0065030686532355e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03552125830269824
+    },
+    {
+      "source": "SM_YU7_077_carLightPlastic_BrilliantBlack_3",
+      "imported": "SM_YU7_077_carLightPlastic_BrilliantBlack_3.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1465912699510108e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.01923045135297663
+    },
+    {
+      "source": "SM_YU7_078_carPlastic_BrilliantBlack_2",
+      "imported": "SM_YU7_078_carPlastic_BrilliantBlack_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.1604263111678174e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027487069609652987
+    },
+    {
+      "source": "SM_YU7_079_carPaint_8",
+      "imported": "SM_YU7_079_carPaint_8.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.185231473915865e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03521752073560818
+    },
+    {
+      "source": "SM_YU7_080_carWindowTrim_1",
+      "imported": "SM_YU7_080_carWindowTrim_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 9.441056214057067e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0055080801690293325
+    },
+    {
+      "source": "SM_YU7_081_carHeaterStrip",
+      "imported": "SM_YU7_081_carHeaterStrip.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.9797681123492732e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.033055695861633004
+    },
+    {
+      "source": "SM_YU7_082_carPlastic_BrilliantBlack_1_1",
+      "imported": "SM_YU7_082_carPlastic_BrilliantBlack_1_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1967423609483992e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03493190728186636
+    },
+    {
+      "source": "SM_YU7_083_carLightGlass_Back_2",
+      "imported": "SM_YU7_083_carLightGlass_Back_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1692889881974946e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02787583626955321
+    },
+    {
+      "source": "SM_YU7_084_carInternal_PassengerSeatBack",
+      "imported": "SM_YU7_084_carInternal_PassengerSeatBack.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4055163580863692e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03472069028509358
+    },
+    {
+      "source": "SM_YU7_085_carHeadLampPanel",
+      "imported": "SM_YU7_085_carHeadLampPanel.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.1412385956565465e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019380125782823776
+    },
+    {
+      "source": "SM_YU7_086_carBackDrop",
+      "imported": "SM_YU7_086_carBackDrop.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.2885025597753766e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02770133760367604
+    },
+    {
+      "source": "SM_YU7_087_carXiaoMi_1",
+      "imported": "SM_YU7_087_carXiaoMi_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.125786054367544e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027470820330986204
+    },
+    {
+      "source": "SM_YU7_088_carInternal_SteeringWheel_Top_2",
+      "imported": "SM_YU7_088_carInternal_SteeringWheel_Top_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 5.4297081455431486e-08,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.43890579010056924
+    },
+    {
+      "source": "SM_YU7_089_carPlastic_MatteBlack_trunk_9",
+      "imported": "SM_YU7_089_carPlastic_MatteBlack_trunk_9.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 2.055937041000303e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03301480274100262
+    },
+    {
+      "source": "SM_YU7_090_carWheelLogoFont_ACAL09",
+      "imported": "SM_YU7_090_carWheelLogoFont_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5541239707092617e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005492837869870957
+    },
+    {
+      "source": "SM_YU7_091_carTyre_02",
+      "imported": "SM_YU7_091_carTyre_02.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.8420548112490504e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.04096788312066256
+    },
+    {
+      "source": "SM_YU7_092_carWheelLogoBase_ACAL09",
+      "imported": "SM_YU7_092_carWheelLogoBase_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5594867740213753e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.020418239279874236
+    },
+    {
+      "source": "SM_YU7_093_carWheelAirVent_ACAL09",
+      "imported": "SM_YU7_093_carWheelAirVent_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6902443764600428e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027464174805109324
+    },
+    {
+      "source": "SM_YU7_094_carWheelHub_ACAL09",
+      "imported": "SM_YU7_094_carWheelHub_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7829213754716376e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027447666440378903
+    },
+    {
+      "source": "SM_YU7_095_carWheelRim_ACAL09",
+      "imported": "SM_YU7_095_carWheelRim_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.782927091365204e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.033360031435906996
+    },
+    {
+      "source": "SM_YU7_096_carWheelLogoFont_ACAL09",
+      "imported": "SM_YU7_096_carWheelLogoFont_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5425564326168572e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005492747032249432
+    },
+    {
+      "source": "SM_YU7_097_carTyre_02",
+      "imported": "SM_YU7_097_carTyre_02.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.8281495042874636e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027357398598375486
+    },
+    {
+      "source": "SM_YU7_098_carWheelLogoBase_ACAL09",
+      "imported": "SM_YU7_098_carWheelLogoBase_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5477838791150344e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.028099300210070968
+    },
+    {
+      "source": "SM_YU7_099_carWheelAirVent_ACAL09",
+      "imported": "SM_YU7_099_carWheelAirVent_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4236193299483684e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.01922593283540788
+    },
+    {
+      "source": "SM_YU7_100_carWheelHub_ACAL09",
+      "imported": "SM_YU7_100_carWheelHub_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7697986661293912e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.020836070226874434
+    },
+    {
+      "source": "SM_YU7_101_carWheelRim_ACAL09",
+      "imported": "SM_YU7_101_carWheelRim_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7697990095152912e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02878940976212617
+    },
+    {
+      "source": "SM_YU7_102_carWheelLogoFont_ACAL09",
+      "imported": "SM_YU7_102_carWheelLogoFont_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5424400404464483e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.0027383333327863375
+    },
+    {
+      "source": "SM_YU7_103_carTyre_02",
+      "imported": "SM_YU7_103_carTyre_02.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.8281070148332326e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03512140483704538
+    },
+    {
+      "source": "SM_YU7_104_carWheelLogoBase_ACAL09",
+      "imported": "SM_YU7_104_carWheelLogoBase_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5477356574257482e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03827319760454873
+    },
+    {
+      "source": "SM_YU7_105_carWheelAirVent_ACAL09",
+      "imported": "SM_YU7_105_carWheelAirVent_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6776685077254644e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005493952150741381
+    },
+    {
+      "source": "SM_YU7_106_carWheelHub_ACAL09",
+      "imported": "SM_YU7_106_carWheelHub_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7697768433259437e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019228394235636267
+    },
+    {
+      "source": "SM_YU7_107_carWheelRim_ACAL09",
+      "imported": "SM_YU7_107_carWheelRim_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7697826293972539e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03335697844802774
+    },
+    {
+      "source": "SM_YU7_108_carWheelLogoFont_ACAL09",
+      "imported": "SM_YU7_108_carWheelLogoFont_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5542321209528734e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.005492723808365108
+    },
+    {
+      "source": "SM_YU7_109_carTyre_02",
+      "imported": "SM_YU7_109_carTyre_02.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.84208914146005e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03511673210283826
+    },
+    {
+      "source": "SM_YU7_110_carWheelLogoBase_ACAL09",
+      "imported": "SM_YU7_110_carWheelLogoBase_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.5595260337921317e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02916682250047598
+    },
+    {
+      "source": "SM_YU7_111_carWheelAirVent_ACAL09",
+      "imported": "SM_YU7_111_carWheelAirVent_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4333687588200472e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.027467938765527375
+    },
+    {
+      "source": "SM_YU7_112_carWheelHub_ACAL09",
+      "imported": "SM_YU7_112_carWheelHub_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7829347547131705e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.020489266177828945
+    },
+    {
+      "source": "SM_YU7_113_carWheelRim_ACAL09",
+      "imported": "SM_YU7_113_carWheelRim_ACAL09.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.7829351173608086e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03335893435381319
+    },
+    {
+      "source": "SM_YU7_114_carBrakeDisc_Back_2",
+      "imported": "SM_YU7_114_carBrakeDisc_Back_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6380820687601875e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.026978370812018752
+    },
+    {
+      "source": "SM_YU7_115_carBrakeDisc_Back",
+      "imported": "SM_YU7_115_carBrakeDisc_Back.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6388920085333533e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.028210511387404394
+    },
+    {
+      "source": "SM_YU7_116_carCaliper_MainBack",
+      "imported": "SM_YU7_116_carCaliper_MainBack.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4149940905726114e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.02901667997397724
+    },
+    {
+      "source": "SM_YU7_117_carCaliper_Screw_1",
+      "imported": "SM_YU7_117_carCaliper_Screw_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.4318263246334672e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.038452380889331124
+    },
+    {
+      "source": "SM_YU7_118_carBrakeDisc_Front_2",
+      "imported": "SM_YU7_118_carBrakeDisc_Front_2.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6636611725091217e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.028313095434536896
+    },
+    {
+      "source": "SM_YU7_119_carBrakeDisc_Front",
+      "imported": "SM_YU7_119_carBrakeDisc_Front.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.6603695373042018e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03511967233812063
+    },
+    {
+      "source": "SM_YU7_120_carCaliper_MainFront_1",
+      "imported": "SM_YU7_120_carCaliper_MainFront_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.450042918908438e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.03459939035604822
+    },
+    {
+      "source": "SM_YU7_121_carCaliper_PartFront_1",
+      "imported": "SM_YU7_121_carCaliper_PartFront_1.001",
+      "same_vertex_count": true,
+      "max_vertex_error_m": 1.430794697007728e-07,
+      "same_material_slot_count": true,
+      "material_names_and_order_match": true,
+      "max_corner_normal_error_degrees": 0.019229739370968602
+    }
+  ],
+  "source_files_unchanged": true,
+  "missing_textures": [],
+  "unreal_engine_import_tested": false,
+  "lightmap_uv_channel_created": false,
+  "notes": [
+    "Original material UV overlaps/mirroring retained. UV0 is not a unique lightmap atlas.",
+    "Two material fallbacks cover source faces with missing UVs; original atlas mapping could not be recovered.",
+    "One dashboard vertex moved 0.1 mm to resolve a numerically singular tangent corner."
+  ],
+  "passed": true
+}

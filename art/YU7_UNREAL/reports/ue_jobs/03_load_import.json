@@ -1,0 +1,7 @@
+{
+  "id": "03_load_import",
+  "started": "2026-10-16T13:43:51-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 50, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_duplicate_and_import.py\", line 21, in <module>\n    runpy.run_path(str(ROOT / 'art/YU7_UNREAL/import_into_unreal.py'), run_name='__main__')\n  File \"<frozen runpy>\", line 291, in run_path\n  File \"<frozen runpy>\", line 98, in _run_module_code\n  File \"<frozen runpy>\", line 88, in _run_code\n  File \"C:\\github2\\vehicle_visualization\\art\\YU7_UNREAL\\import_into_unreal.py\", line 156, in <module>\n    run()\n  File \"C:\\github2\\vehicle_visualization\\art\\YU7_UNREAL\\import_into_unreal.py\", line 85, in run\n    scalar(row['clear_coat'], unreal.MaterialProperty.MP_CUSTOM_DATA_0, 340)\n                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: type object 'MaterialProperty' has no attribute 'MP_CUSTOM_DATA_0'\n",
+  "finished": "2026-10-16T13:43:57-0700"
+}

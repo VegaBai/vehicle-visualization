@@ -1,0 +1,44 @@
+frame=120
+fps=0.00
+stream_0_0_q=-0.0
+bitrate=N/A
+total_size=N/A
+out_time_us=5000000
+out_time_ms=5000000
+out_time=00:00:05.000000
+dup_frames=0
+drop_frames=0
+speed=18.7x
+progress=end
+
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\github2\vehicle_visualization\renders\YU7_MineralHero\YU7_MineralTeal_5s_4K_tagged.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Xiaomi YU7 | Mineral Teal | 5-second camera test
+    encoder         : Lavf61.7.100
+    comment         : "2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+  Duration: 00:00:05.00, start: 0.000000, bitrate: 7968 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709/bt709/iec61966-2-1, progressive), 3840x2160, 7963 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : Xiaomi YU7 | Mineral Teal | 5-second camera test
+    comment         : "2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(tv, bt709/bt709/iec61966-2-1, progressive), 3840x2160, q=2-31, 200 kb/s, 24 fps, 24 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 wrapped_avframe
+[out#0/null @ 000001ef6e5ef280] video:52KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  120 fps=0.0 q=-0.0 Lsize=N/A time=00:00:05.00 bitrate=N/A speed=18.7x    

@@ -1,0 +1,10 @@
+{
+  "id": "ld08_camera_retry",
+  "started": "2026-10-17T01:41:53-0700",
+  "status": "success",
+  "result": {
+    "camera": "CAM_YU7_Beauty",
+    "focal_length": 55
+  },
+  "finished": "2026-10-17T01:41:54-0700"
+}

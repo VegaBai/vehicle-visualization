@@ -1,0 +1,35 @@
+{
+  "magic": 20000630,
+  "version": 1026,
+  "channels": [
+    {
+      "name": "A",
+      "pixel_type": "half"
+    },
+    {
+      "name": "B",
+      "pixel_type": "half"
+    },
+    {
+      "name": "G",
+      "pixel_type": "half"
+    },
+    {
+      "name": "R",
+      "pixel_type": "half"
+    }
+  ],
+  "compression": 4,
+  "dataWindow": [
+    0,
+    0,
+    3839,
+    2159
+  ],
+  "displayWindow": [
+    0,
+    0,
+    3839,
+    2159
+  ]
+}

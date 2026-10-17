@@ -1,0 +1,22 @@
+{
+  "name": "Hero_preview_v4",
+  "request": {
+    "name": "Hero_preview_v4",
+    "directory": "art/YU7_UNREAL/reports/hero/mrq_preview_v4",
+    "width": 1920,
+    "height": 1080,
+    "start": 0,
+    "end": 120,
+    "spatial": 8,
+    "temporal": 1,
+    "motion_blur": 0,
+    "step": 60
+  },
+  "started": 1792273710.791504,
+  "status": "finished",
+  "errors": [],
+  "preset": "/Game/YU7/Cinematics/RenderPresets/MRQ_Hero_preview_v4.MRQ_Hero_preview_v4",
+  "success": true,
+  "finished": 1792273724.7011986,
+  "duration_seconds": 13.90969467163086
+}

@@ -1,0 +1,5995 @@
+{
+  "blender": "5.2.0 LTS",
+  "bounds_min": [
+    -0.010132769122719765,
+    -0.023697590455412865,
+    0.0004475854220800102
+  ],
+  "bounds_max": [
+    0.010132760740816593,
+    0.023697568103671074,
+    0.015531759709119797
+  ],
+  "dimensions": [
+    0.020265529863536358,
+    0.04739515855908394,
+    0.015084174287039787
+  ],
+  "scene_unit_scale": 1.0,
+  "objects": [
+    {
+      "name": "Yu7:carGlass_front_1_carGlass_front_1_pasted__Car glass1",
+      "parent": "group1",
+      "vertices": 190,
+      "polygons": 376,
+      "triangles": 376,
+      "dimensions": [
+        0.00953568983823061,
+        0.004953629802912474,
+        0.015660220757126808
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 376,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLight_backbulb_carLight_backbulb_blinn25",
+      "parent": "group1",
+      "vertices": 32,
+      "polygons": 30,
+      "triangles": 30,
+      "dimensions": [
+        5.487918679136783e-05,
+        0.00016870975377969444,
+        0.001577029936015606
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 30,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CAR_L"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLight_bulb_2_carLight_bulb_2_blinn25",
+      "parent": "group1",
+      "vertices": 368,
+      "polygons": 538,
+      "triangles": 538,
+      "dimensions": [
+        0.002297191647812724,
+        0.0014658694854006171,
+        0.012177139520645142
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 538,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CAR_L"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightPlastic_MatteBlack_2_carLightPlastic_MatteB_20374b1",
+      "parent": "group1",
+      "vertices": 4444,
+      "polygons": 6993,
+      "triangles": 6993,
+      "dimensions": [
+        0.0443425327539444,
+        0.003973810002207756,
+        0.017757320776581764
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 6993,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "LIGHT_CHROME_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBonnetLogoBase_body_carBonnetLogoBase_body_lambert258",
+      "parent": "group1",
+      "vertices": 754,
+      "polygons": 1331,
+      "triangles": 1331,
+      "dimensions": [
+        0.000690591346938163,
+        0.0002779197529889643,
+        0.0007391499821096659
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1331,
+      "uv_layers": [],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_2_carPaint_2_pasted__blinn6",
+      "parent": "group1",
+      "vertices": 2152,
+      "polygons": 3800,
+      "triangles": 3800,
+      "dimensions": [
+        0.021364789456129074,
+        0.00836987979710102,
+        0.018455849960446358
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 3800,
+      "uv_layers": [],
+      "materials": [
+        "Int_DoorF",
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_3_1_carPlastic_BrilliantB_e13a59f",
+      "parent": "group1",
+      "vertices": 372,
+      "polygons": 576,
+      "triangles": 576,
+      "dimensions": [
+        0.009015469811856747,
+        0.003617070848122239,
+        0.015707679092884064
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 576,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWindowTrim_3_1__carWindowTrim_3_001_Material #51",
+      "parent": "group1",
+      "vertices": 248,
+      "polygons": 443,
+      "triangles": 443,
+      "dimensions": [
+        0.009137138724327087,
+        0.000713160028681159,
+        0.0009676098707132041
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 443,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_1_6_3__carPlastic_Brillia_7fb7721",
+      "parent": "group1",
+      "vertices": 947,
+      "polygons": 1745,
+      "triangles": 1745,
+      "dimensions": [
+        0.01023273915052414,
+        0.00596024002879858,
+        0.0006753098568879068
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1745,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carDuckTail_carDuckTail_lambert277",
+      "parent": "group1",
+      "vertices": 519,
+      "polygons": 918,
+      "triangles": 918,
+      "dimensions": [
+        0.0024138402659446,
+        0.0006485497578978539,
+        0.012298179790377617
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 918,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightGlass_Back_1_carLightGlass_Back_1_Car glass2",
+      "parent": "group1",
+      "vertices": 1319,
+      "polygons": 2484,
+      "triangles": 2484,
+      "dimensions": [
+        0.0019698285032063723,
+        0.001540990429930389,
+        0.016050338745117188
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2484,
+      "uv_layers": [],
+      "materials": [
+        "Light_Glass"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carXiaoMi_3_yu7_carXiaoMi_3_yu7_lambert258",
+      "parent": "group1",
+      "vertices": 191,
+      "polygons": 307,
+      "triangles": 307,
+      "dimensions": [
+        0.00035626886528916657,
+        0.00023150979541242123,
+        0.0006430500652641058
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 307,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_3_2_carPlastic_BrilliantB_674781b",
+      "parent": "group1",
+      "vertices": 1525,
+      "polygons": 2776,
+      "triangles": 2776,
+      "dimensions": [
+        0.002833029953762889,
+        0.0019157003844156861,
+        0.002725989790633321
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2776,
+      "uv_layers": [],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBonnetLogoFont_body_carBonnetLogoFont_body_lambert258",
+      "parent": "group1",
+      "vertices": 495,
+      "polygons": 872,
+      "triangles": 872,
+      "dimensions": [
+        0.000276000500889495,
+        0.00012422978761605918,
+        0.00045170000521466136
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 872,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carMirror_bottom_2_carMirror_bottom_2_lambert266_001",
+      "parent": "group1",
+      "vertices": 347,
+      "polygons": 641,
+      "triangles": 641,
+      "dimensions": [
+        0.001955870073288679,
+        0.0004422604979481548,
+        0.001868510153144598
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 641,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Blaack_Paint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLight_bulb_1_carLight_bulb_1_blinn25",
+      "parent": "group1",
+      "vertices": 88,
+      "polygons": 92,
+      "triangles": 92,
+      "dimensions": [
+        0.003889689454808831,
+        0.0014461105456575751,
+        0.016917359083890915
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 92,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CAR_L"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_MatteBlack_2_carPlastic_MatteBlack_2_lambert225",
+      "parent": "group1",
+      "vertices": 134,
+      "polygons": 192,
+      "triangles": 192,
+      "dimensions": [
+        0.001267049228772521,
+        0.0016737398691475391,
+        0.017295580357313156
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 192,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_2_3_carPlastic_BrilliantB_ff7a3de",
+      "parent": "group1",
+      "vertices": 1141,
+      "polygons": 2060,
+      "triangles": 2060,
+      "dimensions": [
+        0.0031742106657475233,
+        0.0009811603231355548,
+        0.010265099816024303
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2060,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWindowTrim_3_carWindowTrim_3_Material #51",
+      "parent": "group1",
+      "vertices": 248,
+      "polygons": 443,
+      "triangles": 443,
+      "dimensions": [
+        0.009137138724327087,
+        0.000713160028681159,
+        0.0009675997425802052
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 443,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_1_6_1__carPlastic_Brillia_a2a033b",
+      "parent": "group1",
+      "vertices": 945,
+      "polygons": 1764,
+      "triangles": 1764,
+      "dimensions": [
+        0.010504169389605522,
+        0.005961580201983452,
+        0.0005781400250270963
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1764,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_PassengerSeatFront_carInternal_Passenge_110ce00",
+      "parent": "group1",
+      "vertices": 18650,
+      "polygons": 33962,
+      "triangles": 33962,
+      "dimensions": [
+        0.008414080366492271,
+        0.009617368690669537,
+        0.013495939783751965
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 33962,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Seat_Front"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightGlass_Front_carLightGlass_Front_pasted__pas_8222b8b",
+      "parent": "group1",
+      "vertices": 602,
+      "polygons": 1012,
+      "triangles": 1012,
+      "dimensions": [
+        0.0034851895179599524,
+        0.00188446044921875,
+        0.01707421988248825
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1012,
+      "uv_layers": [],
+      "materials": [
+        "Light_Glass"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carXiaoMi_3_carXiaoMi_3_lambert258",
+      "parent": "group1",
+      "vertices": 379,
+      "polygons": 615,
+      "triangles": 615,
+      "dimensions": [
+        0.0004047179245389998,
+        0.00028312025824561715,
+        0.0007369798258878291
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 615,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlate_carPlate_pasted__pasted__pasted__blinn15",
+      "parent": "group1",
+      "vertices": 148,
+      "polygons": 250,
+      "triangles": 250,
+      "dimensions": [
+        0.046861618757247925,
+        0.0013965097023174167,
+        0.004551379941403866
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 250,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CAR_L"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_1_6_carPlastic_BrilliantB_602d4d5",
+      "parent": "group1",
+      "vertices": 947,
+      "polygons": 1745,
+      "triangles": 1745,
+      "dimensions": [
+        0.01023273915052414,
+        0.00596024002879858,
+        0.0006753098568879068
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1745,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_front_2_carGlass_front_2_pasted__pasted__p_82ea34c",
+      "parent": "group1",
+      "vertices": 184,
+      "polygons": 318,
+      "triangles": 318,
+      "dimensions": [
+        0.0019178801449015737,
+        0.003597160568460822,
+        0.01565231941640377
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 318,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightPlastic_BrilliantBlack_2_carLightPlastic_Br_3011283",
+      "parent": "group1",
+      "vertices": 1738,
+      "polygons": 1442,
+      "triangles": 1442,
+      "dimensions": [
+        0.00221937894821167,
+        0.0018833499634638429,
+        0.012343799695372581
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1442,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "LIGHT_PLASTIC_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_10_carPaint_10_lambert266",
+      "parent": "group1",
+      "vertices": 6761,
+      "polygons": 12615,
+      "triangles": 12615,
+      "dimensions": [
+        0.014812709763646126,
+        0.003263619961217046,
+        0.01849541999399662
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 12615,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_TrunkInternal_carInternal_TrunkInternal_cc73a2f",
+      "parent": "group1",
+      "vertices": 5240,
+      "polygons": 9454,
+      "triangles": 9454,
+      "dimensions": [
+        0.011997629888355732,
+        0.007602569181472063,
+        0.013523180037736893
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 9454,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Trunk_E"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carFrontBonnetNet_carFrontBonnetNet_lambert277",
+      "parent": "group1",
+      "vertices": 20,
+      "polygons": 16,
+      "triangles": 16,
+      "dimensions": [
+        0.001349529018625617,
+        0.0003931403043679893,
+        0.014572659507393837
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 16,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carRearviewMirror_2_carRearviewMirror_2_pasted__pas_738fae6",
+      "parent": "group1",
+      "vertices": 444,
+      "polygons": 817,
+      "triangles": 817,
+      "dimensions": [
+        0.0008490800391882658,
+        0.001280989614315331,
+        0.001796789700165391
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 817,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Mirrors"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWheelLogoBase_ScuffPlate_Font_carWheelLogoBase_S_a7e7ccc",
+      "parent": "group1",
+      "vertices": 802,
+      "polygons": 786,
+      "triangles": 786,
+      "dimensions": [
+        0.0005880698445253074,
+        3.387004107935354e-05,
+        0.0158532802015543
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 786,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWindowTrim_1_1__carWindowTrim_1_001_Material #51",
+      "parent": "group1",
+      "vertices": 174,
+      "polygons": 306,
+      "triangles": 306,
+      "dimensions": [
+        0.010013709776103497,
+        0.0004058301274199039,
+        0.00047322033788077533
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 306,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLight_bulb_3_carLight_bulb_3_blinn25",
+      "parent": "group1",
+      "vertices": 1149,
+      "polygons": 1579,
+      "triangles": 1579,
+      "dimensions": [
+        0.044229019433259964,
+        0.009914159774780273,
+        0.01671638898551464
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1579,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CAR_L"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantGray_1_carPlastic_BrilliantGray_2763b7a",
+      "parent": "group1",
+      "vertices": 108,
+      "polygons": 184,
+      "triangles": 184,
+      "dimensions": [
+        0.0008481800323352218,
+        0.00015275001351255924,
+        0.0004548399883788079
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 184,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_DoorBack_1__carInternal_DoorBack_001_pa_d256030",
+      "parent": "group1",
+      "vertices": 10101,
+      "polygons": 18100,
+      "triangles": 18100,
+      "dimensions": [
+        0.010340269654989243,
+        0.00866082962602377,
+        0.0027818595990538597
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 18100,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Int_Door_Back"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_CenterConsole_2_carInternal_CenterConso_00bd52e",
+      "parent": "group1",
+      "vertices": 1174,
+      "polygons": 2206,
+      "triangles": 2206,
+      "dimensions": [
+        0.0032171697821468115,
+        0.001972460187971592,
+        0.00208035996183753
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2206,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_SW"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_4_1__carPaint_4_001_lambert266",
+      "parent": "group1",
+      "vertices": 3199,
+      "polygons": 6077,
+      "triangles": 6077,
+      "dimensions": [
+        0.011373168788850307,
+        0.007560769561678171,
+        0.0013888698304072022
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 6077,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWindowTrim_5_carWindowTrim_5_Material #51",
+      "parent": "group1",
+      "vertices": 1185,
+      "polygons": 2107,
+      "triangles": 2107,
+      "dimensions": [
+        0.021959759294986725,
+        0.004046139772981405,
+        0.01566520892083645
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2107,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_2_1__carPaint_2_001_lambert266",
+      "parent": "group1",
+      "vertices": 7469,
+      "polygons": 14446,
+      "triangles": 14446,
+      "dimensions": [
+        0.01492405030876398,
+        0.002589780604466796,
+        0.01853661984205246
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 14446,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_3_3_carPlastic_BrilliantB_4a28a01",
+      "parent": "group1",
+      "vertices": 1525,
+      "polygons": 2776,
+      "triangles": 2776,
+      "dimensions": [
+        0.002833029953762889,
+        0.0019157003844156861,
+        0.002725990256294608
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2776,
+      "uv_layers": [],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_SteeringWheel_Bottom_carInternal_Steeri_fd4830e",
+      "parent": "group1",
+      "vertices": 2295,
+      "polygons": 4002,
+      "triangles": 4002,
+      "dimensions": [
+        0.0031251697801053524,
+        0.002884820569306612,
+        0.0034718001261353493
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4002,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Int_DoorF"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_TrunkExternal_carInternal_TrunkExternal_9810f0b",
+      "parent": "group1",
+      "vertices": 5127,
+      "polygons": 9214,
+      "triangles": 9214,
+      "dimensions": [
+        0.009147699922323227,
+        0.007850009948015213,
+        0.012318038381636143
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 9214,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Trunk"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_Roof_carInternal_Roof_pasted__blinn6",
+      "parent": "group1",
+      "vertices": 298,
+      "polygons": 506,
+      "triangles": 506,
+      "dimensions": [
+        0.014783930033445358,
+        0.0009321403340436518,
+        0.011631788685917854
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 506,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Roof"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_13_carPaint_13_lambert266",
+      "parent": "group1",
+      "vertices": 2605,
+      "polygons": 4942,
+      "triangles": 4942,
+      "dimensions": [
+        0.010408270172774792,
+        0.007885249331593513,
+        0.001993349753320217
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4942,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_MatteBlack_1_1_carPlastic_MatteBlack_1_1_e2a2770",
+      "parent": "group1",
+      "vertices": 3760,
+      "polygons": 6194,
+      "triangles": 6194,
+      "dimensions": [
+        0.03358003869652748,
+        0.006071410141885281,
+        0.01685073971748352
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 6194,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_front_2_Side_2_1__carGlass_front_2_Side_2__bf038aa",
+      "parent": "group1",
+      "vertices": 1400,
+      "polygons": 2796,
+      "triangles": 2796,
+      "dimensions": [
+        0.008608019910752773,
+        0.0038222908042371273,
+        0.001645159674808383
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2796,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carHoodOutletWisp_carHoodOutletWisp_lambert277",
+      "parent": "group1",
+      "vertices": 370,
+      "polygons": 592,
+      "triangles": 592,
+      "dimensions": [
+        0.0013769209617748857,
+        0.00043168067350052297,
+        0.014500419609248638
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 592,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_back_2_Side_carGlass_back_2_Side_pasted__C_e17256d",
+      "parent": "group1",
+      "vertices": 2020,
+      "polygons": 4032,
+      "triangles": 4032,
+      "dimensions": [
+        0.0045141601003706455,
+        0.002506799530237913,
+        0.014412018470466137
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4032,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_2_1_carPlastic_BrilliantB_b79d99c",
+      "parent": "group1",
+      "vertices": 2317,
+      "polygons": 4216,
+      "triangles": 4216,
+      "dimensions": [
+        0.0173955000936985,
+        0.0012276505585759878,
+        0.01257539913058281
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4216,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightPlastic_MatteBlack_carLightPlastic_MatteBla_5472d3a",
+      "parent": "group1",
+      "vertices": 1928,
+      "polygons": 2238,
+      "triangles": 2238,
+      "dimensions": [
+        0.005056788679212332,
+        0.001377659384161234,
+        0.017599420621991158
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2238,
+      "uv_layers": [],
+      "materials": [
+        "Metal_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_Dashboard_carInternal_Dashboard_pasted__8567e1c",
+      "parent": "group1",
+      "vertices": 6477,
+      "polygons": 11832,
+      "triangles": 11832,
+      "dimensions": [
+        0.006855519954115152,
+        0.004082099534571171,
+        0.015292960219085217
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 11832,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Dash"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_DoorFront_carInternal_DoorFront_pasted__blinn6",
+      "parent": "group1",
+      "vertices": 9756,
+      "polygons": 16889,
+      "triangles": 16889,
+      "dimensions": [
+        0.011269069276750088,
+        0.008957820013165474,
+        0.002860299777239561
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 16889,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Int_DoorF"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_1_6_2__carPlastic_Brillia_381c6c4",
+      "parent": "group1",
+      "vertices": 945,
+      "polygons": 1764,
+      "triangles": 1764,
+      "dimensions": [
+        0.010504169389605522,
+        0.005961580201983452,
+        0.0005781400250270963
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1764,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carRoof_yu7_carRoof_yu7_pasted__Car glass",
+      "parent": "group1",
+      "vertices": 884,
+      "polygons": 1764,
+      "triangles": 1764,
+      "dimensions": [
+        0.014840668998658657,
+        0.0009628808475099504,
+        0.012159219942986965
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1764,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "D_Glass"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_Frame_Top_2_carInternal_Frame_Top_2_pas_25193d3",
+      "parent": "group1",
+      "vertices": 1775,
+      "polygons": 3138,
+      "triangles": 3138,
+      "dimensions": [
+        0.018709110096096992,
+        0.0030854891519993544,
+        0.01332917995750904
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 3138,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Frame_Top"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_back_2_Side_1_1__carGlass_back_2_Side_1_00_bf951ca",
+      "parent": "group1",
+      "vertices": 1584,
+      "polygons": 3164,
+      "triangles": 3164,
+      "dimensions": [
+        0.007273119408637285,
+        0.0035160898696631193,
+        0.0016239797696471214
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 3164,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_4_carPaint_4_lambert266",
+      "parent": "group1",
+      "vertices": 3199,
+      "polygons": 6077,
+      "triangles": 6077,
+      "dimensions": [
+        0.011373168788850307,
+        0.007560769561678171,
+        0.0013888698304072022
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 6077,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carMirror_top_2_carMirror_top_2_lambert266",
+      "parent": "group1",
+      "vertices": 598,
+      "polygons": 1122,
+      "triangles": 1122,
+      "dimensions": [
+        0.0019626403227448463,
+        0.0008909296593628824,
+        0.0018723397515714169
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1122,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Blaack_Paint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_1_carPaint_1_lambert266",
+      "parent": "group1",
+      "vertices": 17496,
+      "polygons": 32660,
+      "triangles": 32660,
+      "dimensions": [
+        0.04710819199681282,
+        0.011923149228096008,
+        0.018569400534033775
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 32660,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_SteeringWheel_Top_4_carInternal_Steerin_add9616",
+      "parent": "group1",
+      "vertices": 2458,
+      "polygons": 4638,
+      "triangles": 4638,
+      "dimensions": [
+        0.001477050012908876,
+        0.002928289817646146,
+        0.003431609831750393
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4638,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_SW"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:scuffPlate_Base_scuffPlate_Base_lambert277",
+      "parent": "group1",
+      "vertices": 168,
+      "polygons": 276,
+      "triangles": 276,
+      "dimensions": [
+        0.004111230373382568,
+        0.00015308975707739592,
+        0.016129599884152412
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 276,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_CenterConsole_1_carInternal_CenterConso_7dba9f6",
+      "parent": "group1",
+      "vertices": 7368,
+      "polygons": 13076,
+      "triangles": 13076,
+      "dimensions": [
+        0.013068089261651039,
+        0.005443190224468708,
+        0.0031033598352223635
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 13076,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Console"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carHoodOutletPanel_carHoodOutletPanel_lambert277",
+      "parent": "group1",
+      "vertices": 1860,
+      "polygons": 3428,
+      "triangles": 3428,
+      "dimensions": [
+        0.0029689394868910313,
+        0.000509170291479677,
+        0.015370059758424759
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 3428,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_DoorFront_1__carInternal_DoorFront_001__9e82f45",
+      "parent": "group1",
+      "vertices": 8932,
+      "polygons": 15473,
+      "triangles": 15473,
+      "dimensions": [
+        0.011269069276750088,
+        0.008957820013165474,
+        0.002860299777239561
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 15473,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Int_DoorF"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carMirror_top_2_1__carMirror_top_2_001_lambert266",
+      "parent": "group1",
+      "vertices": 598,
+      "polygons": 1122,
+      "triangles": 1122,
+      "dimensions": [
+        0.0019626403227448463,
+        0.0008909296593628824,
+        0.0018723492976278067
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1122,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Blaack_Paint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_Frame_Bottom_carInternal_Frame_Bottom_p_c956721",
+      "parent": "group1",
+      "vertices": 31121,
+      "polygons": 56398,
+      "triangles": 56398,
+      "dimensions": [
+        0.029317431151866913,
+        0.011143620125949383,
+        0.01572095975279808
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 56398,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Bottom",
+        "Mirrors"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_9_carPaint_9_lambert266",
+      "parent": "group1",
+      "vertices": 2605,
+      "polygons": 4940,
+      "triangles": 4940,
+      "dimensions": [
+        0.010408270172774792,
+        0.007885249331593513,
+        0.001993350451812148
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4940,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_MatteBlack_2_1_carPlastic_MatteBlack_2_1_5cc8952",
+      "parent": "group1",
+      "vertices": 1223,
+      "polygons": 2118,
+      "triangles": 2118,
+      "dimensions": [
+        0.041195858269929886,
+        0.006294259801506996,
+        0.018589209765195847
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2118,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carRoofSpoiler_carRoofSpoiler_lambert277",
+      "parent": "group1",
+      "vertices": 2118,
+      "polygons": 4066,
+      "triangles": 4066,
+      "dimensions": [
+        0.0033142399042844772,
+        0.0012689601862803102,
+        0.011152119375765324
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 4066,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carMirror_bottom_2_1__carMirror_bottom_2_001_lambert266_001",
+      "parent": "group1",
+      "vertices": 347,
+      "polygons": 641,
+      "triangles": 641,
+      "dimensions": [
+        0.001955870073288679,
+        0.0004422604979481548,
+        0.001868520281277597
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 641,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Blaack_Paint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_DoorBack_carInternal_DoorBack_pasted__blinn6",
+      "parent": "group1",
+      "vertices": 10099,
+      "polygons": 18097,
+      "triangles": 18097,
+      "dimensions": [
+        0.010340269654989243,
+        0.00866082962602377,
+        0.002795909531414509
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 18097,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Int_Door_Back"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carRearviewMirror_3_carRearviewMirror_3_pasted__pas_ead6317",
+      "parent": "group1",
+      "vertices": 444,
+      "polygons": 817,
+      "triangles": 817,
+      "dimensions": [
+        0.0008490800391882658,
+        0.001280989614315331,
+        0.001796789700165391
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 817,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Mirrors"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_back_2_Side_1_carGlass_back_2_Side_1_paste_abbf3d7",
+      "parent": "group1",
+      "vertices": 1480,
+      "polygons": 2956,
+      "triangles": 2956,
+      "dimensions": [
+        0.007273119408637285,
+        0.0035164200235158205,
+        0.0016239797696471214
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2956,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_front_2_Side_2_carGlass_front_2_Side_2_pas_f4d2435",
+      "parent": "group1",
+      "vertices": 1400,
+      "polygons": 2796,
+      "triangles": 2796,
+      "dimensions": [
+        0.008608019910752773,
+        0.0038222908042371273,
+        0.001645159674808383
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2796,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carGlass_back_1_carGlass_back_1_Car glass6",
+      "parent": "group1",
+      "vertices": 962,
+      "polygons": 1920,
+      "triangles": 1920,
+      "dimensions": [
+        0.006054918747395277,
+        0.002454199828207493,
+        0.01128355972468853
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1920,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Windows"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightPlastic_BrilliantBlack_3_carLightPlastic_Br_94225d0",
+      "parent": "group1",
+      "vertices": 1290,
+      "polygons": 2256,
+      "triangles": 2256,
+      "dimensions": [
+        0.004781448747962713,
+        0.0015803497517481446,
+        0.017426878213882446
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2256,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "LIGHT_PLASTIC_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_2_carPlastic_BrilliantBla_05a5d5a",
+      "parent": "group1",
+      "vertices": 832,
+      "polygons": 1430,
+      "triangles": 1430,
+      "dimensions": [
+        0.002704049227759242,
+        0.00133280991576612,
+        0.013613739982247353
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1430,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPaint_8_carPaint_8_lambert266",
+      "parent": "group1",
+      "vertices": 3420,
+      "polygons": 6492,
+      "triangles": 6492,
+      "dimensions": [
+        0.005594049580395222,
+        0.005791219882667065,
+        0.012412190437316895
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 6492,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "CarPaint"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWindowTrim_1_carWindowTrim_1_Material #51",
+      "parent": "group1",
+      "vertices": 174,
+      "polygons": 306,
+      "triangles": 306,
+      "dimensions": [
+        0.010013709776103497,
+        0.0004058301274199039,
+        0.0004732197558041662
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 306,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carHeaterStrip_carHeaterStrip_lambert2",
+      "parent": "group1",
+      "vertices": 1030,
+      "polygons": 990,
+      "triangles": 990,
+      "dimensions": [
+        0.0045237611047923565,
+        0.0021290206350386143,
+        0.00926337018609047
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 990,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Yu7:lambert272"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_BrilliantBlack_1_1_carPlastic_BrilliantB_3bae8b0",
+      "parent": "group1",
+      "vertices": 17726,
+      "polygons": 32472,
+      "triangles": 32472,
+      "dimensions": [
+        0.04734334722161293,
+        0.006811629980802536,
+        0.018922889605164528
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 32472,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Plastic_SH"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carLightGlass_Back_2_carLightGlass_Back_2_pasted__C_8e87ca0",
+      "parent": "group1",
+      "vertices": 1407,
+      "polygons": 2654,
+      "triangles": 2654,
+      "dimensions": [
+        0.0023117302916944027,
+        0.0018357306253165007,
+        0.01233005989342928
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2654,
+      "uv_layers": [],
+      "materials": [
+        "Light_Glass"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_PassengerSeatBack_carInternal_Passenger_5d1682b",
+      "parent": "group1",
+      "vertices": 12845,
+      "polygons": 22745,
+      "triangles": 22745,
+      "dimensions": [
+        0.00842736940830946,
+        0.0073174601420760155,
+        0.013028419576585293
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 22745,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Seat_Back"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carHeadLampPanel_carHeadLampPanel_lambert277",
+      "parent": "group1",
+      "vertices": 1629,
+      "polygons": 2977,
+      "triangles": 2977,
+      "dimensions": [
+        0.005895498674362898,
+        0.0016599303344264627,
+        0.01755709946155548
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2977,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "dark_Gray_Map"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBackDrop_carBackDrop_pasted__blinn6",
+      "parent": "group1",
+      "vertices": 270,
+      "polygons": 454,
+      "triangles": 454,
+      "dimensions": [
+        0.014746399596333504,
+        0.0008572995429858565,
+        0.010631990619003773
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 454,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_Roof"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carXiaoMi_1_carXiaoMi_1_lambert279",
+      "parent": "group1",
+      "vertices": 1140,
+      "polygons": 1986,
+      "triangles": 1986,
+      "dimensions": [
+        8.93998148967512e-05,
+        0.0002406406420050189,
+        0.001800419995561242
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1986,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carInternal_SteeringWheel_Top_2_carInternal_Steerin_8a91a66",
+      "parent": "group1",
+      "vertices": 10786,
+      "polygons": 19929,
+      "triangles": 19929,
+      "dimensions": [
+        0.0016256698872894049,
+        0.0016510700806975365,
+        0.002840269822627306
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 19929,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "INT_SW"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carPlastic_MatteBlack_trunk_9_carPlastic_MatteBlack_b76a109",
+      "parent": "group1",
+      "vertices": 6562,
+      "polygons": 12015,
+      "triangles": 12015,
+      "dimensions": [
+        0.01489237044006586,
+        0.005174099002033472,
+        0.0185211393982172
+      ],
+      "location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 12015,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert258",
+      "parent": "group1",
+      "vertices": 24,
+      "polygons": 18,
+      "triangles": 18,
+      "dimensions": [
+        0.0002180599985877052,
+        0.00013970000145491213,
+        4.258230887899117e-07
+      ],
+      "location": [
+        0.007919145748019218,
+        -0.01432006899267435,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 18,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carTyre_02_carTyre_02_aiAmbientOcclusion4",
+      "parent": "group1",
+      "vertices": 1080,
+      "polygons": 2040,
+      "triangles": 2040,
+      "dimensions": [
+        0.0072509595192968845,
+        0.0072509595192968845,
+        0.002420529955998063
+      ],
+      "location": [
+        0.007919145748019218,
+        -0.01432006899267435,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2040,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "tyre_3"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert258",
+      "parent": "group1",
+      "vertices": 97,
+      "polygons": 168,
+      "triangles": 168,
+      "dimensions": [
+        0.00036401997203938663,
+        0.0003640200011432171,
+        1.4338793334900402e-05
+      ],
+      "location": [
+        0.007919145748019218,
+        -0.01432006899267435,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 168,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert258",
+      "parent": "group1",
+      "vertices": 132,
+      "polygons": 216,
+      "triangles": 216,
+      "dimensions": [
+        0.00016106008843053132,
+        0.00016558005881961435,
+        0.00030333996983245015
+      ],
+      "location": [
+        0.007919145748019218,
+        -0.01432006899267435,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 216,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__paste_0660ce0",
+      "parent": "group1",
+      "vertices": 555,
+      "polygons": 695,
+      "triangles": 695,
+      "dimensions": [
+        0.005494769662618637,
+        0.005493009928613901,
+        5.2032741223229095e-05
+      ],
+      "location": [
+        0.007919145748019218,
+        -0.01432006899267435,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 695,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__paste_e4531aa",
+      "parent": "group1",
+      "vertices": 5764,
+      "polygons": 10250,
+      "triangles": 10250,
+      "dimensions": [
+        0.005498160142451525,
+        0.00549798971042037,
+        0.002361561404541135
+      ],
+      "location": [
+        0.007919145748019218,
+        -0.01432006899267435,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 10250,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Yu7:RIM_C1",
+        "RIM_C2"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert258",
+      "parent": "group1",
+      "vertices": 24,
+      "polygons": 18,
+      "triangles": 18,
+      "dimensions": [
+        0.0002180599985877052,
+        0.00013970000145491213,
+        4.258230887899117e-07
+      ],
+      "location": [
+        0.008100994862616062,
+        0.014059929177165031,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 18,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carTyre_02_carTyre_02_aiAmbientOcclusion4",
+      "parent": "group1",
+      "vertices": 1080,
+      "polygons": 2040,
+      "triangles": 2040,
+      "dimensions": [
+        0.0072509595192968845,
+        0.0072509595192968845,
+        0.002420529955998063
+      ],
+      "location": [
+        0.008100994862616062,
+        0.014059929177165031,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2040,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "tyre_3"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert258",
+      "parent": "group1",
+      "vertices": 97,
+      "polygons": 168,
+      "triangles": 168,
+      "dimensions": [
+        0.00036401997203938663,
+        0.0003640200011432171,
+        1.4338793334900402e-05
+      ],
+      "location": [
+        0.008100994862616062,
+        0.014059929177165031,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 168,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert258",
+      "parent": "group1",
+      "vertices": 132,
+      "polygons": 216,
+      "triangles": 216,
+      "dimensions": [
+        0.00016106008843053132,
+        0.00016558005881961435,
+        0.00030333996983245015
+      ],
+      "location": [
+        0.008100994862616062,
+        0.014059929177165031,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 216,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__pasted__Zinc$7",
+      "parent": "group1",
+      "vertices": 555,
+      "polygons": 695,
+      "triangles": 695,
+      "dimensions": [
+        0.005494769662618637,
+        0.005493009928613901,
+        5.2032741223229095e-05
+      ],
+      "location": [
+        0.008100994862616062,
+        0.014059929177165031,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 695,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__pasted__Zinc$6",
+      "parent": "group1",
+      "vertices": 5764,
+      "polygons": 10250,
+      "triangles": 10250,
+      "dimensions": [
+        0.005498160142451525,
+        0.00549798971042037,
+        0.002361561404541135
+      ],
+      "location": [
+        0.008100994862616062,
+        0.014059929177165031,
+        0.004073065239936113
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 10250,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Yu7:RIM_C1",
+        "RIM_C2"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert259",
+      "parent": "group1",
+      "vertices": 24,
+      "polygons": 18,
+      "triangles": 18,
+      "dimensions": [
+        0.0002180599985877052,
+        0.00013970000145491213,
+        4.258230887899117e-07
+      ],
+      "location": [
+        -0.008100000210106373,
+        0.014059929177165031,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 18,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carTyre_02_carTyre_02_aiAmbientOcclusion5",
+      "parent": "group1",
+      "vertices": 1080,
+      "polygons": 2040,
+      "triangles": 2040,
+      "dimensions": [
+        0.0072509595192968845,
+        0.0072509595192968845,
+        0.002420529955998063
+      ],
+      "location": [
+        -0.008100000210106373,
+        0.014059929177165031,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2040,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "tyre_3"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert259",
+      "parent": "group1",
+      "vertices": 97,
+      "polygons": 168,
+      "triangles": 168,
+      "dimensions": [
+        0.00036401997203938663,
+        0.0003640200011432171,
+        1.4338793334900402e-05
+      ],
+      "location": [
+        -0.008100000210106373,
+        0.014059929177165031,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 168,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert259",
+      "parent": "group1",
+      "vertices": 132,
+      "polygons": 216,
+      "triangles": 216,
+      "dimensions": [
+        0.00016106008843053132,
+        0.00016558005881961435,
+        0.00030333996983245015
+      ],
+      "location": [
+        -0.008100000210106373,
+        0.014059929177165031,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 216,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__pasted__Zinc$8",
+      "parent": "group1",
+      "vertices": 555,
+      "polygons": 695,
+      "triangles": 695,
+      "dimensions": [
+        0.005494769662618637,
+        0.005493009928613901,
+        5.2032741223229095e-05
+      ],
+      "location": [
+        -0.008100000210106373,
+        0.014059929177165031,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 695,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__pasted__Zinc$7",
+      "parent": "group1",
+      "vertices": 5764,
+      "polygons": 10250,
+      "triangles": 10250,
+      "dimensions": [
+        0.005498160142451525,
+        0.00549798971042037,
+        0.002361561404541135
+      ],
+      "location": [
+        -0.008100000210106373,
+        0.014059929177165031,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 10250,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Yu7:RIM_C1",
+        "RIM_C2"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelLogoFont_ACAL09_carWheelLogoFont_ACAL09_lambert260",
+      "parent": "group1",
+      "vertices": 24,
+      "polygons": 18,
+      "triangles": 18,
+      "dimensions": [
+        0.0002180599985877052,
+        0.00013970000145491213,
+        4.258230887899117e-07
+      ],
+      "location": [
+        -0.007919998839497566,
+        -0.01432006899267435,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 18,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carTyre_02_carTyre_02_aiAmbientOcclusion6",
+      "parent": "group1",
+      "vertices": 1080,
+      "polygons": 2040,
+      "triangles": 2040,
+      "dimensions": [
+        0.0072509595192968845,
+        0.0072509595192968845,
+        0.002420529955998063
+      ],
+      "location": [
+        -0.007919998839497566,
+        -0.01432006899267435,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 2040,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "tyre_3"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelLogoBase_ACAL09_carWheelLogoBase_ACAL09_lambert260",
+      "parent": "group1",
+      "vertices": 97,
+      "polygons": 168,
+      "triangles": 168,
+      "dimensions": [
+        0.00036401997203938663,
+        0.0003640200011432171,
+        1.4338793334900402e-05
+      ],
+      "location": [
+        -0.007919998839497566,
+        -0.01432006899267435,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 168,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelAirVent_ACAL09_carWheelAirVent_ACAL09_lambert260",
+      "parent": "group1",
+      "vertices": 132,
+      "polygons": 216,
+      "triangles": 216,
+      "dimensions": [
+        0.00016106008843053132,
+        0.00016558005881961435,
+        0.00030333996983245015
+      ],
+      "location": [
+        -0.007919998839497566,
+        -0.01432006899267435,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 216,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelHub_ACAL09_carWheelHub_ACAL09_pasted__pasted__Zinc$9",
+      "parent": "group1",
+      "vertices": 555,
+      "polygons": 695,
+      "triangles": 695,
+      "dimensions": [
+        0.005494769662618637,
+        0.005493009928613901,
+        5.2032741223229095e-05
+      ],
+      "location": [
+        -0.007919998839497566,
+        -0.01432006899267435,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 695,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "ALUM"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "carWheelRim_ACAL09_carWheelRim_ACAL09_pasted__pasted__Zinc$8",
+      "parent": "group1",
+      "vertices": 5764,
+      "polygons": 10250,
+      "triangles": 10250,
+      "dimensions": [
+        0.005498160142451525,
+        0.00549798971042037,
+        0.002361561404541135
+      ],
+      "location": [
+        -0.007919998839497566,
+        -0.01432006899267435,
+        0.004073066171258688
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.064500093460083
+      ],
+      "determinant": 1.0644999974829261e-06,
+      "custom_normals": true,
+      "smooth_faces": 10250,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Yu7:RIM_C1",
+        "RIM_C2"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBrakeDisc_Back_2_carBrakeDisc_Back_2_pasted__pas_2f3d411",
+      "parent": "group1",
+      "vertices": 312,
+      "polygons": 456,
+      "triangles": 456,
+      "dimensions": [
+        0.003526679240167141,
+        0.003933200147002935,
+        0.01535485964268446
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 456,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "DISK"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBrakeDisc_Back_carBrakeDisc_Back_lambert274",
+      "parent": "group1",
+      "vertices": 674,
+      "polygons": 1340,
+      "triangles": 1340,
+      "dimensions": [
+        0.0036913203075528145,
+        0.0036913298536092043,
+        0.016430819407105446
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1340,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "DISK"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carCaliper_MainBack_carCaliper_MainBack_pasted__pas_10e4aa3",
+      "parent": "group1",
+      "vertices": 4994,
+      "polygons": 9832,
+      "triangles": 9832,
+      "dimensions": [
+        0.0013856005389243364,
+        0.0019922596402466297,
+        0.016803378239274025
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 9832,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Caliper_C2",
+        "Caliper_C1"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carCaliper_Screw_1_carCaliper_Screw_1_pasted__paste_17cf3c9",
+      "parent": "group1",
+      "vertices": 590,
+      "polygons": 1040,
+      "triangles": 1040,
+      "dimensions": [
+        0.025305017828941345,
+        0.0017955097137019038,
+        0.016993580386042595
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1040,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Caliper_C1"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBrakeDisc_Front_2_carBrakeDisc_Front_2_pasted__p_2f883d0",
+      "parent": "group1",
+      "vertices": 280,
+      "polygons": 552,
+      "triangles": 552,
+      "dimensions": [
+        0.0029768478125333786,
+        0.004024710040539503,
+        0.015390339307487011
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 552,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "DISK"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carBrakeDisc_Front_carBrakeDisc_Front_lambert274",
+      "parent": "group1",
+      "vertices": 674,
+      "polygons": 1340,
+      "triangles": 1340,
+      "dimensions": [
+        0.003691319143399596,
+        0.0036913298536092043,
+        0.016430819407105446
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1340,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "DISK"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carCaliper_MainFront_1_carCaliper_MainFront_1_paste_bf07cbe",
+      "parent": "group1",
+      "vertices": 7076,
+      "polygons": 14080,
+      "triangles": 14080,
+      "dimensions": [
+        0.0011800694046542048,
+        0.0034058797173202038,
+        0.01706065982580185
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 14080,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Caliper_C2"
+      ],
+      "modifiers": []
+    },
+    {
+      "name": "Yu7:carCaliper_PartFront_1_carCaliper_PartFront_1_paste_b339050",
+      "parent": "group1",
+      "vertices": 1306,
+      "polygons": 1298,
+      "triangles": 1298,
+      "dimensions": [
+        0.000247110117925331,
+        0.0010189198656007648,
+        0.01708225905895233
+      ],
+      "location": [
+        1.6310286454768175e-11,
+        7.129453672970177e-19,
+        0.00037313587381504476
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "determinant": 9.999999974752427e-07,
+      "custom_normals": true,
+      "smooth_faces": 1298,
+      "uv_layers": [
+        "map1"
+      ],
+      "materials": [
+        "Black_Mat"
+      ],
+      "modifiers": []
+    }
+  ],
+  "materials": [
+    {
+      "name": "LIGHT_PLASTIC_SH",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file10"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file10.002"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "Metal_Mat",
+      "diffuse": [
+        0.03496503457427025,
+        0.03496503457427025,
+        0.03496503457427025,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "tyre_3",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file22"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file22.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Roof",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file15"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file15.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "CarPaint",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file1"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "Black_Mat",
+      "diffuse": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "Light_Glass",
+      "diffuse": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "Yu7:lambert272",
+      "diffuse": [
+        0.04895104840397835,
+        0.04895104840397835,
+        0.04895104840397835,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "INT_SW",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file4"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "Caliper_C2",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file7"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file7.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "Windows",
+      "diffuse": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "Mirrors",
+      "diffuse": [
+        0.800000011920929,
+        0.800000011920929,
+        0.800000011920929,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Frame_Top",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file16"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "Blaack_Paint",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file1"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Trunk_E",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file19"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file19.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "RIM_C2",
+      "diffuse": [
+        0.1818181872367859,
+        0.1818181872367859,
+        0.1818181872367859,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Dash",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file5"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "Yu7:RIM_C1",
+      "diffuse": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Seat_Front",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file13"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "Plastic_SH",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file2"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file2.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Seat_Back",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file14"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Trunk",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file18"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file18.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "CAR_L",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file9"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "ALUM",
+      "diffuse": [
+        0.2097902148962021,
+        0.2097902148962021,
+        0.2097902148962021,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "Int_DoorF",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file8"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "dark_Gray_Map",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file11"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file11.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Bottom",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file12"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "Caliper_C1",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file7"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file7.002"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "Int_Door_Back",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file17"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "D_Glass",
+      "diffuse": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ]
+      ]
+    },
+    {
+      "name": "INT_Console",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file6"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ]
+      ]
+    },
+    {
+      "name": "DISK",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.0,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file3"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file3.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    },
+    {
+      "name": "LIGHT_CHROME_SH",
+      "diffuse": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "metallic": 0.5,
+      "roughness": 0.5527864098548889,
+      "nodes": [
+        {
+          "name": "Principled BSDF",
+          "type": "BSDF_PRINCIPLED",
+          "image": null
+        },
+        {
+          "name": "Material Output",
+          "type": "OUTPUT_MATERIAL",
+          "image": null
+        },
+        {
+          "name": "Normal Map",
+          "type": "NORMAL_MAP",
+          "image": null
+        },
+        {
+          "name": "Image Texture",
+          "type": "TEX_IMAGE",
+          "image": "file10"
+        },
+        {
+          "name": "Image Texture.001",
+          "type": "TEX_IMAGE",
+          "image": "file10.001"
+        }
+      ],
+      "links": [
+        [
+          "Principled BSDF",
+          "BSDF",
+          "Material Output",
+          "Surface"
+        ],
+        [
+          "Normal Map",
+          "Normal",
+          "Principled BSDF",
+          "Normal"
+        ],
+        [
+          "Image Texture",
+          "Color",
+          "Principled BSDF",
+          "Base Color"
+        ],
+        [
+          "Image Texture.001",
+          "Alpha",
+          "Principled BSDF",
+          "Alpha"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "name": "file1",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carPaint_Shape1.png",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file10",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carLightShape.png",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file10.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carLightShape.png",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file10.002",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carLightShape.png",
+      "exists": true,
+      "size": [
+        4096,
+        4096
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file11",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carHoodOutletPanelShape.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file11.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carHoodOutletPanelShape.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file12",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_Frame_Bottom_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file13",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_PassengerSeatFront_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file14",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_PassengerSeatBack_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file15",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_Roof_MT_Turquoise_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file15.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_Roof_MT_Turquoise_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file16",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_Frame_Top_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file17",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_DoorBack_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file18",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_TrunkExternal_MT_Turquoise_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file18.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_TrunkExternal_MT_Turquoise_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file19",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_TrunkInternal_MT_Turquoise_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file19.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_TrunkInternal_MT_Turquoise_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file2",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carPlastic_BrilliantBlackShape.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file2.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carPlastic_BrilliantBlackShape.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file22",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carTyre_02_245_bump.png",
+      "exists": true,
+      "size": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file22.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carTyre_02_245_bump.png",
+      "exists": true,
+      "size": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file3",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carBrakeDisc_2_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file3.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carBrakeDisc_2_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file4",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_SteeringWheel_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file5",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_Dashboard_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file6",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_CenterConsole_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file7",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carCaliper_1Shape.png",
+      "exists": true,
+      "size": [
+        1024,
+        1024
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file7.001",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carCaliper_1Shape.png",
+      "exists": true,
+      "size": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file7.002",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carCaliper_1Shape.png",
+      "exists": true,
+      "size": [
+        1024,
+        1024
+      ],
+      "colorspace": "Non-Color",
+      "packed": true
+    },
+    {
+      "name": "file8",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carInternal_DoorFront_MT_OrangeMinium_MP.png",
+      "exists": true,
+      "size": [
+        512,
+        512
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    },
+    {
+      "name": "file9",
+      "filepath": "C:\\github2\\vehicle_visualization\\art\\FINAL_MODEL\\carLight_bulb_MP.png",
+      "exists": true,
+      "size": [
+        2048,
+        2048
+      ],
+      "colorspace": "sRGB",
+      "packed": true
+    }
+  ],
+  "totals": {
+    "meshes": 121,
+    "vertices": 322100,
+    "triangles": 579290,
+    "materials": 33
+  }
+}

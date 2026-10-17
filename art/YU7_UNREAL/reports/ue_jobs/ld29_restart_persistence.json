@@ -1,0 +1,12 @@
+{
+  "id": "ld29_restart_persistence",
+  "started": "2026-10-17T01:52:38-0700",
+  "status": "success",
+  "result": {
+    "persisted_native_parts": 21,
+    "persisted_visible_bp_parts": 100,
+    "original_rig_disabled": true,
+    "reload_api": "X.reload_packages(packages_to_reload, interaction_mode=ReloadPackagesInteractionMode.INTERACTIVE) -> (out_any_packages_reloaded=bool, out_error_message=Text)\r\nHelper function that attempts to reload the specified top-level packages.\r\n\r\nArgs:\r\n    packages_to_reload (Array[Package]): The list of packages that should be reloaded\r\n    interaction_mode (ReloadPackagesInteractionMode): Whether the function is allowed to ask the user questions (such as whether to reload dirty packages)\r\n\r\nReturns:\r\n    tuple: \r\n\r\n    out_any_packages_reloaded (bool): True if the set of loaded packages was changed\r\n\r\n    out_error_message (Text): An error message specifying any problems with reloading packages"
+  },
+  "finished": "2026-10-17T01:52:38-0700"
+}

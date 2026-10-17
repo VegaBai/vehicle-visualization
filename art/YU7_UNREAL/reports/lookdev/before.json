@@ -1,0 +1,1741 @@
+{
+  "world": "/Game/YU7/Maps/Studio_YU7.Studio_YU7",
+  "dirty_maps": [],
+  "dirty_content": [],
+  "actors": [
+    {
+      "label": "SM_HalfDome",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000001A8E60AF260) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8E60AF260) {pitch: 0.000000, yaw: -179.999999, roll: 0.000000}>",
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "mesh": "/Game/Studios/Models/HalfDome/SM_HalfDome.SM_HalfDome",
+          "materials": [
+            "/Game/Studios/Models/HalfDome/MI_HalfDomeFloor_White.MI_HalfDomeFloor_White",
+            "/Game/Studios/Models/HalfDome/MI_HalfDomeFloor_White.MI_HalfDomeFloor_White",
+            "/Game/Studios/Models/HalfDome/MI_HalfDomeFloor_White.MI_HalfDomeFloor_White"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "label": "SM_AutomotiveTP_Car",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000001A8E60AEEA0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8E60AEEA0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "mesh": "/Game/ConceptCar/Car/SM_AutomotiveTP_Car.SM_AutomotiveTP_Car",
+          "materials": [
+            "/Game/ConceptCar/Car/Assets/M_TireRubber.M_TireRubber",
+            "/Game/ConceptCar/Car/Assets/MI_CarPaint.MI_CarPaint",
+            "/Game/ConceptCar/Car/Assets/M_Glass.M_Glass",
+            "/Game/ConceptCar/Car/Assets/M_Metal.M_Metal",
+            "/Game/ConceptCar/Car/Assets/M_TireRubber.M_TireRubber"
+          ],
+          "visible": false
+        }
+      ]
+    },
+    {
+      "label": "SM_InvertedCube",
+      "class": "StaticMeshActor",
+      "location": "<Struct 'Vector' (0x000001A811101BE0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A811101BE0) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "StaticMeshComponent0",
+          "mesh": "/Game/Studios/Models/HalfDome/SM_InvertedCube_For_HalfDome.SM_InvertedCube_For_HalfDome",
+          "materials": [
+            "/Game/Studios/Models/HalfDome/MI_HalfDomeFloor_White.MI_HalfDomeFloor_White"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "label": "RectLight",
+      "class": "RectLight",
+      "location": "<Struct 'Vector' (0x000001A8111021D0) {x: 0.000000, y: 0.000000, z: 610.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111021D0) {pitch: -89.000000, yaw: -90.000000, roll: 180.000000}>",
+      "components": [
+        {
+          "name": "LightComponent0",
+          "class": "RectLightComponent",
+          "properties": {
+            "intensity": "50000.0",
+            "intensity_units": "<LightUnits.LUMENS: 2>",
+            "light_color": "<Struct 'Color' (0x000001A94CA3FCB8) {b: 255, g: 255, r: 255, a: 255}>",
+            "temperature": "6500.0",
+            "use_temperature": "False",
+            "source_width": "970.0",
+            "source_height": "580.0",
+            "attenuation_radius": "1500.0",
+            "cast_shadows": "True",
+            "indirect_lighting_intensity": "1.0",
+            "specular_scale": "1.0",
+            "mobility": "<ComponentMobility.MOVABLE: 2>"
+          }
+        }
+      ]
+    },
+    {
+      "label": "BP_CStand",
+      "class": "BP_CStand_C",
+      "location": "<Struct 'Vector' (0x000001A8111029F0) {x: -343.301271, y: -146.243557, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111029F0) {pitch: 0.000000, yaw: 30.000000, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "SM_CStand_03_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_03_Rod.SM_CStand_03_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_02_Head",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_02_Head.SM_CStand_04_BarClamp_Main_02_Head",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_01_Base",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_01_Base.SM_CStand_06_BarClamp_Tip_01_Base",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_05_GoboArm",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_05_GoboArm.SM_CStand_05_GoboArm",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_02_Head",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_02_Head.SM_CStand_06_BarClamp_Tip_02_Head",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_01_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_01_Rod.SM_CStand_07_Mount_01_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_02_Rotator",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_02_Rotator.SM_CStand_07_Mount_02_Rotator",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_FluorescentLight",
+          "mesh": "/Game/Studios/Models/FluorescentLight/SM_FluorescentLight.SM_FluorescentLight",
+          "materials": [
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_Silver.MI_FlrLight_Plastic_Silver",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_WhiteBlue.MI_FlrLight_Plastic_WhiteBlue",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_WhiteBlue.MI_FlrLight_Plastic_WhiteBlue",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Reflect.MI_FlrLight_Reflect",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_Edge.MI_FlrLight_Plastic_Edge"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_FluorescentLight_Tube",
+          "mesh": "/Game/Studios/Models/FluorescentLight/SM_FluorescentLight_Tube.SM_FluorescentLight_Tube",
+          "materials": [
+            "/Game/YU7/Maps/Studio_YU7.Studio_YU7:PersistentLevel.BP_CStand_C_1.SM_FluorescentLight_Tube.MID_MI_FluorescentLight_Em_0",
+            "/Game/Studios/Models/FluorescentLight/M_FlrLight_Txt.M_FlrLight_Txt",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_03_Lockhandle.SM_CStand_07_Mount_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_03_Lockhandle.SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_03_Lockhandle.SM_CStand_04_BarClamp_Main_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_01_Base",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_01_Base.SM_CStand_04_BarClamp_Main_01_Base",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_02_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_02_Rod.SM_CStand_02_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_02_Rod_LockHandle_02",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_02_Rod_LockHandle_02.SM_CStand_02_Rod_LockHandle_02",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_01_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_01_Rod.SM_CStand_01_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_00_Leg",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_00_Leg.SM_CStand_00_Leg",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_08_Grip",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_08_Grip.SM_CStand_08_Grip",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_01_Rod_LockHandle_01",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_01_Rod_LockHandle_01.SM_CStand_01_Rod_LockHandle_01",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "label": "BP_CStand2",
+      "class": "BP_CStand_C",
+      "location": "<Struct 'Vector' (0x000001A811102AE0) {x: 34.185842, y: -240.070416, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A811102AE0) {pitch: 0.000000, yaw: 99.999999, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "SM_CStand_03_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_03_Rod.SM_CStand_03_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_02_Head",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_02_Head.SM_CStand_04_BarClamp_Main_02_Head",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_01_Base",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_01_Base.SM_CStand_06_BarClamp_Tip_01_Base",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_05_GoboArm",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_05_GoboArm.SM_CStand_05_GoboArm",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_02_Head",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_02_Head.SM_CStand_06_BarClamp_Tip_02_Head",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_01_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_01_Rod.SM_CStand_07_Mount_01_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_02_Rotator",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_02_Rotator.SM_CStand_07_Mount_02_Rotator",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_FluorescentLight",
+          "mesh": "/Game/Studios/Models/FluorescentLight/SM_FluorescentLight.SM_FluorescentLight",
+          "materials": [
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_Silver.MI_FlrLight_Plastic_Silver",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_WhiteBlue.MI_FlrLight_Plastic_WhiteBlue",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_WhiteBlue.MI_FlrLight_Plastic_WhiteBlue",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Reflect.MI_FlrLight_Reflect",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_Edge.MI_FlrLight_Plastic_Edge"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_FluorescentLight_Tube",
+          "mesh": "/Game/Studios/Models/FluorescentLight/SM_FluorescentLight_Tube.SM_FluorescentLight_Tube",
+          "materials": [
+            "/Game/YU7/Maps/Studio_YU7.Studio_YU7:PersistentLevel.BP_CStand_C_2.SM_FluorescentLight_Tube.MID_MI_FluorescentLight_Em_0",
+            "/Game/Studios/Models/FluorescentLight/M_FlrLight_Txt.M_FlrLight_Txt",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_03_Lockhandle.SM_CStand_07_Mount_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_03_Lockhandle.SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_03_Lockhandle.SM_CStand_04_BarClamp_Main_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_01_Base",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_01_Base.SM_CStand_04_BarClamp_Main_01_Base",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_02_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_02_Rod.SM_CStand_02_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_02_Rod_LockHandle_02",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_02_Rod_LockHandle_02.SM_CStand_02_Rod_LockHandle_02",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_01_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_01_Rod.SM_CStand_01_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_00_Leg",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_00_Leg.SM_CStand_00_Leg",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_08_Grip",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_08_Grip.SM_CStand_08_Grip",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_01_Rod_LockHandle_01",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_01_Rod_LockHandle_01.SM_CStand_01_Rod_LockHandle_01",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "label": "BP_CStand3",
+      "class": "BP_CStand_C",
+      "location": "<Struct 'Vector' (0x000001A8111CFDF0) {x: 348.092198, y: 180.959967, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CFDF0) {pitch: 0.000000, yaw: -150.000002, roll: 0.000000}>",
+      "components": [
+        {
+          "name": "SM_CStand_03_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_03_Rod.SM_CStand_03_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_02_Head",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_02_Head.SM_CStand_04_BarClamp_Main_02_Head",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_01_Base",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_01_Base.SM_CStand_06_BarClamp_Tip_01_Base",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_05_GoboArm",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_05_GoboArm.SM_CStand_05_GoboArm",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_02_Head",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_02_Head.SM_CStand_06_BarClamp_Tip_02_Head",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_01_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_01_Rod.SM_CStand_07_Mount_01_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_02_Rotator",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_02_Rotator.SM_CStand_07_Mount_02_Rotator",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_FluorescentLight",
+          "mesh": "/Game/Studios/Models/FluorescentLight/SM_FluorescentLight.SM_FluorescentLight",
+          "materials": [
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_Silver.MI_FlrLight_Plastic_Silver",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_WhiteBlue.MI_FlrLight_Plastic_WhiteBlue",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_WhiteBlue.MI_FlrLight_Plastic_WhiteBlue",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Reflect.MI_FlrLight_Reflect",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Plastic_Edge.MI_FlrLight_Plastic_Edge"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_FluorescentLight_Tube",
+          "mesh": "/Game/Studios/Models/FluorescentLight/SM_FluorescentLight_Tube.SM_FluorescentLight_Tube",
+          "materials": [
+            "/Game/YU7/Maps/Studio_YU7.Studio_YU7:PersistentLevel.BP_CStand_C_3.SM_FluorescentLight_Tube.MID_MI_FluorescentLight_Em_0",
+            "/Game/Studios/Models/FluorescentLight/M_FlrLight_Txt.M_FlrLight_Txt",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal",
+            "/Game/Studios/Models/FluorescentLight/MI_FlrLight_Metal.MI_FlrLight_Metal"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_07_Mount_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_07_Mount_03_Lockhandle.SM_CStand_07_Mount_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_06_BarClamp_Tip_03_Lockhandle.SM_CStand_06_BarClamp_Tip_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_03_Lockhandle",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_03_Lockhandle.SM_CStand_04_BarClamp_Main_03_Lockhandle",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_04_BarClamp_Main_01_Base",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_04_BarClamp_Main_01_Base.SM_CStand_04_BarClamp_Main_01_Base",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_02_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_02_Rod.SM_CStand_02_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_02_Rod_LockHandle_02",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_02_Rod_LockHandle_02.SM_CStand_02_Rod_LockHandle_02",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_01_Rod",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_01_Rod.SM_CStand_01_Rod",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_00_Leg",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_00_Leg.SM_CStand_00_Leg",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Silver.MI_CStand_Metal_Silver",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_08_Grip",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_08_Grip.SM_CStand_08_Grip",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth"
+          ],
+          "visible": true
+        },
+        {
+          "name": "SM_CStand_01_Rod_LockHandle_01",
+          "mesh": "/Game/Studios/Models/CStand/SM_CStand_01_Rod_LockHandle_01.SM_CStand_01_Rod_LockHandle_01",
+          "materials": [
+            "/Game/Studios/Models/CStand/MI_CStand_Rubber_Smooth.MI_CStand_Rubber_Smooth",
+            "/Game/Studios/Models/CStand/MI_CStand_Metal_Steel_Brushed.MI_CStand_Metal_Steel_Brushed"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "label": "CineCameraActor",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000001A8111CDF50) {x: -857.175738, y: 0.000016, z: 131.192060}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CDF50) {pitch: -4.676806, yaw: 0.209275, roll: 0.000000}>",
+      "components": [
+        {
+          "name": "CameraProxyMeshComponent_0",
+          "mesh": "/Engine/EditorMeshes/Camera/SM_CineCam.SM_CineCam",
+          "materials": [
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CameraBody.MI_CineMat_CameraBody",
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CamViewFinder.MI_CineMat_CamViewFinder"
+          ],
+          "visible": false
+        }
+      ]
+    },
+    {
+      "label": "PostProcessVolume",
+      "class": "PostProcessVolume",
+      "location": "<Struct 'Vector' (0x000001A8111CD190) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CD190) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "components": [],
+      "settings": {
+        "auto_exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+        "auto_exposure_bias": "1.5",
+        "auto_exposure_min_brightness": "9.0",
+        "auto_exposure_max_brightness": "9.0",
+        "auto_exposure_apply_physical_camera_exposure": "True",
+        "override_auto_exposure_method": "True",
+        "bloom_intensity": "0.44999998807907104",
+        "vignette_intensity": "0.0",
+        "color_saturation": "<Struct 'Vector4' (0x000001A967AF1310) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>",
+        "lumen_scene_lighting_quality": "1.0",
+        "lumen_final_gather_quality": "1.0",
+        "lumen_reflection_quality": "2.0",
+        "path_tracing_samples_per_pixel": "1024",
+        "path_tracing_max_bounces": "16"
+      }
+    },
+    {
+      "label": "CAM_YU7_Front",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000001A8111CD140) {x: -750.000000, y: 650.000000, z: 300.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CD140) {pitch: -12.773426, yaw: -40.914383, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "CameraProxyMeshComponent_0",
+          "mesh": "/Engine/EditorMeshes/Camera/SM_CineCam.SM_CineCam",
+          "materials": [
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CameraBody.MI_CineMat_CameraBody",
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CamViewFinder.MI_CineMat_CamViewFinder"
+          ],
+          "visible": false
+        }
+      ]
+    },
+    {
+      "label": "CAM_YU7_Rear",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000001A8111CF170) {x: 750.000000, y: -650.000000, z: 270.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CF170) {pitch: -11.115831, yaw: 139.085617, roll: 0.000000}>",
+      "components": [
+        {
+          "name": "CameraProxyMeshComponent_0",
+          "mesh": "/Engine/EditorMeshes/Camera/SM_CineCam.SM_CineCam",
+          "materials": [
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CameraBody.MI_CineMat_CameraBody",
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CamViewFinder.MI_CineMat_CamViewFinder"
+          ],
+          "visible": false
+        }
+      ]
+    },
+    {
+      "label": "CAM_YU7_Side",
+      "class": "CineCameraActor",
+      "location": "<Struct 'Vector' (0x000001A8111CF080) {x: 0.000000, y: 1080.000000, z: 205.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CF080) {pitch: -6.863692, yaw: -90.000000, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "CameraProxyMeshComponent_0",
+          "mesh": "/Engine/EditorMeshes/Camera/SM_CineCam.SM_CineCam",
+          "materials": [
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CameraBody.MI_CineMat_CameraBody",
+            "/Engine/EditorMaterials/Camera/MI_CineMat_CamViewFinder.MI_CineMat_CamViewFinder"
+          ],
+          "visible": false
+        }
+      ]
+    },
+    {
+      "label": "YU7_Hero",
+      "class": "BP_YU7_C",
+      "location": "<Struct 'Vector' (0x000001A8111CF350) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CF350) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+      "components": [
+        {
+          "name": "Part_001_carGlass_front_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_001_carGlass_front_1.YU7_Unreal_SM_YU7_001_carGlass_front_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_002_carLight_backbulb",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_002_carLight_backbulb.YU7_Unreal_SM_YU7_002_carLight_backbulb",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CAR_L.M_YU7_CAR_L"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_003_carLight_bulb_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_003_carLight_bulb_2.YU7_Unreal_SM_YU7_003_carLight_bulb_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CAR_L.M_YU7_CAR_L"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_004_carLightPlastic_MatteBlack_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2.YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_LIGHT_CHROME_SH.M_YU7_LIGHT_CHROME_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_005_carBonnetLogoBase_body",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body.YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_006_carPaint_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_006_carPaint_2.YU7_Unreal_SM_YU7_006_carPaint_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Int_DoorF__UVFallback.M_YU7_Int_DoorF__UVFallback",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint__UVFallback.M_YU7_CarPaint__UVFallback"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_007_carPlastic_BrilliantBlack_3_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1.YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_008_carWindowTrim_3_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_.YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_009_carPlastic_BrilliantBlack_1_6_3_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_.YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_010_carDuckTail",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_010_carDuckTail.YU7_Unreal_SM_YU7_010_carDuckTail",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_011_carLightGlass_Back_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_011_carLightGlass_Back_1.YU7_Unreal_SM_YU7_011_carLightGlass_Back_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Light_Glass.M_YU7_Light_Glass"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_012_carXiaoMi_3_yu7",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7.YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_013_carPlastic_BrilliantBlack_3_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2.YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_014_carBonnetLogoFont_body",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body.YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_015_carMirror_bottom_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_015_carMirror_bottom_2.YU7_Unreal_SM_YU7_015_carMirror_bottom_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Blaack_Paint.M_YU7_Blaack_Paint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_016_carLight_bulb_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_016_carLight_bulb_1.YU7_Unreal_SM_YU7_016_carLight_bulb_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CAR_L.M_YU7_CAR_L"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_017_carPlastic_MatteBlack_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2.YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_018_carPlastic_BrilliantBlack_2_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3.YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_019_carWindowTrim_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_019_carWindowTrim_3.YU7_Unreal_SM_YU7_019_carWindowTrim_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_020_carPlastic_BrilliantBlack_1_6_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_.YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_021_carInternal_PassengerSeatFront",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront.YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Seat_Front.M_YU7_INT_Seat_Front"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_022_carLightGlass_Front",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_022_carLightGlass_Front.YU7_Unreal_SM_YU7_022_carLightGlass_Front",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Light_Glass.M_YU7_Light_Glass"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_023_carXiaoMi_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_023_carXiaoMi_3.YU7_Unreal_SM_YU7_023_carXiaoMi_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_024_carPlate",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_024_carPlate.YU7_Unreal_SM_YU7_024_carPlate",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CAR_L.M_YU7_CAR_L"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_025_carPlastic_BrilliantBlack_1_6",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6.YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_026_carGlass_front_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_026_carGlass_front_2.YU7_Unreal_SM_YU7_026_carGlass_front_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_027_carLightPlastic_BrilliantBlack_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2.YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_LIGHT_PLASTIC_SH.M_YU7_LIGHT_PLASTIC_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_028_carPaint_10",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_028_carPaint_10.YU7_Unreal_SM_YU7_028_carPaint_10",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_029_carInternal_TrunkInternal",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal.YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Trunk_E.M_YU7_INT_Trunk_E"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_030_carFrontBonnetNet",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_030_carFrontBonnetNet.YU7_Unreal_SM_YU7_030_carFrontBonnetNet",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_031_carRearviewMirror_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_031_carRearviewMirror_2.YU7_Unreal_SM_YU7_031_carRearviewMirror_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Mirrors.M_YU7_Mirrors"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_032_carWheelLogoBase_ScuffPlate_Font",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font.YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_033_carWindowTrim_1_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_.YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_034_carLight_bulb_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_034_carLight_bulb_3.YU7_Unreal_SM_YU7_034_carLight_bulb_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CAR_L.M_YU7_CAR_L"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_035_carPlastic_BrilliantGray_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1.YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_036_carInternal_DoorBack_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_.YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Int_Door_Back.M_YU7_Int_Door_Back"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_037_carInternal_CenterConsole_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2.YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_SW.M_YU7_INT_SW"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_038_carPaint_4_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_038_carPaint_4_1_.YU7_Unreal_SM_YU7_038_carPaint_4_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_039_carWindowTrim_5",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_039_carWindowTrim_5.YU7_Unreal_SM_YU7_039_carWindowTrim_5",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_040_carPaint_2_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_040_carPaint_2_1_.YU7_Unreal_SM_YU7_040_carPaint_2_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_041_carPlastic_BrilliantBlack_3_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3.YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_042_carInternal_SteeringWheel_Bottom",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom.YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Int_DoorF.M_YU7_Int_DoorF"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_043_carInternal_TrunkExternal",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal.YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Trunk.M_YU7_INT_Trunk"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_044_carInternal_Roof",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_044_carInternal_Roof.YU7_Unreal_SM_YU7_044_carInternal_Roof",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Roof.M_YU7_INT_Roof"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_045_carPaint_13",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_045_carPaint_13.YU7_Unreal_SM_YU7_045_carPaint_13",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_046_carPlastic_MatteBlack_1_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1.YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_047_carGlass_front_2_Side_2_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_.YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_048_carHoodOutletWisp",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_048_carHoodOutletWisp.YU7_Unreal_SM_YU7_048_carHoodOutletWisp",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_049_carGlass_back_2_Side",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_049_carGlass_back_2_Side.YU7_Unreal_SM_YU7_049_carGlass_back_2_Side",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_050_carPlastic_BrilliantBlack_2_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1.YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_051_carLightPlastic_MatteBlack",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack.YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Metal_Mat.M_YU7_Metal_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_052_carInternal_Dashboard",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_052_carInternal_Dashboard.YU7_Unreal_SM_YU7_052_carInternal_Dashboard",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Dash.M_YU7_INT_Dash"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_053_carInternal_DoorFront",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_053_carInternal_DoorFront.YU7_Unreal_SM_YU7_053_carInternal_DoorFront",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Int_DoorF.M_YU7_Int_DoorF"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_054_carPlastic_BrilliantBlack_1_6_2_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_.YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_055_carRoof_yu7",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_055_carRoof_yu7.YU7_Unreal_SM_YU7_055_carRoof_yu7",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_D_Glass.M_YU7_D_Glass"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_056_carInternal_Frame_Top_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2.YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Frame_Top.M_YU7_INT_Frame_Top"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_057_carGlass_back_2_Side_1_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_.YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_058_carPaint_4",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_058_carPaint_4.YU7_Unreal_SM_YU7_058_carPaint_4",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_059_carMirror_top_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_059_carMirror_top_2.YU7_Unreal_SM_YU7_059_carMirror_top_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Blaack_Paint.M_YU7_Blaack_Paint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_060_carPaint_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_060_carPaint_1.YU7_Unreal_SM_YU7_060_carPaint_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_061_carInternal_SteeringWheel_Top_4",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4.YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_SW.M_YU7_INT_SW"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277.YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_063_carInternal_CenterConsole_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1.YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Console.M_YU7_INT_Console"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_064_carHoodOutletPanel",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_064_carHoodOutletPanel.YU7_Unreal_SM_YU7_064_carHoodOutletPanel",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_065_carInternal_DoorFront_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_.YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Int_DoorF.M_YU7_Int_DoorF"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_066_carMirror_top_2_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_066_carMirror_top_2_1_.YU7_Unreal_SM_YU7_066_carMirror_top_2_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Blaack_Paint.M_YU7_Blaack_Paint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_067_carInternal_Frame_Bottom",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom.YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Bottom.M_YU7_INT_Bottom",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Mirrors.M_YU7_Mirrors"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_068_carPaint_9",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_068_carPaint_9.YU7_Unreal_SM_YU7_068_carPaint_9",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_069_carPlastic_MatteBlack_2_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1.YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_070_carRoofSpoiler",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_070_carRoofSpoiler.YU7_Unreal_SM_YU7_070_carRoofSpoiler",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_071_carMirror_bottom_2_1_",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_.YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Blaack_Paint.M_YU7_Blaack_Paint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_072_carInternal_DoorBack",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_072_carInternal_DoorBack.YU7_Unreal_SM_YU7_072_carInternal_DoorBack",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Int_Door_Back.M_YU7_Int_Door_Back"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_073_carRearviewMirror_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_073_carRearviewMirror_3.YU7_Unreal_SM_YU7_073_carRearviewMirror_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Mirrors.M_YU7_Mirrors"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_074_carGlass_back_2_Side_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1.YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_075_carGlass_front_2_Side_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2.YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_076_carGlass_back_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_076_carGlass_back_1.YU7_Unreal_SM_YU7_076_carGlass_back_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Windows.M_YU7_Windows"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_077_carLightPlastic_BrilliantBlack_3",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3.YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_LIGHT_PLASTIC_SH.M_YU7_LIGHT_PLASTIC_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_078_carPlastic_BrilliantBlack_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2.YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_079_carPaint_8",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_079_carPaint_8.YU7_Unreal_SM_YU7_079_carPaint_8",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_CarPaint.M_YU7_CarPaint"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_080_carWindowTrim_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_080_carWindowTrim_1.YU7_Unreal_SM_YU7_080_carWindowTrim_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_081_carHeaterStrip",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_081_carHeaterStrip.YU7_Unreal_SM_YU7_081_carHeaterStrip",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Yu7_lambert272.M_YU7_Yu7_lambert272"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_082_carPlastic_BrilliantBlack_1_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1.YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Plastic_SH.M_YU7_Plastic_SH"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_083_carLightGlass_Back_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_083_carLightGlass_Back_2.YU7_Unreal_SM_YU7_083_carLightGlass_Back_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Light_Glass.M_YU7_Light_Glass"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_084_carInternal_PassengerSeatBack",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack.YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Seat_Back.M_YU7_INT_Seat_Back"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_085_carHeadLampPanel",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_085_carHeadLampPanel.YU7_Unreal_SM_YU7_085_carHeadLampPanel",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_dark_Gray_Map.M_YU7_dark_Gray_Map"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_086_carBackDrop",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_086_carBackDrop.YU7_Unreal_SM_YU7_086_carBackDrop",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_Roof.M_YU7_INT_Roof"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_087_carXiaoMi_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_087_carXiaoMi_1.YU7_Unreal_SM_YU7_087_carXiaoMi_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_088_carInternal_SteeringWheel_Top_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2.YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_INT_SW.M_YU7_INT_SW"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_089_carPlastic_MatteBlack_trunk_9",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9.YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_090_carWheelLogoFont_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_091_carTyre_02",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_091_carTyre_02.YU7_Unreal_SM_YU7_091_carTyre_02",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_tyre_3.M_YU7_tyre_3"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_092_carWheelLogoBase_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_093_carWheelAirVent_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_094_carWheelHub_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_095_carWheelRim_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Yu7_RIM_C1.M_YU7_Yu7_RIM_C1",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_RIM_C2.M_YU7_RIM_C2"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_096_carWheelLogoFont_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_097_carTyre_02",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_097_carTyre_02.YU7_Unreal_SM_YU7_097_carTyre_02",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_tyre_3.M_YU7_tyre_3"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_098_carWheelLogoBase_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_099_carWheelAirVent_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_100_carWheelHub_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_101_carWheelRim_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Yu7_RIM_C1.M_YU7_Yu7_RIM_C1",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_RIM_C2.M_YU7_RIM_C2"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_102_carWheelLogoFont_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_103_carTyre_02",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_103_carTyre_02.YU7_Unreal_SM_YU7_103_carTyre_02",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_tyre_3.M_YU7_tyre_3"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_104_carWheelLogoBase_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_105_carWheelAirVent_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_106_carWheelHub_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_107_carWheelRim_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Yu7_RIM_C1.M_YU7_Yu7_RIM_C1",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_RIM_C2.M_YU7_RIM_C2"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_108_carWheelLogoFont_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_109_carTyre_02",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_109_carTyre_02.YU7_Unreal_SM_YU7_109_carTyre_02",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_tyre_3.M_YU7_tyre_3"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_110_carWheelLogoBase_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_111_carWheelAirVent_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_112_carWheelHub_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_ALUM.M_YU7_ALUM"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_113_carWheelRim_ACAL09",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Yu7_RIM_C1.M_YU7_Yu7_RIM_C1",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_RIM_C2.M_YU7_RIM_C2"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_114_carBrakeDisc_Back_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2.YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_DISK.M_YU7_DISK"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_115_carBrakeDisc_Back",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_115_carBrakeDisc_Back.YU7_Unreal_SM_YU7_115_carBrakeDisc_Back",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_DISK.M_YU7_DISK"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_116_carCaliper_MainBack",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_116_carCaliper_MainBack.YU7_Unreal_SM_YU7_116_carCaliper_MainBack",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Caliper_C2.M_YU7_Caliper_C2",
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Caliper_C1.M_YU7_Caliper_C1"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_117_carCaliper_Screw_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_117_carCaliper_Screw_1.YU7_Unreal_SM_YU7_117_carCaliper_Screw_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Caliper_C1.M_YU7_Caliper_C1"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_118_carBrakeDisc_Front_2",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2.YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_DISK.M_YU7_DISK"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_119_carBrakeDisc_Front",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_119_carBrakeDisc_Front.YU7_Unreal_SM_YU7_119_carBrakeDisc_Front",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_DISK.M_YU7_DISK"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_120_carCaliper_MainFront_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1.YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Caliper_C2.M_YU7_Caliper_C2"
+          ],
+          "visible": true
+        },
+        {
+          "name": "Part_121_carCaliper_PartFront_1",
+          "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1.YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1",
+          "materials": [
+            "/Game/Vehicles/YU7_Prepared/Materials/M_YU7_Black_Mat.M_YU7_Black_Mat"
+          ],
+          "visible": true
+        }
+      ]
+    },
+    {
+      "label": "SEQ_Truck_Studio_White",
+      "class": "LevelSequenceActor",
+      "location": "<Struct 'Vector' (0x000001A8111CC880) {x: -33.963879, y: 1136.834610, z: 1250.491847}>",
+      "rotation": "<Struct 'Rotator' (0x000001A8111CC880) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "components": []
+    }
+  ]
+}
