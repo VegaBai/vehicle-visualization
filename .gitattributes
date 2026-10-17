@@ -4,6 +4,7 @@
 *.txt text eol=lf
 *.py text eol=lf
 *.json text eol=lf
+*.log text eol=lf
 *.ini text eol=lf
 *.uproject text eol=lf
 *.uplugin text eol=lf

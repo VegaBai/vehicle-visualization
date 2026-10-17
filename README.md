@@ -50,6 +50,8 @@ python -m pip install --target tools/vendor imageio-ffmpeg==0.6.0
 
 历史渲染、资产及场景验证见 `art/YU7_UNREAL/reports/`。最终应用内可见 Credits、运行时交互界面及打包验证仍待完成。
 
+Blender 服务持续写入的 `reports/blender_host_stdout.log` 仅保留在本地；首次发布快照另存于 `reports/archive/`，其他历史验证日志照常纳入版本管理。
+
 ## 模型署名
 
 以下为用户提供的原始署名，另存于 [CREDITS.txt](CREDITS.txt)：

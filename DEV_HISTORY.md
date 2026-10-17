@@ -267,3 +267,10 @@
 - 检查暂存路径：Unreal 缓存、tools/vendor、原始逐帧/重复静帧输出均无泄漏；项目配置、uproject、Studio_White、工作地图、独立镜头地图、原始 FBX、准备 Blender 和最终 MP4 均已纳入。新增 .gitignore/.gitattributes/README.md 的 git diff --check 通过。
 - 原始模型目录 24 个文件与 source_manifest.json SHA256 全部一致；hero/protected_before.json 所列 223 个受保护文件 SHA256 全部一致；三份 CREDITS.txt 的暂存 blob 与工作区原始字节一致。源资产未改写。
 - Git 暂存提示文本 CRLF→LF 为 .gitattributes 的预期转换，不涉及模型或地图。以上仅为版本管理/文件完整性验收；本次未启动 UE、未重新执行渲染/PIE/打包测试。下一步创建初始提交，执行 LFS fsck 并推送，远端成功仍待实际结果。
+
+### 30 · 首次远端发布与活动日志处理（当次记录）
+
+- 初始提交 4dc3088fc5a712bb01cfdfd1eb63e4b9007b8c79 已成功推送 origin/main；git lfs fsck 返回 OK，上传成功为 340/340 个去重对象，约 446 MB（425.15 MiB），对应 361 个 LFS 文件。GitHub 默认分支为 main；git ls-remote 返回 SHA 与本地初始提交一致，后续 LFS dry-run 无待推送对象。
+- 首次推送后的工作区检查发现 art/YU7_UNREAL/reports/blender_host_stdout.log 被现有 Blender 后台服务继续追加 get_addon_info 等运行消息。该文件不是稳定的验证报告，继续跟踪会造成持续无关修改；未停止后台服务或改写其活动日志。
+- 将当前活动日志复制为 art/YU7_UNREAL/reports/archive/blender_host_stdout_2026-10-17.log 留存快照，并仅对原活动路径添加 .gitignore 例外、从 Git 索引移除；本地原文件保留。其他历史报告/崩溃日志仍跟踪。补充 *.log 的 LF 属性及 README 说明。
+- 本条记录的是已完成的初次上传核验与随后发现的日志整理；日志整理及本记录将通过后续普通提交同步，原始提交不重写，不使用 force push。

@@ -8134,3 +8134,204 @@ Error receiving data: [WinError 10054] An existing connection was forcibly close
 Client handler stopped
 Connected to client: ('127.0.0.1', 64707)
 Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 64726)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 64729)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 64770)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 64771)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 64843)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 64859)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 64860)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 64894)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 64895)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 52672)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 52677)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 52678)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 52716)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 52726)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 52754)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 55116)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 55117)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 55129)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 55169)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 55178)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 55181)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 55190)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 55236)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 55239)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 55514)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Connected to client: ('127.0.0.1', 55531)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 55532)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host
+Client handler stopped
+Connected to client: ('127.0.0.1', 64354)
+Client handler started
+Queued command: get_addon_info
+Connected to client: ('127.0.0.1', 64357)
+Client handler started
+Queued command: get_addon_info
+Executing handler for get_addon_info
+Handler execution complete
+Executing handler for get_addon_info
+Handler execution complete
+Error receiving data: [WinError 10054] An existing connection was forcibly closed by the remote host

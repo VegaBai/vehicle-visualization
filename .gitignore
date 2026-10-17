@@ -47,3 +47,5 @@ Thumbs.db
 Desktop.ini
 
 # Validation reports and diagnostic logs outside Saved/ are intentionally tracked.
+# Blender's live host log is archived separately; the running service keeps appending.
+/art/YU7_UNREAL/reports/blender_host_stdout.log
