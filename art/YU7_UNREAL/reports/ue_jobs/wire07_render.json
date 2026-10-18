@@ -1,0 +1,14 @@
+{
+  "id": "wire07_render",
+  "started": "2026-10-17T16:05:55-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Preview_v02",
+      "width": 1920,
+      "height": 1080,
+      "samples": 16
+    }
+  },
+  "finished": "2026-10-17T16:05:55-0700"
+}

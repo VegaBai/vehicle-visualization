@@ -1,0 +1,28 @@
+{
+  "cameras": [
+    {
+      "name": "Overview",
+      "sequence": "/Game/YU7/WireframeStudy/Sequences/LS_YU7_Quad_Overview.LS_YU7_Quad_Overview",
+      "camera": "/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy.Studio_YU7_QuadStudy:PersistentLevel.CineCameraActor_6"
+    },
+    {
+      "name": "Detail",
+      "sequence": "/Game/YU7/WireframeStudy/Sequences/LS_YU7_Quad_Detail.LS_YU7_Quad_Detail",
+      "camera": "/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy.Studio_YU7_QuadStudy:PersistentLevel.CineCameraActor_7"
+    }
+  ],
+  "lines": [
+    {
+      "actor": "YU7_Quad_Fender_L",
+      "mesh": "/Game/YU7/WireframeStudy/Meshes/v01/YU7_QuadLines_v01_SM_QuadLines_Fender_L_v01.YU7_QuadLines_v01_SM_QuadLines_Fender_L_v01"
+    },
+    {
+      "actor": "YU7_Quad_Fender_R",
+      "mesh": "/Game/YU7/WireframeStudy/Meshes/v01/YU7_QuadLines_v01_SM_QuadLines_Fender_R_v01.YU7_QuadLines_v01_SM_QuadLines_Fender_R_v01"
+    },
+    {
+      "actor": "YU7_Quad_Hood",
+      "mesh": "/Game/YU7/WireframeStudy/Meshes/v01/YU7_QuadLines_v01_SM_QuadLines_Hood_v01.YU7_QuadLines_v01_SM_QuadLines_Hood_v01"
+    }
+  ]
+}

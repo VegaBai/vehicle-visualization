@@ -1,0 +1,64 @@
+{
+  "map": "/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy.Studio_YU7_QuadStudy",
+  "saved_reload_verified": true,
+  "original_unique_visible_vehicle_meshes": 121,
+  "line_actors": [
+    {
+      "actor": "YU7_Quad_Fender_L",
+      "mesh": "/Game/YU7/WireframeStudy/Meshes/v03/YU7_QuadLines_v03_SM_QuadLines_Fender_L_v03.YU7_QuadLines_v03_SM_QuadLines_Fender_L_v03",
+      "render_triangles": 48400,
+      "render_vertices": 96732,
+      "cast_shadows": false,
+      "collision": false,
+      "transform": "<Struct 'Transform' (0x000002765FBF3E40) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+    },
+    {
+      "actor": "YU7_Quad_Fender_R",
+      "mesh": "/Game/YU7/WireframeStudy/Meshes/v03/YU7_QuadLines_v03_SM_QuadLines_Fender_R_v03.YU7_QuadLines_v03_SM_QuadLines_Fender_R_v03",
+      "render_triangles": 48400,
+      "render_vertices": 96732,
+      "cast_shadows": false,
+      "collision": false,
+      "transform": "<Struct 'Transform' (0x000002765FBF3E40) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+    },
+    {
+      "actor": "YU7_Quad_Hood",
+      "mesh": "/Game/YU7/WireframeStudy/Meshes/v03/YU7_QuadLines_v03_SM_QuadLines_Hood_v03.YU7_QuadLines_v03_SM_QuadLines_Hood_v03",
+      "render_triangles": 102404,
+      "render_vertices": 204672,
+      "cast_shadows": false,
+      "collision": false,
+      "transform": "<Struct 'Transform' (0x000002765FBF3E40) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+    }
+  ],
+  "presets": [
+    {
+      "view": "Overview",
+      "sequence": "/Game/YU7/WireframeStudy/Sequences/LS_YU7_Quad_Overview.LS_YU7_Quad_Overview",
+      "preset": "/Game/YU7/WireframeStudy/RenderPresets/MRQ_Final_v03_Confirmed_Overview.MRQ_Final_v03_Confirmed_Overview",
+      "size": [
+        3840,
+        2160
+      ],
+      "samples": 64
+    },
+    {
+      "view": "Detail",
+      "sequence": "/Game/YU7/WireframeStudy/Sequences/LS_YU7_Quad_Detail.LS_YU7_Quad_Detail",
+      "preset": "/Game/YU7/WireframeStudy/RenderPresets/MRQ_Final_v03_Confirmed_Detail.MRQ_Final_v03_Confirmed_Detail",
+      "size": [
+        3840,
+        2160
+      ],
+      "samples": 64
+    }
+  ],
+  "line_brightness": 100.0,
+  "native_wireframe": false,
+  "protected_files_unchanged": 357,
+  "dirty_maps": [],
+  "dirty_content": [],
+  "scope": "Two static 4K views; no motion or packaged runtime validation.",
+  "visible_application_credits": "Still pending final application UI; exact sidecar and metadata retained.",
+  "runner_stopped": true
+}

@@ -1,0 +1,37 @@
+{
+  "version": "v01",
+  "source_blend": "C:\\github2\\vehicle_visualization\\art\\YU7_UNREAL\\YU7_Prepared.blend",
+  "width_m": 0.0015,
+  "offset_m": 0.0011,
+  "groups": {
+    "Hood": {
+      "segments": 34,
+      "vertices": 51270,
+      "faces": 51134,
+      "samples": 8545
+    },
+    "Fender_L": {
+      "segments": 19,
+      "vertices": 12510,
+      "faces": 12434,
+      "samples": 2085
+    },
+    "Fender_R": {
+      "segments": 19,
+      "vertices": 12510,
+      "faces": 12434,
+      "samples": 2085
+    }
+  },
+  "description": "Authored display quad-flow lines; original source is triangulated.",
+  "surface_distance_m": {
+    "min": 0.000309537339489907,
+    "max": 0.0011003141989931464,
+    "mean": 0.0010992069073876376
+  },
+  "skipped_samples_at_boundaries": {
+    "Hood": 380,
+    "Fender_L": 1760,
+    "Fender_R": 1760
+  }
+}

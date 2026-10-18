@@ -1,0 +1,17 @@
+{
+  "swapped": [
+    [
+      "Fender_L",
+      "/Game/YU7/WireframeStudy/Meshes/v03/YU7_QuadLines_v03_SM_QuadLines_Fender_L_v03.YU7_QuadLines_v03_SM_QuadLines_Fender_L_v03"
+    ],
+    [
+      "Fender_R",
+      "/Game/YU7/WireframeStudy/Meshes/v03/YU7_QuadLines_v03_SM_QuadLines_Fender_R_v03.YU7_QuadLines_v03_SM_QuadLines_Fender_R_v03"
+    ],
+    [
+      "Hood",
+      "/Game/YU7/WireframeStudy/Meshes/v03/YU7_QuadLines_v03_SM_QuadLines_Hood_v03.YU7_QuadLines_v03_SM_QuadLines_Hood_v03"
+    ]
+  ],
+  "brightness": 100.0
+}

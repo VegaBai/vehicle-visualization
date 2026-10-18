@@ -274,3 +274,56 @@
 - 首次推送后的工作区检查发现 art/YU7_UNREAL/reports/blender_host_stdout.log 被现有 Blender 后台服务继续追加 get_addon_info 等运行消息。该文件不是稳定的验证报告，继续跟踪会造成持续无关修改；未停止后台服务或改写其活动日志。
 - 将当前活动日志复制为 art/YU7_UNREAL/reports/archive/blender_host_stdout_2026-10-17.log 留存快照，并仅对原活动路径添加 .gitignore 例外、从 Git 索引移除；本地原文件保留。其他历史报告/崩溃日志仍跟踪。补充 *.log 的 LF 属性及 README 说明。
 - 本条记录的是已完成的初次上传核验与随后发现的日志整理；日志整理及本记录将通过后续普通提交同步，原始提交不重写，不使用 force push。
+
+## 2026-10-17 · 车身四边形线框方案讨论
+
+### 31 · 曲面展示方向与现有拓扑核查（当次记录；尚未实施）
+
+- 用户希望增加 quad 外观的 wireframe，避免 tri-poly 对角线，主要用于表现车身曲面。本轮提供方案建议；没有创建或修改 Blender/UE 模型、材质、地图或镜头。
+- 读取 LOOKDEV_GUIDE.txt、README_UE.txt、HERO_RENDER_GUIDE.txt 及最近开发记录。汇总 art/YU7_UNREAL/reports/import_audit.json：121 个源导入部件的 polygons 与 triangles 逐件相等，合计均为 579,290；该历史审计表明导入源已三角化，不应把 UE 中隐藏对角线描述成恢复原始 quad 拓扑。此数是修复前源导入统计，与准备资产 579,282、UE 实际 579,252 三角形的阶段统计区分；本轮未重新读取 FBX 几何。
+- 查询 Epic FBX Static Mesh Pipeline 文档，确认 UE 渲染网格需三角化：https://dev.epicgames.com/documentation/en-us/unreal-engine/fbx-static-mesh-pipeline-in-unreal-engine 。Blender 官方 Wireframe / Shrinkwrap / Triangles to Quads 搜索结果支持离线网格贴合和边线生成的候选工具；文档部分页面直接打开失败，未据此宣称已经跑通资产流程。
+- 建议在车身外板上单独制作疏朗、经过人工布线控制的 quad 展示层，沿引擎盖、肩线、轮拱与车门曲面排列。将其边转为可渲染细线几何（或烘焙线条遮罩）后以普通表面材质显示，避免 UE 原生 wireframe 再次显示三角形对角线。它是为曲面阅读制作的展示网格，不宣称为原作者拓扑或 CAD 曲率证据。
+- 当前建议优先试引擎盖与前翼子板：矿物青车漆叠加低亮度浅青/白线，玻璃和轮胎保留原效果；可用 Blueprint/材质参数控制开关、亮度及扫描揭示，避免新增运行时 Python 或 C++。仅属方案，未创建 Blueprint 或验证 4K 时域稳定性。
+- 其他选择：专用 UV 上的程序网格更易调密度，但现有 UV 含重叠、镜像与局部 fallback，不能假定直接套用即可得到均匀曲面线；宽反射条纹可辅助观察曲面起伏。后续若进入实现，需另存工作地图和资产，检查贴合误差、接缝、遮挡、细线闪烁，并保护现有 lookdev/hero 资产与稳定绑定。
+
+### 32 · 引擎盖与前翼子板 quad 线框试作开始（当次记录）
+
+- 用户已授权在引擎盖与前翼子板制作矿物青车漆叠加稀疏 quad 线的第一版，并要求保留现有场景和模型。将使用 art/YU7_WIREFRAME、/Game/YU7/WireframeStudy 与 renders/YU7_WireframeStudy 独立输出。
+- 已读取现有 lookdev/hero 指南、脚本及状态。现有 Blender MCP 正在打开 YU7_Prepared.blend，宿主仅一个 UnrealEditor 进程；准备使用既有编辑器而非并行启动。
+- 创建 art/YU7_WIREFRAME/reports/protected_before.json，记录 357 个既有模型、纹理、UE 内容文件的 SHA256。保护快照为本轮新生成，最终需复核。
+- 采用离线采样贴合的细线几何，作为独立普通静态网格叠加；不改原车身拓扑、法线、UV 和材质。展示线网将另存，不宣称还原源拓扑。Python 仅用于编辑器准备与验证，无运行时依赖，尚未生成或验证最终效果。
+
+- UE 编辑器确认当前为已保存的 MineralHero 地图、无脏内容。另存 /Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy 并先清 LVS 缓存再加载副本成功；尚未导入线框。原镜头、Lookdev 及导入模型不编辑。
+
+- 线框 v01 采用引擎盖参数曲线与前轮中心极坐标曲线，两组交叉线形成 quad 外观；射线采样仅接受指定车漆外表面，边界/缺失位置断开，防止跨越灯孔和轮拱。生成三个独立细线网格，线宽 1.5 mm，中心表面偏移 1.1 mm，详见 art/YU7_WIREFRAME/reports/geometry_v01.json。输出仅位于新的准备目录；原 Blender 用 copy=True 保留。后续仍需 UE 贴合/渲染检查。
+- 准备期间默认 python 命中不可访问的 Windows Store 别名，保护快照改由已连接 Blender Python 执行成功。Blender MCP 调用不共享局部变量，首次二次采样因 bs 未定义失败，改为每次显式构建 BVH 后成功；没有改原模型。
+
+- wire03 已完成三个网格导入/材质/Actor 组装，但相机接口 set_current_focal_length 不存在而中止；未重跑一次性导入。修正为公开 current_focal_length/current_aperture 编辑器属性，通过 ue_wire_cameras.py 只续建相机和两个原生序列，已保存成功。仍待渲染验收。
+
+- 线框 v02 改进：MRQ v01 成功输出整体与近景，但实际画面线条偏黑，轮拱有线头越界。v02 根据每个角度探测真实轮拱与肩部边界，将弧线与径向线共用端点，生成完整 quad 格。线宽仍 1.5 mm，中心偏移 1.1 mm；输出为新 FBX/Blend，v01 留存，未修改车身。几何指标见 reports/geometry_v02.json，待 UE 新预览。
+
+- 线框 v03 改进：MRQ v02 两视图成功，亮度 100 在棚内 EV9/bias+1 下呈浅青白，未改变车漆。近景发现自动外边界受通风口影响出现折线；改用测量有效范围内的平滑解析轮拱边界，减少为三条弧线/两排 quad，13 条径向线共用端点，避开通风口凹槽。输出新版本，不覆盖 v01/v02，待 UE 渲染确认。
+- v03 线条已导入独立版本目录并仅替换副本中的三个 overlay Actor。Blender 当前已另存并切换到 YU7_QuadStudy_v03.blend，v01/v02 展示集合隐藏，防止后续手动保存误覆盖 YU7_Prepared.blend。Final_v03 开始两张 3840×2160 / 64 空间采样 MRQ 输出；尚未完成最终图像验收。
+
+- Final_v03 MRQ 两张 4K 静帧完成，success=True、无 executor 错误，耗时约 84.85 秒。已分别查看整体/近景：线条呈浅青白，轮拱曲线平顺，无三角形对角线，保持原车漆高光。文件解码和 357 个受保护文件哈希检查通过，两个 sidecar 署名与根 CREDITS.txt 字节一致。
+- wire10 保存后重载审计发现线条组件碰撞枚举未持久化，当前已使用组件 modify + NoCollision 命名 profile 重设并显式保存地图；本次只修正碰撞，不改视觉资产，既有渲染仍有效。需重新加载复核后才能标记场景验收完成。
+
+- wire12 重载后 NoCollision 已通过，但发现初次 attach_to_actor 未成功。日志证实原因是线条 Static 组件不能挂到 Movable 的 BP 根；先前“已附着”的描述仅是脚本意图，本条纠正。参照已有稳定分件流程，将三个新线条组件设为 Movable 并使用 KEEP_WORLD 附着，检查返回值/父级并保存；不修改原 BP，后续必须重载复查。
+
+- wire14 保存后安全重载审计全部通过：原 121 个唯一可见车身网格保留，三个 v03 线框组件附着正确、NoCollision、无投影，材质 native wireframe=False，两个 4K/64 采样预设保存正确，无脏地图/内容；357 个原文件哈希仍一致。增加 README 和 AGENTS.md 入口，保留失败记录。由于修正了组件 Mobility/附着，使用保存后的场景重新渲染 Final_v03_Confirmed 两视图，以此作为最终交付；当前仍在输出。
+
+### 33 · Quad 曲面线第一版交付完成（当次记录）
+
+- Final_v03_Confirmed 完成两张原生 UE 3840×2160 / 64 空间采样静帧，MRQ success=True、errors=[]，耗时约 84.50 秒。已分别查看最终整体/近景，线条沿引擎盖和前轮拱排列，避免 v02 通风口牵动的折线，车漆/玻璃/灯光保持原观感；未做 AI 修图或外部合成。
+- tools/yu7_wire_validate_files.py 成功解码两张最终 PNG，核对 357 个原模型、纹理和 UE 资产 SHA256 全部不变，署名 sidecar 与根文件字节一致。证据 art/YU7_WIREFRAME/reports/delivery_validation.json。
+- wire16 最终保存后安全重载审计成功：121 个原车身唯一可见网格、三个独立线条组件、正确父级与 NoCollision、native wireframe=False；两套最终 MRQ 预设为 4K/64 采样。Map Check 为 0 Error / 0 Warning，dirty_maps/dirty_content 均为空。临时编辑器任务回调已注销，视口恢复整体观察机位。证据 reports/final_scene_audit.json、ue_jobs/wire16_finish.json。
+- 最终资产清单写入 reports/output_manifest.json；可编辑源为 YU7_QuadStudy_v03.blend，地图为 /Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy。最终图位于 renders/YU7_WireframeStudy/Final_v03_Confirmed；旧版本保留作迭代证据，使用说明与 AGENTS.md 已更新。
+- 本次交付为静帧概念验证，无运行时 Python/C++。未测试扫描动画、运动时域闪烁或打包交互；最终应用内可见 Credits 仍是后续交付项，不以本次 sidecar/metadata 替代。
+
+## 2026-10-17 · Quad 试作 GitHub 检查点与整车扩展
+
+### 34 · 保存用户认可的局部效果（当次记录）
+
+- 用户认可引擎盖/前翼子板 v03，并明确要求先提交 GitHub，再将线条连接并扩展至整车外壳。当前 main 基于 0b77d92；本次先保存已验收的独立 WireframeStudy、准备资产、渲染、工具和过程报告，不重跑一次性创建脚本。
+- 重新执行 tools/yu7_wire_validate_files.py：两张最终 4K PNG 解码通过，357 个受保护源文件 SHA256 均未变化，MRQ 成功报告与精确署名字节通过。沿用之前保存后重载/Map Check 的验证结论，本次提交前未重新运行引擎渲染。
+- 将当前活动 Blender stderr 日志复制到 reports/archive 留存，再停止跟踪活动路径（本地不删除），与此前 stdout 的处理一致，避免后续后台服务追加使检查点产生无关修改。推送结果待实际执行。

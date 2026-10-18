@@ -1,0 +1,13 @@
+{
+  "request": {
+    "name": "Final_v03",
+    "width": 3840,
+    "height": 2160,
+    "samples": 64
+  },
+  "started": 1792278480.6451786,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 84.8543689250946
+}

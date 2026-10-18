@@ -1,0 +1,13 @@
+{
+  "request": {
+    "name": "Preview_v01",
+    "width": 1920,
+    "height": 1080,
+    "samples": 16
+  },
+  "started": 1792278219.5451863,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 27.283064603805542
+}

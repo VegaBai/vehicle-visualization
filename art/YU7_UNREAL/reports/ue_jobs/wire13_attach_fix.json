@@ -1,0 +1,28 @@
+{
+  "id": "wire13_attach_fix",
+  "started": "2026-10-17T16:10:40-0700",
+  "status": "success",
+  "result": {
+    "attachments": [
+      {
+        "actor": "YU7_Quad_Fender_L",
+        "parent": "YU7_Hero",
+        "before": "<Struct 'Transform' (0x000002765FBF2070) {rotation: {x: 0.000000, y: -0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "after": "<Struct 'Transform' (0x000002765FBF2070) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+      },
+      {
+        "actor": "YU7_Quad_Fender_R",
+        "parent": "YU7_Hero",
+        "before": "<Struct 'Transform' (0x000002765FBF2070) {rotation: {x: 0.000000, y: -0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "after": "<Struct 'Transform' (0x000002765FBF2070) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+      },
+      {
+        "actor": "YU7_Quad_Hood",
+        "parent": "YU7_Hero",
+        "before": "<Struct 'Transform' (0x000002765FBF2070) {rotation: {x: 0.000000, y: -0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "after": "<Struct 'Transform' (0x000002765FBF2070) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+      }
+    ]
+  },
+  "finished": "2026-10-17T16:10:41-0700"
+}

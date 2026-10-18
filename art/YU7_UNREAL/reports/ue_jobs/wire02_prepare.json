@@ -1,0 +1,10 @@
+{
+  "id": "wire02_prepare",
+  "started": "2026-10-17T16:02:15-0700",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy.Studio_YU7_QuadStudy",
+    "dirty_content": []
+  },
+  "finished": "2026-10-17T16:02:16-0700"
+}

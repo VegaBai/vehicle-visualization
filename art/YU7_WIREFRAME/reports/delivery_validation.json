@@ -1,0 +1,29 @@
+{
+  "protected_files": 357,
+  "changed_protected_files": [],
+  "images": [
+    {
+      "file": "renders/YU7_WireframeStudy/Final_v03_Confirmed/Final_v03_Confirmed_Detail_0000.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "mode": "RGBA",
+      "bytes": 9071718,
+      "sha256": "b670ee3e013145b0823c90772b2a166b33e630c8a98df9f537eede4a4a685d02"
+    },
+    {
+      "file": "renders/YU7_WireframeStudy/Final_v03_Confirmed/Final_v03_Confirmed_Overview_0000.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "mode": "RGBA",
+      "bytes": 8461891,
+      "sha256": "08d13289e571d5e21b295b6275a1279e92d8545f7cc52f99d7ba38c9928aeadb"
+    }
+  ],
+  "exact_credit_bytes_verified": true,
+  "mrq_success": true,
+  "scope": "File hashes and still-image decoding; not packaged runtime or motion validation."
+}

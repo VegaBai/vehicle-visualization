@@ -1,0 +1,7 @@
+{
+  "id": "wire10_finish",
+  "started": "2026-10-17T16:09:31-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_wire_finish.py\", line 22, in <module>\n    assert c.get_collision_enabled()==unreal.CollisionEnabled.NO_COLLISION\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n",
+  "finished": "2026-10-17T16:09:32-0700"
+}

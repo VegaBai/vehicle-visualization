@@ -1,0 +1,23 @@
+{
+  "id": "wire06_refine",
+  "started": "2026-10-17T16:05:14-0700",
+  "status": "success",
+  "result": {
+    "swapped": [
+      [
+        "Fender_L",
+        "/Game/YU7/WireframeStudy/Meshes/v02/YU7_QuadLines_v02_SM_QuadLines_Fender_L_v02.YU7_QuadLines_v02_SM_QuadLines_Fender_L_v02"
+      ],
+      [
+        "Fender_R",
+        "/Game/YU7/WireframeStudy/Meshes/v02/YU7_QuadLines_v02_SM_QuadLines_Fender_R_v02.YU7_QuadLines_v02_SM_QuadLines_Fender_R_v02"
+      ],
+      [
+        "Hood",
+        "/Game/YU7/WireframeStudy/Meshes/v02/YU7_QuadLines_v02_SM_QuadLines_Hood_v02.YU7_QuadLines_v02_SM_QuadLines_Hood_v02"
+      ]
+    ],
+    "brightness": 100.0
+  },
+  "finished": "2026-10-17T16:05:27-0700"
+}

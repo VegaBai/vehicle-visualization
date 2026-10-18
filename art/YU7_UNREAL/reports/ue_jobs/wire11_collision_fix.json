@@ -1,0 +1,31 @@
+{
+  "id": "wire11_collision_fix",
+  "started": "2026-10-17T16:09:53-0700",
+  "status": "success",
+  "result": {
+    "components": [
+      {
+        "actor": "YU7_Quad_Fender_L",
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "profile_before": "BlockAll",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>",
+        "profile_after": "NoCollision"
+      },
+      {
+        "actor": "YU7_Quad_Fender_R",
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "profile_before": "BlockAll",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>",
+        "profile_after": "NoCollision"
+      },
+      {
+        "actor": "YU7_Quad_Hood",
+        "before": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "profile_before": "BlockAll",
+        "after": "<CollisionEnabled.NO_COLLISION: 0>",
+        "profile_after": "NoCollision"
+      }
+    ]
+  },
+  "finished": "2026-10-17T16:09:53-0700"
+}
