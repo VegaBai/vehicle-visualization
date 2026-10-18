@@ -1,0 +1,11 @@
+{
+  "version": "v02",
+  "line_centres": 8480,
+  "segment_midpoints": 8023,
+  "nearest_source_surface_distance_m": {
+    "min": 1.4632788406743202e-05,
+    "max": 0.004192388150840998,
+    "mean": 0.0010698215969953942
+  },
+  "scope": "Nearest source triangle distance at retained ring centres and segment midpoints; not CAD certification"
+}

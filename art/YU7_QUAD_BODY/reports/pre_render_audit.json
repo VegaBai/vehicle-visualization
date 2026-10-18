@@ -1,0 +1,43 @@
+{
+  "map": "/Game/YU7/QuadBodyStudy/Maps/Studio_YU7_QuadBody.Studio_YU7_QuadBody",
+  "version": "v03",
+  "saved_reload_verified": true,
+  "original_unique_visible_vehicle_meshes": 121,
+  "old_overlay_hidden": true,
+  "line_actors": [
+    {
+      "actor": "YU7_BodyQuad_Body",
+      "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v03/YU7_BodyLines_v03_SM_BodyLines_Body_v03.YU7_BodyLines_v03_SM_BodyLines_Body_v03",
+      "triangles": 90836,
+      "parent": "YU7_Hero",
+      "collision_profile": "NoCollision",
+      "movable": true,
+      "cast_shadow": false
+    },
+    {
+      "actor": "YU7_BodyQuad_Mirror_L",
+      "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v03/YU7_BodyLines_v03_SM_BodyLines_Mirror_L_v03.YU7_BodyLines_v03_SM_BodyLines_Mirror_L_v03",
+      "triangles": 4528,
+      "parent": "YU7_Hero",
+      "collision_profile": "NoCollision",
+      "movable": true,
+      "cast_shadow": false
+    },
+    {
+      "actor": "YU7_BodyQuad_Mirror_R",
+      "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v03/YU7_BodyLines_v03_SM_BodyLines_Mirror_R_v03.YU7_BodyLines_v03_SM_BodyLines_Mirror_R_v03",
+      "triangles": 4552,
+      "parent": "YU7_Hero",
+      "collision_profile": "NoCollision",
+      "movable": true,
+      "cast_shadow": false
+    }
+  ],
+  "presets": [],
+  "protected_files_unchanged": 393,
+  "native_wireframe": false,
+  "dirty_maps": [],
+  "dirty_content": [],
+  "scope": "Static views; motion and packaged runtime not tested. Final application Credits UI remains pending.",
+  "runner_stopped": false
+}

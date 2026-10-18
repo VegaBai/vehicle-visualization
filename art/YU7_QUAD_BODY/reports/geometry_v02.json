@@ -1,0 +1,48 @@
+{
+  "version": "v02",
+  "description": "Closed shared cube-sphere quad field projected onto exterior paint; display lines, not recovered topology",
+  "original_objects": 121,
+  "width_m": 0.0015,
+  "offset_m": 0.0011,
+  "cage_subdivisions": [
+    30,
+    14,
+    10
+  ],
+  "groups": {
+    "Body": {
+      "segments": 387,
+      "vertices": 46200,
+      "faces": 44652,
+      "samples": 7700
+    },
+    "Mirror_L": {
+      "segments": 35,
+      "vertices": 2334,
+      "faces": 2194,
+      "samples": 389
+    },
+    "Mirror_R": {
+      "segments": 35,
+      "vertices": 2346,
+      "faces": 2206,
+      "samples": 391
+    }
+  },
+  "source_hit_counts": {
+    "SM_YU7_060_carPaint_1": 21775,
+    "SM_YU7_079_carPaint_8": 5915,
+    "SM_YU7_040_carPaint_2_1_": 15190,
+    "SM_YU7_045_carPaint_13": 6036,
+    "SM_YU7_038_carPaint_4_1_": 8351,
+    "SM_YU7_068_carPaint_9": 6036,
+    "SM_YU7_058_carPaint_4": 8351,
+    "SM_YU7_015_carMirror_bottom_2": 654,
+    "SM_YU7_059_carMirror_top_2": 2853,
+    "SM_YU7_071_carMirror_bottom_2_1_": 654,
+    "SM_YU7_066_carMirror_top_2_1_": 2854
+  },
+  "raw_samples": 78447,
+  "simplification_error_m": 0.0001,
+  "seconds": 12.862323760986328
+}

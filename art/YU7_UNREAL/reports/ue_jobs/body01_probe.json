@@ -1,0 +1,175 @@
+{
+  "id": "body01_probe",
+  "started": "2026-10-17T21:36:46-0700",
+  "status": "success",
+  "result": {
+    "world": "/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy.Studio_YU7_QuadStudy",
+    "dirty_maps": [],
+    "dirty_content": [],
+    "actors": [
+      {
+        "label": "CineCameraActor",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: -0.000075, y: 0.040801, z: 0.001825, w: 0.999166}, translation: {x: -857.175738, y: 0.000016, z: 131.192060}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "CAM_YU7_Front",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.038879, y: 0.104223, z: -0.347338, w: 0.931119}, translation: {x: -750.000000, y: 650.000000, z: 300.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "CAM_YU7_Rear",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: -0.090744, y: 0.033850, z: 0.932529, w: 0.347864}, translation: {x: 750.000000, y: -650.000000, z: 270.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "CAM_YU7_Side",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.042328, y: 0.042328, z: -0.705839, w: 0.705839}, translation: {x: 0.000000, y: 1080.000000, z: 205.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_Hero",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: -0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": [
+          {
+            "name": "Part_040_carPaint_2_1_",
+            "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_040_carPaint_2_1_.YU7_Unreal_SM_YU7_040_carPaint_2_1_",
+            "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+          }
+        ]
+      },
+      {
+        "label": "CAM_YU7_Beauty",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.028811, y: 0.074010, z: -0.361625, w: 0.928935}, translation: {x: -850.000000, y: 780.000000, z: 265.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "CAM_YU7_MineralHero",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.032828, y: 0.072965, z: -0.408985, w: 0.909027}, translation: {x: -780.000000, y: 880.000000, z: 235.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "CAM_YU7_Quad_Overview",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.037048, y: 0.082345, z: -0.408624, w: 0.908225}, translation: {x: -780.000000, y: 880.000000, z: 270.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "CAM_YU7_Quad_Detail",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.063276, y: 0.151507, z: -0.380153, w: 0.910234}, translation: {x: -550.000000, y: 430.000000, z: 295.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_001_carGlass_front_1",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_006_carPaint_2",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_008_carWindowTrim_3_1_",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_019_carWindowTrim_3",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_028_carPaint_10",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_033_carWindowTrim_1_1_",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_038_carPaint_4_1_",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_039_carWindowTrim_5",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_040_carPaint_2_1_",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": [
+          {
+            "name": "StaticMeshComponent0",
+            "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_040_carPaint_2_1_.YU7_Unreal_SM_YU7_040_carPaint_2_1_",
+            "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+          }
+        ]
+      },
+      {
+        "label": "YU7_VP_045_carPaint_13",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_047_carGlass_front_2_Side_2_1_",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_049_carGlass_back_2_Side",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_057_carGlass_back_2_Side_1_1_",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_058_carPaint_4",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_060_carPaint_1",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_068_carPaint_9",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_074_carGlass_back_2_Side_1",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_075_carGlass_front_2_Side_2",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_076_carGlass_back_1",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_079_carPaint_8",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      },
+      {
+        "label": "YU7_VP_080_carWindowTrim_1",
+        "transform": "<Struct 'Transform' (0x000002765FC47420) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+        "meshes": []
+      }
+    ]
+  },
+  "finished": "2026-10-17T21:36:46-0700"
+}

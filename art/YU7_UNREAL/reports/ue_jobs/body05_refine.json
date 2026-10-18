@@ -1,0 +1,27 @@
+{
+  "id": "body05_refine",
+  "started": "2026-10-17T21:40:24-0700",
+  "status": "success",
+  "result": {
+    "meshes": [
+      {
+        "actor": "YU7_BodyQuad_Body",
+        "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v02/YU7_BodyLines_v02_SM_BodyLines_Body_v02.YU7_BodyLines_v02_SM_BodyLines_Body_v02",
+        "triangles": 90852
+      },
+      {
+        "actor": "YU7_BodyQuad_Mirror_L",
+        "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v02/YU7_BodyLines_v02_SM_BodyLines_Mirror_L_v02.YU7_BodyLines_v02_SM_BodyLines_Mirror_L_v02",
+        "triangles": 4528
+      },
+      {
+        "actor": "YU7_BodyQuad_Mirror_R",
+        "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v02/YU7_BodyLines_v02_SM_BodyLines_Mirror_R_v02.YU7_BodyLines_v02_SM_BodyLines_Mirror_R_v02",
+        "triangles": 4552
+      }
+    ],
+    "cameras": [],
+    "material": "/Game/YU7/QuadBodyStudy/Materials/MI_BodyLines_IceTeal.MI_BodyLines_IceTeal"
+  },
+  "finished": "2026-10-17T21:40:41-0700"
+}

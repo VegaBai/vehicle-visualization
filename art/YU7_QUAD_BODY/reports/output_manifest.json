@@ -1,0 +1,102 @@
+{
+  "art/YU7_QUAD_BODY/YU7_BodyLines_v03.fbx": {
+    "bytes": 10137452,
+    "sha256": "dc27f8a1bb7bd1211e2a9013d024d45886556b8f926e56fad8f4df4c606ea3a8"
+  },
+  "art/YU7_QUAD_BODY/YU7_BodyStudy_v03.blend": {
+    "bytes": 60976601,
+    "sha256": "3f9685071a3d8a9793488870323c49d5e4af448150d1956fdd23c8a59237f92a"
+  },
+  "renders/YU7_QuadBodyStudy/Final_v03/Final_v03_Detail_0000.png": {
+    "bytes": 9428116,
+    "sha256": "fcf6e92e00831ffd9b15b053544e8797efcfeed8d3c20bf18ed60dc44ad3bb27"
+  },
+  "renders/YU7_QuadBodyStudy/Final_v03/Final_v03_Overview_0000.png": {
+    "bytes": 8641547,
+    "sha256": "afae5d8b1972e5fc95f211c0726bc9ba733cd2066b15458be433209cd00a1daf"
+  },
+  "renders/YU7_QuadBodyStudy/Final_v03/Final_v03_Rear_0000.png": {
+    "bytes": 8380882,
+    "sha256": "d38e02553ba3b99d664b18533cc3fdb556402de88ff8d09b2028aa672800b955"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Maps/Studio_YU7_QuadBody.umap": {
+    "bytes": 283065,
+    "sha256": "a076002bb95dccb682a9ede5a9ae82e0d49d5ca4c5779e06c81946f43cd5e4d5"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Materials/MI_BodyLines_IceTeal.uasset": {
+    "bytes": 7256,
+    "sha256": "0cceeba9aaa2b71dcc21a2669a16fda137b9344251f429847dbfdf258c54ec88"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v01/YU7_BodyLines_v01_SM_BodyLines_Body_v01.uasset": {
+    "bytes": 40731450,
+    "sha256": "f777e71fd0ab6e58844c5b1113ded080eed2217dc1f3f4ab97d65e17139ad73e"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v01/YU7_BodyLines_v01_SM_BodyLines_Mirror_L_v01.uasset": {
+    "bytes": 2040539,
+    "sha256": "093d878a05bda87df0b55711650008d5237cba22fd646796752b9913393b6c59"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v01/YU7_BodyLines_v01_SM_BodyLines_Mirror_R_v01.uasset": {
+    "bytes": 2035762,
+    "sha256": "cdf4d24e9d8dcb161488f1a4bfdc39b569b803714f4dae359659f206e00183c2"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v02/YU7_BodyLines_v02_SM_BodyLines_Body_v02.uasset": {
+    "bytes": 5197822,
+    "sha256": "4f51b76aa672c771e9c304ed51fa6a930e1e40b267e8f0967fcaaf9930e7be39"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v02/YU7_BodyLines_v02_SM_BodyLines_Mirror_L_v02.uasset": {
+    "bytes": 252895,
+    "sha256": "659566cad62190ed033713c5dd65f47984157c3f825247b36ee6cb84ff019c2d"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v02/YU7_BodyLines_v02_SM_BodyLines_Mirror_R_v02.uasset": {
+    "bytes": 257103,
+    "sha256": "9a6b960d1c2f9aa6daa63a1b2e9d399879007ffb446a853547c25f7a0f16d17c"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v03/YU7_BodyLines_v03_SM_BodyLines_Body_v03.uasset": {
+    "bytes": 5128105,
+    "sha256": "8584a77195f4940268e007838ac120c93a652929d7a025df56cfd8c6d4ec0717"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v03/YU7_BodyLines_v03_SM_BodyLines_Mirror_L_v03.uasset": {
+    "bytes": 252894,
+    "sha256": "b0ec648da504fa78604a2d9d2d79b67e415828e28b1aa4901f9d75edcdfe0bd3"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Meshes/v03/YU7_BodyLines_v03_SM_BodyLines_Mirror_R_v03.uasset": {
+    "bytes": 257102,
+    "sha256": "a970b336a41cba29d12fd1933900e81582057815dcb17239ec1c9e5b331b21eb"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/RenderPresets/MRQ_Final_v03_Detail.uasset": {
+    "bytes": 4769,
+    "sha256": "65b863a9352c206245ec5e4b8554ea25ce493fa92e9ce04e53ca0d396ba9cb7a"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/RenderPresets/MRQ_Final_v03_Overview.uasset": {
+    "bytes": 4781,
+    "sha256": "38e1a13b181842dcbc28e1634ac0c6689a01fd9981b67eb6d6707e45d220de2e"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/RenderPresets/MRQ_Final_v03_Rear.uasset": {
+    "bytes": 4757,
+    "sha256": "d36424f734e98c85250da9a1403b25dcae9ec5ef0fe3cc6ea42e419b04a593db"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/RenderPresets/MRQ_Preview_v01_Detail.uasset": {
+    "bytes": 4684,
+    "sha256": "112396dc5ad0d6acea34018b945bbf2aac3ed906320ca3197b9262a98d0166fd"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/RenderPresets/MRQ_Preview_v01_Overview.uasset": {
+    "bytes": 4696,
+    "sha256": "865ecfc1a056855f6427ebb17ece58a02d7820ec1be57b5ea81cfb244d725f98"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/RenderPresets/MRQ_Preview_v01_Rear.uasset": {
+    "bytes": 4672,
+    "sha256": "6af867a98c82d8b991e3cd61081f2f4cec191006616123749da31095dcbae42a"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Sequences/LS_YU7_BodyQuad_Detail.uasset": {
+    "bytes": 7454,
+    "sha256": "775dd37e234754e1ce51d4e24f4dc8e001cfed20d17d95295770bb3716c87aef"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Sequences/LS_YU7_BodyQuad_Overview.uasset": {
+    "bytes": 7466,
+    "sha256": "b9d4a9842a2c34c9f2c362581b9a2d0614d0b92730c7eaf695154925a91375f1"
+  },
+  "VehicleStudio/Content/YU7/QuadBodyStudy/Sequences/LS_YU7_BodyQuad_Rear.uasset": {
+    "bytes": 7443,
+    "sha256": "48bf012062a693aef0a32b75223782b263de2499f2d5bfb155384c91aa82ab18"
+  }
+}

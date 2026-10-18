@@ -1,0 +1,7 @@
+{
+  "id": "body06_audit",
+  "started": "2026-10-17T21:40:45-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_body_audit.py\", line 3, in <module>\n    exec(compile(open(r'C:\\github2\\vehicle_visualization\\tools\\ue_body_finish.py',encoding='utf-8-sig').read(),'ue_body_finish.py','exec'))\n  File \"ue_body_finish.py\", line 17, in <module>\n  File \"ue_body_finish.py\", line 17, in <genexpr>\nAttributeError: 'StaticMeshActor' object has no attribute 'is_hidden'\n",
+  "finished": "2026-10-17T21:40:46-0700"
+}

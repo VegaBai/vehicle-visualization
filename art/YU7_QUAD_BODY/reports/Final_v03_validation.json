@@ -1,0 +1,36 @@
+{
+  "protected_files": 393,
+  "changed_protected_files": [],
+  "images": [
+    {
+      "file": "renders/YU7_QuadBodyStudy/Final_v03/Final_v03_Detail_0000.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "fcf6e92e00831ffd9b15b053544e8797efcfeed8d3c20bf18ed60dc44ad3bb27",
+      "bytes": 9428116
+    },
+    {
+      "file": "renders/YU7_QuadBodyStudy/Final_v03/Final_v03_Overview_0000.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "afae5d8b1972e5fc95f211c0726bc9ba733cd2066b15458be433209cd00a1daf",
+      "bytes": 8641547
+    },
+    {
+      "file": "renders/YU7_QuadBodyStudy/Final_v03/Final_v03_Rear_0000.png",
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "d38e02553ba3b99d664b18533cc3fdb556402de88ff8d09b2028aa672800b955",
+      "bytes": 8380882
+    }
+  ],
+  "mrq_success": true,
+  "exact_credit_bytes_verified": true,
+  "scope": "Static image and file integrity validation, not animation or packaged runtime."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "body04_render",
+  "started": "2026-10-17T21:38:21-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Preview_v01",
+      "width": 1920,
+      "height": 1080,
+      "samples": 16
+    }
+  },
+  "finished": "2026-10-17T21:38:21-0700"
+}

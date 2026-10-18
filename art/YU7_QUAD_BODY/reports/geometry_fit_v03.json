@@ -1,0 +1,11 @@
+{
+  "version": "v03",
+  "line_centres": 8480,
+  "span_interior_samples": 24057,
+  "nearest_source_surface_distance_m": {
+    "min": 5.1305023589520715e-06,
+    "max": 0.001507430337369442,
+    "mean": 0.0010679865806657142
+  },
+  "scope": "Distance to nearest source triangle at line centres and span quarter points, not CAD certification."
+}

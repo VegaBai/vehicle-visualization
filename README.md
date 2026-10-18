@@ -1,6 +1,6 @@
 # Vehicle Visualization · Xiaomi YU7
 
-基于 Unreal Engine 5.8.3 的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体，以及矿物青 4K 主视觉和 5 秒运镜。
+基于 Unreal Engine 5.8.3 的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜，以及整车 quad 曲面展示线。
 
 ## 获取和打开
 
@@ -17,6 +17,8 @@ git lfs pull
 
 - 外观工作地图：`/Game/YU7/Maps/Studio_YU7`
 - 独立主镜头地图：`/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero`
+- 整车 quad 展示地图：`/Game/YU7/QuadBodyStudy/Maps/Studio_YU7_QuadBody`
+- 保留的局部 quad 试作：`/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy`
 - 运镜序列：`/Game/YU7/Cinematics/Sequences/LS_YU7_MineralHero_5s`
 - 车辆 Blueprint：`/Game/Vehicles/YU7_Prepared/Blueprints/BP_YU7`
 
@@ -27,8 +29,11 @@ git lfs pull
 | `VehicleStudio/` | Unreal 项目、配置、地图、Blueprint、材质和资产 |
 | `art/FINAL_MODEL/` | 保持原样的原始 FBX 和贴图 |
 | `art/YU7_UNREAL/` | 准备好的 Blender/FBX、纹理、制作指南和验证报告 |
+| `art/YU7_WIREFRAME/` | 引擎盖/前翼子板局部 quad 线框试作 |
+| `art/YU7_QUAD_BODY/` | 整车连续 quad 展示层、指南和验证报告 |
 | `tools/` | Blender/Unreal 编辑器准备及离线验证脚本 |
 | `renders/YU7_MineralHero/` | 最终 4K PNG、EXR、5 秒 MP4 与署名 |
+| `renders/YU7_QuadBodyStudy/Final_v03/` | 整车 quad 前侧、衔接近景、后侧三张 4K PNG |
 | `DEV_HISTORY.md` | 持续追加的决策、实施、失败与验证记录 |
 
 `.gitignore` 排除 Unreal 的 `Binaries`、`DerivedDataCache`、`Intermediate`、`Saved`，以及 IDE 临时文件、Python 缓存和 `tools/vendor`。`Config`、`Content` 和自定义 `Build` 资源保留。MRQ 的 `frames/` 原始逐帧输出和 `still/` 重复输出保留在制作机器，不上传；重渲步骤见 [主镜头指南](art/YU7_UNREAL/HERO_RENDER_GUIDE.txt)。
@@ -36,6 +41,8 @@ git lfs pull
 ## 继续制作
 
 先读 [项目约定](AGENTS.md)、[导入说明](art/YU7_UNREAL/README_UE.txt)、[Lookdev 指南](art/YU7_UNREAL/LOOKDEV_GUIDE.txt) 和 [开发记录](DEV_HISTORY.md)。不要对已有资产盲目重跑一次性创建脚本。
+
+整车 quad 效果见 [展示层指南](art/YU7_QUAD_BODY/README_UE.txt)。线条是独立的曲面展示几何，不代表恢复了原模型 quad 拓扑。原模型和原地图保留；玻璃、灯具、轮胎及饰条保持原观感。
 
 使用变体后需要重载工作地图时，执行 `tools/ue_lookdev_reload.py`，或重启编辑器；只重载地图仍有 UE 5.8 缓存问题。两处导入后 UV 修复及其重导入要求见导入说明。原始 `Studio_White`、导入基线和源模型均保留。
 
@@ -50,7 +57,7 @@ python -m pip install --target tools/vendor imageio-ffmpeg==0.6.0
 
 历史渲染、资产及场景验证见 `art/YU7_UNREAL/reports/`。最终应用内可见 Credits、运行时交互界面及打包验证仍待完成。
 
-Blender 服务持续写入的 `reports/blender_host_stdout.log` 仅保留在本地；首次发布快照另存于 `reports/archive/`，其他历史验证日志照常纳入版本管理。
+Blender 服务持续写入的 `reports/blender_host_stdout.log` 和 `blender_host_stderr.log` 仅保留在本地；检查点快照另存于 `reports/archive/`，其他历史验证日志照常纳入版本管理。
 
 ## 模型署名
 

@@ -1,0 +1,40 @@
+{
+  "id": "body03_import",
+  "started": "2026-10-17T21:37:50-0700",
+  "status": "success",
+  "result": {
+    "meshes": [
+      {
+        "actor": "YU7_BodyQuad_Body",
+        "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v01/YU7_BodyLines_v01_SM_BodyLines_Body_v01.YU7_BodyLines_v01_SM_BodyLines_Body_v01",
+        "triangles": 857460
+      },
+      {
+        "actor": "YU7_BodyQuad_Mirror_L",
+        "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v01/YU7_BodyLines_v01_SM_BodyLines_Mirror_L_v01.YU7_BodyLines_v01_SM_BodyLines_Mirror_L_v01",
+        "triangles": 41032
+      },
+      {
+        "actor": "YU7_BodyQuad_Mirror_R",
+        "mesh": "/Game/YU7/QuadBodyStudy/Meshes/v01/YU7_BodyLines_v01_SM_BodyLines_Mirror_R_v01.YU7_BodyLines_v01_SM_BodyLines_Mirror_R_v01",
+        "triangles": 41044
+      }
+    ],
+    "cameras": [
+      {
+        "name": "Overview",
+        "sequence": "/Game/YU7/QuadBodyStudy/Sequences/LS_YU7_BodyQuad_Overview.LS_YU7_BodyQuad_Overview"
+      },
+      {
+        "name": "Detail",
+        "sequence": "/Game/YU7/QuadBodyStudy/Sequences/LS_YU7_BodyQuad_Detail.LS_YU7_BodyQuad_Detail"
+      },
+      {
+        "name": "Rear",
+        "sequence": "/Game/YU7/QuadBodyStudy/Sequences/LS_YU7_BodyQuad_Rear.LS_YU7_BodyQuad_Rear"
+      }
+    ],
+    "material": "/Game/YU7/QuadBodyStudy/Materials/MI_BodyLines_IceTeal.MI_BodyLines_IceTeal"
+  },
+  "finished": "2026-10-17T21:38:13-0700"
+}
