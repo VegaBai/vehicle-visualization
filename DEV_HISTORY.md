@@ -364,3 +364,5 @@
 - body10 最终保存后安全重载通过：原 121 个唯一可见车辆网格、3 个 v03 新展示网格、旧局部线隐藏、正确 Movable/NoCollision/父级与无投影；三个最终 MRQ 预设保持 4K/64。Map Check 为 0 Error/0 Warning，dirty_maps/dirty_content 均为空，临时任务回调已注销，编辑器停在新地图整体机位。
 - 最终资产/图像 SHA256 清单已生成 reports/output_manifest.json，入口与复用限制写入 README、AGENTS.md、art/YU7_QUAD_BODY/README_UE.txt。展示线不改变原拓扑；本轮只验证静帧和编辑器持久化，不宣称运动抗闪烁或打包测试。最终应用内可见 Credits 仍待后续完成。
 - 在已推送的局部检查点 420a2c6 之后，将整车版单独提交，保留两个阶段的独立回退点。当前整车版本尚待实际 Git/LFS 推送核验。
+
+- 整车提交 eb2e4dca16e16dac56aeaa6aab208ece2dd609c4 已推送 origin/main，远端 SHA 核验一致；git lfs fsck OK，32 个新增去重 LFS 对象约 370 MB 上传完成。提交后工作区干净。前一局部节点 420a2c6 完整保留；此推送结果记录通过随后纯文档提交同步，不重写历史。
