@@ -494,3 +494,5 @@
 - 已实际查看主视觉；本机两份媒体 SHA256 均与 reports/hero/delivery_validation.json 一致。远端两个媒体 URL 均返回 HTTP 200，长度分别为 8,313,784 / 4,980,026 bytes；图片 Content-Type 为 image/png，视频为 application/octet-stream，链接可能触发浏览器下载，不声称 README 内嵌播放器。
 - git fetch 后 HEAD 与 origin/main 为 0 ahead / 0 behind，初始暂存区为空。工作区已存在 v09/v10 及其他未提交制作内容，本次只暂存 README 与本条开发记录；既有 DEV_HISTORY 增补保留在工作区，不随此次文档更新提交。
 - 默认 python 命令解析到不可访问的 WindowsApps 别名；本次无 Python 运行需求，改用 PowerShell 与 Git 原生命令单独构建日志暂存内容，避免触碰现有未提交历史。下一步校验限定提交差异并推送；本次不重做 UE 渲染或打包验收。
+
+- 展示提交 f397d0f7bff82d9804b73174f3b751f11cce478c 已成功推送 main，git ls-remote 核实远端 SHA 与本地一致。GitHub README HTML 接口实际返回新增 img 元素及 MP4 超链接，两个媒体地址已通过 HTTP 200 检查；限定暂存差异的 git diff --check 通过。其余本地修改/新增文件保持未提交，DEV_HISTORY 原先的 50 行制作记录仍留在工作区。本条实际验证结果单独同步为日志提交。
