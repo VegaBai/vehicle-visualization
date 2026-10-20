@@ -484,3 +484,5 @@
 - 下一步暂存、检查 LFS/普通 Git 对象和提交差异，再推送；远端完成状态待实际命令结果。
 - 暂存完成，共 289 个文件，其中 116 个二进制/媒体文件为 LFS 指针；普通 Git 对象最大 129,251 bytes，没有把大型资产直接写入普通 Git。
 - 全量暂存空白检查仅报告 11 个 FFmpeg 原始 encode/decode 日志的行末空白及末尾空行。为保留诊断输出，未改写这些历史日志；对其余全部暂存文件执行 git diff --cached --check 通过。这是原始日志格式问题，不是代码或设计文档错误。
+- 主成果提交 aefdf8d7f09505df418091ae3cfb146d1558a586（Add YU7 tunnel cinematic and pulsing roof airflow）已成功推送 origin/main。Git LFS fsck OK，112 个新增去重对象约 348 MB 上传完成，对应 116 个新增 LFS 文件；普通 Git 提交共 289 个文件。
+- git ls-remote 核实远端 main 与本地完整 SHA 一致，git lfs push --dry-run 无待上传对象，主成果推送后工作区干净。将本条实际发布结果通过随后纯开发记录提交同步，保留主成果提交历史。v09 仍仅完成设计，具体实现等待新 session；新的车漆材质仍等待用户参考图。
