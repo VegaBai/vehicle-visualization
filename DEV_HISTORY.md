@@ -486,3 +486,11 @@
 - 全量暂存空白检查仅报告 11 个 FFmpeg 原始 encode/decode 日志的行末空白及末尾空行。为保留诊断输出，未改写这些历史日志；对其余全部暂存文件执行 git diff --cached --check 通过。这是原始日志格式问题，不是代码或设计文档错误。
 - 主成果提交 aefdf8d7f09505df418091ae3cfb146d1558a586（Add YU7 tunnel cinematic and pulsing roof airflow）已成功推送 origin/main。Git LFS fsck OK，112 个新增去重对象约 348 MB 上传完成，对应 116 个新增 LFS 文件；普通 Git 提交共 289 个文件。
 - git ls-remote 核实远端 main 与本地完整 SHA 一致，git lfs push --dry-run 无待上传对象，主成果推送后工作区干净。将本条实际发布结果通过随后纯开发记录提交同步，保留主成果提交历史。v09 仍仅完成设计，具体实现等待新 session；新的车漆材质仍等待用户参考图。
+
+## 2026-10-20 · README 最终主视觉与五秒视频展示（当次记录）
+
+- 用户要求将最终效果图加入仓库 README、附上 5 秒运镜视频链接并推送。选用与该五秒镜头配套的矿物青主视觉 renders/YU7_MineralHero/YU7_MineralTeal_4K.png 与 YU7_MineralTeal_5s_4K.mp4；未将后续 12 秒隧道镜头混称为五秒视频。
+- README.md 顶部新增作品展示区：直接嵌入原生 3840×2160 PNG，附 MP4 查看/下载链接及 24 fps / 120 帧 / 无声说明。使用 GitHub media 地址读取既有 LFS 媒体，不重复生成、修改或上传图像/视频。
+- 已实际查看主视觉；本机两份媒体 SHA256 均与 reports/hero/delivery_validation.json 一致。远端两个媒体 URL 均返回 HTTP 200，长度分别为 8,313,784 / 4,980,026 bytes；图片 Content-Type 为 image/png，视频为 application/octet-stream，链接可能触发浏览器下载，不声称 README 内嵌播放器。
+- git fetch 后 HEAD 与 origin/main 为 0 ahead / 0 behind，初始暂存区为空。工作区已存在 v09/v10 及其他未提交制作内容，本次只暂存 README 与本条开发记录；既有 DEV_HISTORY 增补保留在工作区，不随此次文档更新提交。
+- 默认 python 命令解析到不可访问的 WindowsApps 别名；本次无 Python 运行需求，改用 PowerShell 与 Git 原生命令单独构建日志暂存内容，避免触碰现有未提交历史。下一步校验限定提交差异并推送；本次不重做 UE 渲染或打包验收。

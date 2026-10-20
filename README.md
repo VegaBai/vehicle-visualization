@@ -2,6 +2,14 @@
 
 基于 Unreal Engine 5.8.3 的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及 12 秒隧道流光镜头。
 
+## 矿物青主视觉与 5 秒运镜
+
+![Xiaomi YU7 矿物青摄影棚最终渲染，3840 × 2160](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_MineralHero/YU7_MineralTeal_4K.png)
+
+Unreal Engine 原生 4K 渲染。
+
+[查看 / 下载 5 秒运镜视频（4K MP4）](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_MineralHero/YU7_MineralTeal_5s_4K.mp4) · 3840 × 2160 · 24 fps · 120 帧 · 无声。
+
 ## 获取和打开
 
 先安装 Git LFS，再克隆仓库：
