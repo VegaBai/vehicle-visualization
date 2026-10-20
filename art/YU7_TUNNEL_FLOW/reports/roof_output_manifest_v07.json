@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.umap",
+      "bytes": 413747,
+      "sha256": "44683943334f608f46be6df2e31aeddbadac393456433d642043f3273117e7d9"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Blueprints/BP_TunnelRoofAirflow_v01.uasset",
+      "bytes": 29933,
+      "sha256": "9f3eb185de3c0fac399ab132eeaac344b4d649d5a5025b31244a29d854828158"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_v01.uasset",
+      "bytes": 36732,
+      "sha256": "8deb7ec0bf5ef79405c9ec3b68c7513cbdb38c164fc1bedec69d8527b7491fb0"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Meshes/RoofAirflow_v01/YU7_RoofAirflow_v01.uasset",
+      "bytes": 1987478,
+      "sha256": "d54acf01b8f26511d4a5380a2d0e76e9bacd63154ff660ca187c1c9bce37266d"
+    },
+    {
+      "path": "art/YU7_TUNNEL_FLOW/prepared/YU7_RoofAirflow_v01.blend",
+      "bytes": 69227418,
+      "sha256": "068f2a44286557dcba453f764cfafcaeac46a78819ae73d40bd2cbf0858231a3"
+    },
+    {
+      "path": "art/YU7_TUNNEL_FLOW/prepared/YU7_RoofAirflow_v01.fbx",
+      "bytes": 3285804,
+      "sha256": "59a37178252ac7899f97de7bf515cdb21ca6bd2191621d098fe45f13317dfe0e"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/Previs_v07_1080p_12s.mp4",
+      "bytes": 10378928,
+      "sha256": "d330aec74f4a9ad0a233a3cf863b272d6e558d3acd08ff25e2df9e7b9d1acfed"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/CREDITS.txt",
+      "bytes": 169,
+      "sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofAirflow_v07_4K.png",
+      "bytes": 7607399,
+      "sha256": "e8109b289c5074da4dfc46ff65d46f56c71306ca1cbff2604d96c5df6f104764"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofFullBody_v07_4K.png",
+      "bytes": 7479191,
+      "sha256": "68b7cbbfb58322ab11d7a8f95c2a60b8ec55327f7ba42f70d630f018f7e31171"
+    }
+  ],
+  "full_video": "Previs_v07_1080p_12s.mp4",
+  "full_video_resolution": [
+    1920,
+    1080
+  ],
+  "frames": 288,
+  "fps": 24,
+  "native_4K_stills": 2,
+  "v06_protected_unchanged": 58,
+  "v07_full_4K_movie": "Not rendered; prior Final_v06_4K_12s.mp4 is the previous version",
+  "audio": "Silent",
+  "credits_exact": true
+}

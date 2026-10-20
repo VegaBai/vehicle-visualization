@@ -1,0 +1,18 @@
+{
+  "request": {
+    "name": "DebugMaterials_v01",
+    "width": 1280,
+    "height": 720,
+    "frames": [
+      163,
+      228
+    ],
+    "spatial": 1,
+    "temporal": 8
+  },
+  "started": 1792300894.2684615,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 6.513055324554443
+}

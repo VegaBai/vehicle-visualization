@@ -1,0 +1,19 @@
+{
+  "request": {
+    "name": "Roof_Keyframes_v07_1080p",
+    "width": 1920,
+    "height": 1080,
+    "spatial": 1,
+    "temporal": 8,
+    "frames": [
+      24,
+      96,
+      228
+    ]
+  },
+  "started": 1792303483.3927326,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 33.53821659088135
+}

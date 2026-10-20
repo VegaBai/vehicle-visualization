@@ -1,0 +1,19 @@
+{
+  "id": "tunnel17_debug_render",
+  "started": "2026-10-17T22:21:34-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "DebugMaterials_v01",
+      "width": 1280,
+      "height": 720,
+      "frames": [
+        163,
+        228
+      ],
+      "spatial": 1,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-10-17T22:21:34-0700"
+}

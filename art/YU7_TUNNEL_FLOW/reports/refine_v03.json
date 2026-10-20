@@ -1,0 +1,9 @@
+{
+  "grid_brightness": 850,
+  "grid_afterglow": 0.15,
+  "surface_brightness": 2200,
+  "wake_brightness": 900,
+  "rear_peak_hold": "9.0-9.6s; fade peak to 10.2s",
+  "flow_lane_fix": "Account for FBX V flip, phase variation only 0.02",
+  "note": "Based on v02 native frames, before full-length motion review."
+}

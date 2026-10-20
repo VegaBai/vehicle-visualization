@@ -1,0 +1,77 @@
+{
+  "map": "/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.Studio_YU7_TunnelFlow",
+  "saved_reload_verified": true,
+  "original_unique_visible_meshes": 121,
+  "wheel_blueprints": 4,
+  "effects": [
+    {
+      "actor": "YU7_BodyQuad_Body",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03",
+      "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid",
+      "parent": "YU7_Hero",
+      "triangles": 90836
+    },
+    {
+      "actor": "YU7_BodyQuad_Mirror_L",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03",
+      "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid",
+      "parent": "YU7_Hero",
+      "triangles": 4528
+    },
+    {
+      "actor": "YU7_BodyQuad_Mirror_R",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03",
+      "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid",
+      "parent": "YU7_Hero",
+      "triangles": 4552
+    },
+    {
+      "actor": "YU7_Tunnel_SurfaceFlow",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01.YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01",
+      "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelSurfaceFlow.M_TunnelSurfaceFlow",
+      "parent": "YU7_Hero",
+      "triangles": 61680
+    },
+    {
+      "actor": "YU7_Tunnel_WorldWake",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01.YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01",
+      "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelWorldWake.M_TunnelWorldWake",
+      "parent": null,
+      "triangles": 268800
+    }
+  ],
+  "fps": 24,
+  "frames": 288,
+  "protected_files_unchanged": 420,
+  "dirty_maps": [],
+  "dirty_content": [],
+  "credits_metadata_exact": true,
+  "runtime": "Native Blueprint components, native Sequencer and material graphs; editor Python only",
+  "packaged_runtime_tested": false,
+  "visible_application_credits": "Pending final application UI; metadata and exact sidecars do not replace it.",
+  "roof_blueprint": "/Game/YU7/TunnelFlow/Blueprints/BP_TunnelRoofAirflow_v01.BP_TunnelRoofAirflow_v01_C",
+  "roof_mesh": "/Game/YU7/TunnelFlow/Meshes/RoofAirflow_v01/YU7_RoofAirflow_v01.YU7_RoofAirflow_v01",
+  "roof_material": "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_Pulse_v02.M_TunnelRoofAirflow_Pulse_v02",
+  "roof_triangles": 92400,
+  "roof_lines": 7,
+  "v07_protected_unchanged": 71,
+  "roof_minimum_sampled_clearance_m": 0.08124881788071259,
+  "WPO_flags": {
+    "evaluate_world_position_offset": true,
+    "evaluate_world_position_offset_in_ray_tracing": true,
+    "world_position_offset_writes_velocity": true
+  },
+  "bounds_scale": 1.5,
+  "WPO_cap_cm": 35.0,
+  "video": "C:\\github2\\vehicle_visualization\\renders\\YU7_TunnelFlow\\Previs_v08_1080p_12s.mp4",
+  "video_sha256": "dac38efecf6c70796e842b1ac5f3c803639cc0f3c68cb4d62bbfa2b6c7f338b4",
+  "still_resolution": [
+    3840,
+    2160
+  ],
+  "preview_resolution": [
+    1920,
+    1080
+  ],
+  "runner_shutdown_requested": true
+}

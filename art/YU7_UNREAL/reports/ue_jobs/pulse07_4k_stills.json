@@ -1,0 +1,18 @@
+{
+  "id": "pulse07_4k_stills",
+  "started": "2026-10-19T01:06:12-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Pulse_Keyframes_v08_4K",
+      "width": 3840,
+      "height": 2160,
+      "temporal": 8,
+      "frames": [
+        96,
+        228
+      ]
+    }
+  },
+  "finished": "2026-10-19T01:06:12-0700"
+}

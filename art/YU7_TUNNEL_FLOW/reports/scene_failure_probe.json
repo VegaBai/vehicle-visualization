@@ -1,0 +1,625 @@
+{
+  "hero": "/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.Studio_YU7_TunnelFlow:PersistentLevel.BP_YU7_C_0",
+  "meshes": [
+    {
+      "name": "Part_001_carGlass_front_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_001_carGlass_front_1.YU7_Unreal_SM_YU7_001_carGlass_front_1",
+      "visible": false
+    },
+    {
+      "name": "Part_002_carLight_backbulb",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_002_carLight_backbulb.YU7_Unreal_SM_YU7_002_carLight_backbulb",
+      "visible": true
+    },
+    {
+      "name": "Part_003_carLight_bulb_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_003_carLight_bulb_2.YU7_Unreal_SM_YU7_003_carLight_bulb_2",
+      "visible": true
+    },
+    {
+      "name": "Part_004_carLightPlastic_MatteBlack_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2.YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2",
+      "visible": true
+    },
+    {
+      "name": "Part_005_carBonnetLogoBase_body",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body.YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body",
+      "visible": true
+    },
+    {
+      "name": "Part_006_carPaint_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_006_carPaint_2.YU7_Unreal_SM_YU7_006_carPaint_2",
+      "visible": false
+    },
+    {
+      "name": "Part_007_carPlastic_BrilliantBlack_3_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1.YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1",
+      "visible": true
+    },
+    {
+      "name": "Part_008_carWindowTrim_3_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_.YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_",
+      "visible": false
+    },
+    {
+      "name": "Part_009_carPlastic_BrilliantBlack_1_6_3_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_.YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_",
+      "visible": true
+    },
+    {
+      "name": "Part_010_carDuckTail",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_010_carDuckTail.YU7_Unreal_SM_YU7_010_carDuckTail",
+      "visible": true
+    },
+    {
+      "name": "Part_011_carLightGlass_Back_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_011_carLightGlass_Back_1.YU7_Unreal_SM_YU7_011_carLightGlass_Back_1",
+      "visible": true
+    },
+    {
+      "name": "Part_012_carXiaoMi_3_yu7",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7.YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7",
+      "visible": true
+    },
+    {
+      "name": "Part_013_carPlastic_BrilliantBlack_3_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2.YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2",
+      "visible": true
+    },
+    {
+      "name": "Part_014_carBonnetLogoFont_body",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body.YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body",
+      "visible": true
+    },
+    {
+      "name": "Part_015_carMirror_bottom_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_015_carMirror_bottom_2.YU7_Unreal_SM_YU7_015_carMirror_bottom_2",
+      "visible": true
+    },
+    {
+      "name": "Part_016_carLight_bulb_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_016_carLight_bulb_1.YU7_Unreal_SM_YU7_016_carLight_bulb_1",
+      "visible": true
+    },
+    {
+      "name": "Part_017_carPlastic_MatteBlack_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2.YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2",
+      "visible": true
+    },
+    {
+      "name": "Part_018_carPlastic_BrilliantBlack_2_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3.YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3",
+      "visible": true
+    },
+    {
+      "name": "Part_019_carWindowTrim_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_019_carWindowTrim_3.YU7_Unreal_SM_YU7_019_carWindowTrim_3",
+      "visible": false
+    },
+    {
+      "name": "Part_020_carPlastic_BrilliantBlack_1_6_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_.YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_",
+      "visible": true
+    },
+    {
+      "name": "Part_021_carInternal_PassengerSeatFront",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront.YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront",
+      "visible": true
+    },
+    {
+      "name": "Part_022_carLightGlass_Front",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_022_carLightGlass_Front.YU7_Unreal_SM_YU7_022_carLightGlass_Front",
+      "visible": true
+    },
+    {
+      "name": "Part_023_carXiaoMi_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_023_carXiaoMi_3.YU7_Unreal_SM_YU7_023_carXiaoMi_3",
+      "visible": true
+    },
+    {
+      "name": "Part_024_carPlate",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_024_carPlate.YU7_Unreal_SM_YU7_024_carPlate",
+      "visible": true
+    },
+    {
+      "name": "Part_025_carPlastic_BrilliantBlack_1_6",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6.YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6",
+      "visible": true
+    },
+    {
+      "name": "Part_026_carGlass_front_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_026_carGlass_front_2.YU7_Unreal_SM_YU7_026_carGlass_front_2",
+      "visible": true
+    },
+    {
+      "name": "Part_027_carLightPlastic_BrilliantBlack_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2.YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2",
+      "visible": true
+    },
+    {
+      "name": "Part_028_carPaint_10",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_028_carPaint_10.YU7_Unreal_SM_YU7_028_carPaint_10",
+      "visible": false
+    },
+    {
+      "name": "Part_029_carInternal_TrunkInternal",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal.YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal",
+      "visible": true
+    },
+    {
+      "name": "Part_030_carFrontBonnetNet",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_030_carFrontBonnetNet.YU7_Unreal_SM_YU7_030_carFrontBonnetNet",
+      "visible": true
+    },
+    {
+      "name": "Part_031_carRearviewMirror_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_031_carRearviewMirror_2.YU7_Unreal_SM_YU7_031_carRearviewMirror_2",
+      "visible": true
+    },
+    {
+      "name": "Part_032_carWheelLogoBase_ScuffPlate_Font",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font.YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font",
+      "visible": true
+    },
+    {
+      "name": "Part_033_carWindowTrim_1_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_.YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_",
+      "visible": false
+    },
+    {
+      "name": "Part_034_carLight_bulb_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_034_carLight_bulb_3.YU7_Unreal_SM_YU7_034_carLight_bulb_3",
+      "visible": true
+    },
+    {
+      "name": "Part_035_carPlastic_BrilliantGray_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1.YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1",
+      "visible": true
+    },
+    {
+      "name": "Part_036_carInternal_DoorBack_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_.YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_",
+      "visible": true
+    },
+    {
+      "name": "Part_037_carInternal_CenterConsole_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2.YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2",
+      "visible": true
+    },
+    {
+      "name": "Part_038_carPaint_4_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_038_carPaint_4_1_.YU7_Unreal_SM_YU7_038_carPaint_4_1_",
+      "visible": false
+    },
+    {
+      "name": "Part_039_carWindowTrim_5",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_039_carWindowTrim_5.YU7_Unreal_SM_YU7_039_carWindowTrim_5",
+      "visible": false
+    },
+    {
+      "name": "Part_040_carPaint_2_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_040_carPaint_2_1_.YU7_Unreal_SM_YU7_040_carPaint_2_1_",
+      "visible": false
+    },
+    {
+      "name": "Part_041_carPlastic_BrilliantBlack_3_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3.YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3",
+      "visible": true
+    },
+    {
+      "name": "Part_042_carInternal_SteeringWheel_Bottom",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom.YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom",
+      "visible": true
+    },
+    {
+      "name": "Part_043_carInternal_TrunkExternal",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal.YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal",
+      "visible": true
+    },
+    {
+      "name": "Part_044_carInternal_Roof",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_044_carInternal_Roof.YU7_Unreal_SM_YU7_044_carInternal_Roof",
+      "visible": true
+    },
+    {
+      "name": "Part_045_carPaint_13",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_045_carPaint_13.YU7_Unreal_SM_YU7_045_carPaint_13",
+      "visible": false
+    },
+    {
+      "name": "Part_046_carPlastic_MatteBlack_1_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1.YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1",
+      "visible": true
+    },
+    {
+      "name": "Part_047_carGlass_front_2_Side_2_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_.YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_",
+      "visible": false
+    },
+    {
+      "name": "Part_048_carHoodOutletWisp",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_048_carHoodOutletWisp.YU7_Unreal_SM_YU7_048_carHoodOutletWisp",
+      "visible": true
+    },
+    {
+      "name": "Part_049_carGlass_back_2_Side",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_049_carGlass_back_2_Side.YU7_Unreal_SM_YU7_049_carGlass_back_2_Side",
+      "visible": false
+    },
+    {
+      "name": "Part_050_carPlastic_BrilliantBlack_2_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1.YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1",
+      "visible": true
+    },
+    {
+      "name": "Part_051_carLightPlastic_MatteBlack",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack.YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack",
+      "visible": true
+    },
+    {
+      "name": "Part_052_carInternal_Dashboard",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_052_carInternal_Dashboard.YU7_Unreal_SM_YU7_052_carInternal_Dashboard",
+      "visible": true
+    },
+    {
+      "name": "Part_053_carInternal_DoorFront",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_053_carInternal_DoorFront.YU7_Unreal_SM_YU7_053_carInternal_DoorFront",
+      "visible": true
+    },
+    {
+      "name": "Part_054_carPlastic_BrilliantBlack_1_6_2_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_.YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_",
+      "visible": true
+    },
+    {
+      "name": "Part_055_carRoof_yu7",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_055_carRoof_yu7.YU7_Unreal_SM_YU7_055_carRoof_yu7",
+      "visible": true
+    },
+    {
+      "name": "Part_056_carInternal_Frame_Top_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2.YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2",
+      "visible": true
+    },
+    {
+      "name": "Part_057_carGlass_back_2_Side_1_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_.YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_",
+      "visible": false
+    },
+    {
+      "name": "Part_058_carPaint_4",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_058_carPaint_4.YU7_Unreal_SM_YU7_058_carPaint_4",
+      "visible": false
+    },
+    {
+      "name": "Part_059_carMirror_top_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_059_carMirror_top_2.YU7_Unreal_SM_YU7_059_carMirror_top_2",
+      "visible": true
+    },
+    {
+      "name": "Part_060_carPaint_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_060_carPaint_1.YU7_Unreal_SM_YU7_060_carPaint_1",
+      "visible": false
+    },
+    {
+      "name": "Part_061_carInternal_SteeringWheel_Top_4",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4.YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4",
+      "visible": true
+    },
+    {
+      "name": "Part_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277.YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "visible": true
+    },
+    {
+      "name": "Part_063_carInternal_CenterConsole_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1.YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1",
+      "visible": true
+    },
+    {
+      "name": "Part_064_carHoodOutletPanel",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_064_carHoodOutletPanel.YU7_Unreal_SM_YU7_064_carHoodOutletPanel",
+      "visible": true
+    },
+    {
+      "name": "Part_065_carInternal_DoorFront_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_.YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_",
+      "visible": true
+    },
+    {
+      "name": "Part_066_carMirror_top_2_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_066_carMirror_top_2_1_.YU7_Unreal_SM_YU7_066_carMirror_top_2_1_",
+      "visible": true
+    },
+    {
+      "name": "Part_067_carInternal_Frame_Bottom",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom.YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom",
+      "visible": true
+    },
+    {
+      "name": "Part_068_carPaint_9",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_068_carPaint_9.YU7_Unreal_SM_YU7_068_carPaint_9",
+      "visible": false
+    },
+    {
+      "name": "Part_069_carPlastic_MatteBlack_2_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1.YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1",
+      "visible": true
+    },
+    {
+      "name": "Part_070_carRoofSpoiler",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_070_carRoofSpoiler.YU7_Unreal_SM_YU7_070_carRoofSpoiler",
+      "visible": true
+    },
+    {
+      "name": "Part_071_carMirror_bottom_2_1_",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_.YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_",
+      "visible": true
+    },
+    {
+      "name": "Part_072_carInternal_DoorBack",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_072_carInternal_DoorBack.YU7_Unreal_SM_YU7_072_carInternal_DoorBack",
+      "visible": true
+    },
+    {
+      "name": "Part_073_carRearviewMirror_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_073_carRearviewMirror_3.YU7_Unreal_SM_YU7_073_carRearviewMirror_3",
+      "visible": true
+    },
+    {
+      "name": "Part_074_carGlass_back_2_Side_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1.YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1",
+      "visible": false
+    },
+    {
+      "name": "Part_075_carGlass_front_2_Side_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2.YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2",
+      "visible": false
+    },
+    {
+      "name": "Part_076_carGlass_back_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_076_carGlass_back_1.YU7_Unreal_SM_YU7_076_carGlass_back_1",
+      "visible": false
+    },
+    {
+      "name": "Part_077_carLightPlastic_BrilliantBlack_3",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3.YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3",
+      "visible": true
+    },
+    {
+      "name": "Part_078_carPlastic_BrilliantBlack_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2.YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2",
+      "visible": true
+    },
+    {
+      "name": "Part_079_carPaint_8",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_079_carPaint_8.YU7_Unreal_SM_YU7_079_carPaint_8",
+      "visible": false
+    },
+    {
+      "name": "Part_080_carWindowTrim_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_080_carWindowTrim_1.YU7_Unreal_SM_YU7_080_carWindowTrim_1",
+      "visible": false
+    },
+    {
+      "name": "Part_081_carHeaterStrip",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_081_carHeaterStrip.YU7_Unreal_SM_YU7_081_carHeaterStrip",
+      "visible": true
+    },
+    {
+      "name": "Part_082_carPlastic_BrilliantBlack_1_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1.YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1",
+      "visible": true
+    },
+    {
+      "name": "Part_083_carLightGlass_Back_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_083_carLightGlass_Back_2.YU7_Unreal_SM_YU7_083_carLightGlass_Back_2",
+      "visible": true
+    },
+    {
+      "name": "Part_084_carInternal_PassengerSeatBack",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack.YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack",
+      "visible": true
+    },
+    {
+      "name": "Part_085_carHeadLampPanel",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_085_carHeadLampPanel.YU7_Unreal_SM_YU7_085_carHeadLampPanel",
+      "visible": true
+    },
+    {
+      "name": "Part_086_carBackDrop",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_086_carBackDrop.YU7_Unreal_SM_YU7_086_carBackDrop",
+      "visible": true
+    },
+    {
+      "name": "Part_087_carXiaoMi_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_087_carXiaoMi_1.YU7_Unreal_SM_YU7_087_carXiaoMi_1",
+      "visible": true
+    },
+    {
+      "name": "Part_088_carInternal_SteeringWheel_Top_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2.YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2",
+      "visible": true
+    },
+    {
+      "name": "Part_089_carPlastic_MatteBlack_trunk_9",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9.YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9",
+      "visible": true
+    },
+    {
+      "name": "Part_090_carWheelLogoFont_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09",
+      "visible": false
+    },
+    {
+      "name": "Part_091_carTyre_02",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_091_carTyre_02.YU7_Unreal_SM_YU7_091_carTyre_02",
+      "visible": true
+    },
+    {
+      "name": "Part_092_carWheelLogoBase_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_093_carWheelAirVent_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_094_carWheelHub_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_095_carWheelRim_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_096_carWheelLogoFont_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_097_carTyre_02",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_097_carTyre_02.YU7_Unreal_SM_YU7_097_carTyre_02",
+      "visible": true
+    },
+    {
+      "name": "Part_098_carWheelLogoBase_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_099_carWheelAirVent_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_100_carWheelHub_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_101_carWheelRim_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_102_carWheelLogoFont_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_103_carTyre_02",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_103_carTyre_02.YU7_Unreal_SM_YU7_103_carTyre_02",
+      "visible": true
+    },
+    {
+      "name": "Part_104_carWheelLogoBase_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_105_carWheelAirVent_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_106_carWheelHub_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_107_carWheelRim_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_108_carWheelLogoFont_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09.YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_109_carTyre_02",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_109_carTyre_02.YU7_Unreal_SM_YU7_109_carTyre_02",
+      "visible": true
+    },
+    {
+      "name": "Part_110_carWheelLogoBase_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09.YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_111_carWheelAirVent_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09.YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_112_carWheelHub_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09.YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_113_carWheelRim_ACAL09",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09.YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09",
+      "visible": true
+    },
+    {
+      "name": "Part_114_carBrakeDisc_Back_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2.YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2",
+      "visible": true
+    },
+    {
+      "name": "Part_115_carBrakeDisc_Back",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_115_carBrakeDisc_Back.YU7_Unreal_SM_YU7_115_carBrakeDisc_Back",
+      "visible": true
+    },
+    {
+      "name": "Part_116_carCaliper_MainBack",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_116_carCaliper_MainBack.YU7_Unreal_SM_YU7_116_carCaliper_MainBack",
+      "visible": true
+    },
+    {
+      "name": "Part_117_carCaliper_Screw_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_117_carCaliper_Screw_1.YU7_Unreal_SM_YU7_117_carCaliper_Screw_1",
+      "visible": true
+    },
+    {
+      "name": "Part_118_carBrakeDisc_Front_2",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2.YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2",
+      "visible": true
+    },
+    {
+      "name": "Part_119_carBrakeDisc_Front",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_119_carBrakeDisc_Front.YU7_Unreal_SM_YU7_119_carBrakeDisc_Front",
+      "visible": true
+    },
+    {
+      "name": "Part_120_carCaliper_MainFront_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1.YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1",
+      "visible": true
+    },
+    {
+      "name": "Part_121_carCaliper_PartFront_1",
+      "mesh": "/Game/Vehicles/YU7_Prepared/Meshes/YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1.YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1",
+      "visible": true
+    }
+  ],
+  "bps": [
+    {
+      "path": "/Game/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FL.BP_TunnelWheel_FL",
+      "components": [
+        "<Object '/Game/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FL.Default__BP_TunnelWheel_FL_C' (0x000002781E867300) Class 'BP_TunnelWheel_FL_C'>",
+        "<Object '/Game/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FL.BP_TunnelWheel_FL_C:DefaultSceneRoot_GEN_VARIABLE' (0x00000277DEF2B100) Class 'SceneComponent'>",
+        "<Object '/Game/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FL.BP_TunnelWheel_FL_C:Spin_90_GEN_VARIABLE' (0x000002771FCC4600) Class 'StaticMeshComponent'>",
+        "<Object '/Game/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FL.BP_TunnelWheel_FL_C:Spin_90_GEN_VARIABLE' (0x000002771FCC4600) Class 'StaticMeshComponent'>"
+      ]
+    }
+  ],
+  "actors": [
+    "YU7_Tunnel_SurfaceFlow",
+    "YU7_Tunnel_WorldWake"
+  ]
+}

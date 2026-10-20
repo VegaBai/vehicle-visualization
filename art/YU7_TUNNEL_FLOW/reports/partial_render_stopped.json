@@ -1,0 +1,5 @@
+{
+  "cancel_requested": true,
+  "preserve_partial_frames": true,
+  "reason": "Full previs statistics identified camera clipping the tunnel wall at frames 269/287; revise late radius before final delivery."
+}

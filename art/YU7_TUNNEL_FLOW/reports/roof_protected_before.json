@@ -1,0 +1,234 @@
+[
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Blueprints/BP_TunnelArchitecture.uasset",
+    "sha256": "c44dd0f069c5ca668a0e66305666b1f91ca7c3811b29a3e187e796a0026e8a82"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FL.uasset",
+    "sha256": "d501f5057397ea45ec861e6d9cad7573a5a6711f3056efc04281aec51853175b"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_FR.uasset",
+    "sha256": "baf70fece9c0292400bc76feba278f130faf1b4bc93e09de018e7bb0069a0ba8"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_RL.uasset",
+    "sha256": "ec2fa42c3c99769377b98298d9beca6bbda84d83debe041c9250792790bb4aee"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Blueprints/BP_TunnelWheel_RR.uasset",
+    "sha256": "841890048e71aa11bc5497fbf970a05f6a5792bb81a6095678fd0c30d1955625"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow_BeforeRoof_v06.umap",
+    "sha256": "36e9a13cb34d5214e280e1c26ebe6d7537149c8c548817daff904eb18742c99b"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/MPC_TunnelFlow.uasset",
+    "sha256": "7f7f8b62e5f0b2e39fca01445dd355f60db5efe5d0a980264e9be9661d7800ff"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_Debug_ConstantAdditive.uasset",
+    "sha256": "ffa0d8a1e7e2e8ea9eb91a13a076fb2f16c8e1416d2d801c1a20862546889c98"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_Debug_ConstantOpaque.uasset",
+    "sha256": "72c7c599b1d89ff020951f7347b056ff2d87e1109d0cce63a2d2da63ba7734bf"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelCyan.uasset",
+    "sha256": "0efb15826dd512407a3c6f54f541dbb63f5f29bd239b33c95b974be422a2af25"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelGrid.uasset",
+    "sha256": "49ba2634ffe3ef9433844c4714fc05cde24fce7fd0a10726a17506851d423169"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelLane.uasset",
+    "sha256": "91dbd31ac826d8079572806430a99b8dd2ee3929c8fb266cfe31ea64e1be2319"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelRibs.uasset",
+    "sha256": "4588a317ddd8aa8266efa1139a187b054474eec85dc50ac281b2081d8ff753ae"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelRoad.uasset",
+    "sha256": "41a6af3f0a428e8a1c49e4bae2c3702419dff877ab560146a88b571fcfa30ad8"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelStrip.uasset",
+    "sha256": "2f0436fa31da8f2f9b03305382a64ac83eaf9de7cab46ce8ee257afd2c542d7e"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelSurfaceFlow.uasset",
+    "sha256": "ea32e535a920af99c4ad2a0c0ecfba43e8c0a6cc8a64b2330f9e41c6f4cd16f4"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelWall.uasset",
+    "sha256": "00e3a42675077a0fa7cc4ab930e77ea6be48a6cb97129beeaeb40ab4b5a20b9f"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelWorldWake.uasset",
+    "sha256": "bd173dbfecaeb138b745003bc8e09d0d72601aa362341d08712bef01598de536"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03.uasset",
+    "sha256": "37f323fdb129aa50f4464a16d3b355753a6f93b0a5a4814c38cd64b33bb34372"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03.uasset",
+    "sha256": "b3cef5629b038e12e10ff6a89958ce5b05216afde0e0e1f6c0463417095dc8f1"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03.uasset",
+    "sha256": "1ddebfc160f09fe4ddbcfb5f4aa56b9abcf54b8cefdd5b632b146b6ee2d552f1"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01.uasset",
+    "sha256": "efba7751ca2362256503cb64024a19f83e423488ccf7a700febd14374f132cd4"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01.uasset",
+    "sha256": "402d7a1e2a6d77699b41aac47c1b89887bafe456ebe11a5d83a07f5ca521d70f"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_DebugMaterials_v01_163.uasset",
+    "sha256": "8ce8431d25011a09eb2816b2bb006b9ba08ae33af4aef26cff4f139adcd9e535"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_DebugMaterials_v01_228.uasset",
+    "sha256": "9d6679573eed363bbec7a258de902854511ae4d4b17662b316cf0cca7d1041ba"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Final_v05_4K_Motion.uasset",
+    "sha256": "2e4b86fb4b555540e260511aa5fd84a10bb7d0653e23cc91698f44d4a8aac0dc"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Final_v06_4K_Motion.uasset",
+    "sha256": "54a6a6e81e80075cbedb10b4bd44879bcc96de3978c02b4b85f1a110d67d90e4"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v01_163.uasset",
+    "sha256": "c90d475d335ee6e666a153af24498cfc40f42e8e2755d92f92d0f63b3ff10c4b"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v01_228.uasset",
+    "sha256": "8dac9bc2aa2f20224b26803a6d806e65e951d8d7dbb000584a0e4d8fff234201"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v01_24.uasset",
+    "sha256": "5cd286cc79d6e47d6cba81f7721f58cf1048b3357253439f0405ecbdafcc3c1a"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v01_276.uasset",
+    "sha256": "366cf2b95f316b2f0d4972540a0559e5354b5223cfdf3fe0ec9bee1e23007965"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v01_96.uasset",
+    "sha256": "9e7359b6f8e1765d75730503b3af995d07b00989490490689b4c7a530deb84af"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v02_163.uasset",
+    "sha256": "b3dae536973e5ea054e8c9248f7ae40c10adcab12a7f1904c702b7ab1347c851"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v02_228.uasset",
+    "sha256": "cb511a535ac76c695b48303601d632b29777ce930f1aa098ebbefb083f359335"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v02_24.uasset",
+    "sha256": "67279973185c22def1c565cca72b6091f03e53c308868c2c41a5eed24faf973e"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v02_276.uasset",
+    "sha256": "2a3e41201b826286453a59607cb4d679d59fa5050ec27057d80189715fde305c"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v02_96.uasset",
+    "sha256": "bfe19911176363cae4aef9f1d116d1a279b024dfa0d8182c4bfb93edc37e9de4"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v04_228.uasset",
+    "sha256": "a4e1961de461139be1d92a25475dbbb0b9d4426e53530db378d5f640015665fb"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v04_24.uasset",
+    "sha256": "645e8990c47a8bf7432ee9866689eea5e0b9027e6868dba8c208fdee23547f22"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v04_276.uasset",
+    "sha256": "e1ed478ee507f95868c113870f2709b002874acd3028cca2e9f553e562b89130"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v04_96.uasset",
+    "sha256": "4c6d35ba6d2641b38b3e834c8d8ff058b49679b97ec07b77ee70b29d915ad349"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v05_228.uasset",
+    "sha256": "c10606b9de824e69388c73f5b0dcadecbd6975396a4fb1aa15b9cc88ee5bed40"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v05_24.uasset",
+    "sha256": "aad1928c16bc19d31b11fbb478f9e4aa9df813fd3ce64ca9102e44f626141185"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v05_276.uasset",
+    "sha256": "705d939ed049c8e5fa372caa60a70ef59576d1783b9c157ef9e98d63c038dde9"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Keyframes_v05_96.uasset",
+    "sha256": "6c14f233299d5b30df9f8c44e25189fb147f639c2fb8b6534ddf19e411a3e145"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Previs_v03_720p_Motion.uasset",
+    "sha256": "5142f2ade775e13bdce850764c9b082775fa1d495f2a6cb39982ebb4e09b1472"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Previs_v06_1080p_Motion.uasset",
+    "sha256": "147519ddbf6d7b1de855d8a63c427627290f19942ad96482ae506061fa34349b"
+  },
+  {
+    "path": "VehicleStudio/Content/YU7/TunnelFlow/Sequences/LS_YU7_TunnelFlow_12s.uasset",
+    "sha256": "6006e031e854915439e5819041cd3a125e0854b43686cc88e797e3d26acfcb38"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/01_CleanPaint_4K.png",
+    "sha256": "15d2c18dbf080c061f69f1cc49dbaf0bd8e45bccd035e0993b46284e91c7372c"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/02_SurfaceFlow_4K.png",
+    "sha256": "143fe32e6bd558b3056471a2f563554ed1a112a1ae969cff8d2d676aa2ac90e3"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/03_QuadRelay_4K.png",
+    "sha256": "a5a4a15ad21427e5433fd6b049abe65eae3f3caa061a4721bd1c3e38c325a856"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/04_FullBodyAfterglow_4K.png",
+    "sha256": "b9b3eb1583f91ea1c0e64ee86071637d3f7bb3887db70cb7dd8ee4515dd23424"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/05_FadeOut_4K.png",
+    "sha256": "8cb7df4d5d464c6ec915dff9ebe3f101a8ae2c0466b0131a75df967520eb6c4a"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/CREDITS.txt",
+    "sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/Final_v06_4K_12s.mp4",
+    "sha256": "f879ba2de61769c1c0da9bdf98b480e3da5df1ba017ca8140fa534661541e860"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/Previs_v03_720p_12s.mp4",
+    "sha256": "6571af6e3ead58c6978d273b0958ce0bdd06bb0df5632e2290e2250f76cd6598"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/Previs_v06_1080p_12s.mp4",
+    "sha256": "b7393739049540f23c40bde87ad463c9c3f94c59c1d8f8cf462644b493a00046"
+  },
+  {
+    "path": "renders/YU7_TunnelFlow/YU7_TunnelFlow_12s_1080p.mp4",
+    "sha256": "2c1b6ae9c40508717cc8c32333ac817d71fc1f4f3a4438d921e67013b2b7b0ef"
+  }
+]

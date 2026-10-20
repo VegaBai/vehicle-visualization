@@ -1,0 +1,89 @@
+{
+  "environment_blueprint": "/Game/YU7/TunnelFlow/Blueprints/BP_TunnelArchitecture.BP_TunnelArchitecture",
+  "environment_instances": {
+    "Tunnel_Wall": 5,
+    "Tunnel_Ribs": 290,
+    "Tunnel_Road": 1,
+    "Tunnel_Strip": 128,
+    "Tunnel_Cyan": 2,
+    "Tunnel_Lane": 2
+  },
+  "wheels": [
+    {
+      "label": "FL",
+      "actor": "YU7_Tunnel_Wheel_FL",
+      "local_center": [
+        151.0407,
+        83.53,
+        38.2397
+      ],
+      "parts": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95
+      ]
+    },
+    {
+      "label": "RL",
+      "actor": "YU7_Tunnel_Wheel_RL",
+      "local_center": [
+        -148.2971,
+        85.44,
+        38.2397
+      ],
+      "parts": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "label": "RR",
+      "actor": "YU7_Tunnel_Wheel_RR",
+      "local_center": [
+        -148.2971,
+        -85.44,
+        38.2397
+      ],
+      "parts": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "label": "FR",
+      "actor": "YU7_Tunnel_Wheel_FR",
+      "local_center": [
+        151.0407,
+        -83.53,
+        38.2397
+      ],
+      "parts": [
+        108,
+        109,
+        110,
+        111,
+        112,
+        113
+      ]
+    }
+  ],
+  "lights": [
+    "YU7_Tunnel_FrontFill",
+    "YU7_Tunnel_SideFill",
+    "YU7_Tunnel_RoofFill"
+  ],
+  "world_wake_attached": false,
+  "camera": "/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.Studio_YU7_TunnelFlow:PersistentLevel.CineCameraActor_11",
+  "fixed_ev": 8.0
+}

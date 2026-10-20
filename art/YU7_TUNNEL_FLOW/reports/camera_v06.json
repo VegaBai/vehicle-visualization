@@ -1,0 +1,8 @@
+{
+  "late_radius_cm": 930,
+  "max_camera_y_cm": 899.9847866527842,
+  "wall_inner_y_cm": 950,
+  "minimum_clearance_cm": 50.01521334721576,
+  "tested_subframe_samples": 1153,
+  "notes": "Changed only late camera radius; no vehicle/effect/material changes."
+}

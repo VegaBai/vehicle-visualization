@@ -1,0 +1,15 @@
+{
+  "id": "roof06_full_preview",
+  "started": "2026-10-17T23:07:51-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Previs_v07_1080p",
+      "width": 1920,
+      "height": 1080,
+      "spatial": 1,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-10-17T23:07:51-0700"
+}

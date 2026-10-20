@@ -1,0 +1,14 @@
+{
+  "id": "tunnel30_camera",
+  "started": "2026-10-17T22:34:55-0700",
+  "status": "success",
+  "result": {
+    "late_radius_cm": 930,
+    "max_camera_y_cm": 899.9847866527842,
+    "wall_inner_y_cm": 950,
+    "minimum_clearance_cm": 50.01521334721576,
+    "tested_subframe_samples": 1153,
+    "notes": "Changed only late camera radius; no vehicle/effect/material changes."
+  },
+  "finished": "2026-10-17T22:34:55-0700"
+}

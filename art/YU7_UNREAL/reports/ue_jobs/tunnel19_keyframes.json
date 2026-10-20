@@ -1,0 +1,22 @@
+{
+  "id": "tunnel19_keyframes",
+  "started": "2026-10-17T22:22:39-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Keyframes_v02",
+      "width": 1280,
+      "height": 720,
+      "frames": [
+        24,
+        96,
+        163,
+        228,
+        276
+      ],
+      "spatial": 1,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-10-17T22:22:40-0700"
+}

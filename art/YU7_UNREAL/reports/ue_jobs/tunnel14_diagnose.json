@@ -1,0 +1,7 @@
+{
+  "id": "tunnel14_diagnose",
+  "started": "2026-10-17T22:20:15-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_tunnel_diagnose.py\", line 6, in <module>\n    RESULT={'mpc_default':str(mpc.get_scalar_parameter_default_value('ShotTime')),'mpc_runtime':unreal.MaterialEditingLibrary.get_material_default_scalar_parameter_value(unreal.load_asset(D+'/Materials/M_TunnelGrid'),'Brightness'),'mpc_value':unreal.KismetMaterialLibrary.get_scalar_parameter_value(world,mpc,'ShotTime'),'tracks':[],'effects':[],'shader_nodes':[]}\n                                                                                                                                                                                                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAttributeError: module 'unreal' has no attribute 'KismetMaterialLibrary'\n",
+  "finished": "2026-10-17T22:20:15-0700"
+}

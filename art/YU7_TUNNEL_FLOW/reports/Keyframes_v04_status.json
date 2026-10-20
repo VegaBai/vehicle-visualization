@@ -1,0 +1,20 @@
+{
+  "request": {
+    "name": "Keyframes_v04",
+    "width": 1920,
+    "height": 1080,
+    "frames": [
+      24,
+      96,
+      228,
+      276
+    ],
+    "spatial": 1,
+    "temporal": 16
+  },
+  "started": 1792301193.307876,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 29.25186324119568
+}

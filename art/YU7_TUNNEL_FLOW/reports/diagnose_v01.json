@@ -1,0 +1,85 @@
+{
+  "mpc_default": "(0.0, True)",
+  "brightness": 210.0,
+  "mpc_value": 9.5,
+  "tracks": [
+    {
+      "mpc": "<Object '/Game/YU7/TunnelFlow/Materials/MPC_TunnelFlow.MPC_TunnelFlow' (0x00000277D17C1F80) Class 'MaterialParameterCollection'>",
+      "sections": [
+        {
+          "channels": [
+            {
+              "name": "ShotTime",
+              "keys": [
+                {
+                  "time": "<Struct 'FrameTime' (0x00000277F730C560) {frame_number: {value: -48}, sub_frame: 0.000000}>",
+                  "value": -2.0
+                },
+                {
+                  "time": "<Struct 'FrameTime' (0x00000277F7309A40) {frame_number: {value: 0}, sub_frame: 0.000000}>",
+                  "value": 0.0
+                },
+                {
+                  "time": "<Struct 'FrameTime' (0x00000277F73037D0) {frame_number: {value: 288}, sub_frame: 0.000000}>",
+                  "value": 12.0
+                },
+                {
+                  "time": "<Struct 'FrameTime' (0x00000277F730C758) {frame_number: {value: 336}, sub_frame: 0.000000}>",
+                  "value": 14.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "effects": [
+    {
+      "label": "YU7_BodyQuad_Body",
+      "transform": "<Struct 'Transform' (0x000002765FC456E0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -14250.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "mesh": "<Object '/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03' (0x00000277E0FE9000) Class 'StaticMesh'>",
+      "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid' (0x000002790D460E00) Class 'Material'>",
+      "visible": true,
+      "hidden_in_game": false,
+      "bounds": "(<Struct 'Vector' (0x000002765FC728B0) {x: -250.134750, y: -98.102753, z: 30.576378}>, <Struct 'Vector' (0x000002765FC735D0) {x: 249.688919, y: 98.101395, z: 156.223541}>)"
+    },
+    {
+      "label": "YU7_BodyQuad_Mirror_L",
+      "transform": "<Struct 'Transform' (0x000002765FC456E0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -14250.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "mesh": "<Object '/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03' (0x00000277E0FE8000) Class 'StaticMesh'>",
+      "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid' (0x000002790D460E00) Class 'Material'>",
+      "visible": true,
+      "hidden_in_game": false,
+      "bounds": "(<Struct 'Vector' (0x000002765FC735D0) {x: 33.750618, y: -106.322838, z: 109.228874}>, <Struct 'Vector' (0x000002765FC73620) {x: 54.532608, y: -87.406685, z: 124.042580}>)"
+    },
+    {
+      "label": "YU7_BodyQuad_Mirror_R",
+      "transform": "<Struct 'Transform' (0x000002765FC456E0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -14250.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "mesh": "<Object '/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03' (0x00000277E79C9000) Class 'StaticMesh'>",
+      "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid' (0x000002790D460E00) Class 'Material'>",
+      "visible": true,
+      "hidden_in_game": false,
+      "bounds": "(<Struct 'Vector' (0x000002765FC73620) {x: 33.750690, y: 87.406441, z: 109.228966}>, <Struct 'Vector' (0x000002765FC73EE0) {x: 54.532673, y: 106.322693, z: 124.042580}>)"
+    },
+    {
+      "label": "YU7_Tunnel_SurfaceFlow",
+      "transform": "<Struct 'Transform' (0x000002765FC456E0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -14250.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "mesh": "<Object '/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01.YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01' (0x00000277E5CBA800) Class 'StaticMesh'>",
+      "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelSurfaceFlow.M_TunnelSurfaceFlow' (0x00000277B078A800) Class 'Material'>",
+      "visible": true,
+      "hidden_in_game": false,
+      "bounds": "(<Struct 'Vector' (0x000002765FC73EE0) {x: -240.515945, y: -98.000801, z: 56.164528}>, <Struct 'Vector' (0x000002765FC72950) {x: 240.529770, y: 97.999931, z: 109.586510}>)"
+    },
+    {
+      "label": "YU7_Tunnel_WorldWake",
+      "transform": "<Struct 'Transform' (0x000002765FC456E0) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+      "mesh": "<Object '/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01.YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01' (0x00000277E5CB0000) Class 'StaticMesh'>",
+      "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelWorldWake.M_TunnelWorldWake' (0x0000027983C74600) Class 'Material'>",
+      "visible": true,
+      "hidden_in_game": false,
+      "bounds": "(<Struct 'Vector' (0x000002765FC72950) {x: -20500.009766, y: -99.594841, z: 69.275002}>, <Struct 'Vector' (0x000002765FC729F0) {x: 3500.009277, y: 99.596481, z: 113.724991}>)"
+    }
+  ],
+  "shader_nodes": []
+}

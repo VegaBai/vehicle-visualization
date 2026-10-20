@@ -1,0 +1,45 @@
+{
+  "lanes": [
+    {
+      "lane": 0,
+      "y_center": -0.66,
+      "min_clearance_m": 0.33365310981039986
+    },
+    {
+      "lane": 1,
+      "y_center": -0.44,
+      "min_clearance_m": 0.2872453238705477
+    },
+    {
+      "lane": 2,
+      "y_center": -0.22,
+      "min_clearance_m": 0.2195524938245157
+    },
+    {
+      "lane": 3,
+      "y_center": 0.0,
+      "min_clearance_m": 0.1575413536913477
+    },
+    {
+      "lane": 4,
+      "y_center": 0.22,
+      "min_clearance_m": 0.2195527322430948
+    },
+    {
+      "lane": 5,
+      "y_center": 0.44,
+      "min_clearance_m": 0.2872448470333895
+    },
+    {
+      "lane": 6,
+      "y_center": 0.66,
+      "min_clearance_m": 0.33365310981039986
+    }
+  ],
+  "min_clearance_m": 0.1575413536913477,
+  "vertices": 46242,
+  "triangles": 92400,
+  "original_objects_preserved": 121,
+  "profile": "nose, windshield, roof, rear glass, high wake; authored illustrative airflow, not CFD",
+  "uv": "U progresses nose to wake; V lane, inverted on FBX import"
+}

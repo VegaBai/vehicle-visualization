@@ -1,0 +1,13 @@
+{
+  "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_Pulse_v02.M_TunnelRoofAirflow_Pulse_v02",
+  "actor": "YU7_Tunnel_RoofAirflow",
+  "base_glow": 0.007,
+  "brightness": 2200,
+  "pulse_cycles_per_second": 0.68,
+  "breathing_cycles_per_second": 0.36,
+  "WPO_cap_cm": 35,
+  "component_bounds_scale": 1.5,
+  "native_graph_nodes": 161,
+  "geometry_unchanged": true,
+  "minimum_sampled_clearance_m": 0.08124881788071259
+}

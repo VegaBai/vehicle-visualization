@@ -1,0 +1,19 @@
+{
+  "id": "pulse03_apply",
+  "started": "2026-10-19T01:01:42-0700",
+  "status": "success",
+  "result": {
+    "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_Pulse_v02.M_TunnelRoofAirflow_Pulse_v02",
+    "actor": "YU7_Tunnel_RoofAirflow",
+    "base_glow": 0.007,
+    "brightness": 2200,
+    "pulse_cycles_per_second": 0.68,
+    "breathing_cycles_per_second": 0.36,
+    "WPO_cap_cm": 35,
+    "component_bounds_scale": 1.5,
+    "native_graph_nodes": 161,
+    "geometry_unchanged": true,
+    "minimum_sampled_clearance_m": 0.08124881788071259
+  },
+  "finished": "2026-10-19T01:01:45-0700"
+}

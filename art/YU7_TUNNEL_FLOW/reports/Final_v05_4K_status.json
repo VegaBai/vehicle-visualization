@@ -1,0 +1,15 @@
+{
+  "request": {
+    "name": "Final_v05_4K",
+    "width": 3840,
+    "height": 2160,
+    "spatial": 1,
+    "temporal": 16
+  },
+  "started": 1792301395.3200867,
+  "status": "finished",
+  "errors": [],
+  "review_stop_reason": "Full previs statistics identified camera clipping the tunnel wall at frames 269/287; revise late radius before final delivery.",
+  "success": false,
+  "duration_seconds": 291.0353786945343
+}

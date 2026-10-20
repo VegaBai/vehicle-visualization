@@ -1,0 +1,17 @@
+{
+  "request": {
+    "name": "Pulse_Keyframes_v08_4K",
+    "width": 3840,
+    "height": 2160,
+    "temporal": 8,
+    "frames": [
+      96,
+      228
+    ]
+  },
+  "started": 1792397172.3832169,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 66.01930522918701
+}

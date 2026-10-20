@@ -1,0 +1,49 @@
+Input #0, image2, from 'C:\github2\vehicle_visualization\renders\YU7_TunnelFlow\Previs_v08_1080p\Previs_v08_1080p_%04d.png':
+  Duration: 00:00:12.00, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 1920x1080, 24 fps, 24 tbr, 24 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+[libx264 @ 0000027a38806a80] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000027a38806a80] profile High, level 5.0, 4:2:0, 8-bit
+[libx264 @ 0000027a38806a80] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=5 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=8 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=2 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=30 lookahead_threads=5 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=3 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=50 rc=crf mbtree=1 crf=17.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\github2\vehicle_visualization\renders\YU7_TunnelFlow\Previs_v08_1080p_12s.mp4':
+  Metadata:
+    title           : Xiaomi YU7 | Flow into Form | 12 seconds
+    comment         : "2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1920x1080, q=2-31, 24 fps, 12288 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=   14 fps= 14 q=22.0 size=     256KiB time=00:00:00.50 bitrate=4195.1kbits/s speed=0.486x    
+frame=   47 fps= 30 q=22.0 size=    1024KiB time=00:00:01.87 bitrate=4474.1kbits/s speed= 1.2x    
+frame=   82 fps= 40 q=22.0 size=    2048KiB time=00:00:03.33 bitrate=5033.3kbits/s speed=1.61x    
+frame=  113 fps= 44 q=22.0 size=    3328KiB time=00:00:04.62 bitrate=5894.8kbits/s speed=1.79x    
+frame=  145 fps= 47 q=22.0 size=    4352KiB time=00:00:05.95 bitrate=5983.5kbits/s speed=1.93x    
+frame=  183 fps= 50 q=22.0 size=    5888KiB time=00:00:07.54 bitrate=6395.8kbits/s speed=2.08x    
+frame=  221 fps= 53 q=22.0 size=    7680KiB time=N/A bitrate=N/A speed=N/A    
+frame=  267 fps= 57 q=-1.0 size=    9472KiB time=N/A bitrate=N/A speed=N/A    
+[mp4 @ 0000027a38810d80] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000027a38810c80] video:10341KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.044337%
+frame=  288 fps= 60 q=-1.0 Lsize=   10346KiB time=00:00:11.91 bitrate=7112.1kbits/s speed=2.47x    
+[libx264 @ 0000027a38806a80] frame I:2     Avg QP:13.86  size:116380
+[libx264 @ 0000027a38806a80] frame P:73    Avg QP:15.91  size: 63708
+[libx264 @ 0000027a38806a80] frame B:213   Avg QP:18.19  size: 26785
+[libx264 @ 0000027a38806a80] consecutive B-frames:  1.0%  0.7%  1.0% 97.2%
+[libx264 @ 0000027a38806a80] mb I  I16..4: 20.3% 46.5% 33.2%
+[libx264 @ 0000027a38806a80] mb P  I16..4:  6.7%  7.1%  4.4%  P16..4: 43.8% 17.1%  6.9%  0.0%  0.0%    skip:13.9%
+[libx264 @ 0000027a38806a80] mb B  I16..4:  0.7%  0.5%  0.6%  B16..8: 43.9% 11.7%  2.0%  direct: 5.9%  skip:34.9%  L0:46.3% L1:42.0% BI:11.7%
+[libx264 @ 0000027a38806a80] 8x8 transform intra:37.5% inter:55.2%
+[libx264 @ 0000027a38806a80] direct mvs  spatial:92.5% temporal:7.5%
+[libx264 @ 0000027a38806a80] coded y,uvDC,uvAC intra: 43.3% 36.9% 21.8% inter: 18.1% 14.9% 1.8%
+[libx264 @ 0000027a38806a80] i16 v,h,dc,p: 14% 41%  7% 38%
+[libx264 @ 0000027a38806a80] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  7% 17% 22%  7%  8%  5% 12%  6% 16%
+[libx264 @ 0000027a38806a80] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  4% 49% 14%  5%  5%  3%  7%  3% 10%
+[libx264 @ 0000027a38806a80] i8c dc,h,v,p: 41% 49%  6%  4%
+[libx264 @ 0000027a38806a80] Weighted P-Frames: Y:4.1% UV:1.4%
+[libx264 @ 0000027a38806a80] ref P L0: 49.0%  4.1% 18.6% 11.9% 15.6%  0.8%
+[libx264 @ 0000027a38806a80] ref B L0: 75.2% 17.4%  5.5%  1.9%
+[libx264 @ 0000027a38806a80] ref B L1: 93.4%  6.6%
+[libx264 @ 0000027a38806a80] kb/s:7059.11

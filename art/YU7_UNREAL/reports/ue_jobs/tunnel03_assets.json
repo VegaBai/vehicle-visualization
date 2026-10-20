@@ -1,0 +1,7 @@
+{
+  "id": "tunnel03_assets",
+  "started": "2026-10-17T22:14:11-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_tunnel_assets.py\", line 21, in <module>\n    mpc.set_editor_property('scalar_parameters',[unreal.CollectionScalarParameter(parameter_name='ShotTime',default_value=0.)]);E.save_loaded_asset(mpc)\n                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nTypeError: call() takes at most 0 arguments (2 given)\n",
+  "finished": "2026-10-17T22:14:16-0700"
+}

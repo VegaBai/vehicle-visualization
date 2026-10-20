@@ -1,0 +1,82 @@
+{
+  "assets": [
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.umap",
+      "bytes": 414130,
+      "sha256": "0ac42520dd90589614450d4c43ed96d6d323630f988d43c1f531435f16b94e64"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow_BeforePulse_v07.umap",
+      "bytes": 416239,
+      "sha256": "b87376a8ba5121d1777f8db16b643442ab192e0bb40fa9ffadb8519ce842f6e6"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_Pulse_v02.uasset",
+      "bytes": 75301,
+      "sha256": "e2b3a1fa742fa0a24b956b6bf6a295f1510119b9d38633f69a020d3e950a33d0"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Previs_v08_1080p_Motion.uasset",
+      "bytes": 4759,
+      "sha256": "da57a78978272a45536469c7da86f5093e7ab2e511cd57d1d1e6ef24ea9de2b0"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Pulse_Keyframes_v08_1080p_108.uasset",
+      "bytes": 4853,
+      "sha256": "ccb25715f0f31c4dec36b535c6b8e1048b693bb34c54faaef30cffca413a31e3"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Pulse_Keyframes_v08_1080p_228.uasset",
+      "bytes": 4853,
+      "sha256": "44fe3ae9f5777376afcbab7309fafc6a42adb7fbb31bf3fb9c656cdc493b1cb9"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Pulse_Keyframes_v08_1080p_96.uasset",
+      "bytes": 4850,
+      "sha256": "19f267828a4b32d6a3bc20f694f7b5014ed3e13f0c88b2c9df6b285fe3a49bbe"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Pulse_Keyframes_v08_4K_228.uasset",
+      "bytes": 4931,
+      "sha256": "af0c770092fb48e4a124019775e5e83c0fd7a616787892399876a2869865daca"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RenderPresets/MRQ_Pulse_Keyframes_v08_4K_96.uasset",
+      "bytes": 4928,
+      "sha256": "7e1aa413364f7fc4b1e7a70ec1ec1e58a995e9caea48b76e46cbbf5042182885"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/Previs_v08_1080p_12s.mp4",
+      "bytes": 10594049,
+      "sha256": "dac38efecf6c70796e842b1ac5f3c803639cc0f3c68cb4d62bbfa2b6c7f338b4"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/CREDITS.txt",
+      "bytes": 169,
+      "sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofPulse_v08_4K.png",
+      "bytes": 7476106,
+      "sha256": "8a45f3af499d236deb9b70058b5ffb72999be0f269341da060d287424ec1afde"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofPulseFullBody_v08_4K.png",
+      "bytes": 7379982,
+      "sha256": "3f6873831675ca7d79ef1299cc8dac4bbefec7a9ed275f695f4693651c4e90d8"
+    }
+  ],
+  "full_video": "Previs_v08_1080p_12s.mp4",
+  "full_video_resolution": [
+    1920,
+    1080
+  ],
+  "frames": 288,
+  "fps": 24,
+  "native_4K_stills": 2,
+  "v07_protected_unchanged": 71,
+  "v08_full_4K_movie": "Not rendered; Final_v06_4K_12s.mp4 remains the earlier version",
+  "audio": "Silent",
+  "credits_exact": true,
+  "motion": "MPC ShotTime brightness packets and native WPO vertical/lateral waves; illustrative, not CFD"
+}

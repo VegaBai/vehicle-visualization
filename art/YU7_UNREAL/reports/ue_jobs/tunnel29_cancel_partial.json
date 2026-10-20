@@ -1,0 +1,11 @@
+{
+  "id": "tunnel29_cancel_partial",
+  "started": "2026-10-17T22:34:45-0700",
+  "status": "success",
+  "result": {
+    "cancel_requested": true,
+    "preserve_partial_frames": true,
+    "reason": "Full previs statistics identified camera clipping the tunnel wall at frames 269/287; revise late radius before final delivery."
+  },
+  "finished": "2026-10-17T22:34:46-0700"
+}

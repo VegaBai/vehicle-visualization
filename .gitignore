@@ -36,6 +36,9 @@ venv/
 # Reproducible MRQ intermediates; retain the final PNG/EXR/MP4 and their credits.
 /renders/**/frames/
 /renders/**/still/
+/renders/YU7_TunnelFlow/Final_*_4K/
+/renders/YU7_TunnelFlow/Previs_*_720p/
+/renders/YU7_TunnelFlow/Previs_*_1080p/
 
 # Local environment files and OS metadata.
 .env

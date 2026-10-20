@@ -1,0 +1,20 @@
+{
+  "id": "roof03_keyframes",
+  "started": "2026-10-17T23:04:43-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Roof_Keyframes_v07_1080p",
+      "width": 1920,
+      "height": 1080,
+      "spatial": 1,
+      "temporal": 8,
+      "frames": [
+        24,
+        96,
+        228
+      ]
+    }
+  },
+  "finished": "2026-10-17T23:04:43-0700"
+}

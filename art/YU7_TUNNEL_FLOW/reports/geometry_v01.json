@@ -1,0 +1,88 @@
+{
+  "source_objects": 121,
+  "grid": [
+    {
+      "name": "SM_TunnelGrid_Body_v03",
+      "vertices": 46200,
+      "polygons": 44636,
+      "same_positions_as": "SM_BodyLines_Body_v03"
+    },
+    {
+      "name": "SM_TunnelGrid_Mirror_L_v03",
+      "vertices": 2334,
+      "polygons": 2194,
+      "same_positions_as": "SM_BodyLines_Mirror_L_v03"
+    },
+    {
+      "name": "SM_TunnelGrid_Mirror_R_v03",
+      "vertices": 2346,
+      "polygons": 2206,
+      "same_positions_as": "SM_BodyLines_Mirror_R_v03"
+    }
+  ],
+  "paths": [
+    {
+      "side": -1,
+      "lane": 0,
+      "segments": 2,
+      "length_m": 4.845847504811523
+    },
+    {
+      "side": -1,
+      "lane": 1,
+      "segments": 4,
+      "length_m": 5.066575764814745
+    },
+    {
+      "side": -1,
+      "lane": 2,
+      "segments": 1,
+      "length_m": 1.4526428695990072
+    },
+    {
+      "side": 1,
+      "lane": 0,
+      "segments": 2,
+      "length_m": 4.844972327858473
+    },
+    {
+      "side": 1,
+      "lane": 1,
+      "segments": 4,
+      "length_m": 5.064347077191481
+    },
+    {
+      "side": 1,
+      "lane": 2,
+      "segments": 1,
+      "length_m": 1.4526441976079967
+    }
+  ],
+  "outputs": [
+    {
+      "name": "SM_TunnelGrid_Body_v03",
+      "vertices": 46200,
+      "faces": 44636
+    },
+    {
+      "name": "SM_TunnelGrid_Mirror_L_v03",
+      "vertices": 2334,
+      "faces": 2194
+    },
+    {
+      "name": "SM_TunnelGrid_Mirror_R_v03",
+      "vertices": 2346,
+      "faces": 2206
+    },
+    {
+      "name": "SM_TunnelSurfaceFlow_v01",
+      "vertices": 30924,
+      "faces": 30840
+    },
+    {
+      "name": "SM_TunnelWorldWake_v01",
+      "vertices": 134484,
+      "faces": 134400
+    }
+  ]
+}

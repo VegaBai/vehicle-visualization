@@ -1,0 +1,15 @@
+{
+  "id": "tunnel20_refine",
+  "started": "2026-10-17T22:24:06-0700",
+  "status": "success",
+  "result": {
+    "grid_brightness": 850,
+    "grid_afterglow": 0.15,
+    "surface_brightness": 2200,
+    "wake_brightness": 900,
+    "rear_peak_hold": "9.0-9.6s; fade peak to 10.2s",
+    "flow_lane_fix": "Account for FBX V flip, phase variation only 0.02",
+    "note": "Based on v02 native frames, before full-length motion review."
+  },
+  "finished": "2026-10-17T22:24:12-0700"
+}

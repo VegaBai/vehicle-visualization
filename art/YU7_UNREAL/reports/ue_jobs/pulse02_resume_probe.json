@@ -1,0 +1,15 @@
+{
+  "id": "pulse02_resume_probe",
+  "started": "2026-10-19T01:01:35-0700",
+  "status": "success",
+  "result": {
+    "world": "/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.Studio_YU7_TunnelFlow",
+    "rendering": false,
+    "dirty_maps": [],
+    "dirty_content": [],
+    "roof_material": "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_v01.M_TunnelRoofAirflow_v01",
+    "backup_exists": true,
+    "new_material_exists": false
+  },
+  "finished": "2026-10-19T01:01:36-0700"
+}

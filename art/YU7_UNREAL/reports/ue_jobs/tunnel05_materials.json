@@ -1,0 +1,7 @@
+{
+  "id": "tunnel05_materials",
+  "started": "2026-10-17T22:15:45-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_tunnel_assets_resume.py\", line 9, in <module>\n    exec(compile(code,'ue_tunnel_assets_resume_body','exec'))\n  File \"ue_tunnel_assets_resume_body\", line 40, in <module>\n  File \"ue_tunnel_assets_resume_body\", line 37, in uv\n  File \"ue_tunnel_assets_resume_body\", line 17, in link\nAssertionError: ('MaterialExpressionComponentMask_0', 'Input')\n",
+  "finished": "2026-10-17T22:15:46-0700"
+}

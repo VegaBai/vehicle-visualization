@@ -1,0 +1,5 @@
+{
+  "materials": "Three native unlit masked graphs; energy drives opacity mask, clip=.008; inactive area discarded",
+  "debug_materials_unassigned": true,
+  "scan_light_factor": 0.22
+}

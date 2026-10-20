@@ -1,0 +1,19 @@
+{
+  "id": "pulse04_keyframes",
+  "started": "2026-10-19T01:02:02-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Pulse_Keyframes_v08_1080p",
+      "width": 1920,
+      "height": 1080,
+      "temporal": 8,
+      "frames": [
+        96,
+        108,
+        228
+      ]
+    }
+  },
+  "finished": "2026-10-19T01:02:03-0700"
+}

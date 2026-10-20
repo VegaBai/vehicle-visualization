@@ -1,0 +1,11 @@
+{
+  "id": "tunnel18_masked",
+  "started": "2026-10-17T22:22:29-0700",
+  "status": "success",
+  "result": {
+    "materials": "Three native unlit masked graphs; energy drives opacity mask, clip=.008; inactive area discarded",
+    "debug_materials_unassigned": true,
+    "scan_light_factor": 0.22
+  },
+  "finished": "2026-10-17T22:22:35-0700"
+}

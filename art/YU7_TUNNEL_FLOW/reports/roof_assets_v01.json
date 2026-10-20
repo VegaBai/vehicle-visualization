@@ -1,0 +1,10 @@
+{
+  "mesh": "/Game/YU7/TunnelFlow/Meshes/RoofAirflow_v01/YU7_RoofAirflow_v01.YU7_RoofAirflow_v01",
+  "triangles": 92400,
+  "material": "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_v01.M_TunnelRoofAirflow_v01",
+  "blueprint": "/Game/YU7/TunnelFlow/Blueprints/BP_TunnelRoofAirflow_v01",
+  "actor": "YU7_Tunnel_RoofAirflow",
+  "parent": "YU7_Hero",
+  "timing": "1.4s reveal nose to high wake; 10.15-11.55s fade; continuous rearward highlights",
+  "native_runtime": true
+}

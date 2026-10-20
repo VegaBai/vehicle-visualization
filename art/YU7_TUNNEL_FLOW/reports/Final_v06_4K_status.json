@@ -1,0 +1,14 @@
+{
+  "request": {
+    "name": "Final_v06_4K",
+    "width": 3840,
+    "height": 2160,
+    "spatial": 1,
+    "temporal": 8
+  },
+  "started": 1792302121.8445961,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 800.3586792945862
+}

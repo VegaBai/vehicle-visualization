@@ -1,0 +1,26 @@
+{
+  "id": "pulse01_prepare",
+  "started": "2026-10-18T01:50:10-0700",
+  "status": "success",
+  "result": {
+    "backup": "/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow_BeforePulse_v07",
+    "protected_files": 71,
+    "transform_source_enum": [
+      "TRANSFORMSOURCE_CAMERA",
+      "TRANSFORMSOURCE_INSTANCE",
+      "TRANSFORMSOURCE_LOCAL",
+      "TRANSFORMSOURCE_TANGENT",
+      "TRANSFORMSOURCE_VIEW",
+      "TRANSFORMSOURCE_WORLD"
+    ],
+    "transform_target_enum": [
+      "TRANSFORM_CAMERA",
+      "TRANSFORM_INSTANCE",
+      "TRANSFORM_LOCAL",
+      "TRANSFORM_TANGENT",
+      "TRANSFORM_VIEW",
+      "TRANSFORM_WORLD"
+    ]
+  },
+  "finished": "2026-10-18T01:50:10-0700"
+}

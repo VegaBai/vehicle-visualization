@@ -1,0 +1,39 @@
+{
+  "meshes": [
+    {
+      "path": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03",
+      "triangles": 90836
+    },
+    {
+      "path": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03",
+      "triangles": 4528
+    },
+    {
+      "path": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03",
+      "triangles": 4552
+    },
+    {
+      "path": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01.YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01",
+      "triangles": 61680
+    },
+    {
+      "path": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01.YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01",
+      "triangles": 268800
+    }
+  ],
+  "materials": [
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelCyan.M_TunnelCyan",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelGrid.M_TunnelGrid",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelLane.M_TunnelLane",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelRibs.M_TunnelRibs",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelRoad.M_TunnelRoad",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelStrip.M_TunnelStrip",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelSurfaceFlow.M_TunnelSurfaceFlow",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelWall.M_TunnelWall",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelWorldWake.M_TunnelWorldWake",
+    "/Game/YU7/TunnelFlow/Materials/MPC_TunnelFlow.MPC_TunnelFlow"
+  ],
+  "mpc": "/Game/YU7/TunnelFlow/Materials/MPC_TunnelFlow",
+  "native_material_nodes": true,
+  "note": "All assets saved; previous job failed only serializing Unreal Array in final report."
+}

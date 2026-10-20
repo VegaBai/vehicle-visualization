@@ -1,0 +1,18 @@
+{
+  "request": {
+    "name": "Roof_Keyframes_v07_4K",
+    "width": 3840,
+    "height": 2160,
+    "spatial": 1,
+    "temporal": 8,
+    "frames": [
+      96,
+      228
+    ]
+  },
+  "started": 1792303589.382426,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 63.33313965797424
+}

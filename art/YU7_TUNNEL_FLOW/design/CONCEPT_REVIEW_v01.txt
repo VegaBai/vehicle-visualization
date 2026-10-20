@@ -1,0 +1,25 @@
+2026-10-17 · AI storyboard review
+
+Built-in imagegen was used with the existing native UE front-quarter render
+as vehicle identity/paint reference. Prompt: storyboard_prompt_v01.txt.
+Selected output: storyboard_v01.png, copied non-destructively into this project.
+
+Visually reviewed: four readable frames at 01.0 / 04.0 / 06.8 / 09.5 s; mineral
+teal vehicle, graphite tunnel, consistent forward direction, curved body light
+paths, rearward wake, localized grid activation and bright rear release.
+The concept communicates the intended look and order of effects.
+
+Illustration limitations to resolve in the actual shot:
+- Generated lattice is denser than the accepted UE v03 sparse quad geometry.
+  Use the EXISTING authored v03 overlay in UE, not this raster as a mesh source.
+- Some fine grid-like lines remain on mirror shells / nose in early frames.
+  Actual reveal must be entirely invisible before its cue, including mirrors.
+- The generated road is wetter/glossier than the intended dark satin surface.
+  Final road should keep softer reflections and clear tyre contact.
+- The late frame only approximates the planned camera arc. The finished shot
+  must keep continuous same-side motion and end slightly behind the vehicle.
+- Generated vehicle details and line connectivity are not pixel-accurate.
+  This image is concept art, not engine output or topology validation.
+
+SHOT_DESIGN_v01.txt is the timing/behavior specification if the concept image
+differs. No Unreal tunnel, effect material or animation was created this turn.

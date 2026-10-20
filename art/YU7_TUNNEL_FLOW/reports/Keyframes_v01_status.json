@@ -1,0 +1,21 @@
+{
+  "request": {
+    "name": "Keyframes_v01",
+    "width": 1280,
+    "height": 720,
+    "frames": [
+      24,
+      96,
+      163,
+      228,
+      276
+    ],
+    "spatial": 1,
+    "temporal": 8
+  },
+  "started": 1792300745.7415533,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 13.767608642578125
+}

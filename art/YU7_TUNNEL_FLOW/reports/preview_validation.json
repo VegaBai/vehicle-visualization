@@ -1,0 +1,13 @@
+{
+  "path": "C:\\github2\\vehicle_visualization\\renders\\YU7_TunnelFlow\\YU7_TunnelFlow_12s_1080p.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 288,
+  "fps": 24,
+  "duration": 12,
+  "complete_decode": true,
+  "sha256": "2c1b6ae9c40508717cc8c32333ac817d71fc1f4f3a4438d921e67013b2b7b0ef",
+  "operation": "Lanczos downscale of native UE master, H.264 viewing copy; no AI or compositing."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "tunnel24_postprobe",
+  "started": "2026-10-17T22:27:44-0700",
+  "status": "success",
+  "result": {
+    "multi_disabled": false,
+    "bloom_quality": 5,
+    "show_bloom": 2,
+    "post_enabled": true,
+    "post_blend": 1.0,
+    "camera_blend": 1.0,
+    "camera_bloom_override": false,
+    "component_materials": [
+      {
+        "name": "Tunnel_Wall",
+        "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelWall.M_TunnelWall' (0x00000278BA756200) Class 'Material'>",
+        "count": 5
+      },
+      {
+        "name": "Tunnel_Ribs",
+        "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelRibs.M_TunnelRibs' (0x000002790D46A800) Class 'Material'>",
+        "count": 290
+      },
+      {
+        "name": "Tunnel_Road",
+        "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelRoad.M_TunnelRoad' (0x00000277B0783800) Class 'Material'>",
+        "count": 1
+      },
+      {
+        "name": "Tunnel_Strip",
+        "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelStrip.M_TunnelStrip' (0x00000277DF19D200) Class 'Material'>",
+        "count": 128
+      },
+      {
+        "name": "Tunnel_Cyan",
+        "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelCyan.M_TunnelCyan' (0x00000277DEC65400) Class 'Material'>",
+        "count": 2
+      },
+      {
+        "name": "Tunnel_Lane",
+        "material": "<Object '/Game/YU7/TunnelFlow/Materials/M_TunnelLane.M_TunnelLane' (0x00000277CFC34600) Class 'Material'>",
+        "count": 2
+      }
+    ]
+  },
+  "finished": "2026-10-17T22:27:44-0700"
+}

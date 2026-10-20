@@ -1,0 +1,18 @@
+{
+  "request": {
+    "name": "Pulse_Keyframes_v08_1080p",
+    "width": 1920,
+    "height": 1080,
+    "temporal": 8,
+    "frames": [
+      96,
+      108,
+      228
+    ]
+  },
+  "started": 1792396923.1565838,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 29.967435836791992
+}

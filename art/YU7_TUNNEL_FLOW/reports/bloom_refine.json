@@ -1,0 +1,11 @@
+{
+  "bloom_tints_before": {
+    "bloom1_tint": "<Struct 'LinearColor' (0x00000277CEE5E800) {r: 0.346500, g: 0.346500, b: 0.346500, a: 1.000000}>",
+    "bloom2_tint": "<Struct 'LinearColor' (0x00000277CEE5E810) {r: 0.138000, g: 0.138000, b: 0.138000, a: 1.000000}>",
+    "bloom3_tint": "<Struct 'LinearColor' (0x00000277CEE5E820) {r: 0.117600, g: 0.117600, b: 0.117600, a: 1.000000}>",
+    "bloom4_tint": "<Struct 'LinearColor' (0x00000277CEE5E830) {r: 0.066000, g: 0.066000, b: 0.066000, a: 1.000000}>",
+    "bloom5_tint": "<Struct 'LinearColor' (0x00000277CEE5E840) {r: 0.066000, g: 0.066000, b: 0.066000, a: 1.000000}>",
+    "bloom6_tint": "<Struct 'LinearColor' (0x00000277CEE5E850) {r: 0.061000, g: 0.061000, b: 0.061000, a: 1.000000}>"
+  },
+  "lane_geometry": "Hidden black strips seen in v04; use continuous asphalt and wall LEDs as road guides."
+}
