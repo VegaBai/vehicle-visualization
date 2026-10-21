@@ -1,0 +1,34 @@
+{
+  "publication_commit": "f1477fb5fce1a9a2bee54e1353223738485fd077",
+  "verified_at": "2026-10-21T02:52:45.444262-07:00",
+  "media": [
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_Labeled_18s.mp4",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "content_length": 26351735
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_18s.mp4",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "content_length": 26290744
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Previs_r03_1080p_Labeled_18s.mp4",
+      "status": 200,
+      "content_type": "application/octet-stream",
+      "content_length": 8471349
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_FinishComparison.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": 453696
+    }
+  ],
+  "readme_html_status": 200,
+  "readme_has_v11_image_and_video_links": true,
+  "previous_five_second_link_preserved": true,
+  "scope": "Remote HTTP headers and GitHub-rendered README HTML verified. Not an embedded-video playback test."
+}

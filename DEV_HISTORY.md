@@ -598,3 +598,7 @@
 - 本轮只更新文档并发布既有制作成果，不重跑UE创建脚本或重渲。当前main上的待提交修改/新增均为v11相关；下一步核对交付清单、历史保护、署名、暂存范围和LFS，再提交推送。尚未标记远端完成。
 - git fetch后本地HEAD与origin/main均为dcb67cd，0 ahead / 0 behind，初始暂存区为空。交付manifest的37项（4视频/9精选帧/24UE资产）SHA256全部一致；708项历史保护哈希和原文署名sidecar一致。164项新制作文件约174.7MiB，64项候选文本常见凭据签名无匹配，33个JSON与16个Python工具解析通过；本轮只做发布完整性检查，不冒称重新UE运行或打包验收。完整Previs/Final原始帧忽略规则抽查通过。
 - 暂存范围核对为170文件，其中100项LFS指针，逻辑总量约174.8MiB；最大普通Git对象338,911 bytes。无原始完整帧序列、UE缓存或本地依赖混入。首轮git diff --cached --check发现10份原始日志、api_probe.txt原生文档转储及3个脚本EOF空行；仅移除3处脚本多余空行，保留诊断证据，不改变运行逻辑。下一步复核排除原始诊断后的文本差异、提交与LFS上传。
+
+- 排除10份原始日志及api_probe.txt诊断转储后的全部暂存文本差异检查通过。制作成果提交f1477fb5fce1a9a2bee54e1353223738485fd077（Publish v11 finish showcase and update README with 18-second video）已推送origin/main；170个文件，100个LFS文件、约182MB上传完成。git lfs fsck返回OK，上传后git lfs push --dry-run无待上传对象。
+- git ls-remote核实远端main与制作成果提交一致。GitHub README HTML实际包含新对照图和三份视频链接，原5秒链接仍在。三份视频及对照图均HTTP 200，远端长度与本地一致（26,351,735 / 26,290,744 / 8,471,349 / 453,696 bytes）。MP4响应为application/octet-stream，链接可能下载；未声称README内嵌播放已验证。证据写入reports/finish_v11/publication_remote_verification.json。
+- 成果推送后的工作区曾核实为空；随后只追加本条真实发布记录及远端检查报告，将以纯记录提交同步，不重写制作成果提交。原始逐帧序列继续留在本地且未删除；本轮未重渲或修改UE资产。
