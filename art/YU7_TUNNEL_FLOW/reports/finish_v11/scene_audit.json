@@ -1,0 +1,306 @@
+{
+  "map": "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11",
+  "saved_reload_verified": true,
+  "original_unique_visible_meshes": 121,
+  "paint_assignments": [
+    [
+      "YU7_VP_006_carPaint_2",
+      "StaticMeshComponent0",
+      1
+    ],
+    [
+      "YU7_VP_028_carPaint_10",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_038_carPaint_4_1_",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_040_carPaint_2_1_",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_045_carPaint_13",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_058_carPaint_4",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_060_carPaint_1",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_068_carPaint_9",
+      "StaticMeshComponent0",
+      0
+    ],
+    [
+      "YU7_VP_079_carPaint_8",
+      "StaticMeshComponent0",
+      0
+    ]
+  ],
+  "effects": [
+    {
+      "actor": "YU7_BodyQuad_Body",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelGrid_AD_v09.M_TunnelGrid_AD_v09",
+      "triangles": 90836
+    },
+    {
+      "actor": "YU7_BodyQuad_Mirror_L",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelGrid_AD_v09.M_TunnelGrid_AD_v09",
+      "triangles": 4528
+    },
+    {
+      "actor": "YU7_BodyQuad_Mirror_R",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03.YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelGrid_AD_v09.M_TunnelGrid_AD_v09",
+      "triangles": 4552
+    },
+    {
+      "actor": "YU7_Tunnel_SurfaceFlow",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01.YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelSurfaceFlow_AD_v09.M_TunnelSurfaceFlow_AD_v09",
+      "triangles": 61680
+    },
+    {
+      "actor": "YU7_Tunnel_WorldWake",
+      "mesh": "/Game/YU7/TunnelFlow/Meshes/YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01.YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelWorldWake_AD_v09.M_TunnelWorldWake_AD_v09",
+      "triangles": 268800
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane0.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane0",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane1.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane1",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane2.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane2",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane3.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane3",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane4.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane4",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane5.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane5",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    },
+    {
+      "actor": "YU7_Tunnel_RoofAirflow",
+      "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane6.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane6",
+      "material": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+      "triangles": 13200
+    }
+  ],
+  "bindings": [
+    {
+      "name": "LightComponent0",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_1.LightComponent0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_RR",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_RR_C_0"
+      ]
+    },
+    {
+      "name": "CAM_YU7_TunnelFlow",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.CineCameraActor_11"
+      ]
+    },
+    {
+      "name": "LightComponent0",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_0.LightComponent0"
+      ]
+    },
+    {
+      "name": "LightComponent0",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.RectLight_12.LightComponent0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_RL",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_RL_C_0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_FR",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_FR_C_0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_FL",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_FL_C_0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_ScanLight_L",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_1"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_ScanLight_R",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_0"
+      ]
+    },
+    {
+      "name": "YU7_Hero",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_YU7_C_0"
+      ]
+    },
+    {
+      "name": "YU7_AD_ShapingKey",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.RectLight_12"
+      ]
+    }
+  ],
+  "protected_unchanged": 708,
+  "dirty_maps": [],
+  "dirty_content": [],
+  "fps": 24,
+  "frames": 432,
+  "native_finish_samples": [
+    {
+      "frame": 0,
+      "name": "Grey Blue | Gloss Wrap",
+      "pigment": [
+        0.18000000715255737,
+        0.27000001072883606,
+        0.3400000035762787
+      ],
+      "scalars": {
+        "Metallic": 0.03999999910593033,
+        "BaseRoughness": 0.23000000417232513,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.04500000178813934
+      },
+      "source_seconds": 0.0
+    },
+    {
+      "frame": 30,
+      "name": "Ice Blue | Metallic Paint",
+      "pigment": [
+        0.11999999731779099,
+        0.23000000417232513,
+        0.3199999928474426
+      ],
+      "scalars": {
+        "Metallic": 0.7799999713897705,
+        "BaseRoughness": 0.23999999463558197,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.08500000089406967
+      },
+      "source_seconds": 0.1785714328289032
+    },
+    {
+      "frame": 60,
+      "name": "Opal White | Pearlescent Paint",
+      "pigment": [
+        0.550000011920929,
+        0.5699999928474426,
+        0.5899999737739563
+      ],
+      "scalars": {
+        "Metallic": 0.20000000298023224,
+        "BaseRoughness": 0.28999999165534973,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.09000000357627869
+      },
+      "source_seconds": 0.3571428656578064
+    },
+    {
+      "frame": 90,
+      "name": "Graphite Grey | Matte Wrap",
+      "pigment": [
+        0.0949999988079071,
+        0.11500000208616257,
+        0.12999999523162842
+      ],
+      "scalars": {
+        "Metallic": 0.029999999329447746,
+        "BaseRoughness": 0.6200000047683716,
+        "ClearCoat": 0.029999999329447746,
+        "CoatRoughness": 0.47999998927116394
+      },
+      "source_seconds": 0.5357142686843872
+    },
+    {
+      "frame": 120,
+      "name": "Porcelain Grey | Ceramic Gloss",
+      "pigment": [
+        0.23999999463558197,
+        0.2549999952316284,
+        0.27000001072883606
+      ],
+      "scalars": {
+        "Metallic": 0.019999999552965164,
+        "BaseRoughness": 0.20000000298023224,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.02800000086426735
+      },
+      "source_seconds": 0.7142857313156128
+    },
+    {
+      "frame": 156,
+      "name": "Mineral Teal | Original Finish",
+      "pigment": [
+        0.028999999165534973,
+        0.1120000034570694,
+        0.11999999731779099
+      ],
+      "scalars": {
+        "Metallic": 0.3199999928474426,
+        "BaseRoughness": 0.3199999928474426,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.0949999988079071
+      },
+      "source_seconds": 0.9520089030265808
+    }
+  ],
+  "credits_metadata_exact": true,
+  "runtime": "Native Blueprint, Sequencer and material nodes; no runtime Python/C++.",
+  "packaged_runtime_tested": false
+}

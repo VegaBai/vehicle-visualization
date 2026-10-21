@@ -1,0 +1,28 @@
+{
+  "previs_covered_frames": 432,
+  "final_covered_frames": 432,
+  "previs_evidence": "18 every-frame contact sheets for Previs_r03_1080p, all viewed, plus nine full-frame keyframes.",
+  "observed": [
+    "Five synchronized body finishes with eased transitions.",
+    "Matte bonnet loses sharp clear-coat highlights; grey ceramic gloss restores them.",
+    "Original mineral teal resumes at frame156 before the effects.",
+    "Roof lines remain smooth, full rear-door quad completes, frame408 onward has no effects.",
+    "All five bilingual label plateaus and label exit were checked from decoded video frames."
+  ],
+  "limits": [
+    "No claim of realtime player viewing or user aesthetic acceptance.",
+    "Pearlescent appearance is art directed, not spectral simulation.",
+    "Subtle microflakes are not independently resolved as a macro showcase."
+  ],
+  "final_status": "Complete native frame review and encoded title review.",
+  "final_evidence": "All18 Final_r04_4K every-frame contact sheets covering0-431 actually viewed; native full-frame keyframes12/42/72/102/138/180/310/366/431 and six-finish comparison viewed.",
+  "final_observed": [
+    "All five finish plateaus and transitions render synchronously across the visible painted panels.",
+    "Matte has broad diffuse reflections while ceramic-gloss restores sharp highlights.",
+    "Mineral teal resumes at frame156. Retimed car/camera/effects show continuous sampled movement.",
+    "Original smooth v10 roof curves retained; full rear-door quad visible.",
+    "Effects fade by frame408; all final24frames show the clean vehicle.",
+    "All five bilingual titles match the finish plateaus, remain below the car and disappear before the flow showcase."
+  ],
+  "final_title_evidence": "Six frames12/42/72/102/138/180 decoded from the labeled4K MP4; contact sheet actually viewed, all5labels and their exit checked."
+}

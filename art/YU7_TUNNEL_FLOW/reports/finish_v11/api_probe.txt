@@ -1,0 +1,93 @@
+Exposes a Sequencer double type key to Python/Blueprints.
+Stores a reference to the data so changes to this class are forwarded onto the underlying data structures.
+
+**C++ Source:**
+
+- **Plugin**: SequencerScripting
+- **Module**: SequencerScripting
+- **File**: MovieSceneScriptingDouble.h
+
+
+Exposes a Sequencer float type key to Python/Blueprints.
+Stores a reference to the data so changes to this class are forwarded onto the underlying data structures.
+
+**C++ Source:**
+
+- **Plugin**: SequencerScripting
+- **Module**: SequencerScripting
+- **File**: MovieSceneScriptingFloat.h
+
+
+A single movie scene section which can contain data for multiple named parameters.
+
+**C++ Source:**
+
+- **Module**: MovieSceneTracks
+- **File**: MovieSceneParameterSection.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``color_tint`` (Color):  [Read-Write] The color tint for this section
+- ``condition_container`` (MovieSceneConditionContainer):  [Read-Write] Optional dynamic condition for whether this section evaluates at runtime.
+- ``decorations`` (MovieSceneDecorationContainer):  [Read-Write] Array of decorations for this movie scene
+- ``easing`` (MovieSceneEasingSettings):  [Read-Write]
+- ``eval_options`` (MovieSceneSectionEvalOptions):  [Read-Write]
+- ``is_active`` (bool):  [Read-Write] Toggle whether this section is active/inactive
+- ``is_locked`` (bool):  [Read-Write] Toggle whether this section is locked/unlocked
+- ``post_roll_frames`` (FrameNumber):  [Read-Write] The amount of time to continue 'postrolling' this section for after evaluation has ended.
+- ``pre_roll_frames`` (FrameNumber):  [Read-Write] The amount of time to prepare this section for evaluation before it actually starts.
+- ``section_range`` (MovieSceneFrameRange):  [Read-Write] The range in which this section is active
+- ``timecode_source`` (MovieSceneTimecodeSource):  [Read-Write] The timecode at which this movie scene section is based (ie. when it was recorded)
+
+Material Expression Noise
+
+**C++ Source:**
+
+- **Module**: Engine
+- **File**: MaterialExpressionNoise.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``desc`` (str):  [Read-Write] A description that level designers can add (shows in the material editor UI).
+- ``level_scale`` (float):  [Read-Write] usually 2 but higher values allow efficient use of few levels
+- ``levels`` (int32):  [Read-Write] 1 = fast but little detail, .. larger numbers cost more performance
+- ``material_expression_editor_x`` (int32):  [Read-Write]
+- ``material_expression_editor_y`` (int32):  [Read-Write]
+- ``noise_function`` (NoiseFunction):  [Read-Write] Noise function, affects performance and look
+- ``output_max`` (float):  [Read-Write]
+- ``output_min`` (float):  [Read-Write]
+- ``quality`` (int32):  [Read-Write] Lower numbers are faster and lower quality, higher numbers are slower and higher quality
+- ``repeat_size`` (uint32):  [Read-Write] How many units in each tile (if Tiling is on)
+- ``scale`` (float):  [Read-Write] can also be done with a multiply on the Position
+- ``tiling`` (bool):  [Read-Write] Whether to use tiling noise pattern, useful for baking to seam-free repeating textures
+- ``turbulence`` (bool):  [Read-Write] How multiple frequencies are getting combined
+- ``world_position_origin_type`` (PositionOrigin):  [Read-Write] Defines the reference space for the Position input.
+
+Material Expression Collection Parameter
+
+**C++ Source:**
+
+- **Module**: Engine
+- **File**: MaterialExpressionCollectionParameter.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``collection`` (MaterialParameterCollection):  [Read-Write] The Parameter Collection to use.
+- ``desc`` (str):  [Read-Write] A description that level designers can add (shows in the material editor UI).
+- ``group`` (Name):  [Read-Write] The name of the parameter Group to display in MaterialInstance Editor. Default is None group
+- ``material_expression_editor_x`` (int32):  [Read-Write]
+- ``material_expression_editor_y`` (int32):  [Read-Write]
+- ``parameter_name`` (Name):  [Read-Write] Name of the parameter being referenced.
+- ``sort_priority`` (int32):  [Read-Write] Controls where the this parameter is displayed in a material instance parameter list. The lower the number the higher up in the parameter list.
+
+A vector parameter
+
+**C++ Source:**
+
+- **Module**: Engine
+- **File**: MaterialParameterCollection.h
+
+**Editor Properties:** (see get_editor_property/set_editor_property)
+
+- ``default_value`` (LinearColor):  [Read-Write]
+- ``parameter_name`` (Name):  [Read-Write] The name of the parameter.  Changing this name will break any blueprints that reference the parameter.

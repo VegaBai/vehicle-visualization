@@ -1,0 +1,16 @@
+{
+  "sample_rate_hz": 96,
+  "output_seconds": 18,
+  "source_seconds": 12,
+  "monotonic": true,
+  "source_frame_at_8s": 48,
+  "speed_ratios_at_output_frames_0_144_168_192_300_432": [
+    0.14285714285714288,
+    0.14285714304484998,
+    0.5714285714297773,
+    0.999999999816481,
+    0.9999999999763531,
+    0.9999999999763531
+  ],
+  "note": "Offline mapping check. Native MPC and bound assets checked in scene_audit; image review is separate."
+}

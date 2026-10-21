@@ -1,0 +1,45 @@
+{
+  "video": "renders/YU7_TunnelFlow/FinishShowcase_v11/Previs_r03_1080p_Labeled_18s.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "frames": 432,
+  "fps": 24,
+  "duration_seconds": 18,
+  "complete_decode": true,
+  "source": "Native UE PNG sequence with editorial finish labels only",
+  "sha256": "23e7ca266ec4de50022aaf371e2d3e3caa8edf82ed4271885ada83823aee176d",
+  "labels": [
+    [
+      "灰蓝 · 亮面车衣",
+      "GREY BLUE / GLOSS WRAP",
+      0.0,
+      1.14
+    ],
+    [
+      "冰蓝 · 金属漆",
+      "ICE BLUE / METALLIC PAINT",
+      1.25,
+      2.39
+    ],
+    [
+      "月白 · 珠光漆",
+      "OPAL WHITE / PEARLESCENT PAINT",
+      2.5,
+      3.64
+    ],
+    [
+      "石墨 · 哑光车衣",
+      "GRAPHITE / MATTE WRAP",
+      3.75,
+      4.89
+    ],
+    [
+      "灰色 · 陶瓷镀膜",
+      "PORCELAIN GREY / CERAMIC GLOSS",
+      5.0,
+      6.39
+    ]
+  ]
+}

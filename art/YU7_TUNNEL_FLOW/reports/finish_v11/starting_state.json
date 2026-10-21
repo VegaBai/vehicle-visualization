@@ -1,0 +1,757 @@
+{
+  "world": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10",
+  "rendering": false,
+  "dirty_maps": [],
+  "dirty_content": [],
+  "v11_exists": false,
+  "paint": [
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_006_carPaint_2",
+      "slot": 1,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_028_carPaint_10",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_038_carPaint_4_1_",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_040_carPaint_2_1_",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_045_carPaint_13",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_058_carPaint_4",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_060_carPaint_1",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_068_carPaint_9",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_Hero",
+      "component": "Part_079_carPaint_8",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": false
+    },
+    {
+      "actor": "YU7_VP_006_carPaint_2",
+      "component": "StaticMeshComponent0",
+      "slot": 1,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_028_carPaint_10",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_038_carPaint_4_1_",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_040_carPaint_2_1_",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_045_carPaint_13",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_058_carPaint_4",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_060_carPaint_1",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_068_carPaint_9",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    },
+    {
+      "actor": "YU7_VP_079_carPaint_8",
+      "component": "StaticMeshComponent0",
+      "slot": 0,
+      "material": "/Game/YU7/Cinematics/Materials/MI_Hero_MineralTeal.MI_Hero_MineralTeal",
+      "visible": true
+    }
+  ],
+  "tracks": [
+    {
+      "class": "MovieSceneMaterialParameterCollectionTrack",
+      "name": "MPC_TunnelFlow",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "ShotTime_1",
+              "type": "MovieSceneScriptingFloatChannel",
+              "keys": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieSceneCameraCutTrack",
+      "name": "Camera Cuts",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": []
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Y_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Z_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.X_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Y_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Z_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.X_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Y_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Z_0",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieSceneFloatTrack",
+      "name": "Intensity",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "MovieSceneScriptingFloatChannel_0",
+              "type": "MovieSceneScriptingFloatChannel",
+              "keys": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Y_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Z_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.X_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Y_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Z_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.X_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Y_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Z_1",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Y_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Z_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.X_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Y_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Z_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.X_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Y_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Z_2",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Y_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Z_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.X_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Y_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Z_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.X_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Y_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Z_3",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Y_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Z_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.X_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Y_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Z_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.X_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Y_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Z_4",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Y_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Location.Z_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.X_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Y_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Rotation.Z_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.X_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Y_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            },
+            {
+              "name": "Scale.Z_5",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 193
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Y_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Z_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.X_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Y_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Z_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.X_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Y_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Z_6",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieSceneFloatTrack",
+      "name": "Intensity",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "MovieSceneScriptingFloatChannel_1",
+              "type": "MovieSceneScriptingFloatChannel",
+              "keys": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Y_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Z_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.X_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Y_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Z_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.X_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Y_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Z_7",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieScene3DTransformTrack",
+      "name": "Transform",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "Location.X_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Y_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Location.Z_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.X_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Y_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Rotation.Z_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.X_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Y_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            },
+            {
+              "name": "Scale.Z_8",
+              "type": "MovieSceneScriptingDoubleChannel",
+              "keys": 385
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class": "MovieSceneFloatTrack",
+      "name": "Intensity",
+      "sections": [
+        {
+          "range": [
+            -48,
+            337
+          ],
+          "channels": [
+            {
+              "name": "MovieSceneScriptingFloatChannel_2",
+              "type": "MovieSceneScriptingFloatChannel",
+              "keys": 385
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

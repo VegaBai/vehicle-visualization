@@ -1,0 +1,16 @@
+{
+  "id": "finish11_05_noise_probe",
+  "started": "2026-10-21T01:35:52-0700",
+  "status": "success",
+  "result": {
+    "noise_inputs": [
+      "World Position",
+      "FilterWidth"
+    ],
+    "key_get_time": "x.get_time(time_unit=MovieSceneTimeUnit.DISPLAY_RATE) -> FrameTime\r\nGets the time for this key from the owning channel.\r\n\r\nArgs:\r\n    time_unit (MovieSceneTimeUnit): Should the time be returned in Display Rate frames (possibly with a sub-frame value) or in Tick Resolution with no sub-frame values?\r\n\r\nReturns:\r\n    FrameTime: The time of this key which combines both the frame number and the sub-frame it is on. Sub-frame will be zero if you request Tick Resolution.",
+    "color_key": "x.add_color_parameter_key(parameter_name, time, value, default_interpolation=MovieSceneKeyInterpolation.AUTO) -> None\r\nAdds a a key for a specific color parameter at the specified time with the specified value.\r\n\r\nArgs:\r\n    parameter_name (Name): \r\n    time (FrameNumber): \r\n    value (LinearColor): \r\n    default_interpolation (MovieSceneKeyInterpolation):",
+    "get_scalar": "none",
+    "kismet_material": false
+  },
+  "finished": "2026-10-21T01:35:52-0700"
+}

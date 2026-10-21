@@ -1,0 +1,13 @@
+{
+  "request": {
+    "name": "Final_r04_4K",
+    "width": 3840,
+    "height": 2160,
+    "temporal": 8
+  },
+  "started": 1792572237.3366933,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 1469.003574371338
+}

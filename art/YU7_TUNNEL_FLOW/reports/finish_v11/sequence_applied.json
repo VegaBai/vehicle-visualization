@@ -1,0 +1,579 @@
+{
+  "fps": 24,
+  "frames": 432,
+  "retimed_channels": [
+    {
+      "track": "MovieSceneMaterialParameterCollectionTrack",
+      "channel": "ShotTime_0",
+      "original_keys": 4,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieSceneFloatTrack",
+      "channel": "MovieSceneScriptingFloatChannel_0",
+      "original_keys": 10,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_0",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_1",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieSceneFloatTrack",
+      "channel": "MovieSceneScriptingFloatChannel_1",
+      "original_keys": 10,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieSceneFloatTrack",
+      "channel": "MovieSceneScriptingFloatChannel_2",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_2",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_3",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_4",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_5",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_6",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_7",
+      "original_keys": 193,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.X_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Y_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Location.Z_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.X_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Y_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Rotation.Z_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.X_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Y_8",
+      "original_keys": 385,
+      "new_keys": 529
+    },
+    {
+      "track": "MovieScene3DTransformTrack",
+      "channel": "Scale.Z_8",
+      "original_keys": 385,
+      "new_keys": 529
+    }
+  ],
+  "finish_cues": [
+    {
+      "name": "Grey Blue | Gloss Wrap",
+      "plateau_frames": [
+        0,
+        24
+      ],
+      "transition_frames": 6
+    },
+    {
+      "name": "Ice Blue | Metallic Paint",
+      "plateau_frames": [
+        30,
+        54
+      ],
+      "transition_frames": 6
+    },
+    {
+      "name": "Opal White | Pearlescent Paint",
+      "plateau_frames": [
+        60,
+        84
+      ],
+      "transition_frames": 6
+    },
+    {
+      "name": "Graphite Grey | Matte Wrap",
+      "plateau_frames": [
+        90,
+        114
+      ],
+      "transition_frames": 6
+    },
+    {
+      "name": "Porcelain Grey | Ceramic Gloss",
+      "plateau_frames": [
+        120,
+        150
+      ],
+      "transition_frames": 6
+    },
+    {
+      "name": "Mineral Teal | Original Finish",
+      "plateau_frames": [
+        156,
+        480
+      ],
+      "transition_frames": 6
+    }
+  ],
+  "source_frame_samples": {
+    "0": 0.0,
+    "24": 3.4285714285714284,
+    "144": 20.571428571428573,
+    "156": 22.84821428571429,
+    "168": 27.857142857142858,
+    "180": 36.5625,
+    "192": 48,
+    "240": 96,
+    "366": 222,
+    "431": 287
+  },
+  "original_effect_timing": "Preserved in ShotTime source seconds; original speed resumes at output8s/source2s."
+}

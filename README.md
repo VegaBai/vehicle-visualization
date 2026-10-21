@@ -1,6 +1,20 @@
 # Vehicle Visualization · Xiaomi YU7
 
-基于 Unreal Engine 5.8.3 的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及 12 秒隧道流光镜头。
+基于 Unreal Engine 5.8.3 的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及最新的 18 秒漆面切换与隧道流光镜头。
+
+## 18 秒漆面与流线展示 · v11
+
+前段依次展示灰蓝亮面车衣、金属蓝、珠光白、石墨哑光车衣和灰色陶瓷镀膜外观，再回到矿物青，衔接车顶流线与完整车身网格。
+
+[查看 / 下载 18 秒视频（4K MP4，含漆面名称）](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_Labeled_18s.mp4)
+
+[4K 无文字版](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_18s.mp4) · [1080p 预览](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/FinishShowcase_v11/Previs_r03_1080p_Labeled_18s.mp4)
+
+Unreal Engine 原生 3840 × 2160 · 24 fps · 432 帧 · 18 秒 · 无声。完整视频解码及逐帧接触表检查已完成；漆面为艺术化外观表现，流线为示意效果。
+
+![YU7 v11 漆面对照：灰蓝亮面、金属蓝、珠光白、石墨哑光、灰色陶瓷镀膜及矿物青](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_FinishComparison.jpg)
+
+[制作与复用指南](art/YU7_TUNNEL_FLOW/README_FINISH_v11.txt) · [交付与验证清单](art/YU7_TUNNEL_FLOW/reports/finish_v11/output_manifest.json)
 
 ## 矿物青主视觉与 5 秒运镜
 
@@ -27,6 +41,8 @@ git lfs pull
 - 独立主镜头地图：`/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero`
 - 整车 quad 展示地图：`/Game/YU7/QuadBodyStudy/Maps/Studio_YU7_QuadBody`
 - 隧道流光镜头地图：`/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow`
+- 最新 18 秒漆面展示地图：`/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11`
+- 18 秒展示序列：`/Game/YU7/TunnelFlow/FinishShowcase_v11/Sequences/LS_YU7_FinishShowcase_v11_18s`
 - 保留的局部 quad 试作：`/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy`
 - 运镜序列：`/Game/YU7/Cinematics/Sequences/LS_YU7_MineralHero_5s`
 - 车辆 Blueprint：`/Game/Vehicles/YU7_Prepared/Blueprints/BP_YU7`
@@ -44,7 +60,8 @@ git lfs pull
 | `tools/` | Blender/Unreal 编辑器准备及离线验证脚本 |
 | `renders/YU7_MineralHero/` | 最终 4K PNG、EXR、5 秒 MP4 与署名 |
 | `renders/YU7_QuadBodyStudy/Final_v03/` | 整车 quad 前侧、衔接近景、后侧三张 4K PNG |
-| `renders/YU7_TunnelFlow/` | 12 秒流光/quad 接力视频与关键帧，完成状态见镜头指南 |
+| `renders/YU7_TunnelFlow/` | 历代隧道流光/quad 接力视频与关键帧 |
+| `renders/YU7_TunnelFlow/FinishShowcase_v11/` | 18 秒 4K/1080p 视频、九张 4K 精选帧、漆面对照图与署名 |
 | `DEV_HISTORY.md` | 持续追加的决策、实施、失败与验证记录 |
 
 `.gitignore` 排除 Unreal 的 `Binaries`、`DerivedDataCache`、`Intermediate`、`Saved`，以及 IDE 临时文件、Python 缓存和 `tools/vendor`。`Config`、`Content` 和自定义 `Build` 资源保留。MRQ 的 `frames/` 原始逐帧输出和 `still/` 重复输出保留在制作机器，不上传；重渲步骤见 [主镜头指南](art/YU7_UNREAL/HERO_RENDER_GUIDE.txt)。
@@ -55,7 +72,7 @@ git lfs pull
 
 整车 quad 效果见 [展示层指南](art/YU7_QUAD_BODY/README_UE.txt)。线条是独立的曲面展示几何，不代表恢复了原模型 quad 拓扑。原模型和原地图保留；玻璃、灯具、轮胎及饰条保持原观感。
 
-隧道镜头见 [制作与复用指南](art/YU7_TUNNEL_FLOW/README_UE.txt)。原生 Blueprint 组件、Sequencer 和材质集合时间驱动前进、车轮、贴面流光、世界空间尾迹与整车网格接力。越过风挡和车顶的七条示意气流具有错开的亮度脉冲及向后传播的柔和起伏，后门完整参与扫描并保留余辉。v08 全长 1080p 预览已完整解码验证；各版本成片状态以 MRQ 和媒体验证报告为准。
+隧道镜头见 [制作与复用指南](art/YU7_TUNNEL_FLOW/README_UE.txt)。原生 Blueprint 组件、Sequencer 和材质集合时间驱动前进、车轮、贴面流光、世界空间尾迹与整车网格接力。越过风挡和车顶的七条示意气流具有错开的亮度脉冲及向后传播的柔和起伏，后门完整参与扫描并保留余辉。最新 [v11 指南](art/YU7_TUNNEL_FLOW/README_FINISH_v11.txt) 说明五种漆面、18 秒时间轴和交付验证；v09/v10 及历史地图、资产和媒体均保留。各版本成片状态以 MRQ 和媒体验证报告为准。
 
 使用变体后需要重载工作地图时，执行 `tools/ue_lookdev_reload.py`，或重启编辑器；只重载地图仍有 UE 5.8 缓存问题。两处导入后 UV 修复及其重导入要求见导入说明。原始 `Studio_White`、导入基线和源模型均保留。
 

@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Keyframes_r02_1080p",
+    "width": 1920,
+    "height": 1080,
+    "temporal": 8,
+    "frames": [
+      12,
+      42,
+      72,
+      102,
+      138,
+      180,
+      310,
+      366,
+      431
+    ]
+  },
+  "started": 1792571897.8523676,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 54.85514497756958
+}

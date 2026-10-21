@@ -1,0 +1,18 @@
+{
+  "manifest_files_verified": 37,
+  "groups": {
+    "media": 4,
+    "stills": 9,
+    "assets": 24
+  },
+  "historical_hashes_verified": 708,
+  "exact_credits_sidecar": true,
+  "untracked_files": 164,
+  "untracked_bytes": 183180493,
+  "candidate_text_files": 64,
+  "json_parsed": 33,
+  "python_parsed": 16,
+  "common_credential_patterns": [],
+  "raw_frames_excluded": true,
+  "scope": "File integrity and publication checks, not a new UE or packaged-runtime test."
+}

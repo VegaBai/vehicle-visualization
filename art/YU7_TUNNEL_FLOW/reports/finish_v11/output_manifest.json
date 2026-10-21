@@ -1,0 +1,260 @@
+{
+  "version": "FinishShowcase_v11",
+  "map": "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11",
+  "sequence": "/Game/YU7/TunnelFlow/FinishShowcase_v11/Sequences/LS_YU7_FinishShowcase_v11_18s",
+  "runtime": "Native Blueprint, Sequencer and material nodes; no runtime Python/C++.",
+  "media": [
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Previs_r03_1080p_18s.mp4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frames": 432,
+      "fps": 24,
+      "duration_seconds": 18,
+      "sha256": "915d0e303ccc4768161c821f9a452c193fa6a2e87641ca74c22e1342fe882873",
+      "exact_attribution_in_container": true,
+      "labeled": false
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Previs_r03_1080p_Labeled_18s.mp4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frames": 432,
+      "fps": 24,
+      "duration_seconds": 18,
+      "sha256": "23e7ca266ec4de50022aaf371e2d3e3caa8edf82ed4271885ada83823aee176d",
+      "exact_attribution_in_container": true,
+      "labeled": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_18s.mp4",
+      "resolution": [
+        3840,
+        2160
+      ],
+      "frames": 432,
+      "fps": 24,
+      "duration_seconds": 18,
+      "sha256": "b65b13e0a82ad1fdf947f47b374a7ec01eefa06c0076759340017b342c05f3be",
+      "exact_attribution_in_container": true,
+      "labeled": false
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/Final_r04_4K_Labeled_18s.mp4",
+      "resolution": [
+        3840,
+        2160
+      ],
+      "frames": 432,
+      "fps": 24,
+      "duration_seconds": 18,
+      "sha256": "e779198e11859db380da0a579f6988bae1b4dccf1bd5a35bc7046bd6ba6bcbb8",
+      "exact_attribution_in_container": true,
+      "labeled": true
+    }
+  ],
+  "stills": [
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/01_GreyBlue_Gloss_v11_4K.png",
+      "source_frame": 12,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "d221d2f3c5ebbc0ba5054d578852319c1679a9b0a8509ef1bfb9b4b9b2b52388"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/02_Blue_Metallic_v11_4K.png",
+      "source_frame": 42,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "b1e2c30975af17acaccb791551eed6d58da27b4880d29daa405550cc962265f0"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/03_Opal_Pearl_v11_4K.png",
+      "source_frame": 72,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "3076f4010cff8cd5120c5e5d3cf3926dd3fde611aed9103f79ead6fe5d6b5d12"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/04_Graphite_Matte_v11_4K.png",
+      "source_frame": 102,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "238030e9b251a1f8fad8259c57bacc98526db9affc195727bc6b0df1dac1727a"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/05_Grey_Ceramic_v11_4K.png",
+      "source_frame": 138,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "35c3a9cb7ffed32b8e253492632eb6feb5cb0cdaf0631aa7bb75592ddc85feef"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/06_MineralTeal_Return_v11_4K.png",
+      "source_frame": 180,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "8e923f953fd9728cba7847dc2ed1b3479f5463a953397c8a23d746dcbd5742ea"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/07_Flow_Handoff_v11_4K.png",
+      "source_frame": 310,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "a20217c18beb83da7f5ba5573664b9f56183bb021bda8a9b52abcbecab81b6e7"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/08_FullBody_Climax_v11_4K.png",
+      "source_frame": 366,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "3f547959c042cc0b4d46be5afc4c469a629637986fea052dc51a84b011b9cab1"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/FinishShowcase_v11/09_Clean_Final_v11_4K.png",
+      "source_frame": 431,
+      "size": [
+        3840,
+        2160
+      ],
+      "unaltered_native_frame": true,
+      "sha256": "4e3106a61f68b7682404943f353bde05a16853b273b9602996838a32d7aef4c7"
+    }
+  ],
+  "assets": [
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.umap",
+      "sha256": "edd07204cb4cf18bd3646a0dd7e2f05ef2e25e47c18da8ee90c402f12c4e54c3"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/Materials/M_YU7_Finish_v11.uasset",
+      "sha256": "bbdcae3bac9d5df12867002b251aab7bdabdb77bbad50fe9182f71954a6cebce"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/Materials/MPC_YU7_Finish_v11.uasset",
+      "sha256": "8d785300e1d2ac614d75d3681b8be39776c7c4a8f146a228de7cba4e913f0486"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Final_r04_4K_Shot_Motion.uasset",
+      "sha256": "4713944acfcff70c3697fd7dd470acb1915dbcc0ec797c0818def7764dbeb63f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_102.uasset",
+      "sha256": "1839fa96082efafac18042cde2c816b5061cbdc8fc1710227266b3f94588b112"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_12.uasset",
+      "sha256": "1ed78e979e379a091417516122045d03498a40e4e548b3b221d6e09e5736d19d"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_138.uasset",
+      "sha256": "df66fbc63246c6d69ed891a90cb5d2cc86e7caacae42124f63846eb4626da32c"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_180.uasset",
+      "sha256": "cc2800bb55fb6c90a782bc744a33edc98c6e46968049d0e7d2fb067453101b5c"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_310.uasset",
+      "sha256": "6e32b0a1f11c58fec22a5aadbdf7fd975095b2086f4987b240ec3f4c20c0726c"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_366.uasset",
+      "sha256": "d535b5e9ff26db2b501e829c33da2d6c9b325ac230c64eece6fc2d05470885ae"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_42.uasset",
+      "sha256": "0d9a6ce7c91d7d52733f08f01eda49ad306033a7d9ffe3ccc7458111ffccf67f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_431.uasset",
+      "sha256": "bd2fb72cd12e3be94af14b2fa8f5e60b40f9cfb002312477db247ed5cd8f192a"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r01_1080p_Shot_72.uasset",
+      "sha256": "6991fb8b6c5e86ddf6d7c3b26b8fe9f27c389b7d14741eac9befffc24e1b1e5d"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_102.uasset",
+      "sha256": "cd60eb7f6b8c0391baf09e14e4d39211f20b9be66818c24cf90b1061a22cb9d9"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_12.uasset",
+      "sha256": "6e7bcd435bc09557f3c49d7a5de607ea476d2c5f139b1c3b9e71e540b2feaec7"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_138.uasset",
+      "sha256": "53cabc0fe4198a73581ded07b512aaa74ca6fce0ad65037ee885444106884be1"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_180.uasset",
+      "sha256": "e8a923c4de8020a4ccf391fb5aec89018371dc64aa73375358727cb890d404c8"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_310.uasset",
+      "sha256": "e789aaeec737d083d09eff6fefc8371a22ea6c7a6269553738bab998b999050e"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_366.uasset",
+      "sha256": "0d28b950547da2eedcc04af277974769bf89fdbfec95b6519ebdc1a171ba865f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_42.uasset",
+      "sha256": "ab8bf9fbe3f1cda34bd899bb762b81edb98618b07f516eb8d38ec81799ff13ff"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_431.uasset",
+      "sha256": "1eefb256257dbcc2d17052dcc67553c3f94e63da531f33c4de81ed121dfe2ef8"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Keyframes_r02_1080p_Shot_72.uasset",
+      "sha256": "440369d487a9ef6f79cad5a20c88cd39b8687822acae01c938681ee687540b09"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/RenderPresets/MRQ_Previs_r03_1080p_Shot_Motion.uasset",
+      "sha256": "6a145f0417c31e7cca74e532ce61afa69fdf9f515be5f633b0eb0fdc27320352"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/FinishShowcase_v11/Sequences/LS_YU7_FinishShowcase_v11_18s.uasset",
+      "sha256": "136f5f25f94dac02236a40213d212b8939ef1f00a623eb28237159462368934c"
+    }
+  ],
+  "protected_unchanged": 708,
+  "credits_sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb",
+  "visual_review": "visual_review.json",
+  "limits": [
+    "Silent shot.",
+    "Art-directed finish representations; not measured colour codes or spectra.",
+    "Editorial labels are a separate encoded version; clean native frame master retained.",
+    "Application Credits UI and packaged/new-machine validation remain final-project delivery items.",
+    "Authored flow and quad visualization, not CFD or recovered source topology."
+  ]
+}

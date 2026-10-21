@@ -1,0 +1,98 @@
+Input #0, image2, from 'C:\github2\vehicle_visualization\renders\YU7_TunnelFlow\FinishShowcase_v11\Final_r04_4K\Final_r04_4K_%04d.png':
+  Duration: 00:00:18.00, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 3840x2160, 24 fps, 24 tbr, 24 tbn
+[Parsed_subtitles_0 @ 00000207cb209080] libass API version: 0x1703000
+[Parsed_subtitles_0 @ 00000207cb209080] libass source: commit: 0.17.3-32-g5298859c298d3c570d8d7e3b883a0d63490659b8
+[Parsed_subtitles_0 @ 00000207cb209080] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.0.1 (COMPLEX)
+[Parsed_subtitles_0 @ 00000207cb209080] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+[Parsed_subtitles_0 @ 00000207cb215c40] libass API version: 0x1703000
+[Parsed_subtitles_0 @ 00000207cb215c40] libass source: commit: 0.17.3-32-g5298859c298d3c570d8d7e3b883a0d63490659b8
+[Parsed_subtitles_0 @ 00000207cb215c40] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.0.1 (COMPLEX)
+[Parsed_subtitles_0 @ 00000207cb215c40] Using font provider directwrite (with GDI)
+[Parsed_subtitles_0 @ 00000207cb215c40] fontselect: (Microsoft YaHei, 400, 0) -> MicrosoftYaHei, 0, MicrosoftYaHei
+[Parsed_subtitles_0 @ 00000207cb215c40] fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT
+[libx264 @ 00000207cb205fc0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000207cb205fc0] profile High, level 5.1, 4:2:0, 8-bit
+[libx264 @ 00000207cb205fc0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=5 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=8 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=2 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=30 lookahead_threads=5 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=3 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=50 rc=crf mbtree=1 crf=17.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\github2\vehicle_visualization\renders\YU7_TunnelFlow\FinishShowcase_v11\Final_r04_4K_Labeled_18s.mp4':
+  Metadata:
+    title           : YU7 | Material in Motion | 18 seconds
+    comment         : "2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 3840x2160, q=2-31, 24 fps, 12288 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    0 fps=0.0 q=0.0 size=       0KiB time=N/A bitrate=N/A speed=N/A    
+frame=    6 fps=1.9 q=22.0 size=     256KiB time=00:00:00.16 bitrate=12585.2kbits/s speed=0.0528x    
+frame=   16 fps=4.3 q=22.0 size=     768KiB time=00:00:00.58 bitrate=10786.0kbits/s speed=0.158x    
+frame=   26 fps=6.2 q=22.0 size=    1280KiB time=00:00:01.00 bitrate=10486.1kbits/s speed=0.238x    
+frame=   34 fps=7.2 q=22.0 size=    1792KiB time=00:00:01.33 bitrate=11010.3kbits/s speed=0.281x    
+frame=   45 fps=8.5 q=22.0 size=    2304KiB time=00:00:01.79 bitrate=10534.7kbits/s speed=0.34x    
+frame=   50 fps=8.6 q=22.0 size=    2560KiB time=00:00:02.00 bitrate=10486.0kbits/s speed=0.345x    
+frame=   62 fps=9.7 q=22.0 size=    3328KiB time=00:00:02.50 bitrate=10905.3kbits/s speed=0.393x    
+frame=   69 fps= 10 q=22.0 size=    3584KiB time=00:00:02.79 bitrate=10517.2kbits/s speed=0.404x    
+frame=   80 fps= 11 q=22.0 size=    4096KiB time=00:00:03.25 bitrate=10324.6kbits/s speed=0.439x    
+frame=   88 fps= 11 q=22.0 size=    4608KiB time=00:00:03.58 bitrate=10534.6kbits/s speed=0.452x    
+frame=   97 fps= 11 q=22.0 size=    4864KiB time=00:00:03.95 bitrate=10066.4kbits/s speed=0.468x    
+frame=  108 fps= 12 q=22.0 size=    5376KiB time=00:00:04.41 bitrate=9971.5kbits/s speed=0.492x    
+frame=  117 fps= 12 q=22.0 size=    5888KiB time=00:00:04.79 bitrate=10066.4kbits/s speed=0.503x    
+frame=  126 fps= 13 q=22.0 size=    6400KiB time=00:00:05.16 bitrate=10147.6kbits/s speed=0.513x    
+frame=  138 fps= 13 q=22.0 size=    6912KiB time=00:00:05.66 bitrate=9992.4kbits/s speed=0.534x    
+frame=  148 fps= 13 q=22.0 size=    7424KiB time=00:00:06.08 bitrate=9997.4kbits/s speed=0.545x    
+frame=  158 fps= 13 q=22.0 size=    7936KiB time=00:00:06.50 bitrate=10001.9kbits/s speed=0.553x    
+frame=  168 fps= 14 q=22.0 size=    8192KiB time=00:00:06.91 bitrate=9702.5kbits/s speed=0.563x    
+frame=  180 fps= 14 q=22.0 size=    8704KiB time=00:00:07.41 bitrate=9614.0kbits/s speed=0.577x    
+frame=  192 fps= 14 q=22.0 size=    9216KiB time=00:00:07.91 bitrate=9536.6kbits/s speed=0.591x    
+frame=  196 fps= 14 q=22.0 size=    9472KiB time=00:00:08.08 bitrate=9599.4kbits/s speed=0.581x    
+frame=  208 fps= 14 q=22.0 size=   10240KiB time=00:00:08.58 bitrate=9773.2kbits/s speed=0.594x    
+frame=  217 fps= 14 q=22.0 size=   10752KiB time=00:00:08.95 bitrate=9832.3kbits/s speed=0.597x    
+frame=  226 fps= 15 q=22.0 size=   11264KiB time=00:00:09.33 bitrate=9886.6kbits/s speed=0.601x    
+frame=  228 fps= 14 q=22.0 size=   11520KiB time=00:00:09.41 bitrate=10021.8kbits/s speed=0.587x    
+frame=  243 fps= 15 q=22.0 size=   12544KiB time=00:00:10.04 bitrate=10233.4kbits/s speed=0.604x    
+frame=  255 fps= 15 q=22.0 size=   13568KiB time=00:00:10.54 bitrate=10543.8kbits/s speed=0.614x    
+frame=  259 fps= 15 q=22.0 size=   13824KiB time=00:00:10.70 bitrate=10575.6kbits/s speed=0.604x    
+frame=  267 fps= 15 q=22.0 size=   14336KiB time=00:00:11.04 bitrate=10636.2kbits/s speed=0.604x    
+frame=  276 fps= 15 q=22.0 size=   14848KiB time=00:00:11.41 bitrate=10654.2kbits/s speed=0.606x    
+frame=  291 fps= 15 q=22.0 size=   15872KiB time=00:00:12.04 bitrate=10797.8kbits/s speed=0.622x    
+frame=  296 fps= 15 q=22.0 size=   16128KiB time=00:00:12.25 bitrate=10785.4kbits/s speed=0.615x    
+frame=  299 fps= 15 q=22.0 size=   16384KiB time=00:00:12.37 bitrate=10845.9kbits/s speed=0.605x    
+frame=  314 fps= 15 q=22.0 size=   17664KiB time=00:00:13.00 bitrate=11131.1kbits/s speed=0.618x    
+frame=  327 fps= 15 q=22.0 size=   18688KiB time=00:00:13.54 bitrate=11305.3kbits/s speed=0.628x    
+frame=  331 fps= 15 q=22.0 size=   18944KiB time=00:00:13.70 bitrate=11320.8kbits/s speed=0.621x    
+frame=  342 fps= 15 q=22.0 size=   19712KiB time=00:00:14.16 bitrate=11398.7kbits/s speed=0.627x    
+frame=  355 fps= 15 q=22.0 size=   20736KiB time=N/A bitrate=N/A speed=N/A    
+frame=  363 fps= 15 q=22.0 size=   21504KiB time=N/A bitrate=N/A speed=N/A    
+frame=  375 fps= 16 q=22.0 size=   22272KiB time=N/A bitrate=N/A speed=N/A    
+frame=  393 fps= 16 q=22.0 size=   23552KiB time=N/A bitrate=N/A speed=N/A    
+frame=  402 fps= 16 q=22.0 size=   24320KiB time=N/A bitrate=N/A speed=N/A    
+frame=  418 fps= 16 q=-1.0 size=   25088KiB time=N/A bitrate=N/A speed=N/A    
+[mp4 @ 00000207cb21edc0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000207cb201e40] video:25728KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.025356%
+frame=  432 fps= 17 q=-1.0 Lsize=   25734KiB time=00:00:17.91 bitrate=11766.4kbits/s speed=0.685x    
+[libx264 @ 00000207cb205fc0] frame I:2     Avg QP:10.97  size:320262
+[libx264 @ 00000207cb205fc0] frame P:109   Avg QP:13.46  size:108500
+[libx264 @ 00000207cb205fc0] frame B:321   Avg QP:16.77  size: 43231
+[libx264 @ 00000207cb205fc0] consecutive B-frames:  0.5%  0.9%  1.4% 97.2%
+[libx264 @ 00000207cb205fc0] mb I  I16..4: 28.9% 49.3% 21.8%
+[libx264 @ 00000207cb205fc0] mb P  I16..4:  3.5%  3.4%  1.7%  P16..4: 35.7% 11.6%  7.0%  0.0%  0.0%    skip:37.1%
+[libx264 @ 00000207cb205fc0] mb B  I16..4:  0.4%  0.3%  0.2%  B16..8: 35.8%  5.2%  0.6%  direct: 2.4%  skip:55.1%  L0:47.5% L1:47.3% BI: 5.2%
+[libx264 @ 00000207cb205fc0] 8x8 transform intra:39.7% inter:52.9%
+[libx264 @ 00000207cb205fc0] direct mvs  spatial:95.0% temporal:5.0%
+[libx264 @ 00000207cb205fc0] coded y,uvDC,uvAC intra: 29.9% 30.1% 18.0% inter: 6.8% 4.9% 0.6%
+[libx264 @ 00000207cb205fc0] i16 v,h,dc,p: 34% 36%  6% 24%
+[libx264 @ 00000207cb205fc0] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  5% 15% 40%  6%  6%  4%  8%  4% 12%
+[libx264 @ 00000207cb205fc0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu:  5% 36% 21%  7%  6%  3%  7%  4% 10%
+[libx264 @ 00000207cb205fc0] i8c dc,h,v,p: 55% 36%  6%  3%
+[libx264 @ 00000207cb205fc0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000207cb205fc0] ref P L0: 50.1%  3.1% 22.7% 12.4% 11.8%
+[libx264 @ 00000207cb205fc0] ref B L0: 66.3% 22.7%  8.6%  2.5%
+[libx264 @ 00000207cb205fc0] ref B L1: 90.5%  9.5%
+[libx264 @ 00000207cb205fc0] kb/s:11708.61
