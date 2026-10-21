@@ -1,0 +1,96 @@
+{
+  "id": "smooth10_02_prepare",
+  "started": "2026-10-19T21:44:06-0700",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10",
+    "sequence": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Sequences/LS_YU7_TunnelFlow_Smooth_v10_12s",
+    "roof_blueprint": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Blueprints/BP_TunnelRoofAirflow_Smooth_v10.BP_TunnelRoofAirflow_Smooth_v10",
+    "swapped_lanes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "bindings": [
+      {
+        "name": "YU7_Tunnel_Wheel_RL",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.BP_TunnelWheel_RL_C_0"
+        ]
+      },
+      {
+        "name": "LightComponent0",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.PointLight_0.LightComponent0"
+        ]
+      },
+      {
+        "name": "YU7_Hero",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.BP_YU7_C_0"
+        ]
+      },
+      {
+        "name": "YU7_AD_ShapingKey",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.RectLight_12"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_FR",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.BP_TunnelWheel_FR_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_RR",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.BP_TunnelWheel_RR_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_FL",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.BP_TunnelWheel_FL_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_ScanLight_R",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.PointLight_0"
+        ]
+      },
+      {
+        "name": "LightComponent0",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.PointLight_1.LightComponent0"
+        ]
+      },
+      {
+        "name": "CAM_YU7_TunnelFlow",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.CineCameraActor_11"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_ScanLight_L",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.PointLight_1"
+        ]
+      },
+      {
+        "name": "LightComponent0",
+        "objects": [
+          "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10:PersistentLevel.RectLight_12.LightComponent0"
+        ]
+      }
+    ],
+    "materials": "Unmodified v09 native materials",
+    "visual_validation": "pending"
+  },
+  "finished": "2026-10-19T21:44:09-0700"
+}

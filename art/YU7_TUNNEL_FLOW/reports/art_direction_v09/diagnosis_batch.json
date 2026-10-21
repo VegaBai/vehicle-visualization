@@ -1,0 +1,146 @@
+[
+  {
+    "request": {
+      "name": "Diagnosis_r02_CleanBaseline",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "CleanBaseline",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_CleanBaseline",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_CleanBaseline",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    },
+    "started": 1792457346.4475727,
+    "status": "finished",
+    "errors": [],
+    "success": true,
+    "duration_seconds": 5.123246908187866
+  },
+  {
+    "request": {
+      "name": "Diagnosis_r02_NoFront",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "NoFront",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoFront",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoFront",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    },
+    "started": 1792457352.3176873,
+    "status": "finished",
+    "errors": [],
+    "success": true,
+    "duration_seconds": 4.862417459487915
+  },
+  {
+    "request": {
+      "name": "Diagnosis_r02_NoSide",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "NoSide",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoSide",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoSide",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    },
+    "started": 1792457357.8894506,
+    "status": "finished",
+    "errors": [],
+    "success": true,
+    "duration_seconds": 4.9746928215026855
+  },
+  {
+    "request": {
+      "name": "Diagnosis_r02_NoRoof",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "NoRoof",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRoof",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRoof",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    },
+    "started": 1792457363.5587506,
+    "status": "finished",
+    "errors": [],
+    "success": true,
+    "duration_seconds": 4.918211936950684
+  },
+  {
+    "request": {
+      "name": "Diagnosis_r02_NoCeiling",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "NoCeiling",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoCeiling",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoCeiling",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    },
+    "started": 1792457369.181976,
+    "status": "finished",
+    "errors": [],
+    "success": true,
+    "duration_seconds": 4.91313099861145
+  },
+  {
+    "request": {
+      "name": "Diagnosis_r02_NoRibs",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "NoRibs",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRibs",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRibs",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    },
+    "started": 1792457374.8017933,
+    "status": "finished",
+    "errors": [],
+    "success": true,
+    "duration_seconds": 4.974926710128784
+  }
+]

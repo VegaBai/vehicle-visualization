@@ -1,0 +1,13 @@
+{
+  "request": {
+    "name": "Final_r03_4K",
+    "width": 3840,
+    "height": 2160,
+    "temporal": 8
+  },
+  "started": 1792471813.536381,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 679.431736946106
+}

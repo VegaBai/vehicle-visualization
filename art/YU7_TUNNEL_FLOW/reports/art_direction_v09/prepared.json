@@ -1,0 +1,102 @@
+{
+  "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09",
+  "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Sequences/LS_YU7_TunnelFlow_AD_v09_12s",
+  "copies": {
+    "/Game/YU7/TunnelFlow/Blueprints/BP_TunnelArchitecture": "/Game/YU7/TunnelFlow/ArtDirection_v09/Blueprints/BP_TunnelArchitecture_AD_v09.BP_TunnelArchitecture_AD_v09",
+    "/Game/YU7/TunnelFlow/Blueprints/BP_TunnelRoofAirflow_v01": "/Game/YU7/TunnelFlow/ArtDirection_v09/Blueprints/BP_TunnelRoofAirflow_v01_AD_v09.BP_TunnelRoofAirflow_v01_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelGrid": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelGrid_AD_v09.M_TunnelGrid_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelSurfaceFlow": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelSurfaceFlow_AD_v09.M_TunnelSurfaceFlow_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelWorldWake": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelWorldWake_AD_v09.M_TunnelWorldWake_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_Pulse_v02": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoofAirflow_Pulse_v02_AD_v09.M_TunnelRoofAirflow_Pulse_v02_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelRoad": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRoad_AD_v09.M_TunnelRoad_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelWall": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelWall_AD_v09.M_TunnelWall_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelRibs": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelRibs_AD_v09.M_TunnelRibs_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelStrip": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelStrip_AD_v09.M_TunnelStrip_AD_v09",
+    "/Game/YU7/TunnelFlow/Materials/M_TunnelCyan": "/Game/YU7/TunnelFlow/ArtDirection_v09/Materials/M_TunnelCyan_AD_v09.M_TunnelCyan_AD_v09"
+  },
+  "bindings": {
+    "LightComponent0": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.PointLight_1.LightComponent0"
+    ],
+    "YU7_Tunnel_Wheel_FR": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.BP_TunnelWheel_FR_C_0"
+    ],
+    "YU7_Tunnel_Wheel_FL": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.BP_TunnelWheel_FL_C_0"
+    ],
+    "YU7_Tunnel_Wheel_RL": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.BP_TunnelWheel_RL_C_0"
+    ],
+    "YU7_Hero": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.BP_YU7_C_0"
+    ],
+    "CAM_YU7_TunnelFlow": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.CineCameraActor_11"
+    ],
+    "YU7_Tunnel_Wheel_RR": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.BP_TunnelWheel_RR_C_0"
+    ],
+    "YU7_Tunnel_ScanLight_L": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.PointLight_1"
+    ],
+    "YU7_Tunnel_ScanLight_R": [
+      "/Game/YU7/TunnelFlow/ArtDirection_v09/Maps/Studio_YU7_TunnelFlow_AD_v09.Studio_YU7_TunnelFlow_AD_v09:PersistentLevel.PointLight_0"
+    ]
+  },
+  "diagnostics": [
+    {
+      "case": "CleanBaseline",
+      "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_CleanBaseline",
+      "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_CleanBaseline",
+      "frames": [
+        24,
+        228
+      ]
+    },
+    {
+      "case": "NoFront",
+      "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoFront",
+      "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoFront",
+      "frames": [
+        24,
+        228
+      ]
+    },
+    {
+      "case": "NoSide",
+      "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoSide",
+      "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoSide",
+      "frames": [
+        24,
+        228
+      ]
+    },
+    {
+      "case": "NoRoof",
+      "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRoof",
+      "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRoof",
+      "frames": [
+        24,
+        228
+      ]
+    },
+    {
+      "case": "NoCeiling",
+      "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoCeiling",
+      "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoCeiling",
+      "frames": [
+        24,
+        228
+      ]
+    },
+    {
+      "case": "NoRibs",
+      "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRibs",
+      "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRibs",
+      "frames": [
+        24,
+        228
+      ]
+    }
+  ]
+}

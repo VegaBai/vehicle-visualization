@@ -1,0 +1,7 @@
+{
+  "id": "ad09_15_preflight",
+  "started": "2026-10-19T17:56:54-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_ad_v09_preflight.py\", line 4, in <module>\n    scope={'__name__':'__main__'};exec(compile((R/'tools'/f'{name}.py').read_text(),name,'exec'),scope);results[name]=scope['RESULT']\n                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"ue_ad_v09_audit\", line 50, in <module>\nAssertionError\n",
+  "finished": "2026-10-19T17:56:55-0700"
+}

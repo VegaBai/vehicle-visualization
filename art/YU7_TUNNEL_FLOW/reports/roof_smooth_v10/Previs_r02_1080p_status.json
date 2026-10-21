@@ -1,0 +1,13 @@
+{
+  "request": {
+    "name": "Previs_r02_1080p",
+    "width": 1920,
+    "height": 1080,
+    "temporal": 8
+  },
+  "started": 1792471615.1860244,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 155.18100547790527
+}

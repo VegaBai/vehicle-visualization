@@ -1,0 +1,73 @@
+{
+  "id": "ad09_10_scene_resume",
+  "started": "2026-10-19T17:52:33-0700",
+  "status": "success",
+  "result": {
+    "diagnosed_front_glare": "RoofFill off removes windshield white block at frame 24",
+    "diagnosed_door_band": "SideFill off removes wide door reflection at frame 228",
+    "black_band_source": "YU7_Tunnel_Architecture.Tunnel_Lane, 2 instances, M_TunnelLane; NoLane native render removes both bands",
+    "environment_copy_instances": [
+      {
+        "name": "Tunnel_Strip",
+        "instances": 128
+      },
+      {
+        "name": "Tunnel_Wall",
+        "instances": 5
+      },
+      {
+        "name": "Tunnel_Wall",
+        "instances": 5
+      },
+      {
+        "name": "Tunnel_Ribs",
+        "instances": 290
+      },
+      {
+        "name": "Tunnel_Ribs",
+        "instances": 290
+      },
+      {
+        "name": "Tunnel_Road",
+        "instances": 1
+      },
+      {
+        "name": "Tunnel_Road",
+        "instances": 1
+      },
+      {
+        "name": "Tunnel_Strip",
+        "instances": 128
+      },
+      {
+        "name": "Tunnel_Cyan",
+        "instances": 2
+      },
+      {
+        "name": "Tunnel_Cyan",
+        "instances": 2
+      },
+      {
+        "name": "Tunnel_Lane",
+        "instances": 0
+      },
+      {
+        "name": "Tunnel_Lane",
+        "instances": 0
+      }
+    ],
+    "fill_intensities_lumens": [
+      19600,
+      12600,
+      19500
+    ],
+    "strip_emission_factor": 0.65,
+    "road_roughness": [
+      0.34,
+      0.44
+    ],
+    "mineral_teal_material_modified": false,
+    "visual_validation": "pending"
+  },
+  "finished": "2026-10-19T17:52:35-0700"
+}

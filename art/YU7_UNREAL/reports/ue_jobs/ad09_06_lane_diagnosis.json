@@ -1,0 +1,25 @@
+{
+  "id": "ad09_06_lane_diagnosis",
+  "started": "2026-10-19T17:50:24-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Diagnosis_r03_NoLane",
+      "width": 1280,
+      "height": 720,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "NoLane",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoLane",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoLane",
+          "frames": [
+            24,
+            228
+          ]
+        }
+      ]
+    }
+  },
+  "finished": "2026-10-19T17:50:25-0700"
+}

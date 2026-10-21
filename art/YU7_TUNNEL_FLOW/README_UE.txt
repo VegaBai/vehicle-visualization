@@ -2,6 +2,14 @@ YU7 · FLOW INTO FORM / 流光塑形
 2026-10-19 · 原生 UE 5.8.3 镜头
 
 当前状态
+v09艺术指导已在后续新session的隔离副本实现，入口和操作规则见 README_AD_v09.txt。
+新根目录 /Game/YU7/TunnelFlow/ArtDirection_v09；原v08工作地图与全部历史成果保留。
+720p/1080p预演、原生4K全长及七张精选原帧均已完成，全部PNG/MP4完整解码通过。
+当前成片：renders/YU7_TunnelFlow/ArtDirection_v09/Final_r10_4K_12s.mp4。
+最终安全重载/Map Check和历史510/420/71项及v08清单保护通过；本轮无声。
+请以 reports/art_direction_v09/ 的实际状态及 DEV_HISTORY.md 第45节为准。
+
+保留的v08状态
 2026-10-19 脉冲/起伏修订：当前地图屋顶组件已覆盖为 M_TunnelRoofAirflow_Pulse_v02。
 七条线具有错开的移动亮峰、缓慢呼吸，以及向后传播的上下/横向波动。
 Previs_v08_1080p_12s.mp4 已完成 12 秒/24fps/288 帧，全部 PNG/MP4 完整解码通过，
@@ -12,10 +20,10 @@ Previs_v08_1080p_12s.mp4 已完成 12 秒/24fps/288 帧，全部 PNG/MP4 完整�
 与 pulse_final_audit_v08.json。当前为无声版本。
 上一版完整地图备份为 Maps/Studio_YU7_TunnelFlow_BeforePulse_v07。
 
-下一轮设计（尚未实施）
+v09设计交接的历史背景
 design/ART_DIRECTION_v09.txt 已写明灯光塑形、两主五辅流线、隧道层次、
 高潮节奏的具体规格、帧级 cue、验证标准和新 session 交接指令。
-用户要求本 session 只完成设计与记录，实现留到新 session；当前工程仍为 v08。
+设计session仅写文档；后续新session已按该文档实施v09，详见 README_AD_v09.txt。
 新车漆方向等待用户后续提供示意图，灯光修订先沿用现有矿物青。
 
 上一版车顶气流输出
@@ -126,3 +134,7 @@ Keyframes_v01/DebugMaterials/Keyframes_v02–v05 留作迭代证据。
 CREDITS.txt 与仓库根文件保持逐字节一致；也写入序列 metadata 和 MP4 comment。
 最终应用内可见 Credits 仍待后续制作，sidecar/metadata 不替代该要求。
 使用限制见根目录 CREDITS.txt 和 AGENTS.md。
+
+2026-10-19 — Roof smoothing correction v10 completed
+Current corrected shot: /Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10
+See README_SMOOTH_v10.txt and reports/roof_smooth_v10/output_manifest.json. Native 4K full shot and 1080p preview are in renders/YU7_TunnelFlow/RoofSmooth_v10. Prior v09 assets and media are preserved.

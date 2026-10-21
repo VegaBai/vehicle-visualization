@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Diagnosis_r02_NoRibs",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "NoRibs",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRibs",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRibs",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ]
+  },
+  "started": 1792457374.8017933,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 4.974926710128784
+}

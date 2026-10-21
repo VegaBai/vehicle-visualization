@@ -1,0 +1,26 @@
+{
+  "id": "ad09_11_clean_compare",
+  "started": "2026-10-19T17:52:41-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Lighting_r05_1080p",
+      "width": 1920,
+      "height": 1080,
+      "temporal": 8,
+      "cases": [
+        {
+          "case": "Clean",
+          "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_Lighting_r05",
+          "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_Lighting_r05",
+          "frames": [
+            24,
+            228,
+            276
+          ]
+        }
+      ]
+    }
+  },
+  "finished": "2026-10-19T17:52:42-0700"
+}

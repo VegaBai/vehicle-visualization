@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Diagnosis_r02_NoRoof",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "NoRoof",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRoof",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRoof",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ]
+  },
+  "started": 1792457363.5587506,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 4.918211936950684
+}

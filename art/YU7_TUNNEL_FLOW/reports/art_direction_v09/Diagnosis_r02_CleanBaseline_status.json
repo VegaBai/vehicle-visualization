@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Diagnosis_r02_CleanBaseline",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "CleanBaseline",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_CleanBaseline",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_CleanBaseline",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ]
+  },
+  "started": 1792457346.4475727,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 5.123246908187866
+}

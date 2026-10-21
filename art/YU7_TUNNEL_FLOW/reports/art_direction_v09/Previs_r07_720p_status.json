@@ -1,0 +1,13 @@
+{
+  "request": {
+    "name": "Previs_r07_720p",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8
+  },
+  "started": 1792457914.9201226,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 77.29223537445068
+}

@@ -1,0 +1,105 @@
+{
+  "id": "ad09_14_sequence",
+  "started": "2026-10-19T17:55:50-0700",
+  "status": "success",
+  "result": {
+    "fps": 24,
+    "frames": 288,
+    "native_camera_keys": 385,
+    "focal_length_mm": 40,
+    "angle_keys": [
+      [
+        0,
+        35
+      ],
+      [
+        4.5,
+        50
+      ],
+      [
+        8.5,
+        76
+      ],
+      [
+        9,
+        82
+      ],
+      [
+        9.5,
+        84
+      ],
+      [
+        11,
+        104
+      ],
+      [
+        12,
+        112
+      ]
+    ],
+    "radius_keys": [
+      [
+        0,
+        890
+      ],
+      [
+        4.5,
+        785
+      ],
+      [
+        8.5,
+        805
+      ],
+      [
+        9,
+        825
+      ],
+      [
+        9.5,
+        825
+      ],
+      [
+        11,
+        880
+      ],
+      [
+        12,
+        900
+      ]
+    ],
+    "height_keys": [
+      [
+        0,
+        110
+      ],
+      [
+        4.5,
+        125
+      ],
+      [
+        8.5,
+        135
+      ],
+      [
+        9,
+        135
+      ],
+      [
+        9.5,
+        135
+      ],
+      [
+        11,
+        125
+      ],
+      [
+        12,
+        125
+      ]
+    ],
+    "climax_key_light_factor": 1.25,
+    "original_drive_wheel_tracks_unchanged": true,
+    "camera_safety_validation": "pending actual scene geometry sampling"
+  },
+  "finished": "2026-10-19T17:55:51-0700"
+}

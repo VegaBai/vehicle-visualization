@@ -1,0 +1,18 @@
+{
+  "request": {
+    "name": "Keyframes_r01_4K",
+    "width": 3840,
+    "height": 2160,
+    "temporal": 8,
+    "frames": [
+      96,
+      122,
+      163
+    ]
+  },
+  "started": 1792471470.5897052,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 121.3304214477539
+}

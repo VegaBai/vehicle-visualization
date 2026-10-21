@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Diagnosis_r02_NoCeiling",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "NoCeiling",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoCeiling",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoCeiling",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ]
+  },
+  "started": 1792457369.181976,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 4.91313099861145
+}

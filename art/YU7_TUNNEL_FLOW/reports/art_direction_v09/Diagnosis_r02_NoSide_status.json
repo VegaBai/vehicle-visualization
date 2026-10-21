@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Diagnosis_r02_NoSide",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "NoSide",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoSide",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoSide",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ]
+  },
+  "started": 1792457357.8894506,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 4.9746928215026855
+}

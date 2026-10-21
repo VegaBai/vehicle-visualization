@@ -1,0 +1,25 @@
+{
+  "request": {
+    "name": "Lighting_r04_1080p",
+    "width": 1920,
+    "height": 1080,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "Clean",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_Lighting_r04",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_Lighting_r04",
+        "frames": [
+          24,
+          228,
+          276
+        ]
+      }
+    ]
+  },
+  "started": 1792457506.1114569,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 27.013811826705933
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ad09_09_scene_resume",
+  "started": "2026-10-19T17:52:01-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_ad_v09_scene_resume.py\", line 5, in <module>\n    exec(compile(src,'ad_scene_resume','exec'))\n  File \"ad_scene_resume\", line 6, in <module>\nAssertionError\n",
+  "finished": "2026-10-19T17:52:01-0700"
+}

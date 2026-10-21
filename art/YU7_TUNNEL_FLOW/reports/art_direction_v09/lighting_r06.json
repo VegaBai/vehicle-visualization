@@ -1,0 +1,28 @@
+{
+  "reason": "r05 first-frame roof/hood white areas too dominant; reduce light energy and shift key forward",
+  "lights": {
+    "YU7_AD_ShapingKey": [
+      2300.0,
+      0.6
+    ],
+    "YU7_AD_FarRim": [
+      1400.0,
+      0.6
+    ],
+    "YU7_Tunnel_RoofFill": [
+      8000.0,
+      0.35
+    ],
+    "YU7_Tunnel_SideFill": [
+      10000.0,
+      0.45
+    ],
+    "YU7_Tunnel_FrontFill": [
+      18000.0,
+      0.6
+    ]
+  },
+  "ceiling_lumens": 6000,
+  "ceiling_specular_scale": 0.2,
+  "paint_glass_exposure_unchanged": true
+}

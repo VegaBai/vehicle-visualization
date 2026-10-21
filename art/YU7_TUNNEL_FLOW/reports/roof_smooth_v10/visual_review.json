@@ -1,0 +1,63 @@
+{
+  "version": "RoofSmooth_v10",
+  "method": "Native still and all-frame contact-sheet inspection; not realtime player viewing or human approval",
+  "keyframes_4K": {
+    "frames": [
+      96,
+      122,
+      163
+    ],
+    "inspected": true,
+    "findings": [
+      "Two short windshield/roof kinks are absent in matched frame 96 native-pixel comparison.",
+      "Continuous long arcs across windshield, radar and roof.",
+      "Unchanged light pulses and grid handoff remain visible at 122 and 163."
+    ]
+  },
+  "previs_1080p": {
+    "frames_covered": [
+      0,
+      287
+    ],
+    "contact_sheets_inspected": 12,
+    "roof_detail_strip_starts": [
+      84,
+      156,
+      216
+    ],
+    "findings": [
+      "No recurring localized corner in the revised roof lines.",
+      "Smooth native WPO shapes across neighboring frames.",
+      "Full rear-door grid retained.",
+      "Effects absent throughout frames 264\u2013287."
+    ]
+  },
+  "final_4K": {
+    "status": "Complete: native render, visual inspection, full PNG and MP4 decode passed",
+    "frames_covered": [
+      0,
+      287
+    ],
+    "contact_sheets_inspected": 12,
+    "roof_detail_strip_starts": [
+      84,
+      156,
+      216
+    ],
+    "findings": [
+      "Original windshield/roof short corners remain absent in the delivered 4K frame sequence.",
+      "All-frame contact sheets show continuous reveal, handoff and fade with no whole-frame obstruction.",
+      "Complete rear-door grid remains; final 24 frames are clean."
+    ],
+    "native_render_seconds": 679.431736946106,
+    "full_resolution_final_frames_inspected": [
+      96
+    ],
+    "validation_report": "Final_r03_4K_validation.json"
+  },
+  "comparison": "renders/YU7_TunnelFlow/RoofSmooth_v10/RoofCurve_Before_After.png",
+  "limitations": [
+    "Authored illustrative curves; not CFD.",
+    "96 Hz geometry sampling is not a continuous collision guarantee."
+  ]
+}

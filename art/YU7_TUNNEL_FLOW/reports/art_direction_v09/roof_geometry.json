@@ -1,0 +1,53 @@
+{
+  "lanes": [
+    {
+      "lane": 0,
+      "y_center_m": -0.62,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 1,
+      "y_center_m": -0.4,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 2,
+      "y_center_m": -0.17,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 3,
+      "y_center_m": 0.06,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 4,
+      "y_center_m": 0.28,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 5,
+      "y_center_m": 0.47,
+      "radius_m": 0.0026,
+      "role": "primary"
+    },
+    {
+      "lane": 6,
+      "y_center_m": 0.65,
+      "radius_m": 0.0026,
+      "role": "primary"
+    }
+  ],
+  "vertices": 46242,
+  "triangles": 92400,
+  "original_objects_preserved": 121,
+  "status": "Geometry authored; clearance and rendered motion pending",
+  "body_u": "(2.49-x)/4.98; roof UV.x=(3.5-x)/11",
+  "illustrative_not_CFD": true,
+  "subsequent_mapping_correction": "Creation-time body_u was a bbox approximation. Actual imported grid/surface UV is (2.5-x)/5; native roof graph uses exactly equivalent 2.2*roof_U-0.2. See effects_applied.json and README_AD_v09.txt. No geometry changed by this metadata correction."
+}

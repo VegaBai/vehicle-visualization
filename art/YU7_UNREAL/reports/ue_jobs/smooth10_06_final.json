@@ -1,0 +1,14 @@
+{
+  "id": "smooth10_06_final",
+  "started": "2026-10-19T21:50:13-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Final_r03_4K",
+      "width": 3840,
+      "height": 2160,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-10-19T21:50:13-0700"
+}

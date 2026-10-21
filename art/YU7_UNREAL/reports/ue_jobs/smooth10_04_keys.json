@@ -1,0 +1,19 @@
+{
+  "id": "smooth10_04_keys",
+  "started": "2026-10-19T21:44:30-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Keyframes_r01_4K",
+      "width": 3840,
+      "height": 2160,
+      "temporal": 8,
+      "frames": [
+        96,
+        122,
+        163
+      ]
+    }
+  },
+  "finished": "2026-10-19T21:44:30-0700"
+}

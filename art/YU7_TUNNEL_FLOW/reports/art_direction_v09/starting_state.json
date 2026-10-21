@@ -1,0 +1,955 @@
+{
+  "world": "/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow.Studio_YU7_TunnelFlow",
+  "rendering": false,
+  "dirty_maps": [],
+  "dirty_content": [],
+  "v09_exists": false,
+  "actors": {
+    "YU7_Tunnel_WorldWake": [
+      {
+        "name": "StaticMeshComponent0",
+        "class": "StaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B048F53D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B048F53D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelWorldWake.M_TunnelWorldWake"
+        ]
+      }
+    ],
+    "YU7_Tunnel_Haze": [
+      {
+        "name": "Sprite",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B148E41D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B148E41D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "HeightFogComponent0",
+        "class": "ExponentialHeightFogComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B0B2576580) {x: 0.000000, y: 0.000000, z: -100.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B0B2576598) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      }
+    ],
+    "YU7_Tunnel_Architecture": [
+      {
+        "name": "DefaultSceneRoot",
+        "class": "SceneComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B0725C9D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B0725C9D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_33",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE21680) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE21698) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "Tunnel_Wall",
+        "class": "InstancedStaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B072AF7980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B072AF7998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelWall.M_TunnelWall"
+        ],
+        "instances": 5
+      },
+      {
+        "name": "Tunnel_Ribs",
+        "class": "InstancedStaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B072AF9180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B072AF9198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelRibs.M_TunnelRibs"
+        ],
+        "instances": 290
+      },
+      {
+        "name": "Tunnel_Road",
+        "class": "InstancedStaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B0724C0180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B0724C0198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelRoad.M_TunnelRoad"
+        ],
+        "instances": 1
+      },
+      {
+        "name": "Tunnel_Strip",
+        "class": "InstancedStaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B0724CF180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B0724CF198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelStrip.M_TunnelStrip"
+        ],
+        "instances": 128
+      },
+      {
+        "name": "Tunnel_Cyan",
+        "class": "InstancedStaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B0724CA980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B0724CA998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelCyan.M_TunnelCyan"
+        ],
+        "instances": 2
+      },
+      {
+        "name": "Tunnel_Lane",
+        "class": "InstancedStaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B0724C1980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B0724C1998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelLane.M_TunnelLane"
+        ],
+        "instances": 2
+      },
+      {
+        "name": "CeilingLight_5500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B992AB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B992980) {x: 5200.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B992998) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_34",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE20F80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE20F98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_4500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99D4B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99D380) {x: 4200.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99D398) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_35",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE20880) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE20898) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_3500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9993B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B999280) {x: 3200.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B999298) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_36",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE20180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE20198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_2500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9961B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B996080) {x: 2200.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B996098) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_37",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE2B080) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE2B098) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_1500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99B1B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99B080) {x: 1200.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99B098) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_38",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE29B80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE29B98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B993EB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B993D80) {x: 200.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B993D98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_39",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE2E180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE2E198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B997AB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B997980) {x: -800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B997998) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_40",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE25580) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE25598) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N1500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9920B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B991F80) {x: -1800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B991F98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_41",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE2D380) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE2D398) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N2500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B997FB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B997E80) {x: -2800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B997E98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_42",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE2A980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE2A998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N3500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B995CB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B995B80) {x: -3800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B995B98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_43",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D4080) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D4098) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N4500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99CAB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99C980) {x: -4800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99C998) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_44",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D3980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D3998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N5500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9975B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B997480) {x: -5800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B997498) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_45",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D4780) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D4798) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N6500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B990CB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B990B80) {x: -6800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B990B98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_46",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8DA980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8DA998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N7500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9984B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B998380) {x: -7800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B998398) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_47",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8DBE80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8DBE98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N8500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B998EB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B998D80) {x: -8800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B998D98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_48",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D6A80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D6A98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N9500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9934B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B993380) {x: -9800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B993398) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_49",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D0180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D0198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N10500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99FCB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99FB80) {x: -10800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99FB98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_50",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D0880) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D0898) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N11500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9943B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B994280) {x: -11800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B994298) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_51",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D0F80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D0F98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N12500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9998B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B999780) {x: -12800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B999798) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_52",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8DB080) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8DB098) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N13500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B999DB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B999C80) {x: -13800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B999C98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_53",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D1D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D1D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N14500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9966B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B996580) {x: -14800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B996598) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_54",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D1680) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D1698) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N15500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99CFB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99CE80) {x: -15800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99CE98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_55",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D3280) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D3298) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N16500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99BBB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99BA80) {x: -16800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99BA98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_56",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D2B80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D2B98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N17500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9902B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B990180) {x: -17800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B990198) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_57",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F8D2480) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F8D2498) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N18500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9939B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B993880) {x: -18800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B993898) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_58",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F96EF80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F96EF98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N19500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99DEB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99DD80) {x: -19800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99DD98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_59",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F96E180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F96E198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N20500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B99E3B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B99E280) {x: -20800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B99E298) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_60",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F96F680) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F96F698) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N21500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9916B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B991580) {x: -21800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B991598) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_61",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FB73280) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FB73298) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N22500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07B9925B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07B992480) {x: -22800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07B992498) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_62",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FB74080) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FB74098) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N23500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07C4D70B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07C4D6F80) {x: -23800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07C4D6F98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_63",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FB74780) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FB74798) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N24500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07C4D6BB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07C4D6A80) {x: -24800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07C4D6A98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_64",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FB74E80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FB74E98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "CeilingLight_N25500",
+        "class": "RectLightComponent",
+        "intensity": "42000.0",
+        "source_width": "650.0",
+        "source_height": "450.0",
+        "specular_scale": "1.0",
+        "light_color": "<Struct 'Color' (0x000002B07C4D5CB8) {b: 255, g: 255, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07C4D5B80) {x: -25800.000000, y: 0.000000, z: 560.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07C4D5B98) {pitch: 0.000000, yaw: 0.000000, roll: -90.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_65",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FB73980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FB73998) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      }
+    ],
+    "YU7_Tunnel_SurfaceFlow": [
+      {
+        "name": "StaticMeshComponent0",
+        "class": "StaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B048F52980) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B048F52998) {pitch: 0.000000, yaw: 0.000000, roll: -0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelSurfaceFlow.M_TunnelSurfaceFlow"
+        ]
+      }
+    ],
+    "YU7_Tunnel_FrontFill": [
+      {
+        "name": "LightComponent0",
+        "class": "RectLightComponent",
+        "intensity": "28000.0",
+        "source_width": "500.0",
+        "source_height": "240.0",
+        "specular_scale": "0.6000000238418579",
+        "light_color": "<Struct 'Color' (0x000002B07AF207B8) {b: 255, g: 247, r: 230, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07AF20680) {x: 400.000000, y: -420.000000, z: 240.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07AF20698) {pitch: -17.223107, yaw: 125.537678, roll: -0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_0",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE7E880) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE7E898) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      }
+    ],
+    "YU7_Tunnel_SideFill": [
+      {
+        "name": "LightComponent0",
+        "class": "RectLightComponent",
+        "intensity": "18000.0",
+        "source_width": "700.0",
+        "source_height": "160.0",
+        "specular_scale": "0.6000000238418579",
+        "light_color": "<Struct 'Color' (0x000002B07AF23EB8) {b: 247, g: 255, r: 217, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07AF23D80) {x: 0.000000, y: -480.000000, z: 250.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07AF23D98) {pitch: -18.970408, yaw: 90.000000, roll: -0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_0",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE7E180) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE7E198) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      }
+    ],
+    "YU7_Tunnel_RoofFill": [
+      {
+        "name": "LightComponent0",
+        "class": "RectLightComponent",
+        "intensity": "30000.0",
+        "source_width": "500.0",
+        "source_height": "300.0",
+        "specular_scale": "0.6000000238418579",
+        "light_color": "<Struct 'Color' (0x000002B07AF2E8B8) {b: 230, g: 247, r: 255, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07AF2E780) {x: -0.000000, y: 140.000000, z: 520.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07AF2E798) {pitch: -74.931512, yaw: -90.000000, roll: 0.000001}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_0",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE28680) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE28698) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      }
+    ],
+    "YU7_Tunnel_ScanLight_R": [
+      {
+        "name": "LightComponent0",
+        "class": "PointLightComponent",
+        "intensity": "0.0",
+        "specular_scale": "0.05000000074505806",
+        "light_color": "<Struct 'Color' (0x000002B07AF2A7B8) {b: 255, g: 204, r: 64, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07AF2A680) {x: 200.000000, y: 103.000000, z: 100.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07AF2A698) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_0",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE28D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE28D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      }
+    ],
+    "YU7_Tunnel_ScanLight_L": [
+      {
+        "name": "LightComponent0",
+        "class": "PointLightComponent",
+        "intensity": "0.0",
+        "specular_scale": "0.05000000074505806",
+        "light_color": "<Struct 'Color' (0x000002B07AF29DB8) {b: 255, g: 204, r: 64, a: 255}>",
+        "relative_location": "<Struct 'Vector' (0x000002B07AF29C80) {x: 200.000000, y: -103.000000, z: 100.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B07AF29C98) {pitch: 0.000000, yaw: 180.000000, roll: -0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_0",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FE29480) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FE29498) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      }
+    ],
+    "YU7_Tunnel_RoofAirflow": [
+      {
+        "name": "DefaultSceneRoot",
+        "class": "SceneComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13F572580) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13F572598) {pitch: 0.000000, yaw: 0.000000, roll: -0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False"
+      },
+      {
+        "name": "BillboardComponent_1",
+        "class": "BillboardComponent",
+        "relative_location": "<Struct 'Vector' (0x000002B13FB71D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002B13FB71D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "True"
+      },
+      {
+        "name": "RoofAirflow",
+        "class": "StaticMeshComponent",
+        "relative_location": "<Struct 'Vector' (0x000002AFCBBF8D80) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+        "relative_rotation": "<Struct 'Rotator' (0x000002AFCBBF8D98) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+        "visible": "True",
+        "hidden_in_game": "False",
+        "materials": [
+          "/Game/YU7/TunnelFlow/Materials/M_TunnelRoofAirflow_Pulse_v02.M_TunnelRoofAirflow_Pulse_v02"
+        ]
+      }
+    ]
+  }
+}

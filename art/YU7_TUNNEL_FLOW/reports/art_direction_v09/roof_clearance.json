@@ -1,0 +1,18 @@
+{
+  "minimum_clearance_m": 0.1345822170972824,
+  "static_minimum_clearance_m": 0.15903417325019836,
+  "worst_sample": {
+    "lane": 3,
+    "x_m": 0.25999999046325684,
+    "time_seconds": 8.947916666666666
+  },
+  "samples": 3010483,
+  "sample_rate_hz": 96,
+  "spatial_step_m": 0.02,
+  "other_spatial_step_m": 0.05,
+  "maximum_offset_cm": 17.92232833856234,
+  "WPO_cap_cm": 25,
+  "includes": "All 121 original meshes including glass, antenna, radar and spoiler; closest triangle distance minus tube radius",
+  "continuous_collision_guarantee": false,
+  "duration_seconds": 15.583621263504028
+}

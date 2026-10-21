@@ -1,0 +1,70 @@
+{
+  "id": "ad09_05_effects",
+  "started": "2026-10-19T17:50:08-0700",
+  "status": "success",
+  "result": {
+    "native_graph_nodes": {
+      "M_TunnelGrid_AD_v09": 42,
+      "M_TunnelSurfaceFlow_AD_v09": 81,
+      "M_TunnelWorldWake_AD_v09": 35,
+      "M_TunnelRoofAirflow_Pulse_v02_AD_v09": 216
+    },
+    "body_progress": "grid/surface: (2.5-local_x_m)/5; roof: 2.2*UV.x-.2",
+    "head_frames": [
+      114,
+      204
+    ],
+    "grid_frames": [
+      122,
+      212
+    ],
+    "fade_complete_before_frame": 264,
+    "lane_bounds": [
+      {
+        "component": "AirflowLane0",
+        "local_center": "<Struct 'Vector' (0x000002B01DE368B0) {x: -199.998657, y: 67.037092, z: 152.505402}>",
+        "world_center_y": -67.03709220886228,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane0.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane0"
+      },
+      {
+        "component": "AirflowLane1",
+        "local_center": "<Struct 'Vector' (0x000002B01DE4B080) {x: -199.999084, y: 43.249739, z: 146.964699}>",
+        "world_center_y": -43.2497386932373,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane1.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane1"
+      },
+      {
+        "component": "AirflowLane2",
+        "local_center": "<Struct 'Vector' (0x000002AFE8DC68B0) {x: -199.999573, y: 18.381158, z: 143.834602}>",
+        "world_center_y": -18.381157875061046,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane2.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane2"
+      },
+      {
+        "component": "AirflowLane3",
+        "local_center": "<Struct 'Vector' (0x000002B01DE368B0) {x: -200.000000, y: -6.487408, z: 142.755405}>",
+        "world_center_y": 6.4874079227447226,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane3.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane3"
+      },
+      {
+        "component": "AirflowLane4",
+        "local_center": "<Struct 'Vector' (0x000002B01DE4ACC0) {x: -200.000275, y: -30.274737, z: 143.584602}>",
+        "world_center_y": 30.274737358093223,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane4.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane4"
+      },
+      {
+        "component": "AirflowLane5",
+        "local_center": "<Struct 'Vector' (0x000002AFE8DC68B0) {x: -200.000656, y: -50.818209, z: 146.714725}>",
+        "world_center_y": 50.81820869445796,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane5.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane5"
+      },
+      {
+        "component": "AirflowLane6",
+        "local_center": "<Struct 'Vector' (0x000002B01DE368B0) {x: -200.000443, y: -70.280556, z: 152.005428}>",
+        "world_center_y": 70.28055572509757,
+        "mesh": "/Game/YU7/TunnelFlow/ArtDirection_v09/Meshes/Roof_AD_v09/YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane6.YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane6"
+      }
+    ],
+    "minimum_sampled_clearance_m": 0.1345822170972824,
+    "visual_validation": "pending"
+  },
+  "finished": "2026-10-19T17:50:19-0700"
+}

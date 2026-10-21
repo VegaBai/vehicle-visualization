@@ -1,0 +1,26 @@
+{
+  "version": "ArtDirection_v09",
+  "review_basis": "Agent visual inspection of all-frame contact sheets, selected native-resolution frames and roof detail strips; complete PNG/MP4 decoding is recorded separately. No claim of realtime player viewing or human approval.",
+  "sequences_reviewed": [
+    {"name": "Previs_r07_720p", "frame_range_inclusive": [0, 287], "contact_sheets_viewed": 12},
+    {"name": "Previs_r08_1080p", "frame_range_inclusive": [0, 287], "contact_sheets_viewed": 12},
+    {"name": "Final_r10_4K", "frame_range_inclusive": [0, 287], "contact_sheets_viewed": 12}
+  ],
+  "native_4K_preflight_frames_viewed": [24, 96, 122, 163, 222, 269, 287],
+  "observations": {
+    "lighting": "Mineral-teal dark areas remain; shoulder highlight is narrower than the v08 diagnostic baseline. Local bright windshield and side-window reflections remain visible. Glass and paint materials were preserved.",
+    "airflow": "Two near-side white primary paths are distinguishable from thinner cyan secondary paths. Perspective intersections remain near the windshield; no dense repeated weaving was apparent in inspected frame sequences. Auxiliary paths are intentionally dimmer during scanning.",
+    "scan": "Only one front-to-rear grid build is visible. Nose startup occurs after the clean pre-scan frames. Full rear-door and mirror-shell geometry remains visible at completion and climax.",
+    "environment": "The coarse black lane bars identified in diagnostics are absent. Road and tyre contact remain readable; no wall or rib occlusion was visible in the reviewed frames.",
+    "camera": "Same-side orbit keeps the vehicle in frame; relative orbit slows around 9–9.5 seconds while vehicle and wheels continue moving. The ending stays on the clean vehicle.",
+    "ending": "Effects fade without a second bright scan. Frames264–287 show the mineral-teal vehicle without grid/roof/world-wake effects; frames269 and287 are unobstructed."
+  },
+  "geometric_evidence": ["roof_clearance.json", "camera_clearance.json"],
+  "native_persistence_evidence": "scene_audit.json and successful ad09_22_final_audit job; editor MapCheck0 errors/0 warnings",
+  "limits": [
+    "Contact-sheet inspection does not substitute for a human realtime playback review of subtle temporal shimmer.",
+    "The authored surface-flow grid and airflow are illustrative, not recovered source topology or CFD.",
+    "New paint finishes await user reference images; this shot is silent.",
+    "Application Credits UI and packaged/new-machine validation remain pending final project delivery."
+  ]
+}

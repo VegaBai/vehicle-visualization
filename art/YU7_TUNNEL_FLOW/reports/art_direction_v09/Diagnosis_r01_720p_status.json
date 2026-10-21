@@ -1,0 +1,69 @@
+{
+  "request": {
+    "name": "Diagnosis_r01_720p",
+    "height": 720,
+    "cases": [
+      {
+        "case": "CleanBaseline",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_CleanBaseline",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_CleanBaseline",
+        "frames": [
+          24,
+          228
+        ]
+      },
+      {
+        "case": "NoFront",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoFront",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoFront",
+        "frames": [
+          24,
+          228
+        ]
+      },
+      {
+        "case": "NoSide",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoSide",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoSide",
+        "frames": [
+          24,
+          228
+        ]
+      },
+      {
+        "case": "NoRoof",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRoof",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRoof",
+        "frames": [
+          24,
+          228
+        ]
+      },
+      {
+        "case": "NoCeiling",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoCeiling",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoCeiling",
+        "frames": [
+          24,
+          228
+        ]
+      },
+      {
+        "case": "NoRibs",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoRibs",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoRibs",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ],
+    "temporal": 8,
+    "width": 1280
+  },
+  "started": 1792457264.0053554,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 31.95133876800537
+}

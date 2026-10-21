@@ -1,0 +1,45 @@
+{
+  "native_resolution": [
+    3840,
+    2160
+  ],
+  "temporal_samples": 8,
+  "all_png_decoded": true,
+  "frames": [
+    {
+      "frame": 24,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0024.png",
+      "sha256": "1f2ac5b6861e7066f612a5b5f90d17d240ae27b55a7daaf19f77105bbf8d1080"
+    },
+    {
+      "frame": 96,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0096.png",
+      "sha256": "8a3a585bf16af2a19e4462f96dbc1b4567f938777adfbb9afce7b138340d700e"
+    },
+    {
+      "frame": 122,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0122.png",
+      "sha256": "6afe03f228b2ef39af020f2ffd31d38284c33aeac9fbe27ce32af7285f2b8697"
+    },
+    {
+      "frame": 163,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0163.png",
+      "sha256": "13502e4fa212438b239dca2177ca427ab2154e279b30aadabf756b0eb50e2802"
+    },
+    {
+      "frame": 222,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0222.png",
+      "sha256": "8f516a6b3299879e485ee6d72a4c0bf15127309c2a0f656b1eba663d2d491c22"
+    },
+    {
+      "frame": 269,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0269.png",
+      "sha256": "b0a0469d81cf8c3443847a62b7a600c3d92e783d65b057ddbd8626d1fb6e298d"
+    },
+    {
+      "frame": 287,
+      "path": "renders/YU7_TunnelFlow/ArtDirection_v09/Keyframes_r09_4K/Keyframes_r09_4K_0287.png",
+      "sha256": "724df9826960ab0c5a8e0cce48c32d9973bc3c212fb56245bff40d70feb1b334"
+    }
+  ]
+}

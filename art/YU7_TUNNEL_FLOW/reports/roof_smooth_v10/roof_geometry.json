@@ -1,0 +1,105 @@
+{
+  "method": "Gaussian profile smoothing with linear endpoint extension, no local surface clamp",
+  "sigma_m": 0.35,
+  "uniform_lift_m": 0.025,
+  "lanes": [
+    {
+      "lane": 0,
+      "y_center_m": -0.62,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 1,
+      "y_center_m": -0.4,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 2,
+      "y_center_m": -0.17,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 3,
+      "y_center_m": 0.06,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 4,
+      "y_center_m": 0.28,
+      "radius_m": 0.0015,
+      "role": "secondary"
+    },
+    {
+      "lane": 5,
+      "y_center_m": 0.47,
+      "radius_m": 0.0026,
+      "role": "primary"
+    },
+    {
+      "lane": 6,
+      "y_center_m": 0.65,
+      "radius_m": 0.0026,
+      "role": "primary"
+    }
+  ],
+  "curvature_metrics": [
+    {
+      "lane": 0,
+      "before_max_abs_z_second_derivative_per_m": 1.583099365234375,
+      "after_max_abs_z_second_derivative_per_m": 0.47998389684611453,
+      "min_height_change_m": -0.014784899364033155,
+      "max_height_change_m": 0.06628437033492429
+    },
+    {
+      "lane": 1,
+      "before_max_abs_z_second_derivative_per_m": 1.5807151794433594,
+      "after_max_abs_z_second_derivative_per_m": 0.47998373122970506,
+      "min_height_change_m": -0.0147848477430641,
+      "max_height_change_m": 0.06003028402729016
+    },
+    {
+      "lane": 2,
+      "before_max_abs_z_second_derivative_per_m": 62.241554260253906,
+      "after_max_abs_z_second_derivative_per_m": 0.48774102828552657,
+      "min_height_change_m": -0.03011007167880675,
+      "max_height_change_m": 0.05468605154834183
+    },
+    {
+      "lane": 3,
+      "before_max_abs_z_second_derivative_per_m": 75.05655288696289,
+      "after_max_abs_z_second_derivative_per_m": 0.484322682900995,
+      "min_height_change_m": -0.02269418211583063,
+      "max_height_change_m": 0.04974851830207028
+    },
+    {
+      "lane": 4,
+      "before_max_abs_z_second_derivative_per_m": 26.056766510009766,
+      "after_max_abs_z_second_derivative_per_m": 0.4788562876600899,
+      "min_height_change_m": -0.014600231479505732,
+      "max_height_change_m": 0.0557054877151244
+    },
+    {
+      "lane": 5,
+      "before_max_abs_z_second_derivative_per_m": 1.5807151794433594,
+      "after_max_abs_z_second_derivative_per_m": 0.4799837312408073,
+      "min_height_change_m": -0.014784847741915241,
+      "max_height_change_m": 0.06060938359053436
+    },
+    {
+      "lane": 6,
+      "before_max_abs_z_second_derivative_per_m": 1.6438961029052734,
+      "after_max_abs_z_second_derivative_per_m": 0.4799838968105874,
+      "min_height_change_m": -0.014784899363123438,
+      "max_height_change_m": 0.0677591431944562
+    }
+  ],
+  "triangles": 92400,
+  "original_objects_preserved": 121,
+  "WPO_unchanged": true,
+  "illustrative_not_CFD": true,
+  "status": "Authored; distance and native render pending"
+}

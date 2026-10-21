@@ -1,0 +1,111 @@
+{
+  "previous_metadata": "",
+  "credits_restored": true,
+  "native_time_and_translation_samples": [
+    {
+      "frame": 0,
+      "mpc_seconds": 0.0,
+      "hero_world_x_cm": 0.0,
+      "expected_x_cm": 0.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -729.045349, y: 510.483032, z: 110.000000}>"
+    },
+    {
+      "frame": 24,
+      "mpc_seconds": 1.0,
+      "hero_world_x_cm": -1500.0,
+      "expected_x_cm": -1500.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -2178.437500, y: 532.784790, z: 113.417015}>"
+    },
+    {
+      "frame": 35,
+      "mpc_seconds": 1.4583333730697632,
+      "hero_world_x_cm": -2187.5,
+      "expected_x_cm": -2187.5,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -2842.150391, y: 539.829834, z: 115.015778}>"
+    },
+    {
+      "frame": 36,
+      "mpc_seconds": 1.5,
+      "hero_world_x_cm": -2250.0,
+      "expected_x_cm": -2250.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -2902.486084, y: 540.413940, z: 115.161392}>"
+    },
+    {
+      "frame": 96,
+      "mpc_seconds": 4.0,
+      "hero_world_x_cm": -6000.0,
+      "expected_x_cm": -6000.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -6527.944824, y: 584.251160, z: 123.524612}>"
+    },
+    {
+      "frame": 114,
+      "mpc_seconds": 4.75,
+      "hero_world_x_cm": -7125.0,
+      "expected_x_cm": -7125.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -7617.642090, y: 611.249084, z: 125.738342}>"
+    },
+    {
+      "frame": 122,
+      "mpc_seconds": 5.083333492279053,
+      "hero_world_x_cm": -7625.0,
+      "expected_x_cm": -7625.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -8100.678223, y: 624.894897, z: 126.788597}>"
+    },
+    {
+      "frame": 163,
+      "mpc_seconds": 6.791666507720947,
+      "hero_world_x_cm": -10187.5,
+      "expected_x_cm": -10187.5,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -10552.047852, y: 701.906982, z: 132.276947}>"
+    },
+    {
+      "frame": 204,
+      "mpc_seconds": 8.5,
+      "hero_world_x_cm": -12750.0,
+      "expected_x_cm": -12750.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -12944.747070, y: 781.088074, z: 135.000000}>"
+    },
+    {
+      "frame": 212,
+      "mpc_seconds": 8.833333015441895,
+      "hero_world_x_cm": -13250.0,
+      "expected_x_cm": -13250.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -13387.658203, y: 808.593201, z: 135.000000}>"
+    },
+    {
+      "frame": 222,
+      "mpc_seconds": 9.25,
+      "hero_world_x_cm": -13875.0,
+      "expected_x_cm": -13875.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -13975.226562, y: 818.889221, z: 135.000000}>"
+    },
+    {
+      "frame": 240,
+      "mpc_seconds": 10.0,
+      "hero_world_x_cm": -15000.0,
+      "expected_x_cm": -15000.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -15009.530273, y: 836.384460, z: 132.407410}>"
+    },
+    {
+      "frame": 264,
+      "mpc_seconds": 11.0,
+      "hero_world_x_cm": -16500.0,
+      "expected_x_cm": -16500.0,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -16287.108398, y: 853.860229, z: 125.000000}>"
+    },
+    {
+      "frame": 269,
+      "mpc_seconds": 11.208333015441895,
+      "hero_world_x_cm": -16812.5,
+      "expected_x_cm": -16812.5,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -16569.986328, y: 850.988708, z: 125.000000}>"
+    },
+    {
+      "frame": 287,
+      "mpc_seconds": 11.958333015441895,
+      "hero_world_x_cm": -17937.5,
+      "expected_x_cm": -17937.5,
+      "camera_world_location": "<Struct 'Vector' (0x000002B01DE49D70) {x: -17605.474609, y: 835.628967, z: 125.000000}>"
+    }
+  ]
+}

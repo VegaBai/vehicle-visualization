@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "Diagnosis_r02_NoFront",
+    "width": 1280,
+    "height": 720,
+    "temporal": 8,
+    "cases": [
+      {
+        "case": "NoFront",
+        "map": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Maps/Diag_NoFront",
+        "sequence": "/Game/YU7/TunnelFlow/ArtDirection_v09/Diagnostics/Sequences/LS_Diag_NoFront",
+        "frames": [
+          24,
+          228
+        ]
+      }
+    ]
+  },
+  "started": 1792457352.3176873,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 4.862417459487915
+}

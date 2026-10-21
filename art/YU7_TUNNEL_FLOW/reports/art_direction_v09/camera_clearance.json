@@ -1,0 +1,16 @@
+{
+  "sample_rate_hz": 96,
+  "samples": 1153,
+  "actual_visible_instance_boxes": 426,
+  "minimum_camera_to_geometry_cm": 69.23076469133525,
+  "worst_sample": {
+    "time": 11.15625,
+    "component": "Tunnel_Ribs",
+    "instance": 204
+  },
+  "line_of_sight_intersections": [],
+  "max_world_y_cm": 855.4864501135527,
+  "angle_monotonic": true,
+  "near_clip_clearance_target_cm": 50,
+  "method": "Oriented native mesh bounding boxes, exact linearly interpolated camera key positions; center sightline slab intersection. Rendering still required."
+}

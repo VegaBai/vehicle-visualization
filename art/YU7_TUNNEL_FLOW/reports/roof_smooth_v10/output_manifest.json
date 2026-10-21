@@ -1,0 +1,228 @@
+{
+  "version": "RoofSmooth_v10",
+  "validated_at": "2026-10-19T22:03:37.007140-07:00",
+  "final_audit_job": "smooth10_07_final_audit",
+  "map": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.Studio_YU7_TunnelFlow_Smooth_v10",
+  "runtime": "Native Blueprint, Sequencer, material nodes. No runtime Python/C++.",
+  "media": [
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/Previs_r02_1080p_12s.mp4",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "frames": 288,
+      "fps": 24,
+      "duration_seconds": 12,
+      "sha256": "fa5dfbae4aedc94c9d66c0aa46a90d8a6d863b135f81f1a7f3b47f3a1be7e1b7",
+      "exact_attribution_in_container": true,
+      "native_MRQ_seconds": 155.18100547790527
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/Final_r03_4K_12s.mp4",
+      "resolution": [
+        3840,
+        2160
+      ],
+      "frames": 288,
+      "fps": 24,
+      "duration_seconds": 12,
+      "sha256": "036db47cf4b741acfe803d25854a67d6019ccebd9b91d8d87db5b1d56338f4a4",
+      "exact_attribution_in_container": true,
+      "native_MRQ_seconds": 679.431736946106
+    }
+  ],
+  "stills": [
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/01_CleanPaint_Smooth_v10_4K.png",
+      "source_frame": 24,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "809b597dae30eb57adc602eedc1eda9b7479c539dcb91ba287ed44e4c3174ac7",
+      "unaltered_native_frame": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/02_SmoothAirflow_Smooth_v10_4K.png",
+      "source_frame": 96,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "4390b5247e5b6e5acab3e9aad6d386fe9015d3e821b623f3a57cb249a92bc423",
+      "unaltered_native_frame": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/03_ScanStart_Smooth_v10_4K.png",
+      "source_frame": 122,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "ae60a5eb81a69130b5f3b70c077897187635474a20470278cf5f71f29c265f1e",
+      "unaltered_native_frame": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/04_Handoff_Smooth_v10_4K.png",
+      "source_frame": 163,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "c928f2613295b5dd8733c7d82445a1e9e57c11d45c03a11d1a0ea0ee7bb1ea93",
+      "unaltered_native_frame": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/05_FullBodyClimax_Smooth_v10_4K.png",
+      "source_frame": 222,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "d207c649a72b74c218263c70416455e0e06bd56d9ca568895207a72a829f54e8",
+      "unaltered_native_frame": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/06_CleanExit_Smooth_v10_4K.png",
+      "source_frame": 269,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "69c481df978f373788a90bb5d6e962727ba6304774d9343368231068462a3cd8",
+      "unaltered_native_frame": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/07_FinalFrame_Smooth_v10_4K.png",
+      "source_frame": 287,
+      "size": [
+        3840,
+        2160
+      ],
+      "sha256": "c769b909407324ee6f4d57f2d48517e8f9d5a0155baa409ea1779f506cfb5d29",
+      "unaltered_native_frame": true
+    }
+  ],
+  "keyframe_preflight": [
+    {
+      "frame": 96,
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/Keyframes_r01_4K/Keyframes_r01_4K_0096.png",
+      "sha256": "19b9b2b0be14aa586f82d296f22d67b3fad243d20ba41f3c0562a087cedb236d"
+    },
+    {
+      "frame": 122,
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/Keyframes_r01_4K/Keyframes_r01_4K_0122.png",
+      "sha256": "5230143194661bd3bcc4af55193edb3d34c4a23e8f3581f76aba971d7f6768d5"
+    },
+    {
+      "frame": 163,
+      "path": "renders/YU7_TunnelFlow/RoofSmooth_v10/Keyframes_r01_4K/Keyframes_r01_4K_0163.png",
+      "sha256": "1ef7f73f2000c5b14294b62da1a6b50dc3f3b788da391ed034e75d82681ccb02"
+    }
+  ],
+  "protection": [
+    {
+      "snapshot": "art/YU7_TUNNEL_FLOW/reports/roof_smooth_v10/protected_before.json",
+      "unchanged": 658
+    },
+    {
+      "snapshot": "art/YU7_TUNNEL_FLOW/reports/art_direction_v09/protected_before.json",
+      "unchanged": 510
+    },
+    {
+      "snapshot": "art/YU7_TUNNEL_FLOW/reports/protected_before.json",
+      "unchanged": 420
+    },
+    {
+      "snapshot": "art/YU7_TUNNEL_FLOW/reports/pulse_protected_before.json",
+      "unchanged": 71
+    },
+    {
+      "snapshot": "art/YU7_TUNNEL_FLOW/reports/pulse_output_manifest_v08.json",
+      "unchanged": 13
+    }
+  ],
+  "minimum_sampled_clearance_m": 0.13684965229034424,
+  "map_check": {
+    "errors": 0,
+    "warnings": 0
+  },
+  "assets": [
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Blueprints/BP_TunnelRoofAirflow_Smooth_v10.uasset",
+      "sha256": "523d3793ae3ec1bf70626594ad9bfc8b41f969fa31cd3e879a4417c9e472497d"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane0.uasset",
+      "sha256": "d27e5255dbc68a02a60221ee17914bd6fa95673f1259dead918a720a6f5c2d1a"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane1.uasset",
+      "sha256": "e86c1f1ef0bd09001994996bf0accb7c4d37d569bd47859b537257c01fe62079"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane2.uasset",
+      "sha256": "aca833810e16e3e93bc7576cae9283bbcb127fe81304f19957e64c5dde1988c6"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane3.uasset",
+      "sha256": "dabe6e550501762f8b8a1aa0523e5f1fa8983b9d20d6c131849a0aeb87317cb4"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane4.uasset",
+      "sha256": "669b9784944903e774e3429e92291bf2c7a93083efff1a4f01ed202cdac6bd3b"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane5.uasset",
+      "sha256": "b6ac90aebf0d245148d35c4512a6da69e003696f9eac3b870bf83abc6aecb260"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane6.uasset",
+      "sha256": "86b193a8a5d492f76b8365a90fc0811d65eb29a740cb9a604cbf51b1fdc9afaa"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/RenderPresets/MRQ_Final_r03_4K_Shot_Motion.uasset",
+      "sha256": "1702ede0ee776e55dcc8a5b5d9735b8284b399a8e7ffd1bba3cb1ea5e396eb83"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/RenderPresets/MRQ_Keyframes_r01_4K_Shot_122.uasset",
+      "sha256": "1a9b5fd714c0d731314e841f6d548dd67fd1054765b363ae3baf1ea7a7da74e5"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/RenderPresets/MRQ_Keyframes_r01_4K_Shot_163.uasset",
+      "sha256": "e20c4320b7d436dc5fb578606289072c0c752e87244d5d7e522edff2be8662ee"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/RenderPresets/MRQ_Keyframes_r01_4K_Shot_96.uasset",
+      "sha256": "5be112f1551accc9278a805d43740889ad84b4af85febae7a9d3889746920bd0"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/RenderPresets/MRQ_Previs_r02_1080p_Shot_Motion.uasset",
+      "sha256": "2361ff6fd14e7f5d6d629659025607eab780aa263ee6fb267bf67c5973710440"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Sequences/LS_YU7_TunnelFlow_Smooth_v10_12s.uasset",
+      "sha256": "314d8d0d67385d09fc22f5221c68a48a7fb2939392a0f075127fdd60f372c91f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/TunnelFlow/RoofSmooth_v10/Maps/Studio_YU7_TunnelFlow_Smooth_v10.umap",
+      "sha256": "4e84f7c480ea946b1b71feb2e11b78e13ddb419a1b7d30457af40276c2608895"
+    },
+    {
+      "path": "art/YU7_TUNNEL_FLOW/prepared/YU7_RoofAirflow_Smooth_v10.blend",
+      "sha256": "6ae4e54683e281d169558ad31a4a09d4bac054176d496573895e541526774358"
+    },
+    {
+      "path": "art/YU7_TUNNEL_FLOW/prepared/YU7_RoofAirflow_Smooth_v10.fbx",
+      "sha256": "80e733089faa19ed27694de0f6f67397e30b09784c497235f908f2841c5fa8e8"
+    }
+  ],
+  "credits_sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb",
+  "limitations": [
+    "Image/contact-sheet review and complete decode; no claim of realtime player viewing.",
+    "Authored visual curves, not CFD or continuous collision guarantee.",
+    "Application Credits UI and packaged/new-machine tests remain final-project delivery work.",
+    "Silent shot; mineral-teal paint retained."
+  ]
+}

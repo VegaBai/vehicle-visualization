@@ -1,0 +1,14 @@
+{
+  "id": "smooth10_05_previs",
+  "started": "2026-10-19T21:46:55-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Previs_r02_1080p",
+      "width": 1920,
+      "height": 1080,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-10-19T21:46:55-0700"
+}
