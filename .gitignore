@@ -46,6 +46,7 @@ venv/
 /renders/YU7_TunnelFlow/RoofSmooth_v10/Final_*_4K/
 /renders/YU7_TunnelFlow/FinishShowcase_v11/Previs_*_1080p/
 /renders/YU7_TunnelFlow/FinishShowcase_v11/Final_*_4K/
+/renders/YU7_Itasha_v01/Test_*/
 
 # Local environment files and OS metadata.
 .env

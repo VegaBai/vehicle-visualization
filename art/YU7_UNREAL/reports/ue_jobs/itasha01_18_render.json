@@ -1,0 +1,25 @@
+{
+  "id": "itasha01_18_render",
+  "started": "2026-10-27T22:32:59-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "width": 1920,
+      "name": "Test_r07_Giyu",
+      "views": [
+        "Side",
+        "Beauty",
+        "Hood"
+      ],
+      "height": 1080,
+      "itasha": "Giyu",
+      "paint": "Mineral Teal"
+    },
+    "presets": [
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r07_Giyu_Side.MRQ_Test_r07_Giyu_Side",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r07_Giyu_Beauty.MRQ_Test_r07_Giyu_Beauty",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r07_Giyu_Hood.MRQ_Test_r07_Giyu_Hood"
+    ]
+  },
+  "finished": "2026-10-27T22:33:00-0700"
+}

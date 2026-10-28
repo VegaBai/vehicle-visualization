@@ -1,0 +1,615 @@
+{
+  "copied_blueprint": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle",
+  "templates": 121,
+  "all_bp_receivers_disabled": true,
+  "attached_children": 26,
+  "before": [
+    {
+      "name": "Part_001_carGlass_front_1",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_002_carLight_backbulb",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_003_carLight_bulb_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_004_carLightPlastic_MatteBlack_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_005_carBonnetLogoBase_body",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_006_carPaint_2",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_007_carPlastic_BrilliantBlack_3_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_008_carWindowTrim_3_1_",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_009_carPlastic_BrilliantBlack_1_6_3_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_010_carDuckTail",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_011_carLightGlass_Back_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_012_carXiaoMi_3_yu7",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_013_carPlastic_BrilliantBlack_3_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_014_carBonnetLogoFont_body",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_015_carMirror_bottom_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_016_carLight_bulb_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_017_carPlastic_MatteBlack_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_018_carPlastic_BrilliantBlack_2_3",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_019_carWindowTrim_3",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_020_carPlastic_BrilliantBlack_1_6_1_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_021_carInternal_PassengerSeatFront",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_022_carLightGlass_Front",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_023_carXiaoMi_3",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_024_carPlate",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_025_carPlastic_BrilliantBlack_1_6",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_026_carGlass_front_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_027_carLightPlastic_BrilliantBlack_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_028_carPaint_10",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_029_carInternal_TrunkInternal",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_030_carFrontBonnetNet",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_031_carRearviewMirror_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_032_carWheelLogoBase_ScuffPlate_Font",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_033_carWindowTrim_1_1_",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_034_carLight_bulb_3",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_035_carPlastic_BrilliantGray_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_036_carInternal_DoorBack_1_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_037_carInternal_CenterConsole_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_038_carPaint_4_1_",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_039_carWindowTrim_5",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_040_carPaint_2_1_",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_041_carPlastic_BrilliantBlack_3_3",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_042_carInternal_SteeringWheel_Bottom",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_043_carInternal_TrunkExternal",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_044_carInternal_Roof",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_045_carPaint_13",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_046_carPlastic_MatteBlack_1_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_047_carGlass_front_2_Side_2_1_",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_048_carHoodOutletWisp",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_049_carGlass_back_2_Side",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_050_carPlastic_BrilliantBlack_2_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_051_carLightPlastic_MatteBlack",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_052_carInternal_Dashboard",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_053_carInternal_DoorFront",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_054_carPlastic_BrilliantBlack_1_6_2_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_055_carRoof_yu7",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_056_carInternal_Frame_Top_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_057_carGlass_back_2_Side_1_1_",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_058_carPaint_4",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_059_carMirror_top_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_060_carPaint_1",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_061_carInternal_SteeringWheel_Top_4",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_062_scuffPlate_Base_scuffPlate_Base_lambert277",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_063_carInternal_CenterConsole_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_064_carHoodOutletPanel",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_065_carInternal_DoorFront_1_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_066_carMirror_top_2_1_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_067_carInternal_Frame_Bottom",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_068_carPaint_9",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_069_carPlastic_MatteBlack_2_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_070_carRoofSpoiler",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_071_carMirror_bottom_2_1_",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_072_carInternal_DoorBack",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_073_carRearviewMirror_3",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_074_carGlass_back_2_Side_1",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_075_carGlass_front_2_Side_2",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_076_carGlass_back_1",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_077_carLightPlastic_BrilliantBlack_3",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_078_carPlastic_BrilliantBlack_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_079_carPaint_8",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_080_carWindowTrim_1",
+      "receives_decals": true,
+      "visible": false
+    },
+    {
+      "name": "Part_081_carHeaterStrip",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_082_carPlastic_BrilliantBlack_1_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_083_carLightGlass_Back_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_084_carInternal_PassengerSeatBack",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_085_carHeadLampPanel",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_086_carBackDrop",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_087_carXiaoMi_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_088_carInternal_SteeringWheel_Top_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_089_carPlastic_MatteBlack_trunk_9",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_090_carWheelLogoFont_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_091_carTyre_02",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_092_carWheelLogoBase_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_093_carWheelAirVent_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_094_carWheelHub_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_095_carWheelRim_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_096_carWheelLogoFont_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_097_carTyre_02",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_098_carWheelLogoBase_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_099_carWheelAirVent_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_100_carWheelHub_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_101_carWheelRim_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_102_carWheelLogoFont_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_103_carTyre_02",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_104_carWheelLogoBase_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_105_carWheelAirVent_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_106_carWheelHub_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_107_carWheelRim_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_108_carWheelLogoFont_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_109_carTyre_02",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_110_carWheelLogoBase_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_111_carWheelAirVent_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_112_carWheelHub_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_113_carWheelRim_ACAL09",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_114_carBrakeDisc_Back_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_115_carBrakeDisc_Back",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_116_carCaliper_MainBack",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_117_carCaliper_Screw_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_118_carBrakeDisc_Front_2",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_119_carBrakeDisc_Front",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_120_carCaliper_MainFront_1",
+      "receives_decals": true,
+      "visible": true
+    },
+    {
+      "name": "Part_121_carCaliper_PartFront_1",
+      "receives_decals": true,
+      "visible": true
+    }
+  ],
+  "side_roll": 90,
+  "visual_check": "pending"
+}

@@ -1,0 +1,70 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "itasha": "None",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Mineral Teal",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "validation_driver": "editor Python only; native Blueprint inherited methods execute switching",
+  "world": "/Game/YU7/Itasha_v01/Maps/UEDPIE_0_Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01",
+  "blueprint_class": "BP_YU7_ItashaOptions_C",
+  "nonpaint_receivers_disabled": true
+}

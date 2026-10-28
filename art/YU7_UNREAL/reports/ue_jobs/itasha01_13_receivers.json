@@ -1,0 +1,7 @@
+{
+  "id": "itasha01_13_receivers",
+  "started": "2026-10-27T22:28:39-0700",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_editor_jobs.py\", line 54, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_itasha_v01_receiver_fix.py\", line 21, in <module>\n    assert count==121;assert unreal.BlueprintEditorLibrary.compile_blueprint(bp);assert E.save_loaded_asset(bp)\n           ^^^^^^^^^^\nAssertionError\n",
+  "finished": "2026-10-27T22:28:39-0700"
+}

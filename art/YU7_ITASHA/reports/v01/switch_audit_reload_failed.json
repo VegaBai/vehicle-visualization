@@ -1,0 +1,11 @@
+{
+  "status": "failed",
+  "cases": [],
+  "errors": [
+    "Traceback (most recent call last):\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_itasha_v01_audit.py\", line 41, in tick\n    assert manager.switch_on_variant_by_name('Itasha',choice);assert manager.switch_on_variant_by_name('Paint',paint);pending[0]=(choice,paint)\n    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n"
+  ],
+  "active_meshes": 121,
+  "attached_decals": 5,
+  "runtime_python_required": false,
+  "runtime_cpp_added": false
+}

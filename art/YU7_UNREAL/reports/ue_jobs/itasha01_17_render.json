@@ -1,0 +1,25 @@
+{
+  "id": "itasha01_17_render",
+  "started": "2026-10-27T22:32:04-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "width": 1920,
+      "name": "Test_r06_Zenitsu",
+      "height": 1080,
+      "paint": "Graphite",
+      "itasha": "Zenitsu",
+      "views": [
+        "Side",
+        "Beauty",
+        "Hood"
+      ]
+    },
+    "presets": [
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r06_Zenitsu_Side.MRQ_Test_r06_Zenitsu_Side",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r06_Zenitsu_Beauty.MRQ_Test_r06_Zenitsu_Beauty",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r06_Zenitsu_Hood.MRQ_Test_r06_Zenitsu_Hood"
+    ]
+  },
+  "finished": "2026-10-27T22:32:04-0700"
+}

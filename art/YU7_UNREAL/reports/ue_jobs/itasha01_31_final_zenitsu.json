@@ -1,0 +1,25 @@
+{
+  "id": "itasha01_31_final_zenitsu",
+  "started": "2026-10-27T22:41:58-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "paint": "Graphite",
+      "height": 2160,
+      "views": [
+        "Side",
+        "Beauty",
+        "Hood"
+      ],
+      "itasha": "Zenitsu",
+      "name": "Final_r09_Zenitsu_4K",
+      "width": 3840
+    },
+    "presets": [
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Side.MRQ_Final_r09_Zenitsu_4K_Side",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Beauty.MRQ_Final_r09_Zenitsu_4K_Beauty",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Hood.MRQ_Final_r09_Zenitsu_4K_Hood"
+    ]
+  },
+  "finished": "2026-10-27T22:41:58-0700"
+}

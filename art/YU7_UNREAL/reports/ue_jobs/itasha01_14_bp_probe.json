@@ -1,0 +1,1487 @@
+{
+  "id": "itasha01_14_bp_probe",
+  "started": "2026-10-27T22:28:58-0700",
+  "status": "success",
+  "result": {
+    "count": 246,
+    "rows": [
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.Default__BP_YU7_ItashaVehicle_C",
+        "class": "BP_YU7_ItashaVehicle_C",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.Default__BP_YU7_ItashaVehicle_C",
+        "object_class": "BP_YU7_ItashaVehicle_C"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_039_carWindowTrim_5_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_039_carWindowTrim_5_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_039_carWindowTrim_5_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_039_carWindowTrim_5_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_040_carPaint_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_040_carPaint_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_040_carPaint_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_040_carPaint_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_041_carPlastic_BrilliantBlack_3_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_041_carPlastic_BrilliantBlack_3_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_041_carPlastic_BrilliantBlack_3_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_041_carPlastic_BrilliantBlack_3_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_042_carInternal_SteeringWheel_Bottom_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_042_carInternal_SteeringWheel_Bottom_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_042_carInternal_SteeringWheel_Bottom_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_042_carInternal_SteeringWheel_Bottom_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_043_carInternal_TrunkExternal_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_043_carInternal_TrunkExternal_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_043_carInternal_TrunkExternal_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_043_carInternal_TrunkExternal_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_044_carInternal_Roof_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_044_carInternal_Roof_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_044_carInternal_Roof_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_044_carInternal_Roof_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_045_carPaint_13_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_045_carPaint_13_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_045_carPaint_13_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_045_carPaint_13_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_038_carPaint_4_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_038_carPaint_4_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_034_carLight_bulb_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_034_carLight_bulb_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_031_carRearviewMirror_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_031_carRearviewMirror_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_032_carWheelLogoBase_ScuffPlate_Font_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_032_carWheelLogoBase_ScuffPlate_Font_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_032_carWheelLogoBase_ScuffPlate_Font_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_032_carWheelLogoBase_ScuffPlate_Font_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_033_carWindowTrim_1_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_033_carWindowTrim_1_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_033_carWindowTrim_1_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_033_carWindowTrim_1_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_034_carLight_bulb_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_034_carLight_bulb_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_038_carPaint_4_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_038_carPaint_4_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_035_carPlastic_BrilliantGray_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_035_carPlastic_BrilliantGray_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_035_carPlastic_BrilliantGray_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_035_carPlastic_BrilliantGray_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_036_carInternal_DoorBack_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_036_carInternal_DoorBack_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_036_carInternal_DoorBack_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_036_carInternal_DoorBack_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_037_carInternal_CenterConsole_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_037_carInternal_CenterConsole_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_037_carInternal_CenterConsole_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_037_carInternal_CenterConsole_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_046_carPlastic_MatteBlack_1_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_046_carPlastic_MatteBlack_1_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_046_carPlastic_MatteBlack_1_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_046_carPlastic_MatteBlack_1_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_057_carGlass_back_2_Side_1_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_057_carGlass_back_2_Side_1_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_055_carRoof_yu7_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_055_carRoof_yu7_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_055_carRoof_yu7_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_055_carRoof_yu7_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_056_carInternal_Frame_Top_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_056_carInternal_Frame_Top_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_056_carInternal_Frame_Top_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_056_carInternal_Frame_Top_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_057_carGlass_back_2_Side_1_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_057_carGlass_back_2_Side_1_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_058_carPaint_4_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_058_carPaint_4_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_054_carPlastic_BrilliantBlack_1_6_2__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_054_carPlastic_BrilliantBlack_1_6_2__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_058_carPaint_4_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_058_carPaint_4_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_059_carMirror_top_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_059_carMirror_top_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_059_carMirror_top_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_059_carMirror_top_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_060_carPaint_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_060_carPaint_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_060_carPaint_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_060_carPaint_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_061_carInternal_SteeringWheel_Top_4_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_061_carInternal_SteeringWheel_Top_4_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_054_carPlastic_BrilliantBlack_1_6_2__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_054_carPlastic_BrilliantBlack_1_6_2__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_050_carPlastic_BrilliantBlack_2_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_050_carPlastic_BrilliantBlack_2_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_047_carGlass_front_2_Side_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_047_carGlass_front_2_Side_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_048_carHoodOutletWisp_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_048_carHoodOutletWisp_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_048_carHoodOutletWisp_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_048_carHoodOutletWisp_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_049_carGlass_back_2_Side_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_049_carGlass_back_2_Side_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_049_carGlass_back_2_Side_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_049_carGlass_back_2_Side_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_050_carPlastic_BrilliantBlack_2_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_050_carPlastic_BrilliantBlack_2_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_047_carGlass_front_2_Side_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_047_carGlass_front_2_Side_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_051_carLightPlastic_MatteBlack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_051_carLightPlastic_MatteBlack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_051_carLightPlastic_MatteBlack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_051_carLightPlastic_MatteBlack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_052_carInternal_Dashboard_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_052_carInternal_Dashboard_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_052_carInternal_Dashboard_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_052_carInternal_Dashboard_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_053_carInternal_DoorFront_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_053_carInternal_DoorFront_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_053_carInternal_DoorFront_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_053_carInternal_DoorFront_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_030_carFrontBonnetNet_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_030_carFrontBonnetNet_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_031_carRearviewMirror_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_031_carRearviewMirror_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_010_carDuckTail_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_010_carDuckTail_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_008_carWindowTrim_3_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_008_carWindowTrim_3_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_008_carWindowTrim_3_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_008_carWindowTrim_3_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_009_carPlastic_BrilliantBlack_1_6_3__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_009_carPlastic_BrilliantBlack_1_6_3__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_009_carPlastic_BrilliantBlack_1_6_3__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_009_carPlastic_BrilliantBlack_1_6_3__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_010_carDuckTail_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_010_carDuckTail_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_011_carLightGlass_Back_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_011_carLightGlass_Back_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_007_carPlastic_BrilliantBlack_3_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_007_carPlastic_BrilliantBlack_3_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_011_carLightGlass_Back_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_011_carLightGlass_Back_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_012_carXiaoMi_3_yu7_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_012_carXiaoMi_3_yu7_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_012_carXiaoMi_3_yu7_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_012_carXiaoMi_3_yu7_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_013_carPlastic_BrilliantBlack_3_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_013_carPlastic_BrilliantBlack_3_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_013_carPlastic_BrilliantBlack_3_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_013_carPlastic_BrilliantBlack_3_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_014_carBonnetLogoFont_body_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_014_carBonnetLogoFont_body_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_007_carPlastic_BrilliantBlack_3_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_007_carPlastic_BrilliantBlack_3_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_003_carLight_bulb_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_003_carLight_bulb_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:VehicleGeometry_GEN_VARIABLE",
+        "class": "SceneComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:VehicleGeometry_GEN_VARIABLE",
+        "object_class": "SceneComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_001_carGlass_front_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_001_carGlass_front_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_001_carGlass_front_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_001_carGlass_front_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_002_carLight_backbulb_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_002_carLight_backbulb_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_002_carLight_backbulb_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_002_carLight_backbulb_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_003_carLight_bulb_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_003_carLight_bulb_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_014_carBonnetLogoFont_body_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_014_carBonnetLogoFont_body_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_004_carLightPlastic_MatteBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_004_carLightPlastic_MatteBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_004_carLightPlastic_MatteBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_004_carLightPlastic_MatteBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_005_carBonnetLogoBase_body_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_005_carBonnetLogoBase_body_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_005_carBonnetLogoBase_body_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_005_carBonnetLogoBase_body_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_006_carPaint_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_006_carPaint_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_006_carPaint_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_006_carPaint_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_015_carMirror_bottom_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_015_carMirror_bottom_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_030_carFrontBonnetNet_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_030_carFrontBonnetNet_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_026_carGlass_front_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_026_carGlass_front_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_023_carXiaoMi_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_023_carXiaoMi_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_024_carPlate_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_024_carPlate_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_024_carPlate_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_024_carPlate_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_025_carPlastic_BrilliantBlack_1_6_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_025_carPlastic_BrilliantBlack_1_6_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_025_carPlastic_BrilliantBlack_1_6_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_025_carPlastic_BrilliantBlack_1_6_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_026_carGlass_front_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_026_carGlass_front_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_023_carXiaoMi_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_023_carXiaoMi_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_027_carLightPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_027_carLightPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_027_carLightPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_027_carLightPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_028_carPaint_10_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_028_carPaint_10_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_028_carPaint_10_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_028_carPaint_10_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_029_carInternal_TrunkInternal_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_029_carInternal_TrunkInternal_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_029_carInternal_TrunkInternal_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_029_carInternal_TrunkInternal_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_022_carLightGlass_Front_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_022_carLightGlass_Front_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_018_carPlastic_BrilliantBlack_2_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_018_carPlastic_BrilliantBlack_2_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_016_carLight_bulb_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_016_carLight_bulb_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_016_carLight_bulb_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_016_carLight_bulb_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_017_carPlastic_MatteBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_017_carPlastic_MatteBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_017_carPlastic_MatteBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_017_carPlastic_MatteBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_018_carPlastic_BrilliantBlack_2_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_018_carPlastic_BrilliantBlack_2_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_019_carWindowTrim_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_019_carWindowTrim_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_015_carMirror_bottom_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_015_carMirror_bottom_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_019_carWindowTrim_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_019_carWindowTrim_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_020_carPlastic_BrilliantBlack_1_6_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_020_carPlastic_BrilliantBlack_1_6_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_020_carPlastic_BrilliantBlack_1_6_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_020_carPlastic_BrilliantBlack_1_6_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_021_carInternal_PassengerSeatFront_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_021_carInternal_PassengerSeatFront_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_021_carInternal_PassengerSeatFront_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_021_carInternal_PassengerSeatFront_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_022_carLightGlass_Front_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_022_carLightGlass_Front_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_061_carInternal_SteeringWheel_Top_4_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_061_carInternal_SteeringWheel_Top_4_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_103_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_103_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_101_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_101_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_101_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_101_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_102_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_102_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_102_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_102_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_103_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_103_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_104_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_104_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_100_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_100_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_104_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_104_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_105_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_105_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_105_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_105_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_106_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_106_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_106_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_106_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_107_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_107_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_100_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_100_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_096_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_096_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_093_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_093_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_094_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_094_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_094_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_094_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_095_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_095_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_095_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_095_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_096_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_096_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_107_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_107_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_097_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_097_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_097_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_097_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_098_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_098_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_098_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_098_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_099_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_099_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_099_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_099_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_108_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_108_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_093_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_093_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_119_carBrakeDisc_Front_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_119_carBrakeDisc_Front_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_116_carCaliper_MainBack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_116_carCaliper_MainBack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_117_carCaliper_Screw_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_117_carCaliper_Screw_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_117_carCaliper_Screw_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_117_carCaliper_Screw_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_118_carBrakeDisc_Front_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_118_carBrakeDisc_Front_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_118_carBrakeDisc_Front_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_118_carBrakeDisc_Front_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_119_carBrakeDisc_Front_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_119_carBrakeDisc_Front_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_116_carCaliper_MainBack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_116_carCaliper_MainBack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_120_carCaliper_MainFront_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_120_carCaliper_MainFront_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_120_carCaliper_MainFront_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_120_carCaliper_MainFront_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_121_carCaliper_PartFront_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_121_carCaliper_PartFront_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_121_carCaliper_PartFront_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_121_carCaliper_PartFront_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:VehicleGeometry_GEN_VARIABLE",
+        "class": "SceneComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:VehicleGeometry_GEN_VARIABLE",
+        "object_class": "SceneComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:DefaultSceneRoot_GEN_VARIABLE",
+        "class": "SceneComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:DefaultSceneRoot_GEN_VARIABLE",
+        "object_class": "SceneComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_115_carBrakeDisc_Back_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_115_carBrakeDisc_Back_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_111_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_111_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_109_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_109_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_109_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_109_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_110_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_110_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_110_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_110_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_111_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_111_carWheelAirVent_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_112_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_112_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_108_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_108_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_112_carWheelHub_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_112_carWheelHub_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_113_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_113_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_113_carWheelRim_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_113_carWheelRim_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_114_carBrakeDisc_Back_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_114_carBrakeDisc_Back_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_114_carBrakeDisc_Back_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_114_carBrakeDisc_Back_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_115_carBrakeDisc_Back_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_115_carBrakeDisc_Back_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_092_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_092_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_062_scuffPlate_Base_scuffPlate_Base_lambert277_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_062_scuffPlate_Base_scuffPlate_Base_lambert277_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_072_carInternal_DoorBack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_072_carInternal_DoorBack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_070_carRoofSpoiler_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_070_carRoofSpoiler_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_070_carRoofSpoiler_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_070_carRoofSpoiler_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_071_carMirror_bottom_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_071_carMirror_bottom_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_071_carMirror_bottom_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_071_carMirror_bottom_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_072_carInternal_DoorBack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_072_carInternal_DoorBack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_073_carRearviewMirror_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_073_carRearviewMirror_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_069_carPlastic_MatteBlack_2_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_069_carPlastic_MatteBlack_2_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_073_carRearviewMirror_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_073_carRearviewMirror_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_074_carGlass_back_2_Side_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_074_carGlass_back_2_Side_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_074_carGlass_back_2_Side_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_074_carGlass_back_2_Side_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_075_carGlass_front_2_Side_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_075_carGlass_front_2_Side_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_075_carGlass_front_2_Side_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_075_carGlass_front_2_Side_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_076_carGlass_back_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_076_carGlass_back_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_069_carPlastic_MatteBlack_2_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_069_carPlastic_MatteBlack_2_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_065_carInternal_DoorFront_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_065_carInternal_DoorFront_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_062_scuffPlate_Base_scuffPlate_Base_lambert277_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_062_scuffPlate_Base_scuffPlate_Base_lambert277_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_063_carInternal_CenterConsole_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_063_carInternal_CenterConsole_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_063_carInternal_CenterConsole_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_063_carInternal_CenterConsole_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_064_carHoodOutletPanel_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_064_carHoodOutletPanel_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_064_carHoodOutletPanel_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_064_carHoodOutletPanel_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_065_carInternal_DoorFront_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_065_carInternal_DoorFront_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_076_carGlass_back_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_076_carGlass_back_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_066_carMirror_top_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_066_carMirror_top_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_066_carMirror_top_2_1__GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_066_carMirror_top_2_1__GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_067_carInternal_Frame_Bottom_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_067_carInternal_Frame_Bottom_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_067_carInternal_Frame_Bottom_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_067_carInternal_Frame_Bottom_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_068_carPaint_9_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_068_carPaint_9_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_068_carPaint_9_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_068_carPaint_9_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_077_carLightPlastic_BrilliantBlack_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_077_carLightPlastic_BrilliantBlack_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_092_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_092_carWheelLogoBase_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_088_carInternal_SteeringWheel_Top_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_088_carInternal_SteeringWheel_Top_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_085_carHeadLampPanel_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_085_carHeadLampPanel_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_086_carBackDrop_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_086_carBackDrop_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_086_carBackDrop_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_086_carBackDrop_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_087_carXiaoMi_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_087_carXiaoMi_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_087_carXiaoMi_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_087_carXiaoMi_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_088_carInternal_SteeringWheel_Top_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_088_carInternal_SteeringWheel_Top_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_085_carHeadLampPanel_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_085_carHeadLampPanel_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_089_carPlastic_MatteBlack_trunk_9_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_089_carPlastic_MatteBlack_trunk_9_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_089_carPlastic_MatteBlack_trunk_9_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_089_carPlastic_MatteBlack_trunk_9_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_090_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_090_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_090_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_090_carWheelLogoFont_ACAL09_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_091_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_091_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_091_carTyre_02_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_091_carTyre_02_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_084_carInternal_PassengerSeatBack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_084_carInternal_PassengerSeatBack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_080_carWindowTrim_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_080_carWindowTrim_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_078_carPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_078_carPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_078_carPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_078_carPlastic_BrilliantBlack_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_079_carPaint_8_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_079_carPaint_8_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_079_carPaint_8_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_079_carPaint_8_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_080_carWindowTrim_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_080_carWindowTrim_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_081_carHeaterStrip_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_081_carHeaterStrip_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_077_carLightPlastic_BrilliantBlack_3_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_077_carLightPlastic_BrilliantBlack_3_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_081_carHeaterStrip_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_081_carHeaterStrip_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_082_carPlastic_BrilliantBlack_1_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_082_carPlastic_BrilliantBlack_1_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_082_carPlastic_BrilliantBlack_1_1_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_082_carPlastic_BrilliantBlack_1_1_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_083_carLightGlass_Back_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_083_carLightGlass_Back_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_083_carLightGlass_Back_2_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_083_carLightGlass_Back_2_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      },
+      {
+        "blueprint_object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_084_carInternal_PassengerSeatBack_GEN_VARIABLE",
+        "class": "StaticMeshComponent",
+        "object": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C:Part_084_carInternal_PassengerSeatBack_GEN_VARIABLE",
+        "object_class": "StaticMeshComponent"
+      }
+    ]
+  },
+  "finished": "2026-10-27T22:28:58-0700"
+}

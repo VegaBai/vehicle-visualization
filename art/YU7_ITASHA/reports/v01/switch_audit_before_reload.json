@@ -1,0 +1,136 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "itasha": "None",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "None",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Rengoku",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Zenitsu",
+      "paint": "Mineral Teal",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Pearl White",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Graphite",
+      "passed": true
+    },
+    {
+      "itasha": "Giyu",
+      "paint": "Mineral Teal",
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "active_meshes": 121,
+  "attached_decals": 5,
+  "runtime_python_required": false,
+  "runtime_cpp_added": false,
+  "protected_files": 789,
+  "historical_hashes_match": true,
+  "translation_attachment_test_passed": true,
+  "asset_credit_exact": true,
+  "dirty_maps": [],
+  "dirty_content": []
+}

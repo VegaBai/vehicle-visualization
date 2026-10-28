@@ -602,3 +602,42 @@
 - 排除10份原始日志及api_probe.txt诊断转储后的全部暂存文本差异检查通过。制作成果提交f1477fb5fce1a9a2bee54e1353223738485fd077（Publish v11 finish showcase and update README with 18-second video）已推送origin/main；170个文件，100个LFS文件、约182MB上传完成。git lfs fsck返回OK，上传后git lfs push --dry-run无待上传对象。
 - git ls-remote核实远端main与制作成果提交一致。GitHub README HTML实际包含新对照图和三份视频链接，原5秒链接仍在。三份视频及对照图均HTTP 200，远端长度与本地一致（26,351,735 / 26,290,744 / 8,471,349 / 453,696 bytes）。MP4响应为application/octet-stream，链接可能下载；未声称README内嵌播放已验证。证据写入reports/finish_v11/publication_remote_verification.json。
 - 成果推送后的工作区曾核实为空；随后只追加本条真实发布记录及远端检查报告，将以纯记录提交同步，不重写制作成果提交。原始逐帧序列继续留在本地且未删除；本轮未重渲或修改UE资产。
+
+## 2026-10-27 · 鬼灭之刃痛车选图（当次记录）
+
+- 用户提出为 YU7 增加多个《鬼灭之刃》角色痛车选项，并明确先找帅气热血的图片。本轮范围为来源调查、原图候选和车身构图建议；尚未制作贴图、导入 UE 或实现切换功能。
+- 读取 AGENTS.md 与最近 v11 制作/发布历史，初始 git status --short 为空。保持既有地图、资产、模型源和 CREDITS.txt 原文；准备在 art/YU7_ITASHA/references/kimetsu_v01 单独记录候选。
+- 已通过网页搜索核对官方《ヒノカミ血風譚2》角色页，首轮候选为炼狱杏寿郎、灶门炭治郎（日之神神乐）、我妻善逸、宇髓天元、富冈义勇。官方角色 PNG 作为人物姿势候选；动画战斗海报作为火焰/雷电/水纹气氛参考。搜索结果不等于已取得贴图使用许可；来源与授权状态分别记录，不沿用汽车模型的许可证。
+- web 工具打开游郭篇首页、无穷列车 kv_2.jpg 与旧版义勇 PNG 时返回 Internal Error；未视为图像验收通过。改从已核实的新游戏官方角色页获取图片，后续检查实际像素/尺寸。
+- 五张官方新游戏 PNG 均成功下载到 art/YU7_ITASHA/references/kimetsu_v01，并逐张打开查看。原图包含人物和火焰/雷电/刀光/水纹：炼狱1000×782、善逸1000×566、炭治郎1000×742、天元1000×794、义勇1000×558。System.Drawing 解码、尺寸与 SHA-256 复核均通过，五图左上角 alpha=0。未裁剪、编辑或放大原图。新游戏义勇图片的 web 抓取也曾失败，curl 正常取回且本地视觉检查通过。
+- sources.json 与 README.txt 已保存官方页面/原图地址、原始哈希、候选配色与放置建议，以及未核实复用许可的状态。建议先做炼狱、善逸、义勇三款，炭治郎和天元为扩展候选；这是设计建议，非用户最终选定。人物有效分辨率受到透明留白限制，未声称这些1000px图片已满足4K车身近景。
+- 本轮 git diff --check 通过；仅新增参考目录并追加开发记录，UE资产、历史输出和根署名未修改，无提交/推送。下一步为用户选图后的车身试排、清晰度与投射验证，以及原生Blueprint可选图案实现；均尚未完成。上一条“无穷列车”系文字误写，正确为“无限列车”。
+
+## 2026-10-27 · 炎柱 / 善逸 / 义勇痛车上车 v01（当次记录）
+
+- 用户明确选定三款并授权加入可选图案、放到车上查看效果。本轮制作独立 Itasha_v01 棚拍地图、原生材质与 Variant Manager 选项，提供上车静帧；不要求修改既有18秒交付影片。运行时继续使用原生 Blueprint 可调用接口与材质，Python仅用于编辑器准备/验证。
+- 决定以既有 Studio_YU7 棚拍地图作清晰外观比较，先加载并通过 save_map 另存独立地图，再更改新地图。计划用附着车辆的原生 DecalActor 承载左右侧及引擎盖图案，只让漆面接收，图案组与漆面组独立；如实际 Substrate/接收效果不适配，依据检查调整实现，不提前宣称验证通过。
+- 已读取 v11/lookdev 指南和历史 Variant Manager 缓存限制。当前没有 Unreal 进程；原工作区只有前轮选图目录和日志修改。tools/yu7_itasha_v01_protect.py 将保护历史资产/媒体与原图，tools/ue_itasha_v01_probe.py 用于只读检查现有车辆及原生贴花接口。最初查询根 ue_jobs 目录失败，已确认真实任务目录为 art/YU7_UNREAL/reports/ue_jobs。
+- 789项历史/原图保护快照建立成功。UE启动并只读probe通过，原地图无dirty包；确认9个漆面接收部件均使用稳定原生Actor。首次prepare已另存独立地图、解除新地图旧LVS引用并导入三张原图，在新贴花材质ComponentMask输入连接处停止：实际单输入引脚不叫Input。原图/旧图未改；修正为读取真实输入名，定向重建尚未完成的新材质，不重跑地图/导入创建步骤。
+- 定向材质恢复成功，独立 Itasha(None/Rengoku/Zenitsu/Giyu) 与 Paint(三色) 原生选项保存。首轮1080p侧面/前侧MRQ成功（54.90秒、无MRQ错误），但实际查看发现人物呈竖条：probe证实当前Python Rotator位置参数按roll/pitch/yaw映射，侧面投射意外朝上下，视觉不通过。后续改为显式pitch/yaw/roll关键字，并按alpha实际边界在材质UV内裁掉透明留白、捕获比例；源PNG保持原字节。PIL首次alpha分析因源为调色板PNG而失败，转RGBA仅在内存分析后成功。
+- v02 四视角MRQ完成（76.75秒、无错误），人物图与原生程序条纹已投射到车身，但侧面人物仍横转90度，不能验收。引擎贴花UV的U/V对应局部Z/Y，已明确修正侧面roll=-90及尺寸轴，按实测alpha边界保持图像宽高比；引擎盖朝向正确，仅更正尺寸比例。新条纹仅由原生材质节点生成，三款分别用红金、黄蓝和蓝青配色。
+- v03首次定向修改在重复capture已有属性时返回None而中断；应从get_captured_properties取现有Relative Scale 3D属性再record。随后r03因调度未检查前步失败而渲染了部分修改状态，不能作为v03效果验收。已增加本地任务助手yu7_itasha_job.py等待前轮渲染完成和检查实际job成功；定向v03重试成功，再以新r04名渲染，不覆盖失败证据。
+- r04左右/前侧实图暴露两项问题：侧面人物倒置（应roll=+90）；轮胎/轮毂出现条纹。实测旧车Blueprint的121个receives_decals实例值在PIE后全部回到true，原生Actor开关仍有效。采用独立复制BP_YU7_ItashaVehicle，在其组件模板上关闭接收，同时保留全部网格/材质和21个隐藏原分件；新地图中换入该BP，26个原生分件/贴花保持世界变换重新附着。没有修改原BP或网格。
+- Blueprint复制后SubobjectData返回每个组件两次，首次数量断言中止；按对象路径去重后121个唯一模板编译/保存、替换与附着成功。新建BP_YU7_ItashaOptions继承LevelVariantSetsActor，提供原生Blueprint的Switch on Variant by Name/Index；当前不新增UMG按钮界面。r05用于验证正向人物及轮胎排除，尚未通过前不开始最终输出。
+- r05炎柱四视角、r06善逸三视角、r07义勇三视角原生1080p MRQ均成功，实际逐张查看通过：人物正向、脸部位于单块面板、左右和引擎盖投射成立，轮胎/轮毂不接收贴花。三款分别配珠光白、亮面石墨和矿物青；原棚拍高光仍穿过角色层，源图有效分辨率有限，未声称4K贴图细节。最终侧面roll=+90，前文-90为已修正的过程错误。
+- 首次跨帧审计24次（4图案×3车漆×2轮）全部通过，121个唯一可见网格、5贴花附着/移动测试、789历史哈希、原文资产署名和无dirty包通过。结果保留为switch_audit_before_reload.json；清理原lookdev与本轮LVS缓存后，独立地图重载成功，正在执行重载后的审计及真实PIE切换测试，尚未提前标记运行时完成。
+- 重载后的首次切换断言失败，已保存switch_audit_reload_failed.json。只读probe显示LVS组仍完整、Blueprint类默认值有引用，但地图实例引用为空；引擎SetLevelVariantSets仅赋值不标记编辑器修改。通过modify/set_editor_property及强制save_map显式持久化场景引用，再按安全顺序重载并复测；未把此前成功的内存内切换等同保存后可用。
+- 首次仅强制保存地图的修复仍在重载后失败。进一步将Blueprint类默认引用置空并强制保存Blueprint，随后显式保存地图实例的LVS覆盖；避免实例值与未正确持久化的内存CDO值相同而省略序列化差异。第三次安全重载后24次跨帧切换、789历史哈希和Map Check均通过。实际PIE审计已启动，待独立结果确认。
+- 实际PIE（UEDPIE_0_Studio_YU7_Itasha_v01）12种图案/车漆组合全部通过，BP_YU7_ItashaOptions_C原生继承方法驱动5贴花与9漆面槽，BP车辆全部121个模板拒收贴花，5贴花运行时仍附着车辆。Python只作编辑器验证驱动，运行时无Python/C++依赖。开始三款各3视角3840×2160/8时域静帧输出。
+- 炎柱4K侧面与前侧已实际查看通过。等待其引擎盖完成时，后续善逸任务助手50秒等待到期，未提交新任务、未中断正在渲染的UE；以异步180秒等待同一完成信号重试，避免并发渲染。20个本轮Python脚本语法检查与受控文本git diff --check通过。
+- Final_r08_Rengoku_4K与Final_r09_Zenitsu_4K各3视角MRQ成功（108.97秒、108.90秒，errors=[]），6张原生4K图均实际查看通过；义勇4K正在渲染。保留真实棚拍反射，引擎盖强高光会降低中心人物对比，作为本轮外观预览限制记录。Test_*诊断图片留在本地并加入忽略规则，最终9张4K和验证记录计划保留，不删除失败证据。
+- Final_r10_Giyu_4K三视角MRQ成功（153.21秒，errors=[]），三图实际查看通过。全部9张原生4K图已逐张完成视觉检查并写入visual_review.json。三款Variant缩略图使用对应真实Beauty渲染保存，默认回到炎柱/珠光白；最终清LVS缓存重载已成功，跨帧审计正在执行。
+- 最终安全重载后24次跨帧切换再次通过，Map Check实际0 Error/0 Warning；789项历史保护哈希全部一致，121唯一可见网格、5贴花附着/移动和空dirty列表通过。yu7_itasha_v01_finish.py完成9张PNG完整解码/尺寸/哈希、51项UE资产清单与21个脚本语法检查。根CREDITS逐字节复制为本轮sidecar，原文件不变；来源与未核实复用许可单独列在ART_SOURCES.txt。README_UE和AGENTS记录实际入口、切换方式与局限。未提交/推送；应用内可见Credits与打包/新机器验证仍未标记完成。
+- 已核实重载后三款缩略图与场景LVS引用有效，并成功请求打开原生Variant Manager选项面板，视口恢复Beauty机位。最终git diff --check通过（仅CRLF规范化提示），本地编辑器任务轮询停止请求已发送；该stop分支本来不生成结果JSON，不将其视为额外验证回执。
+
+## 2026-10-28 · 痛车 v01 Git 发布（当次记录）
+
+- 用户明确要求推送到Git。本轮提交既有炎柱/善逸/义勇痛车资产、9张4K效果图、来源、工具与验证记录；不重跑UE制作或渲染。初始分支main，HEAD=a08be8e，origin为https://github.com/VegaBai/vehicle-visualization.git；待提交改动均属于本轮痛车制作，先核对交付哈希、历史保护、暂存范围与LFS，再正常推送，不强制覆盖远端。
+- 首次git fetch因沙箱只读.git而无法写FETCH_HEAD，后续使用受审查的Git写权限重试；该次0/0计数基于旧远端引用，未视为已刷新。发布完整性检查已通过61项交付与789项历史哈希，但排除规则误将reports中的Test_*状态JSON当作诊断图片，断言中止；收窄为renders下Test_*目录，保留过程验证JSON后重查。
+- git fetch重试成功。61项交付（51项UE资产、9张4K图、署名）与789项历史保护SHA256一致，署名sidecar原字节一致。161项新制作文件共83,502,874 bytes，70个JSON与21个Python解析通过，96份文本常见凭据签名无匹配；诊断试图/UE缓存均不在候选范围。证据保存publication_preflight.json，本轮只核对既有验证记录与完整性，不冒称重新运行UE或打包测试。
+- 刷新后的HEAD与origin/main均为a08be8e，0 ahead / 0 behind。166个文件已暂存，其中65项LFS指针的SHA256和size与本地二进制逐项一致，逻辑总量约83.65MB，最大普通Git对象146,411 bytes；暂存差异检查通过，无剩余未暂存/未跟踪改动，Test_*图片忽略规则生效。将以“Add Demon Slayer itasha options and 4K studio previews”提交并正常推送main。

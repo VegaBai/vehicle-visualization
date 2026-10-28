@@ -1,0 +1,18 @@
+{
+  "id": "itasha01_33_thumbnails",
+  "started": "2026-10-27T22:46:22-0700",
+  "status": "success",
+  "result": {
+    "thumbnails": {
+      "Rengoku": "renders\\YU7_Itasha_v01\\Final_r08_Rengoku_4K\\Final_r08_Rengoku_4K_Beauty_0008.png",
+      "Zenitsu": "renders\\YU7_Itasha_v01\\Final_r09_Zenitsu_4K\\Final_r09_Zenitsu_4K_Beauty_0008.png",
+      "Giyu": "renders\\YU7_Itasha_v01\\Final_r10_Giyu_4K\\Final_r10_Giyu_4K_Beauty_0008.png"
+    },
+    "default": [
+      "Rengoku",
+      "Pearl White"
+    ],
+    "camera": "Beauty"
+  },
+  "finished": "2026-10-27T22:46:23-0700"
+}

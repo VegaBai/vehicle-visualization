@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-28",
+  "scope": "Existing itasha delivery integrity before Git publication; no fresh UE runtime or packaged-build test",
+  "manifest_files_matched": 61,
+  "historical_files_matched": 789,
+  "untracked_files": 161,
+  "untracked_total_bytes": 83502874,
+  "extensions": {
+    ".uasset": 50,
+    ".umap": 1,
+    ".txt": 4,
+    ".png": 14,
+    ".json": 70,
+    ".log": 1,
+    ".py": 21
+  },
+  "json_parsed": 70,
+  "python_parsed": 21,
+  "text_files_scanned_for_common_secret_signatures": 96,
+  "common_secret_signature_matches": [],
+  "credits_byte_exact": true,
+  "excluded_diagnostic_images_and_ue_caches": true
+}

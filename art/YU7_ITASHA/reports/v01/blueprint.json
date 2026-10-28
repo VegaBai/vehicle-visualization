@@ -1,0 +1,11 @@
+{
+  "blueprint": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaOptions",
+  "class_parent": "LevelVariantSetsActor",
+  "runtime_methods": [
+    "Switch on Variant by Name",
+    "Switch on Variant by Index"
+  ],
+  "runtime_python": false,
+  "runtime_cpp_added": false,
+  "button_ui": "not part of current studio asset controls"
+}

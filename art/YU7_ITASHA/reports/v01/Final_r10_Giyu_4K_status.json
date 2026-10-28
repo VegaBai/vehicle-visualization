@@ -1,0 +1,25 @@
+{
+  "name": "Final_r10_Giyu_4K",
+  "request": {
+    "views": [
+      "Side",
+      "Beauty",
+      "Hood"
+    ],
+    "itasha": "Giyu",
+    "width": 3840,
+    "paint": "Mineral Teal",
+    "name": "Final_r10_Giyu_4K",
+    "height": 2160
+  },
+  "status": "finished",
+  "started": 1793166228.84433,
+  "errors": [],
+  "presets": [
+    "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Side.MRQ_Final_r10_Giyu_4K_Side",
+    "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Beauty.MRQ_Final_r10_Giyu_4K_Beauty",
+    "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Hood.MRQ_Final_r10_Giyu_4K_Hood"
+  ],
+  "success": true,
+  "duration_seconds": 153.21216368675232
+}

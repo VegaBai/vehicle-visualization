@@ -1,0 +1,23 @@
+{
+  "id": "itasha01_04_render",
+  "started": "2026-10-27T22:20:28-0700",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "paint": "Pearl White",
+      "name": "Test_r01_Rengoku",
+      "width": 1920,
+      "views": [
+        "Side",
+        "Beauty"
+      ],
+      "height": 1080,
+      "itasha": "Rengoku"
+    },
+    "presets": [
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r01_Rengoku_Side.MRQ_Test_r01_Rengoku_Side",
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Test_r01_Rengoku_Beauty.MRQ_Test_r01_Rengoku_Beauty"
+    ]
+  },
+  "finished": "2026-10-27T22:20:28-0700"
+}

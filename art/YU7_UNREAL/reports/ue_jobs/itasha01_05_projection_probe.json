@@ -1,0 +1,35 @@
+{
+  "id": "itasha01_05_projection_probe",
+  "started": "2026-10-27T22:21:43-0700",
+  "status": "success",
+  "result": {
+    "rotator_doc": "An orthogonal rotation in 3d space.\r\nnote: The full C++ class is located here: Engine\\Source\\Runtime\\Core\\Public\\Math\\Rotator.h\r\n\r\n**C++ Source:**\r\n\r\n- **Module**: CoreUObject\r\n- **File**: NoExportTypes.h\r\n\r\n**Editor Properties:** (see get_editor_property/set_editor_property)\r\n\r\n- ``pitch`` (double):  [Read-Write] Pitch (degrees) around Y axis\r\n- ``roll`` (double):  [Read-Write] Roll (degrees) around X axis\r\n- ``yaw`` (double):  [Read-Write] Yaw (degrees) around Z axis",
+    "actors": [
+      {
+        "label": "YU7_Itasha_Left",
+        "rotation": "<Struct 'Rotator' (0x000002C3689A84C0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+        "location": "<Struct 'Vector' (0x000002C3689A84C0) {x: 35.000000, y: 99.000000, z: 76.000000}>",
+        "size": "<Struct 'Vector' (0x000002C3D94009B8) {x: 25.000000, y: 90.000000, z: 43.000000}>",
+        "scale": "<Struct 'Vector' (0x000002C3689A84C0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.MI_Itasha_Rengoku"
+      },
+      {
+        "label": "YU7_Itasha_Right",
+        "rotation": "<Struct 'Rotator' (0x000002C3689A92D0) {pitch: 90.000000, yaw: 0.000000, roll: 0.000000}>",
+        "location": "<Struct 'Vector' (0x000002C3689A92D0) {x: 35.000000, y: -99.000000, z: 76.000000}>",
+        "size": "<Struct 'Vector' (0x000002C3D9404C38) {x: 25.000000, y: 90.000000, z: 43.000000}>",
+        "scale": "<Struct 'Vector' (0x000002C3689A92D0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.MI_Itasha_Rengoku"
+      },
+      {
+        "label": "YU7_Itasha_Hood",
+        "rotation": "<Struct 'Rotator' (0x000002C3689A92D0) {pitch: -0.000000, yaw: 90.000000, roll: -90.000000}>",
+        "location": "<Struct 'Vector' (0x000002C3689A92D0) {x: -158.000000, y: 0.000000, z: 108.000000}>",
+        "size": "<Struct 'Vector' (0x000002C3D94079B8) {x: 30.000000, y: 55.000000, z: 45.000000}>",
+        "scale": "<Struct 'Vector' (0x000002C3689A92D0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+        "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.MI_Itasha_Rengoku"
+      }
+    ]
+  },
+  "finished": "2026-10-27T22:21:43-0700"
+}

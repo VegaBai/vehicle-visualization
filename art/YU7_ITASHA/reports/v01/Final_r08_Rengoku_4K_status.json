@@ -1,0 +1,25 @@
+{
+  "name": "Final_r08_Rengoku_4K",
+  "request": {
+    "height": 2160,
+    "views": [
+      "Side",
+      "Beauty",
+      "Hood"
+    ],
+    "paint": "Pearl White",
+    "name": "Final_r08_Rengoku_4K",
+    "width": 3840,
+    "itasha": "Rengoku"
+  },
+  "status": "finished",
+  "started": 1793165997.8521223,
+  "errors": [],
+  "presets": [
+    "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Side.MRQ_Final_r08_Rengoku_4K_Side",
+    "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Beauty.MRQ_Final_r08_Rengoku_4K_Beauty",
+    "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Hood.MRQ_Final_r08_Rengoku_4K_Hood"
+  ],
+  "success": true,
+  "duration_seconds": 108.96797442436218
+}

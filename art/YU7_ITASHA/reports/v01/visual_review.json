@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "method": "Native MRQ PNGs opened individually with view_image; 4K files displayed at 2048px for whole-frame review. No AI-generated or composited vehicle images.",
+  "reviewed_files": [
+    "renders/YU7_Itasha_v01/Final_r08_Rengoku_4K/Final_r08_Rengoku_4K_Side_0008.png",
+    "renders/YU7_Itasha_v01/Final_r08_Rengoku_4K/Final_r08_Rengoku_4K_Beauty_0008.png",
+    "renders/YU7_Itasha_v01/Final_r08_Rengoku_4K/Final_r08_Rengoku_4K_Hood_0008.png",
+    "renders/YU7_Itasha_v01/Final_r09_Zenitsu_4K/Final_r09_Zenitsu_4K_Side_0008.png",
+    "renders/YU7_Itasha_v01/Final_r09_Zenitsu_4K/Final_r09_Zenitsu_4K_Beauty_0008.png",
+    "renders/YU7_Itasha_v01/Final_r09_Zenitsu_4K/Final_r09_Zenitsu_4K_Hood_0008.png",
+    "renders/YU7_Itasha_v01/Final_r10_Giyu_4K/Final_r10_Giyu_4K_Side_0008.png",
+    "renders/YU7_Itasha_v01/Final_r10_Giyu_4K/Final_r10_Giyu_4K_Beauty_0008.png",
+    "renders/YU7_Itasha_v01/Final_r10_Giyu_4K/Final_r10_Giyu_4K_Hood_0008.png"
+  ],
+  "checks": [
+    "Rengoku upright, face within door panel, flame and red/gold sweep visible.",
+    "Zenitsu upright, face and draw-sword gesture intact; cyan lightning and yellow sweep distinguish the graphite option.",
+    "Giyu upright, face within the door panel and blue wave illustration visible against mineral teal; matching hood placement present.",
+    "No decal color on visible tyres, wheel rims, glass or black trim.",
+    "Hood artwork correctly oriented; physically reflected studio light partially washes out its center."
+  ],
+  "limits": [
+    "Source PNGs have 1000px canvas width; output resolution is not texture resolution.",
+    "Right side inspected in Test_r05_Rengoku 1080p; final stills cover left side, front three-quarter and hood.",
+    "No claim of complete packaged-build or new-machine verification."
+  ]
+}

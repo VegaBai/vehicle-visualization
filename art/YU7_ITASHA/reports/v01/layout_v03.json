@@ -1,0 +1,13 @@
+{
+  "layout": "v03",
+  "side_roll": -90,
+  "art_height_cm": 84,
+  "hood_width_cm": 110,
+  "ratios": {
+    "None": 1.1278772378516624,
+    "Rengoku": 1.1278772378516624,
+    "Zenitsu": 0.892226148409894,
+    "Giyu": 1.3906810035842294
+  },
+  "status": "visual verification pending"
+}

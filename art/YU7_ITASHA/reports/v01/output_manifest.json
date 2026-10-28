@@ -1,0 +1,517 @@
+{
+  "status": "complete_local_studio_preview",
+  "date": "2026-10-27T22:54:28.771979-07:00",
+  "map": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+  "options": [
+    "None",
+    "Rengoku",
+    "Zenitsu",
+    "Giyu"
+  ],
+  "paints": [
+    "Pearl White",
+    "Graphite",
+    "Mineral Teal"
+  ],
+  "native_render_runs": [
+    {
+      "name": "Final_r08_Rengoku_4K",
+      "request": {
+        "height": 2160,
+        "views": [
+          "Side",
+          "Beauty",
+          "Hood"
+        ],
+        "paint": "Pearl White",
+        "name": "Final_r08_Rengoku_4K",
+        "width": 3840,
+        "itasha": "Rengoku"
+      },
+      "status": "finished",
+      "started": 1793165997.8521223,
+      "errors": [],
+      "presets": [
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Side.MRQ_Final_r08_Rengoku_4K_Side",
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Beauty.MRQ_Final_r08_Rengoku_4K_Beauty",
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Hood.MRQ_Final_r08_Rengoku_4K_Hood"
+      ],
+      "success": true,
+      "duration_seconds": 108.96797442436218
+    },
+    {
+      "name": "Final_r09_Zenitsu_4K",
+      "request": {
+        "paint": "Graphite",
+        "height": 2160,
+        "views": [
+          "Side",
+          "Beauty",
+          "Hood"
+        ],
+        "itasha": "Zenitsu",
+        "name": "Final_r09_Zenitsu_4K",
+        "width": 3840
+      },
+      "status": "finished",
+      "started": 1793166118.8512447,
+      "errors": [],
+      "presets": [
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Side.MRQ_Final_r09_Zenitsu_4K_Side",
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Beauty.MRQ_Final_r09_Zenitsu_4K_Beauty",
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Hood.MRQ_Final_r09_Zenitsu_4K_Hood"
+      ],
+      "success": true,
+      "duration_seconds": 108.89886617660522
+    },
+    {
+      "name": "Final_r10_Giyu_4K",
+      "request": {
+        "views": [
+          "Side",
+          "Beauty",
+          "Hood"
+        ],
+        "itasha": "Giyu",
+        "width": 3840,
+        "paint": "Mineral Teal",
+        "name": "Final_r10_Giyu_4K",
+        "height": 2160
+      },
+      "status": "finished",
+      "started": 1793166228.84433,
+      "errors": [],
+      "presets": [
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Side.MRQ_Final_r10_Giyu_4K_Side",
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Beauty.MRQ_Final_r10_Giyu_4K_Beauty",
+        "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Hood.MRQ_Final_r10_Giyu_4K_Hood"
+      ],
+      "success": true,
+      "duration_seconds": 153.21216368675232
+    }
+  ],
+  "images": [
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r08_Rengoku_4K/Final_r08_Rengoku_4K_Side_0008.png",
+      "bytes": 8502228,
+      "sha256": "db1830ba698e4842a6d85385a3266ae4524985da7a5699fcfe41553b0a859e96",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r08_Rengoku_4K/Final_r08_Rengoku_4K_Beauty_0008.png",
+      "bytes": 8571174,
+      "sha256": "fd8c38065fd5d5f9df61bdd5dcbd6f2e6aa8a577a629f343f24726915ec84087",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r08_Rengoku_4K/Final_r08_Rengoku_4K_Hood_0008.png",
+      "bytes": 9334457,
+      "sha256": "7c03cc9caae6ef22734c64beb55b038d2c1460ab0748cc9184d9bf8a05c8d4a8",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r09_Zenitsu_4K/Final_r09_Zenitsu_4K_Side_0008.png",
+      "bytes": 8365839,
+      "sha256": "afb9d2d6b6a75af03e6f3527700224ee45b23cef7f4afabef797aef7b50c9984",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r09_Zenitsu_4K/Final_r09_Zenitsu_4K_Beauty_0008.png",
+      "bytes": 8500564,
+      "sha256": "eea9047d1e898411ef6b2ec9f844101a855d466c64fa0b07845c264e1e30879f",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r09_Zenitsu_4K/Final_r09_Zenitsu_4K_Hood_0008.png",
+      "bytes": 9542017,
+      "sha256": "138a7d9ddbf77fbfb96ea0e6813363f8e28b42abb6cc8dbbd819fbc851d58a6a",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r10_Giyu_4K/Final_r10_Giyu_4K_Side_0008.png",
+      "bytes": 8499487,
+      "sha256": "364bddd84966756ca539d90329258e503e1c1d878bb7aa5488985e3e0f9ad209",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r10_Giyu_4K/Final_r10_Giyu_4K_Beauty_0008.png",
+      "bytes": 8597044,
+      "sha256": "84083950b767a991a26fccffad3f6bf07021e201923eaca85cd8819497b27a6f",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    },
+    {
+      "path": "renders/YU7_Itasha_v01/Final_r10_Giyu_4K/Final_r10_Giyu_4K_Hood_0008.png",
+      "bytes": 9527398,
+      "sha256": "2e894c6789984411ed50c3e1e8316819f5f97454d986b8fce1f3d0fd42ed8b97",
+      "width": 3840,
+      "height": 2160,
+      "fully_decoded": true,
+      "visually_reviewed": true
+    }
+  ],
+  "assets": [
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaOptions.uasset",
+      "bytes": 24516,
+      "sha256": "af9d4003b760a20d5f6214b0db83e6625b79792bb224eff754ab0c1d4312e6c5"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.uasset",
+      "bytes": 258156,
+      "sha256": "a9d80c627479c304ea894f9fd66d5353ec2611ab90a791eeaf37d88f57e58a6f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.umap",
+      "bytes": 271468,
+      "sha256": "58141d95ae4415028931e011613b3d101bd01166f237e1c8a3b3ff95e4c8ddcd"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/M_Itasha_Artwork.uasset",
+      "bytes": 22535,
+      "sha256": "d6f8f9c3d249328f90e09589257b0eb5bc43d8ef0bbf0d7757f250bb2f7e3006"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/M_Itasha_Sweep.uasset",
+      "bytes": 39420,
+      "sha256": "7868bc06fd67063f662706338c745c4fe7777e0d0ddb4f2ffc15e2b6f35d2ad9"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Giyu.uasset",
+      "bytes": 17224,
+      "sha256": "4aa9bbdfb9ed7e6b55522f540e4009b41eb8a2bad65ef0b061e01169a34a7002"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_None.uasset",
+      "bytes": 7779,
+      "sha256": "e3f45edd890704b9e0d7bc620c9b75cde7922bddda658c1d32d5ffe31a42e4c0"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.uasset",
+      "bytes": 18861,
+      "sha256": "b784c0dfb53f6f1ee305f4f285067f3dd8eb3cdaa7c4874a11a176a5800442ef"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Giyu.uasset",
+      "bytes": 12263,
+      "sha256": "dcbddc1b07d2cbb627bae6f6bc16a3d54bcfe7568b065a3682a76bd1988264b3"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_None.uasset",
+      "bytes": 7705,
+      "sha256": "764e4f36698f31041205b06bea21331be854d86b2d3802e962dcb59b73420624"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Rengoku.uasset",
+      "bytes": 11942,
+      "sha256": "251ccbe55fa88435229dca7e06989e7c8a45e1ee0172417f98f75873343b6544"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Zenitsu.uasset",
+      "bytes": 12570,
+      "sha256": "d4d9c82a833a467a79c5c4b28ff018f9d12c4cf115cf33ac87f0b4786521e20a"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Materials/MI_Itasha_Zenitsu.uasset",
+      "bytes": 17681,
+      "sha256": "263d361d08c9a4e31c31e0c34f4c743d1dab063cbb6e4a358f45165e0a47c4b7"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Beauty.uasset",
+      "bytes": 4781,
+      "sha256": "6d29fcc5ad58c1487bad7c2c3deb2dd97e63e5afee266d1daad0bb0380f898ba"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Hood.uasset",
+      "bytes": 4769,
+      "sha256": "c4a152738d90e0c0c548bf871a80fa4483e0dee38e0991597cdd561cb5fbcec2"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r08_Rengoku_4K_Side.uasset",
+      "bytes": 4769,
+      "sha256": "8c79c5a634ca4e678074f8606192a007941ea47f61481df02baebaeb00c73864"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Beauty.uasset",
+      "bytes": 4781,
+      "sha256": "a0667ec6baea04296fda4280c9d0f0179c630bbbe833ac21c63ed17c2e0f5fd8"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Hood.uasset",
+      "bytes": 4769,
+      "sha256": "436c77367db2c600c85ab80b7323d92684a843a51993586914111f08f9897fa1"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r09_Zenitsu_4K_Side.uasset",
+      "bytes": 4769,
+      "sha256": "c0be8abfba4bf8410ee407122a0017f17b9b8e82f43add8535999aa095d3f9d4"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Beauty.uasset",
+      "bytes": 4760,
+      "sha256": "caf86af4752867f9dea6d4c9123ad9889f13ca70f4db91c2bc2b95d16e6294c4"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Hood.uasset",
+      "bytes": 4748,
+      "sha256": "429a366e92e030bce0e3fb3f9eac5ab33391242af223858719d252c6fc6b27e1"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Final_r10_Giyu_4K_Side.uasset",
+      "bytes": 4748,
+      "sha256": "59392ee061f1bb281086433ce9c48de3a183fdb87815e43fd117bbb96533eef5"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r01_Rengoku_Beauty.uasset",
+      "bytes": 4654,
+      "sha256": "2e444140999d0716b4796668bb82ee23c2c007b457125e1e35a704ced9704381"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r01_Rengoku_Side.uasset",
+      "bytes": 4642,
+      "sha256": "59e0ee1742873a1c6269c43d729aec03a4b79f127e9a792a63d1aba7a072f0db"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r02_Rengoku_Beauty.uasset",
+      "bytes": 4654,
+      "sha256": "fc305e0b1e2dd13bdc8a485256553c9cd48c43f4067e3850f734f53ff90378fa"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r02_Rengoku_Hood.uasset",
+      "bytes": 4642,
+      "sha256": "9062addb57539ed96cc71ea79e46d8f1db862597dbfb69db008f5a4cd1502fa4"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r02_Rengoku_Right.uasset",
+      "bytes": 4648,
+      "sha256": "21e29366adcda6ac0115c0d03f6d30c262f6b845f44efd9a1711c71413ee00ba"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r02_Rengoku_Side.uasset",
+      "bytes": 4642,
+      "sha256": "c0db21f83d482afed908ec59f6026edf5b65d271c9deae0ba3ab532d022be22f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r03_Rengoku_Beauty.uasset",
+      "bytes": 4654,
+      "sha256": "b208f6ee65928e7e36e94f8bf708c135efc452d9b26ff74437ccdb1872355626"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r03_Rengoku_Side.uasset",
+      "bytes": 4642,
+      "sha256": "d78f8043a4a872c2e4e3f422678381c18e6f8a5d182a9a0aa5d5f387b2ad829a"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r04_Rengoku_Beauty.uasset",
+      "bytes": 4654,
+      "sha256": "c9eeda87765b503230f63d0f4eb6b6a2ba1d2ba83f8691693b39fe5310673742"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r04_Rengoku_Right.uasset",
+      "bytes": 4648,
+      "sha256": "7a4c7ef7a513bee3cda502cee580718a5054ea942dc7502bf8f1aa61cc84cc87"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r04_Rengoku_Side.uasset",
+      "bytes": 4642,
+      "sha256": "d1c519faccdfa6849d62004d5b3629ebffd87dc3d20061f3d9c0014bf5d02d1c"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r05_Rengoku_Beauty.uasset",
+      "bytes": 4654,
+      "sha256": "34a292ad60bad1ee1ef797890b33b8f7106792a40fe9c8950930346ee01f098b"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r05_Rengoku_Hood.uasset",
+      "bytes": 4642,
+      "sha256": "0d5f977d8cf86c93eb35ddb38c65920615d9f02d4fcbfdbad11bdfbb98aa01a2"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r05_Rengoku_Right.uasset",
+      "bytes": 4648,
+      "sha256": "2410bfc22a2f128c7e3d11f8b0109047441ae4d8c0a3d27fae1be8c9488efacb"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r05_Rengoku_Side.uasset",
+      "bytes": 4642,
+      "sha256": "e1b0fb6b1e270dbe8b4be241af46bd29ce4dd29499600722d5e9fa7b2605ab22"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r06_Zenitsu_Beauty.uasset",
+      "bytes": 4654,
+      "sha256": "655b8fe261d32818afa839b2cee36f990bcb6f69b90101df230792d532441013"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r06_Zenitsu_Hood.uasset",
+      "bytes": 4642,
+      "sha256": "592186551732b172f0059637314577b2b71b2b2bf7cf4456f1dbccb16baf6803"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r06_Zenitsu_Side.uasset",
+      "bytes": 4642,
+      "sha256": "19373a142dfc27851f15ffc544f6052247165c4f19331dff8b0e5dfb33c43022"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r07_Giyu_Beauty.uasset",
+      "bytes": 4633,
+      "sha256": "6d7391cbb1d00749aa6f8168ba9067d9ee0d370c46385ad6200e4c725ebc6c10"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r07_Giyu_Hood.uasset",
+      "bytes": 4621,
+      "sha256": "f4ab3601abc34d54bdc86d62e794753b675987e0ea97bfd69a0aac6fa9dbbb6a"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/RenderPresets/MRQ_Test_r07_Giyu_Side.uasset",
+      "bytes": 4621,
+      "sha256": "8324bcc24eafed0af4670587bd4a781d0146792bb2bc5e893667dfb63166e733"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Sequences/LS_Itasha_Beauty.uasset",
+      "bytes": 7650,
+      "sha256": "ff7bab3ef27a07d960b89c359c520582e56e233cacd99598431fddedbf9b0b55"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Sequences/LS_Itasha_Hood.uasset",
+      "bytes": 7638,
+      "sha256": "894d8705aaa4604cc72e8bb97a00a1b868fbc06099573e0cdd84003c601c7baa"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Sequences/LS_Itasha_Right.uasset",
+      "bytes": 7644,
+      "sha256": "00ea9be6e08ad9644a572fe7520602a252db904c9b5dfc6e43e294bf4f86c4fa"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Sequences/LS_Itasha_Side.uasset",
+      "bytes": 7638,
+      "sha256": "03601c3d6c9541ddfd153b1209c1cd8476ca562f1fcd4234afabdab9b732bbd4"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Textures/T_Itasha_giyu.uasset",
+      "bytes": 407012,
+      "sha256": "1d5c59095141ab40c57fbd393cb00e2975ed8035a33952203ad97d146590f55e"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Textures/T_Itasha_rengoku.uasset",
+      "bytes": 681844,
+      "sha256": "f8664e02f65e4185dd09a9400bd906fdec5425a2922350866b03c36f3152f275"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Textures/T_Itasha_zenitsu.uasset",
+      "bytes": 295403,
+      "sha256": "d0155ad23d69e09dffaed69ab6a15d5ed8c6c47f6a0206096b17cef3eef32b1f"
+    },
+    {
+      "path": "VehicleStudio/Content/YU7/Itasha_v01/Variants/LVS_YU7_Itasha_v01.uasset",
+      "bytes": 216832,
+      "sha256": "1f462b5fbdfabd05bdf095e18c32a41b6979a0d3fb12aed336d5e08a8480df49"
+    }
+  ],
+  "historical_protection": {
+    "files": 789,
+    "all_sha256_match": true
+  },
+  "verification": {
+    "editor_cross_frame_cases_after_safe_reload": 24,
+    "actual_pie_runtime_cases": 12,
+    "active_unique_vehicle_meshes": 121,
+    "attached_decals": 5,
+    "final_mapcheck": "[2026.10.28-05.54.08:917][959]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.362ms to complete.",
+    "python_scripts_syntax_checked": 21,
+    "credit_sidecar_byte_exact": true,
+    "source_images_unmodified": true
+  },
+  "runtime": {
+    "implementation": "Blueprint / native Variant Manager / native material graphs",
+    "python_required": false,
+    "cpp_added": false,
+    "ui": "Variant Manager and inherited Blueprint Switch on Variant by Name/Index; no UMG buttons"
+  },
+  "limits": [
+    "Original character PNGs are 1000px canvas width; 4K output does not add source texture detail.",
+    "Original studio specular reflections can obscure artwork in hood closeups.",
+    "No character artwork reuse/distribution license verified; see ART_SOURCES.txt.",
+    "Application-visible Credits and packaged/new-machine validation remain final-project delivery items."
+  ],
+  "credit": {
+    "path": "renders/YU7_Itasha_v01/CREDITS.txt",
+    "bytes": 169,
+    "sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb"
+  },
+  "art_sources": [
+    {
+      "id": "rengoku",
+      "file": "01_rengoku.png",
+      "character": "炼狱杏寿郎",
+      "option_name": "炎柱·赤炎",
+      "chara": 22,
+      "width": 1000,
+      "height": 782,
+      "sha256": "f7d8abfed874db77c85f5f973bf8861714d302cbc7ca1ba39c8652a25a688021",
+      "design_notes": "正面人物与大幅金橙火焰轮廓。建议人物置单扇车门，火焰向前翼子板和后门延展；搭配珍珠白或石墨哑光。首选。",
+      "source_page": "https://game.kimetsu.com/hinokami2/character/?chara=22",
+      "image_url": "https://game.kimetsu.com/hinokami2/assets/img/character/main/chara22.png",
+      "source_kind": "official_game_character_art",
+      "pixel_format": "RGBA",
+      "visually_reviewed": true,
+      "modified": false
+    },
+    {
+      "id": "zenitsu",
+      "file": "02_zenitsu.png",
+      "character": "我妻善逸",
+      "option_name": "善逸·雷闪",
+      "chara": 29,
+      "width": 1000,
+      "height": 566,
+      "sha256": "1623e122f08aedb1797b602a405fb7725a1c9b3b6ac6f631cc0b2ae4c9b937e6",
+      "design_notes": "低重心拔刀姿势，黄橙羽织配电蓝雷光。建议人物位于前门，雷电沿门板/侧裙延展；搭配石墨哑光。原画左右透明留白较多，1000px画布不等于人物占满1000px。首选。",
+      "source_page": "https://game.kimetsu.com/hinokami2/character/?chara=29",
+      "image_url": "https://game.kimetsu.com/hinokami2/assets/img/character/main/chara29.png",
+      "source_kind": "official_game_character_art",
+      "pixel_format": "RGBA",
+      "visually_reviewed": true,
+      "modified": false
+    },
+    {
+      "id": "giyu",
+      "file": "05_giyu.png",
+      "character": "富冈义勇",
+      "option_name": "义勇·水流",
+      "chara": 27,
+      "width": 1000,
+      "height": 558,
+      "sha256": "df78a8ed426d2237c9dfe6b446303cc5701a24f55f35513690de94ffa36510ae",
+      "design_notes": "前倾持刀、蓝白横向水浪，宽构图适合连续车侧。搭配现有矿物青最协调，脸避开门缝/把手。首选。",
+      "source_page": "https://game.kimetsu.com/hinokami2/character/?chara=27",
+      "image_url": "https://game.kimetsu.com/hinokami2/assets/img/character/main/chara27.png",
+      "source_kind": "official_game_character_art",
+      "pixel_format": "RGBA",
+      "visually_reviewed": true,
+      "modified": false
+    }
+  ]
+}
