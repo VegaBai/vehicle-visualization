@@ -641,3 +641,4 @@
 - 首次git fetch因沙箱只读.git而无法写FETCH_HEAD，后续使用受审查的Git写权限重试；该次0/0计数基于旧远端引用，未视为已刷新。发布完整性检查已通过61项交付与789项历史哈希，但排除规则误将reports中的Test_*状态JSON当作诊断图片，断言中止；收窄为renders下Test_*目录，保留过程验证JSON后重查。
 - git fetch重试成功。61项交付（51项UE资产、9张4K图、署名）与789项历史保护SHA256一致，署名sidecar原字节一致。161项新制作文件共83,502,874 bytes，70个JSON与21个Python解析通过，96份文本常见凭据签名无匹配；诊断试图/UE缓存均不在候选范围。证据保存publication_preflight.json，本轮只核对既有验证记录与完整性，不冒称重新运行UE或打包测试。
 - 刷新后的HEAD与origin/main均为a08be8e，0 ahead / 0 behind。166个文件已暂存，其中65项LFS指针的SHA256和size与本地二进制逐项一致，逻辑总量约83.65MB，最大普通Git对象146,411 bytes；暂存差异检查通过，无剩余未暂存/未跟踪改动，Test_*图片忽略规则生效。将以“Add Demon Slayer itasha options and 4K studio previews”提交并正常推送main。
+- 制作成果提交39a9f5cda6555f3b9ddf6003d9f419fa20debd5d已成功推送origin/main，166个文件、65项LFS对象约83MB全部上传完成。git lfs fsck HEAD返回OK；git ls-remote核实远端main与该提交完全一致，git lfs push --dry-run origin main没有待上传对象。成果推送后工作区为空；本条与publication_remote_verification.json作为随后独立的发布记录提交同步，不重写制作成果提交。
