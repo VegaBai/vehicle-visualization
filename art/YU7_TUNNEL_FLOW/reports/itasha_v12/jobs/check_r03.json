@@ -1,0 +1,475 @@
+{
+  "id": "check_r03",
+  "started": "2026-11-18T02:54:13-0800",
+  "status": "success",
+  "result": {
+    "status": "passed",
+    "frames": 576,
+    "bindings": [
+      {
+        "name": "YU7_Itasha_Right_Giyu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_11"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Right_Zenitsu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_6"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Sweep_Left_Zenitsu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_8"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Sweep_Right_Giyu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_14"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_FL",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.BP_YU7_Tunnel_Wheel_FL_v12_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_RL",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.BP_YU7_Tunnel_Wheel_RL_v12_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_ScanLight_R",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.PointLight_0"
+        ]
+      },
+      {
+        "name": "CAM_YU7_TunnelFlow",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.CineCameraActor_11"
+        ]
+      },
+      {
+        "name": "LightComponent0",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.PointLight_1.LightComponent0"
+        ]
+      },
+      {
+        "name": "LightComponent0",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.RectLight_12.LightComponent0"
+        ]
+      },
+      {
+        "name": "LightComponent0",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.PointLight_0.LightComponent0"
+        ]
+      },
+      {
+        "name": "YU7_Hero",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.BP_YU7_ItashaFilm_v12_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_ScanLight_L",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.PointLight_1"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Hood_Zenitsu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_7"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Sweep_Right_Rengoku_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_4"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Left_Rengoku_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_0"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Sweep_Left_Giyu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_13"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Hood_Rengoku_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_2"
+        ]
+      },
+      {
+        "name": "YU7_AD_ShapingKey",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.RectLight_12"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Right_Rengoku_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_1"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Hood_Giyu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_12"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Left_Giyu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_10"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_RR",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.BP_YU7_Tunnel_Wheel_RR_v12_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Sweep_Right_Zenitsu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_9"
+        ]
+      },
+      {
+        "name": "YU7_Tunnel_Wheel_FR",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.BP_YU7_Tunnel_Wheel_FR_v12_C_0"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Sweep_Left_Rengoku_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_3"
+        ]
+      },
+      {
+        "name": "YU7_Itasha_Left_Zenitsu_v12",
+        "objects": [
+          "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12:PersistentLevel.DecalActor_5"
+        ]
+      }
+    ],
+    "samples": [
+      {
+        "frame": 0,
+        "visible_decals": [],
+        "paint": [
+          0.18000000715255737,
+          0.27000001072883606,
+          0.3400000035762787
+        ],
+        "hero_x": 0.0
+      },
+      {
+        "frame": 30,
+        "visible_decals": [],
+        "paint": [
+          0.11999999731779099,
+          0.23000000417232513,
+          0.3199999928474426
+        ],
+        "hero_x": -133.92857360839844
+      },
+      {
+        "frame": 60,
+        "visible_decals": [],
+        "paint": [
+          0.550000011920929,
+          0.5699999928474426,
+          0.5899999737739563
+        ],
+        "hero_x": -267.8571472167969
+      },
+      {
+        "frame": 90,
+        "visible_decals": [],
+        "paint": [
+          0.0949999988079071,
+          0.11500000208616257,
+          0.12999999523162842
+        ],
+        "hero_x": -401.78570556640625
+      },
+      {
+        "frame": 120,
+        "visible_decals": [],
+        "paint": [
+          0.23999999463558197,
+          0.2549999952316284,
+          0.27000001072883606
+        ],
+        "hero_x": -535.7142944335938
+      },
+      {
+        "frame": 149,
+        "visible_decals": [],
+        "paint": [
+          0.5270370244979858,
+          0.54666668176651,
+          0.5662962794303894
+        ],
+        "hero_x": -665.1785888671875
+      },
+      {
+        "frame": 150,
+        "visible_decals": [
+          "YU7_Itasha_Left_Rengoku_v12",
+          "YU7_Itasha_Right_Rengoku_v12",
+          "YU7_Itasha_Hood_Rengoku_v12",
+          "YU7_Itasha_Sweep_Left_Rengoku_v12",
+          "YU7_Itasha_Sweep_Right_Rengoku_v12"
+        ],
+        "paint": [
+          0.550000011920929,
+          0.5699999928474426,
+          0.5899999737739563
+        ],
+        "hero_x": -669.6428833007812
+      },
+      {
+        "frame": 170,
+        "visible_decals": [
+          "YU7_Itasha_Left_Rengoku_v12",
+          "YU7_Itasha_Right_Rengoku_v12",
+          "YU7_Itasha_Hood_Rengoku_v12",
+          "YU7_Itasha_Sweep_Left_Rengoku_v12",
+          "YU7_Itasha_Sweep_Right_Rengoku_v12"
+        ],
+        "paint": [
+          0.550000011920929,
+          0.5699999928474426,
+          0.5899999737739563
+        ],
+        "hero_x": -758.9285888671875
+      },
+      {
+        "frame": 191,
+        "visible_decals": [
+          "YU7_Itasha_Left_Rengoku_v12",
+          "YU7_Itasha_Right_Rengoku_v12",
+          "YU7_Itasha_Hood_Rengoku_v12",
+          "YU7_Itasha_Sweep_Left_Rengoku_v12",
+          "YU7_Itasha_Sweep_Right_Rengoku_v12"
+        ],
+        "paint": [
+          0.550000011920929,
+          0.5699999928474426,
+          0.5899999737739563
+        ],
+        "hero_x": -852.6785888671875
+      },
+      {
+        "frame": 192,
+        "visible_decals": [],
+        "paint": [
+          0.550000011920929,
+          0.5699999928474426,
+          0.5899999737739563
+        ],
+        "hero_x": -857.1428833007812
+      },
+      {
+        "frame": 197,
+        "visible_decals": [],
+        "paint": [
+          0.12870369851589203,
+          0.1487037092447281,
+          0.16407407820224762
+        ],
+        "hero_x": -879.4642944335938
+      },
+      {
+        "frame": 198,
+        "visible_decals": [
+          "YU7_Itasha_Left_Zenitsu_v12",
+          "YU7_Itasha_Right_Zenitsu_v12",
+          "YU7_Itasha_Hood_Zenitsu_v12",
+          "YU7_Itasha_Sweep_Left_Zenitsu_v12",
+          "YU7_Itasha_Sweep_Right_Zenitsu_v12"
+        ],
+        "paint": [
+          0.0949999988079071,
+          0.11500000208616257,
+          0.12999999523162842
+        ],
+        "hero_x": -883.9285888671875
+      },
+      {
+        "frame": 216,
+        "visible_decals": [
+          "YU7_Itasha_Left_Zenitsu_v12",
+          "YU7_Itasha_Right_Zenitsu_v12",
+          "YU7_Itasha_Hood_Zenitsu_v12",
+          "YU7_Itasha_Sweep_Left_Zenitsu_v12",
+          "YU7_Itasha_Sweep_Right_Zenitsu_v12"
+        ],
+        "paint": [
+          0.0949999988079071,
+          0.11500000208616257,
+          0.12999999523162842
+        ],
+        "hero_x": -964.2857055664062
+      },
+      {
+        "frame": 239,
+        "visible_decals": [
+          "YU7_Itasha_Left_Zenitsu_v12",
+          "YU7_Itasha_Right_Zenitsu_v12",
+          "YU7_Itasha_Hood_Zenitsu_v12",
+          "YU7_Itasha_Sweep_Left_Zenitsu_v12",
+          "YU7_Itasha_Sweep_Right_Zenitsu_v12"
+        ],
+        "paint": [
+          0.0949999988079071,
+          0.11500000208616257,
+          0.12999999523162842
+        ],
+        "hero_x": -1066.9642944335938
+      },
+      {
+        "frame": 240,
+        "visible_decals": [],
+        "paint": [
+          0.0949999988079071,
+          0.11500000208616257,
+          0.12999999523162842
+        ],
+        "hero_x": -1071.4285888671875
+      },
+      {
+        "frame": 245,
+        "visible_decals": [],
+        "paint": [
+          0.033888887614011765,
+          0.11222222447395325,
+          0.12074074149131775
+        ],
+        "hero_x": -1093.75
+      },
+      {
+        "frame": 246,
+        "visible_decals": [
+          "YU7_Itasha_Left_Giyu_v12",
+          "YU7_Itasha_Right_Giyu_v12",
+          "YU7_Itasha_Hood_Giyu_v12",
+          "YU7_Itasha_Sweep_Left_Giyu_v12",
+          "YU7_Itasha_Sweep_Right_Giyu_v12"
+        ],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -1098.2142333984375
+      },
+      {
+        "frame": 264,
+        "visible_decals": [
+          "YU7_Itasha_Left_Giyu_v12",
+          "YU7_Itasha_Right_Giyu_v12",
+          "YU7_Itasha_Hood_Giyu_v12",
+          "YU7_Itasha_Sweep_Left_Giyu_v12",
+          "YU7_Itasha_Sweep_Right_Giyu_v12"
+        ],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -1178.5714111328125
+      },
+      {
+        "frame": 287,
+        "visible_decals": [
+          "YU7_Itasha_Left_Giyu_v12",
+          "YU7_Itasha_Right_Giyu_v12",
+          "YU7_Itasha_Hood_Giyu_v12",
+          "YU7_Itasha_Sweep_Left_Giyu_v12",
+          "YU7_Itasha_Sweep_Right_Giyu_v12"
+        ],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -1281.25
+      },
+      {
+        "frame": 288,
+        "visible_decals": [],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -1285.7142333984375
+      },
+      {
+        "frame": 432,
+        "visible_decals": [],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -9000.0
+      },
+      {
+        "frame": 510,
+        "visible_decals": [],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -13875.0
+      },
+      {
+        "frame": 564,
+        "visible_decals": [],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -17250.0
+      },
+      {
+        "frame": 575,
+        "visible_decals": [],
+        "paint": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "hero_x": -17937.5
+      }
+    ],
+    "unique_visible_meshes": 121,
+    "body_quad_triangles": 99916,
+    "visible_roof_lines": 7,
+    "protected_unchanged": 1257,
+    "native_runtime": "Blueprint/Sequencer/materials; editor Python validation only"
+  },
+  "finished": "2026-11-18T02:54:15-0800"
+}

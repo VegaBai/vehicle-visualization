@@ -1,0 +1,7 @@
+{
+  "id": "probe_r02",
+  "started": "2026-11-18T02:49:37-0800",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_v12_jobs.py\", line 56, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_v12_probe.py\", line 7, in <module>\n    assert not unreal.EditorLoadingAndSavingUtils.get_dirty_map_packages()\nAssertionError\n",
+  "finished": "2026-11-18T02:49:37-0800"
+}

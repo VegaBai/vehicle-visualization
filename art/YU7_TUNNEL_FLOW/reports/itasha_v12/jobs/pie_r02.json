@@ -1,0 +1,7 @@
+{
+  "id": "pie_r02",
+  "started": "2026-11-18T02:53:52-0800",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_v12_jobs.py\", line 56, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_v12_pie.py\", line 6, in <module>\n    level=unreal.get_editor_subsystem(unreal.LevelEditorSubsystem);assert level.is_in_play_in_editor()\n                                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n",
+  "finished": "2026-11-18T02:53:52-0800"
+}

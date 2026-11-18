@@ -1,0 +1,47 @@
+[
+  {
+    "jsonrpc": "2.0",
+    "id": 2,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Not run: the Unreal Editor is running a slow task, which blocks editor tools. This call made no changes. The task must finish before this call can run, so wait for it to finish, then retry. Retrying while it runs returns this message again."
+        }
+      ],
+      "isError": true
+    }
+  },
+  {
+    "jsonrpc": "2.0",
+    "id": 3,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "Not run: the Unreal Editor is running a slow task, which blocks editor tools. This call made no changes. The task must finish before this call can run, so wait for it to finish, then retry. Retrying while it runs returns this message again."
+        }
+      ],
+      "isError": true
+    }
+  },
+  {
+    "jsonrpc": "2.0",
+    "id": 4,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"returnValue\":{\"unrealContext\":\"Folder paths always need to end in /\\n100 units is 1 meter\\nScreen space coordinates are normalized coordinates where 0, 0 is the upper left corner and 1, 1 is the lower right corner.\\nColors with a max of 1 are LDR. No max means HDR.\\nIf you aren't sure what the user is referring to, try to see what they have selected.\\nClass refPath is the full soft class path e.g. /Script/Engine.Actor.\",\"projectContext\":\"\",\"userContext\":\"\"}}"
+        }
+      ],
+      "structuredContent": {
+        "returnValue": {
+          "unrealContext": "Folder paths always need to end in /\n100 units is 1 meter\nScreen space coordinates are normalized coordinates where 0, 0 is the upper left corner and 1, 1 is the lower right corner.\nColors with a max of 1 are LDR. No max means HDR.\nIf you aren't sure what the user is referring to, try to see what they have selected.\nClass refPath is the full soft class path e.g. /Script/Engine.Actor.",
+          "projectContext": "",
+          "userContext": ""
+        }
+      }
+    }
+  }
+]

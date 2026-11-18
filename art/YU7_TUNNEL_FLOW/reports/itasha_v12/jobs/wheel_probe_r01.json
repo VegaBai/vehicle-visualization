@@ -1,0 +1,344 @@
+{
+  "id": "wheel_probe_r01",
+  "started": "2026-11-18T02:54:03-0800",
+  "status": "success",
+  "result": [
+    {
+      "actor": "YU7_Tunnel_Wheel_FL",
+      "class": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_FL_v12.BP_YU7_Tunnel_Wheel_FL_v12_C",
+      "components": [
+        {
+          "name": "BillboardComponent_1",
+          "receives": true
+        },
+        {
+          "name": "Spin_90",
+          "receives": false
+        },
+        {
+          "name": "Spin_91",
+          "receives": false
+        },
+        {
+          "name": "Spin_92",
+          "receives": false
+        },
+        {
+          "name": "Spin_93",
+          "receives": false
+        },
+        {
+          "name": "Spin_94",
+          "receives": false
+        },
+        {
+          "name": "Spin_95",
+          "receives": false
+        }
+      ],
+      "templates": [
+        {
+          "name": "Spin_90_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_90_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_91_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_91_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_92_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_92_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_93_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_93_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_94_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_94_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_95_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_95_GEN_VARIABLE",
+          "receives": false
+        }
+      ]
+    },
+    {
+      "actor": "YU7_Tunnel_Wheel_RL",
+      "class": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_RL_v12.BP_YU7_Tunnel_Wheel_RL_v12_C",
+      "components": [
+        {
+          "name": "BillboardComponent_1",
+          "receives": true
+        },
+        {
+          "name": "Spin_96",
+          "receives": false
+        },
+        {
+          "name": "Spin_97",
+          "receives": false
+        },
+        {
+          "name": "Spin_98",
+          "receives": false
+        },
+        {
+          "name": "Spin_99",
+          "receives": false
+        },
+        {
+          "name": "Spin_100",
+          "receives": false
+        },
+        {
+          "name": "Spin_101",
+          "receives": false
+        }
+      ],
+      "templates": [
+        {
+          "name": "Spin_96_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_96_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_97_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_97_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_98_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_98_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_99_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_99_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_100_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_100_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_101_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_101_GEN_VARIABLE",
+          "receives": false
+        }
+      ]
+    },
+    {
+      "actor": "YU7_Tunnel_Wheel_RR",
+      "class": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_RR_v12.BP_YU7_Tunnel_Wheel_RR_v12_C",
+      "components": [
+        {
+          "name": "BillboardComponent_1",
+          "receives": true
+        },
+        {
+          "name": "Spin_102",
+          "receives": false
+        },
+        {
+          "name": "Spin_103",
+          "receives": false
+        },
+        {
+          "name": "Spin_104",
+          "receives": false
+        },
+        {
+          "name": "Spin_105",
+          "receives": false
+        },
+        {
+          "name": "Spin_106",
+          "receives": false
+        },
+        {
+          "name": "Spin_107",
+          "receives": false
+        }
+      ],
+      "templates": [
+        {
+          "name": "Spin_102_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_102_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_103_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_103_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_104_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_104_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_105_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_105_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_106_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_106_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_107_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_107_GEN_VARIABLE",
+          "receives": false
+        }
+      ]
+    },
+    {
+      "actor": "YU7_Tunnel_Wheel_FR",
+      "class": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_FR_v12.BP_YU7_Tunnel_Wheel_FR_v12_C",
+      "components": [
+        {
+          "name": "BillboardComponent_1",
+          "receives": true
+        },
+        {
+          "name": "Spin_108",
+          "receives": false
+        },
+        {
+          "name": "Spin_109",
+          "receives": false
+        },
+        {
+          "name": "Spin_110",
+          "receives": false
+        },
+        {
+          "name": "Spin_111",
+          "receives": false
+        },
+        {
+          "name": "Spin_112",
+          "receives": false
+        },
+        {
+          "name": "Spin_113",
+          "receives": false
+        }
+      ],
+      "templates": [
+        {
+          "name": "Spin_108_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_108_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_109_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_109_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_110_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_110_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_111_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_111_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_112_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_112_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_113_GEN_VARIABLE",
+          "receives": false
+        },
+        {
+          "name": "Spin_113_GEN_VARIABLE",
+          "receives": false
+        }
+      ]
+    }
+  ],
+  "finished": "2026-11-18T02:54:03-0800"
+}

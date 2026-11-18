@@ -1,6 +1,14 @@
 # Vehicle Visualization · Xiaomi YU7
 
-当前以 Unreal Engine 5.9.0 继续开发的汽车可视化作品项目（既有交付媒体制作于 5.8.3），包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及最新的 18 秒漆面切换与隧道流光镜头。
+当前以 Unreal Engine 5.9.0 继续开发的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及漆面、痛车与隧道流光镜头。
+
+## 24 秒车漆、痛车与流线展示 · v12
+
+在原 18 秒镜头基础上加入炎柱／珠光白、善逸／石墨灰、义勇／矿物青三段切换，再衔接原有车顶流光、完整车身网格与干净收尾。原 v11 视频保留。
+
+[4K 带名称版](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/ItashaShowcase_v12/Final_r03_4K_Labeled_24s.mp4) · [4K 无文字版](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/ItashaShowcase_v12/Final_r03_4K_24s.mp4) · [1080p 预览](https://media.githubusercontent.com/media/VegaBai/vehicle-visualization/main/renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_Labeled_24s.mp4)
+
+UE 5.9 原生 3840 × 2160 · 24 fps · 576 帧 · 24 秒 · 无声。制作、保护范围及实际验证结果见 [复用指南](art/YU7_TUNNEL_FLOW/README_ITASHA_v12.txt) 和 [交付清单](art/YU7_TUNNEL_FLOW/reports/itasha_v12/output_manifest.json)。
 
 ## 18 秒漆面与流线展示 · v11
 
@@ -35,13 +43,15 @@ cd vehicle-visualization
 git lfs pull
 ```
 
-当前开发请用 Unreal Engine 5.9.0 打开 `VehicleStudio_UE59/VehicleStudio.uproject`，或运行 `tools/open_vehicle_studio_59.ps1`。`VehicleStudio/VehicleStudio.uproject` 保留为 5.8.3 备份，不用于后续制作。默认 MCP 为 `http://127.0.0.1:8001/mcp`，随 5.9 项目自动启动。此切换目前完成于本地，尚未提交或推送。模型、贴图、UE 资产及交付媒体由 Git LFS 管理；只有指针文件的下载不包含完整资产。
+当前开发请用 Unreal Engine 5.9.0 打开 `VehicleStudio_UE59/VehicleStudio.uproject`，或运行 `tools/open_vehicle_studio_59.ps1`。`VehicleStudio/VehicleStudio.uproject` 保留为 5.8.3 备份，不用于后续制作。默认 MCP 为 `http://127.0.0.1:8001/mcp`，随 5.9 项目自动启动。此切换已提交并推送于 `085efb5`。模型、贴图、UE 资产及交付媒体由 Git LFS 管理；只有指针文件的下载不包含完整资产。
 
 - 外观工作地图：`/Game/YU7/Maps/Studio_YU7`
 - 独立主镜头地图：`/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero`
 - 整车 quad 展示地图：`/Game/YU7/QuadBodyStudy/Maps/Studio_YU7_QuadBody`
 - 隧道流光镜头地图：`/Game/YU7/TunnelFlow/Maps/Studio_YU7_TunnelFlow`
-- 最新 18 秒漆面展示地图：`/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11`
+- 最新 24 秒痛车与漆面地图：`/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12`
+- 24 秒展示序列：`/Game/YU7/TunnelFlow/ItashaShowcase_v12/Sequences/LS_YU7_ItashaShowcase_v12_24s`
+- 保留的 18 秒漆面展示地图：`/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11`
 - 18 秒展示序列：`/Game/YU7/TunnelFlow/FinishShowcase_v11/Sequences/LS_YU7_FinishShowcase_v11_18s`
 - 保留的局部 quad 试作：`/Game/YU7/WireframeStudy/Maps/Studio_YU7_QuadStudy`
 - 运镜序列：`/Game/YU7/Cinematics/Sequences/LS_YU7_MineralHero_5s`
@@ -63,6 +73,7 @@ git lfs pull
 | `renders/YU7_QuadBodyStudy/Final_v03/` | 整车 quad 前侧、衔接近景、后侧三张 4K PNG |
 | `renders/YU7_TunnelFlow/` | 历代隧道流光/quad 接力视频与关键帧 |
 | `renders/YU7_TunnelFlow/FinishShowcase_v11/` | 18 秒 4K/1080p 视频、九张 4K 精选帧、漆面对照图与署名 |
+| `renders/YU7_TunnelFlow/ItashaShowcase_v12/` | 24 秒痛车与车漆切换视频、4K 精选帧与署名 |
 | `DEV_HISTORY.md` | 持续追加的决策、实施、失败与验证记录 |
 
 `.gitignore` 排除 Unreal 的 `Binaries`、`DerivedDataCache`、`Intermediate`、`Saved`，以及 IDE 临时文件、Python 缓存和 `tools/vendor`。`Config`、`Content` 和自定义 `Build` 资源保留。MRQ 的 `frames/` 原始逐帧输出和 `still/` 重复输出保留在制作机器，不上传；重渲步骤见 [主镜头指南](art/YU7_UNREAL/HERO_RENDER_GUIDE.txt)。

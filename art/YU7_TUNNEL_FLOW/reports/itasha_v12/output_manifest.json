@@ -1,0 +1,363 @@
+{
+  "status": "verified_local_delivery",
+  "date": "2026-11-18",
+  "engine": "5.9.0",
+  "frames": 576,
+  "fps": 24,
+  "duration_seconds": 24,
+  "native_final_resolution": [
+    3840,
+    2160
+  ],
+  "renders": [
+    {
+      "name": "Previs_r02_1080p",
+      "seconds": 282.21872115135193,
+      "verification": {
+        "outputs": [
+          {
+            "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_24s.mp4",
+            "sha256": "beb355de9927d3e09345771ca356cdef639c3c5eeaadc6edf15eea250b930ccc",
+            "complete_decode": true
+          },
+          {
+            "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_Labeled_24s.mp4",
+            "sha256": "67e3750889996b9feb6b9bdb53582e8cc725962dc7838e20c2d048db3f642f6c",
+            "complete_decode": true
+          }
+        ],
+        "frames": 576,
+        "fps": 24,
+        "duration_seconds": 24,
+        "resolution": [
+          1920,
+          1080
+        ],
+        "all_native_png_decoded": true,
+        "visual_review": "passed; see visual_review.json",
+        "audio": "silent",
+        "labels": [
+          [
+            "灰蓝 · 亮面车衣",
+            "GREY BLUE / GLOSS WRAP",
+            0,
+            1.0
+          ],
+          [
+            "冰蓝 · 金属漆",
+            "ICE BLUE / METALLIC PAINT",
+            1.25,
+            2.25
+          ],
+          [
+            "月白 · 珠光漆",
+            "OPAL WHITE / PEARLESCENT PAINT",
+            2.5,
+            3.5
+          ],
+          [
+            "石墨 · 哑光车衣",
+            "GRAPHITE / MATTE WRAP",
+            3.75,
+            4.75
+          ],
+          [
+            "灰色 · 陶瓷镀膜",
+            "PORCELAIN GREY / CERAMIC GLOSS",
+            5,
+            6
+          ],
+          [
+            "炎柱 · 珠光白",
+            "RENGOKU / PEARL WHITE",
+            6.25,
+            8
+          ],
+          [
+            "善逸 · 石墨灰",
+            "ZENITSU / GRAPHITE",
+            8.25,
+            10
+          ],
+          [
+            "义勇 · 矿物青",
+            "GIYU / MINERAL TEAL",
+            10.25,
+            12
+          ]
+        ]
+      }
+    },
+    {
+      "name": "Final_r03_4K",
+      "seconds": 1094.2166607379913,
+      "verification": {
+        "outputs": [
+          {
+            "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Final_r03_4K_24s.mp4",
+            "sha256": "e347f0960f8125e2d9f423032a2618c52d6e90671f3b0f384146e4b6f2a8f8b1",
+            "complete_decode": true
+          },
+          {
+            "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Final_r03_4K_Labeled_24s.mp4",
+            "sha256": "75a8ff849a996836bf18317552931f82bd85b2a1f86a6f01374700a40fd7d8c4",
+            "complete_decode": true
+          }
+        ],
+        "frames": 576,
+        "fps": 24,
+        "duration_seconds": 24,
+        "resolution": [
+          3840,
+          2160
+        ],
+        "all_native_png_decoded": true,
+        "visual_review": "passed; see visual_review.json",
+        "audio": "silent",
+        "labels": [
+          [
+            "灰蓝 · 亮面车衣",
+            "GREY BLUE / GLOSS WRAP",
+            0,
+            1.0
+          ],
+          [
+            "冰蓝 · 金属漆",
+            "ICE BLUE / METALLIC PAINT",
+            1.25,
+            2.25
+          ],
+          [
+            "月白 · 珠光漆",
+            "OPAL WHITE / PEARLESCENT PAINT",
+            2.5,
+            3.5
+          ],
+          [
+            "石墨 · 哑光车衣",
+            "GRAPHITE / MATTE WRAP",
+            3.75,
+            4.75
+          ],
+          [
+            "灰色 · 陶瓷镀膜",
+            "PORCELAIN GREY / CERAMIC GLOSS",
+            5,
+            6
+          ],
+          [
+            "炎柱 · 珠光白",
+            "RENGOKU / PEARL WHITE",
+            6.25,
+            8
+          ],
+          [
+            "善逸 · 石墨灰",
+            "ZENITSU / GRAPHITE",
+            8.25,
+            10
+          ],
+          [
+            "义勇 · 矿物青",
+            "GIYU / MINERAL TEAL",
+            10.25,
+            12
+          ]
+        ]
+      }
+    }
+  ],
+  "protected_unchanged": 1257,
+  "changed_protected": [],
+  "parsed_scripts": 14,
+  "credits_sidecar_byte_exact": true,
+  "files": [
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Final_r03_4K_24s.mp4",
+      "bytes": 38410474,
+      "sha256": "e347f0960f8125e2d9f423032a2618c52d6e90671f3b0f384146e4b6f2a8f8b1"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Final_r03_4K_Labeled_24s.mp4",
+      "bytes": 38411382,
+      "sha256": "75a8ff849a996836bf18317552931f82bd85b2a1f86a6f01374700a40fd7d8c4"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_24s.mp4",
+      "bytes": 10989549,
+      "sha256": "beb355de9927d3e09345771ca356cdef639c3c5eeaadc6edf15eea250b930ccc"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_Labeled_24s.mp4",
+      "bytes": 11015766,
+      "sha256": "67e3750889996b9feb6b9bdb53582e8cc725962dc7838e20c2d048db3f642f6c"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0000_GreyBlue_v12_4K.png",
+      "bytes": 7108680,
+      "sha256": "b8289f44b050739fffd5c945dc5fb031d812c3d53a78de303a3381dc29753808"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0030_MetallicBlue_v12_4K.png",
+      "bytes": 7100527,
+      "sha256": "e080a33ecc2989b450340a1b1ab3fe3df4e85568cef29c07956bf1a3514f9d6d"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0060_PearlWhite_v12_4K.png",
+      "bytes": 7119532,
+      "sha256": "3b796a3e7c97f7ef01edb30535602c7cd12bcf9935d89b8f4ba7c3d2e0228b65"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0090_Graphite_v12_4K.png",
+      "bytes": 7037609,
+      "sha256": "031fe0b91a7886c4dcd3771cfb4aa9820a5c48ce625fee08a366be355b92bd5a"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0120_CeramicGloss_v12_4K.png",
+      "bytes": 7091164,
+      "sha256": "66d3da825629413c22887bede0a6c41122cf68de61ae451e2bf7ca0b60082863"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0170_Rengoku_v12_4K.png",
+      "bytes": 7320579,
+      "sha256": "3217f332b71ce495a643202efc2d3334b26bc512955935d4c25323889286c6bc"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0216_Zenitsu_v12_4K.png",
+      "bytes": 7206045,
+      "sha256": "56a92a7a1b0d45dcc7744bf87a3c6480c5d38ad4b6a1d13082592ea8a6f25a70"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0264_Giyu_v12_4K.png",
+      "bytes": 7303397,
+      "sha256": "859a6b89a426cd246748a5246abcf273c0914cdbb356bf91d87496914fa9587b"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0432_RoofFlow_v12_4K.png",
+      "bytes": 6957594,
+      "sha256": "e004a1e2f8427ba7a20b13f0e11a82970aeb2123cd41a2646ce7cd910134c66a"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0510_FullQuad_v12_4K.png",
+      "bytes": 6994149,
+      "sha256": "930c46c38d18c254c6f4458410d2a1b42b58687ff91a28a1a9fbc472c21e52ca"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/0564_CleanExit_v12_4K.png",
+      "bytes": 6453944,
+      "sha256": "48d260561f292394df8737655d8428f8e3232a33ec089fec633415f03ab6c5d0"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/CREDITS.txt",
+      "bytes": 169,
+      "sha256": "926b591b05fb0ba8e939b0ba2bbe43685a3b4ba82bfdd0d65a8b1793d68f71bb"
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/ART_SOURCES.txt",
+      "bytes": 872,
+      "sha256": "5ac99863624e2d18b806322774c5adca711015037c43c0348f80be3c0f3c5320"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_ItashaFilm_v12.uasset",
+      "bytes": 260319,
+      "sha256": "47a7cfa4c26dadbd5a406b3420f50af60daebb4b1166408de834d34af59cc9a1"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_FL_v12.uasset",
+      "bytes": 39804,
+      "sha256": "e88dce38e60e90fd49d2d028103034492d19465f5adccc0a4aca758f670893c9"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_FR_v12.uasset",
+      "bytes": 41274,
+      "sha256": "02a1271c611a0fdfb08cbcafe0d6f9f34832ac0206ddd80be7613d784c1504d7"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_RL_v12.uasset",
+      "bytes": 39810,
+      "sha256": "e46ad6a20fc843ff7bbf0d16e0e5693590593ac3bed073b988776aa5f09b779e"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_RR_v12.uasset",
+      "bytes": 41274,
+      "sha256": "3c143022887997dc397f45143529562e8a457a632c37bae6e9b0e550628e7df9"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Final_r03_4K_Shot_Motion.uasset",
+      "bytes": 5886,
+      "sha256": "45101022919f16d016eafdae75d6a0ffb874bff187cca0cb4841004f96a10e71"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_0.uasset",
+      "bytes": 5772,
+      "sha256": "4a8a8b602951fe7efd5df569f48382331d8f6f82598b69e6a2d89e2bb86f5f98"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_120.uasset",
+      "bytes": 5832,
+      "sha256": "ba57d6d167c64abc2d5f21a1707dd7909d39c5e4905846c0256fe89849b7c7c8"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_170.uasset",
+      "bytes": 5832,
+      "sha256": "253d74722af64e5b5bb30a432ce66c23d2fbc3b710ac8a3d7718ed42b8b09351"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_216.uasset",
+      "bytes": 5832,
+      "sha256": "a400d8dd95adcc83d201b178bcc15a81044b26cf932877cb0f32a93d09d9b8fb"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_264.uasset",
+      "bytes": 5832,
+      "sha256": "7e96a3c288f3799ae2065ba14739c976aa9269863ed9292cafb8b8805663b7d2"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_288.uasset",
+      "bytes": 5832,
+      "sha256": "30d704000c8ce98f9478477f68b53407836beb26fdfe27a9f6fd46863d5a1024"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_432.uasset",
+      "bytes": 5832,
+      "sha256": "54ab55a64a04b1de015ec00d6c6c47f4155bed863632dfaa5b3a41d48e042c26"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_510.uasset",
+      "bytes": 5832,
+      "sha256": "e42c953a3c52b4c4cae2975135e6a123144fa04f14ea78727402293e19a5ddd3"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_564.uasset",
+      "bytes": 5832,
+      "sha256": "ee7d6d1fb34befbfbc07b52a27ed5be8a015db855fa04e9313137537ed6c52c4"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Keys_r01_1080p_Shot_60.uasset",
+      "bytes": 5829,
+      "sha256": "f14acbac9a0af39755d31418c4c5b8f96ed9a5f7cef31a38927712cf38327751"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/RenderPresets/MRQ_Previs_r02_1080p_Shot_Motion.uasset",
+      "bytes": 5815,
+      "sha256": "83ddaa5d847cf380e0f7b2c4497fd31c9c876efdadb9bd72085614c7f2dc8643"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Sequences/LS_YU7_ItashaShowcase_v12_24s.uasset",
+      "bytes": 2178637,
+      "sha256": "8adf533bcd80e98911e433f3acc43077b004885a66185c1a731f2e32950a9b1b"
+    },
+    {
+      "path": "VehicleStudio_UE59/Content/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12.umap",
+      "bytes": 527077,
+      "sha256": "8ac440bee3fb95eef85ffe775d808009c0af52e6110c3768826f557ce71346d9"
+    }
+  ],
+  "limits": [
+    "Silent",
+    "No packaged/new-machine validation",
+    "Character artwork reuse/distribution rights not verified; existing source files unchanged",
+    "Art-directed finishes and illustrative airflow, not physical measurement/CFD",
+    "No human aesthetic acceptance claimed"
+  ]
+}

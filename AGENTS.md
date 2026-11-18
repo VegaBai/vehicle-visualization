@@ -1,5 +1,12 @@
 # Project context
 
+## Latest film: integrated paint and itasha v12 (2026-11-18)
+
+- UE5.9-only map `/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12` and sequence `LS_YU7_ItashaShowcase_v12_24s` extend v11 to 24s: five opening finishes, Rengoku/Pearl White, Zenitsu/Graphite, Giyu/Mineral Teal, then original flow/quad/clean exit. Read `art/YU7_TUNNEL_FLOW/README_ITASHA_v12.txt` and actual reports in `reports/itasha_v12`.
+- Native Blueprint/Sequencer/materials only. Fifteen attached decals use native visibility tracks. Copied hero and four copied wheel Blueprints reject decals at template level; all 24 wheel static meshes must reject decals in PIE. Preserve original Blueprints/maps/media. Do not rerun one-time prepare/resume/wheel-fix/sequence scripts.
+- Native 4K/24fps/576-frame/8-temporal `Final_r03_4K_24s.mp4`, labeled version, both1080p previews and11 unaltered4K stills live in `renders/YU7_TunnelFlow/ItashaShowcase_v12`. Both full renders have all-frame contact-sheet inspection; all four MP4s completely decode. Real PIE13 states, final safe reload24 states,27 sequence bindings, Map Check0/0 and1257 protected hashes pass. Preserve121 visible car meshes,99916 quad triangles,seven roof lines and unattached wake. Safe reload still clears both lookdev and itasha LVS packages before map.
+- Existing character-art rights/source-resolution limits remain; CREDITS.txt is retained verbatim. Silent film; application-visible Credits and packaged/new-machine tests remain separate delivery items. Full4K v12 output is verified on5.9; this does not establish byte-identical parity for historical5.8 shots.
+
 ## Working rules (user request, 2026-10-16)
 
 - Maintain `DEV_HISTORY.md` as an append-only development and decision log. Record every meaningful decision, implementation step, validation result, failure and workaround as work proceeds. Include affected paths, reason, evidence and remaining work; distinguish retrospective entries from contemporaneous ones. Do not mark untested work as verified.

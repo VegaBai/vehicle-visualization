@@ -1,0 +1,7 @@
+{
+  "id": "prepare_r02",
+  "started": "2026-11-18T02:50:31-0800",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_v12_jobs.py\", line 56, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_v12_resume.py\", line 10, in <module>\n    exec(compile(code,'v12_targeted_resume','exec'))\n  File \"v12_targeted_resume\", line 10, in <module>\nAssertionError\n",
+  "finished": "2026-11-18T02:50:31-0800"
+}

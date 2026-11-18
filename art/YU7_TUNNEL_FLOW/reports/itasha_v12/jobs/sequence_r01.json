@@ -1,0 +1,376 @@
+{
+  "id": "sequence_r01",
+  "started": "2026-11-18T02:51:32-0800",
+  "status": "success",
+  "result": {
+    "frames": 576,
+    "fps": 24,
+    "retimed_channels": [
+      "ShotTime_0",
+      "Location.X_0",
+      "Location.Y_0",
+      "Location.Z_0",
+      "Rotation.X_0",
+      "Rotation.Y_0",
+      "Rotation.Z_0",
+      "Scale.X_0",
+      "Scale.Y_0",
+      "Scale.Z_0",
+      "Location.X_1",
+      "Location.Y_1",
+      "Location.Z_1",
+      "Rotation.X_1",
+      "Rotation.Y_1",
+      "Rotation.Z_1",
+      "Scale.X_1",
+      "Scale.Y_1",
+      "Scale.Z_1",
+      "Location.X_2",
+      "Location.Y_2",
+      "Location.Z_2",
+      "Rotation.X_2",
+      "Rotation.Y_2",
+      "Rotation.Z_2",
+      "Scale.X_2",
+      "Scale.Y_2",
+      "Scale.Z_2",
+      "Location.X_3",
+      "Location.Y_3",
+      "Location.Z_3",
+      "Rotation.X_3",
+      "Rotation.Y_3",
+      "Rotation.Z_3",
+      "Scale.X_3",
+      "Scale.Y_3",
+      "Scale.Z_3",
+      "MovieSceneScriptingFloatChannel_0",
+      "MovieSceneScriptingFloatChannel_1",
+      "MovieSceneScriptingFloatChannel_2",
+      "Location.X_4",
+      "Location.Y_4",
+      "Location.Z_4",
+      "Rotation.X_4",
+      "Rotation.Y_4",
+      "Rotation.Z_4",
+      "Scale.X_4",
+      "Scale.Y_4",
+      "Scale.Z_4",
+      "Location.X_5",
+      "Location.Y_5",
+      "Location.Z_5",
+      "Rotation.X_5",
+      "Rotation.Y_5",
+      "Rotation.Z_5",
+      "Scale.X_5",
+      "Scale.Y_5",
+      "Scale.Z_5",
+      "Location.X_6",
+      "Location.Y_6",
+      "Location.Z_6",
+      "Rotation.X_6",
+      "Rotation.Y_6",
+      "Rotation.Z_6",
+      "Scale.X_6",
+      "Scale.Y_6",
+      "Scale.Z_6",
+      "Location.X_7",
+      "Location.Y_7",
+      "Location.Z_7",
+      "Rotation.X_7",
+      "Rotation.Y_7",
+      "Rotation.Z_7",
+      "Scale.X_7",
+      "Scale.Y_7",
+      "Scale.Z_7",
+      "Location.X_8",
+      "Location.Y_8",
+      "Location.Z_8",
+      "Rotation.X_8",
+      "Rotation.Y_8",
+      "Rotation.Z_8",
+      "Scale.X_8",
+      "Scale.Y_8",
+      "Scale.Z_8"
+    ],
+    "palette": [
+      {
+        "name": "Grey Blue | Gloss Wrap",
+        "frame": 0,
+        "PigmentColor": [
+          0.18,
+          0.27,
+          0.34
+        ],
+        "EdgeTint": [
+          0.24,
+          0.32,
+          0.38
+        ],
+        "Metallic": 0.04,
+        "BaseRoughness": 0.23,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.045,
+        "Specular": 0.5,
+        "ColorFlop": 0.1,
+        "FlakeStrength": 0.0
+      },
+      {
+        "name": "Ice Blue | Metallic Paint",
+        "frame": 30,
+        "PigmentColor": [
+          0.12,
+          0.23,
+          0.32
+        ],
+        "EdgeTint": [
+          0.29,
+          0.4,
+          0.49
+        ],
+        "Metallic": 0.78,
+        "BaseRoughness": 0.24,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.085,
+        "Specular": 0.5,
+        "ColorFlop": 0.42,
+        "FlakeStrength": 0.09
+      },
+      {
+        "name": "Opal White | Pearlescent Paint",
+        "frame": 60,
+        "PigmentColor": [
+          0.55,
+          0.57,
+          0.59
+        ],
+        "EdgeTint": [
+          0.4,
+          0.47,
+          0.64
+        ],
+        "Metallic": 0.2,
+        "BaseRoughness": 0.29,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.09,
+        "Specular": 0.5,
+        "ColorFlop": 0.72,
+        "FlakeStrength": 0.035
+      },
+      {
+        "name": "Graphite Grey | Matte Wrap",
+        "frame": 90,
+        "PigmentColor": [
+          0.095,
+          0.115,
+          0.13
+        ],
+        "EdgeTint": [
+          0.15,
+          0.17,
+          0.18
+        ],
+        "Metallic": 0.03,
+        "BaseRoughness": 0.62,
+        "ClearCoat": 0.03,
+        "CoatRoughness": 0.48,
+        "Specular": 0.35,
+        "ColorFlop": 0.12,
+        "FlakeStrength": 0.0
+      },
+      {
+        "name": "Porcelain Grey | Ceramic Gloss",
+        "frame": 120,
+        "PigmentColor": [
+          0.24,
+          0.255,
+          0.27
+        ],
+        "EdgeTint": [
+          0.29,
+          0.305,
+          0.32
+        ],
+        "Metallic": 0.02,
+        "BaseRoughness": 0.2,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.028,
+        "Specular": 0.5,
+        "ColorFlop": 0.08,
+        "FlakeStrength": 0.0
+      },
+      {
+        "name": "Rengoku | Pearl White",
+        "frame": 150,
+        "PigmentColor": [
+          0.55,
+          0.57,
+          0.59
+        ],
+        "EdgeTint": [
+          0.4,
+          0.47,
+          0.64
+        ],
+        "Metallic": 0.2,
+        "BaseRoughness": 0.29,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.09,
+        "Specular": 0.5,
+        "ColorFlop": 0.72,
+        "FlakeStrength": 0.035
+      },
+      {
+        "name": "Zenitsu | Graphite",
+        "frame": 198,
+        "PigmentColor": [
+          0.095,
+          0.115,
+          0.13
+        ],
+        "EdgeTint": [
+          0.15,
+          0.17,
+          0.18
+        ],
+        "Metallic": 0.03,
+        "BaseRoughness": 0.62,
+        "ClearCoat": 0.03,
+        "CoatRoughness": 0.48,
+        "Specular": 0.35,
+        "ColorFlop": 0.12,
+        "FlakeStrength": 0.0
+      },
+      {
+        "name": "Giyu | Mineral Teal",
+        "frame": 246,
+        "Metallic": 0.3199999928474426,
+        "BaseRoughness": 0.3199999928474426,
+        "ClearCoat": 1.0,
+        "CoatRoughness": 0.0949999988079071,
+        "Specular": 0.5,
+        "ColorFlop": 0.11999999731779099,
+        "FlakeStrength": 0.0,
+        "PigmentColor": [
+          0.028999999165534973,
+          0.1120000034570694,
+          0.11999999731779099
+        ],
+        "EdgeTint": [
+          0.04500000178813934,
+          0.12999999523162842,
+          0.14000000059604645
+        ]
+      }
+    ],
+    "visibility": [
+      {
+        "actor": "YU7_Itasha_Left_Rengoku_v12",
+        "visible_frames": [
+          150,
+          191
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Right_Rengoku_v12",
+        "visible_frames": [
+          150,
+          191
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Hood_Rengoku_v12",
+        "visible_frames": [
+          150,
+          191
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Sweep_Left_Rengoku_v12",
+        "visible_frames": [
+          150,
+          191
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Sweep_Right_Rengoku_v12",
+        "visible_frames": [
+          150,
+          191
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Left_Zenitsu_v12",
+        "visible_frames": [
+          198,
+          239
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Right_Zenitsu_v12",
+        "visible_frames": [
+          198,
+          239
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Hood_Zenitsu_v12",
+        "visible_frames": [
+          198,
+          239
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Sweep_Left_Zenitsu_v12",
+        "visible_frames": [
+          198,
+          239
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Sweep_Right_Zenitsu_v12",
+        "visible_frames": [
+          198,
+          239
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Left_Giyu_v12",
+        "visible_frames": [
+          246,
+          287
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Right_Giyu_v12",
+        "visible_frames": [
+          246,
+          287
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Hood_Giyu_v12",
+        "visible_frames": [
+          246,
+          287
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Sweep_Left_Giyu_v12",
+        "visible_frames": [
+          246,
+          287
+        ]
+      },
+      {
+        "actor": "YU7_Itasha_Sweep_Right_Giyu_v12",
+        "visible_frames": [
+          246,
+          287
+        ]
+      }
+    ],
+    "source_v11_frame_mapping": "f/2 through frame288; f-144 thereafter",
+    "status": "authored; PIE and visual validation pending"
+  },
+  "finished": "2026-11-18T02:51:34-0800"
+}

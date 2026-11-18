@@ -1,0 +1,74 @@
+{
+  "outputs": [
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_24s.mp4",
+      "sha256": "beb355de9927d3e09345771ca356cdef639c3c5eeaadc6edf15eea250b930ccc",
+      "complete_decode": true
+    },
+    {
+      "path": "renders/YU7_TunnelFlow/ItashaShowcase_v12/Previs_r02_1080p_Labeled_24s.mp4",
+      "sha256": "67e3750889996b9feb6b9bdb53582e8cc725962dc7838e20c2d048db3f642f6c",
+      "complete_decode": true
+    }
+  ],
+  "frames": 576,
+  "fps": 24,
+  "duration_seconds": 24,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "all_native_png_decoded": true,
+  "visual_review": "passed; see visual_review.json",
+  "audio": "silent",
+  "labels": [
+    [
+      "灰蓝 · 亮面车衣",
+      "GREY BLUE / GLOSS WRAP",
+      0,
+      1.0
+    ],
+    [
+      "冰蓝 · 金属漆",
+      "ICE BLUE / METALLIC PAINT",
+      1.25,
+      2.25
+    ],
+    [
+      "月白 · 珠光漆",
+      "OPAL WHITE / PEARLESCENT PAINT",
+      2.5,
+      3.5
+    ],
+    [
+      "石墨 · 哑光车衣",
+      "GRAPHITE / MATTE WRAP",
+      3.75,
+      4.75
+    ],
+    [
+      "灰色 · 陶瓷镀膜",
+      "PORCELAIN GREY / CERAMIC GLOSS",
+      5,
+      6
+    ],
+    [
+      "炎柱 · 珠光白",
+      "RENGOKU / PEARL WHITE",
+      6.25,
+      8
+    ],
+    [
+      "善逸 · 石墨灰",
+      "ZENITSU / GRAPHITE",
+      8.25,
+      10
+    ],
+    [
+      "义勇 · 矿物青",
+      "GIYU / MINERAL TEAL",
+      10.25,
+      12
+    ]
+  ]
+}

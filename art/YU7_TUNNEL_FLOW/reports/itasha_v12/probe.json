@@ -1,0 +1,78 @@
+{
+  "bindings": [
+    {
+      "name": "LightComponent0",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_1.LightComponent0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_RR",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_RR_C_0"
+      ]
+    },
+    {
+      "name": "CAM_YU7_TunnelFlow",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.CineCameraActor_11"
+      ]
+    },
+    {
+      "name": "LightComponent0",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_0.LightComponent0"
+      ]
+    },
+    {
+      "name": "LightComponent0",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.RectLight_12.LightComponent0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_RL",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_RL_C_0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_FR",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_FR_C_0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_Wheel_FL",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_TunnelWheel_FL_C_0"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_ScanLight_L",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_1"
+      ]
+    },
+    {
+      "name": "YU7_Tunnel_ScanLight_R",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.PointLight_0"
+      ]
+    },
+    {
+      "name": "YU7_Hero",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.BP_YU7_C_0"
+      ]
+    },
+    {
+      "name": "YU7_AD_ShapingKey",
+      "objects": [
+        "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11:PersistentLevel.RectLight_12"
+      ]
+    }
+  ],
+  "visibility_doc": "Handles manipulation of visibility properties in a movie scene\r\n\r\n**C++ Source:**\r\n\r\n- **Module**: MovieSceneTracks\r\n- **File**: MovieSceneVisibilityTrack.h\r\n\r\n**Editor Properties:** (see get_editor_property/set_editor_property)\r\n\r\n- ``condition_container`` (MovieSceneConditionContainer):  [Read-Write] Optional dynamic condition for whether this track/any of the sections on this track evaluates at runtime.\r\n- ``decorations`` (MovieSceneDecorationContainer):  [Read-Write] Array of decorations for this movie scene\r\n- ``display_name`` (Text):  [Read-Write] The track's human readable display name.\r\n- ``display_options`` (MovieSceneTrackDisplayOptions):  [Read-Write] General display options for a given track\r\n- ``eval_options`` (MovieSceneTrackEvalOptions):  [Read-Write] General evaluation options for a given track\r\n- ``track_row_display_names`` (Array[Text]):  [Read-Write] The track display name per row.\r\n- ``track_tint`` (Color):  [Read-Write] This track's tint color",
+  "assign_doc": "x.replace_binding_with_actors(actors, object_binding) -> None\r\nReplaces the binding with the given actors\r\n\r\nArgs:\r\n    actors (Array[Actor]): \r\n    object_binding (MovieSceneBindingProxy):"
+}

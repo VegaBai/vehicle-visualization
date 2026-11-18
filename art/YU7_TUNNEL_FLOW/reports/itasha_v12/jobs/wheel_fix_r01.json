@@ -1,0 +1,31 @@
+{
+  "id": "wheel_fix_r01",
+  "started": "2026-11-18T02:53:33-0800",
+  "status": "success",
+  "result": {
+    "copied_wheels": [
+      {
+        "actor": "YU7_Tunnel_Wheel_FL",
+        "blueprint": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_FL_v12",
+        "receiver_templates_disabled": 6
+      },
+      {
+        "actor": "YU7_Tunnel_Wheel_RL",
+        "blueprint": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_RL_v12",
+        "receiver_templates_disabled": 6
+      },
+      {
+        "actor": "YU7_Tunnel_Wheel_RR",
+        "blueprint": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_RR_v12",
+        "receiver_templates_disabled": 6
+      },
+      {
+        "actor": "YU7_Tunnel_Wheel_FR",
+        "blueprint": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Blueprints/BP_YU7_Tunnel_Wheel_FR_v12",
+        "receiver_templates_disabled": 6
+      }
+    ],
+    "visual_validation": "pending"
+  },
+  "finished": "2026-11-18T02:53:35-0800"
+}

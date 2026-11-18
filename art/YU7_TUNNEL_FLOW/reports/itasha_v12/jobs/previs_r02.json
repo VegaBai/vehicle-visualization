@@ -1,0 +1,14 @@
+{
+  "id": "previs_r02",
+  "started": "2026-11-18T02:54:39-0800",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Previs_r02_1080p",
+      "width": 1920,
+      "height": 1080,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-11-18T02:54:39-0800"
+}

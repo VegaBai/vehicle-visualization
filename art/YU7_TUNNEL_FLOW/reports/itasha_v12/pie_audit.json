@@ -1,0 +1,72 @@
+{
+  "status": "passed",
+  "world": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/UEDPIE_0_Studio_YU7_ItashaShowcase_v12.Studio_YU7_ItashaShowcase_v12",
+  "samples": [
+    {
+      "frame": 0,
+      "visible_decals": 0,
+      "hero_x": 0.0
+    },
+    {
+      "frame": 150,
+      "visible_decals": 5,
+      "hero_x": -669.6428833007812
+    },
+    {
+      "frame": 191,
+      "visible_decals": 5,
+      "hero_x": -852.6785888671875
+    },
+    {
+      "frame": 192,
+      "visible_decals": 0,
+      "hero_x": -857.1428833007812
+    },
+    {
+      "frame": 198,
+      "visible_decals": 5,
+      "hero_x": -883.9285888671875
+    },
+    {
+      "frame": 239,
+      "visible_decals": 5,
+      "hero_x": -1066.9642944335938
+    },
+    {
+      "frame": 240,
+      "visible_decals": 0,
+      "hero_x": -1071.4285888671875
+    },
+    {
+      "frame": 246,
+      "visible_decals": 5,
+      "hero_x": -1098.2142333984375
+    },
+    {
+      "frame": 287,
+      "visible_decals": 5,
+      "hero_x": -1281.25
+    },
+    {
+      "frame": 288,
+      "visible_decals": 0,
+      "hero_x": -1285.7142333984375
+    },
+    {
+      "frame": 432,
+      "visible_decals": 0,
+      "hero_x": -9000.0
+    },
+    {
+      "frame": 510,
+      "visible_decals": 0,
+      "hero_x": -13875.0
+    },
+    {
+      "frame": 575,
+      "visible_decals": 0,
+      "hero_x": -17937.5
+    }
+  ],
+  "errors": []
+}

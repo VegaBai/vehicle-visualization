@@ -1,0 +1,25 @@
+{
+  "request": {
+    "name": "Keys_r01_1080p",
+    "frames": [
+      0,
+      60,
+      120,
+      170,
+      216,
+      264,
+      288,
+      432,
+      510,
+      564
+    ],
+    "width": 1920,
+    "height": 1080,
+    "temporal": 8
+  },
+  "started": 1794999144.9633453,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 57.0126314163208
+}

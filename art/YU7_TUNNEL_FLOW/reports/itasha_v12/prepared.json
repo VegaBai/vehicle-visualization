@@ -1,0 +1,34 @@
+{
+  "map": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Maps/Studio_YU7_ItashaShowcase_v12",
+  "sequence": "/Game/YU7/TunnelFlow/ItashaShowcase_v12/Sequences/LS_YU7_ItashaShowcase_v12_24s",
+  "decals": [
+    "YU7_Itasha_Left_Rengoku_v12",
+    "YU7_Itasha_Right_Rengoku_v12",
+    "YU7_Itasha_Hood_Rengoku_v12",
+    "YU7_Itasha_Sweep_Left_Rengoku_v12",
+    "YU7_Itasha_Sweep_Right_Rengoku_v12",
+    "YU7_Itasha_Left_Zenitsu_v12",
+    "YU7_Itasha_Right_Zenitsu_v12",
+    "YU7_Itasha_Hood_Zenitsu_v12",
+    "YU7_Itasha_Sweep_Left_Zenitsu_v12",
+    "YU7_Itasha_Sweep_Right_Zenitsu_v12",
+    "YU7_Itasha_Left_Giyu_v12",
+    "YU7_Itasha_Right_Giyu_v12",
+    "YU7_Itasha_Hood_Giyu_v12",
+    "YU7_Itasha_Sweep_Left_Giyu_v12",
+    "YU7_Itasha_Sweep_Right_Giyu_v12"
+  ],
+  "paint_receivers": [
+    "YU7_VP_006_carPaint_2",
+    "YU7_VP_028_carPaint_10",
+    "YU7_VP_038_carPaint_4_1_",
+    "YU7_VP_040_carPaint_2_1_",
+    "YU7_VP_045_carPaint_13",
+    "YU7_VP_058_carPaint_4",
+    "YU7_VP_060_carPaint_1",
+    "YU7_VP_068_carPaint_9",
+    "YU7_VP_079_carPaint_8"
+  ],
+  "blueprint_templates": 121,
+  "status": "assets prepared; timeline and visual verification pending"
+}

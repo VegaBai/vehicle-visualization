@@ -1,0 +1,14 @@
+{
+  "id": "final_r03",
+  "started": "2026-11-18T03:00:06-0800",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Final_r03_4K",
+      "width": 3840,
+      "height": 2160,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-11-18T03:00:06-0800"
+}

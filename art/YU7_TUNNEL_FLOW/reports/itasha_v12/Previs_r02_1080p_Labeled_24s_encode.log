@@ -1,0 +1,58 @@
+Input #0, image2, from 'C:\github2\vehicle_visualization\renders\YU7_TunnelFlow\ItashaShowcase_v12\frames\Previs_r02_1080p\Previs_r02_1080p_%04d.png':
+  Duration: 00:00:24.00, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 1920x1080, 24 fps, 24 tbr, 24 tbn
+[Parsed_subtitles_0 @ 000002107aa61f40] libass API version: 0x1703000
+[Parsed_subtitles_0 @ 000002107aa61f40] libass source: commit: 0.17.3-32-g5298859c298d3c570d8d7e3b883a0d63490659b8
+[Parsed_subtitles_0 @ 000002107aa61f40] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.0.1 (COMPLEX)
+[Parsed_subtitles_0 @ 000002107aa61f40] Using font provider directwrite (with GDI)
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+[Parsed_subtitles_0 @ 000002107ae01f40] libass API version: 0x1703000
+[Parsed_subtitles_0 @ 000002107ae01f40] libass source: commit: 0.17.3-32-g5298859c298d3c570d8d7e3b883a0d63490659b8
+[Parsed_subtitles_0 @ 000002107ae01f40] Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.0.1 (COMPLEX)
+[Parsed_subtitles_0 @ 000002107ae01f40] Using font provider directwrite (with GDI)
+[Parsed_subtitles_0 @ 000002107ae01f40] fontselect: (Microsoft YaHei, 400, 0) -> MicrosoftYaHei, 0, MicrosoftYaHei
+[Parsed_subtitles_0 @ 000002107ae01f40] fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT
+[libx264 @ 000002107aa48340] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000002107aa48340] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000002107aa48340] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=-2 threads=30 lookahead_threads=5 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=17.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\github2\vehicle_visualization\renders\YU7_TunnelFlow\ItashaShowcase_v12\Previs_r02_1080p_Labeled_24s.mp4':
+  Metadata:
+    title           : YU7 | Paint, Itasha and Flow | 24 seconds
+    comment         : "2025 Xiaomi YU7" (https://skfb.ly/pCSLu) by Ddiaz Design is licensed under CC Attribution-NonCommercial-ShareAlike (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709/unknown/unknown, progressive), 1920x1080, q=2-31, 24 fps, 12288 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=   16 fps=0.0 q=22.0 size=       0KiB time=00:00:00.62 bitrate=   0.6kbits/s speed=1.21x    
+frame=   79 fps= 76 q=22.0 size=    1024KiB time=00:00:03.20 bitrate=2614.8kbits/s speed=3.08x    
+frame=  149 fps= 96 q=22.0 size=    1792KiB time=00:00:06.12 bitrate=2396.8kbits/s speed=3.94x    
+frame=  214 fps=103 q=22.0 size=    2816KiB time=00:00:08.83 bitrate=2611.6kbits/s speed=4.27x    
+frame=  274 fps=106 q=22.0 size=    3584KiB time=00:00:11.33 bitrate=2590.6kbits/s speed=4.39x    
+frame=  339 fps=109 q=22.0 size=    4608KiB time=00:00:14.04 bitrate=2688.4kbits/s speed=4.53x    
+frame=  395 fps=109 q=22.0 size=    5888KiB time=00:00:16.37 bitrate=2945.6kbits/s speed=4.52x    
+frame=  455 fps=110 q=22.0 size=    7424KiB time=00:00:18.87 bitrate=3222.1kbits/s speed=4.55x    
+frame=  525 fps=112 q=22.0 size=    9472KiB time=N/A bitrate=N/A speed=N/A    
+[mp4 @ 000002107aa644c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002107aa643c0] video:10750KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.074276%
+frame=  576 fps=117 q=-1.0 Lsize=   10758KiB time=00:00:23.91 bitrate=3684.7kbits/s speed=4.87x    
+[libx264 @ 000002107aa48340] frame I:3     Avg QP:11.07  size:117695
+[libx264 @ 000002107aa48340] frame P:145   Avg QP:13.76  size: 35923
+[libx264 @ 000002107aa48340] frame B:428   Avg QP:16.25  size: 12722
+[libx264 @ 000002107aa48340] consecutive B-frames:  0.7%  0.3%  1.0% 97.9%
+[libx264 @ 000002107aa48340] mb I  I16..4: 24.1% 54.5% 21.4%
+[libx264 @ 000002107aa48340] mb P  I16..4:  2.1%  3.4%  1.9%  P16..4: 36.1% 13.4%  7.6%  0.0%  0.0%    skip:35.5%
+[libx264 @ 000002107aa48340] mb B  I16..4:  0.2%  0.2%  0.2%  B16..8: 35.5%  5.1%  0.9%  direct: 1.7%  skip:56.2%  L0:45.3% L1:48.8% BI: 5.8%
+[libx264 @ 000002107aa48340] 8x8 transform intra:44.4% inter:77.5%
+[libx264 @ 000002107aa48340] coded y,uvDC,uvAC intra: 46.2% 37.9% 25.1% inter: 12.4% 5.2% 0.8%
+[libx264 @ 000002107aa48340] i16 v,h,dc,p: 31% 39%  6% 23%
+[libx264 @ 000002107aa48340] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 15% 19% 49%  2%  2%  2%  3%  2%  5%
+[libx264 @ 000002107aa48340] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 13% 51% 18%  2%  3%  2%  4%  2%  5%
+[libx264 @ 000002107aa48340] i8c dc,h,v,p: 61% 30%  6%  3%
+[libx264 @ 000002107aa48340] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000002107aa48340] ref P L0: 56.9%  3.4% 24.5% 15.2%
+[libx264 @ 000002107aa48340] ref B L0: 77.5% 17.0%  5.5%
+[libx264 @ 000002107aa48340] ref B L1: 91.0%  9.0%
+[libx264 @ 000002107aa48340] kb/s:3668.97

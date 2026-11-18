@@ -1,0 +1,25 @@
+frame=297
+fps=0.00
+stream_0_0_q=-0.0
+bitrate=N/A
+total_size=N/A
+out_time_us=12375000
+out_time_ms=12375000
+out_time=00:00:12.375000
+dup_frames=0
+drop_frames=0
+speed=  24x
+progress=continue
+frame=576
+fps=0.00
+stream_0_0_q=-0.0
+bitrate=N/A
+total_size=N/A
+out_time_us=24000000
+out_time_ms=24000000
+out_time=00:00:24.000000
+dup_frames=0
+drop_frames=0
+speed=  25x
+progress=end
+

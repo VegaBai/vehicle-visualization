@@ -1,0 +1,383 @@
+{
+  "Rengoku": [
+    {
+      "label": "YU7_Itasha_Left",
+      "location": [
+        21.99999999999974,
+        -98.99999999999892,
+        75.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        90.00000000000001,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        0.9767441860465116,
+        0.5263427109974425
+      ],
+      "size": [
+        25.0,
+        43.0,
+        90.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.MI_Itasha_Rengoku",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Right",
+      "location": [
+        21.99999999999972,
+        98.99999999999892,
+        75.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        -90.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        0.9767441860465116,
+        0.5263427109974425
+      ],
+      "size": [
+        25.0,
+        43.0,
+        90.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.MI_Itasha_Rengoku",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Hood",
+      "location": [
+        156.9999999999983,
+        1.9226954746613267e-14,
+        108.0
+      ],
+      "rotation": [
+        -90.0,
+        -90.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0836482741244646,
+        1.0
+      ],
+      "size": [
+        30.0,
+        45.0,
+        55.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Rengoku.MI_Itasha_Rengoku",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Sweep_Left",
+      "location": [
+        -14.999999999999853,
+        -98.99999999999892,
+        60.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        90.00000000000001,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "size": [
+        26.0,
+        34.0,
+        185.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Rengoku.MI_Itasha_Sweep_Rengoku",
+      "sort_order": 5
+    },
+    {
+      "label": "YU7_Itasha_Sweep_Right",
+      "location": [
+        -14.999999999999877,
+        98.99999999999892,
+        60.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        -90.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "size": [
+        26.0,
+        34.0,
+        185.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Rengoku.MI_Itasha_Sweep_Rengoku",
+      "sort_order": 5
+    }
+  ],
+  "Zenitsu": [
+    {
+      "label": "YU7_Itasha_Left",
+      "location": [
+        21.99999999999974,
+        -98.99999999999892,
+        75.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        90.00000000000001,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        0.9767441860465116,
+        0.4163722025912839
+      ],
+      "size": [
+        25.0,
+        43.0,
+        90.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Zenitsu.MI_Itasha_Zenitsu",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Right",
+      "location": [
+        21.99999999999972,
+        98.99999999999892,
+        75.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        -90.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        0.9767441860465116,
+        0.4163722025912839
+      ],
+      "size": [
+        25.0,
+        43.0,
+        90.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Zenitsu.MI_Itasha_Zenitsu",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Hood",
+      "location": [
+        156.9999999999983,
+        1.9226954746613267e-14,
+        108.0
+      ],
+      "rotation": [
+        -90.0,
+        -90.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.3698569856985698,
+        1.0
+      ],
+      "size": [
+        30.0,
+        45.0,
+        55.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Zenitsu.MI_Itasha_Zenitsu",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Sweep_Left",
+      "location": [
+        -14.999999999999853,
+        -98.99999999999892,
+        60.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        90.00000000000001,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "size": [
+        26.0,
+        34.0,
+        185.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Zenitsu.MI_Itasha_Sweep_Zenitsu",
+      "sort_order": 5
+    },
+    {
+      "label": "YU7_Itasha_Sweep_Right",
+      "location": [
+        -14.999999999999877,
+        98.99999999999892,
+        60.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        -90.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "size": [
+        26.0,
+        34.0,
+        185.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Zenitsu.MI_Itasha_Sweep_Zenitsu",
+      "sort_order": 5
+    }
+  ],
+  "Giyu": [
+    {
+      "label": "YU7_Itasha_Left",
+      "location": [
+        21.99999999999974,
+        -98.99999999999892,
+        75.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        90.00000000000001,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        0.9767441860465116,
+        0.648984468339307
+      ],
+      "size": [
+        25.0,
+        43.0,
+        90.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Giyu.MI_Itasha_Giyu",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Right",
+      "location": [
+        21.99999999999972,
+        98.99999999999892,
+        75.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        -90.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        0.9767441860465116,
+        0.648984468339307
+      ],
+      "size": [
+        25.0,
+        43.0,
+        90.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Giyu.MI_Itasha_Giyu",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Hood",
+      "location": [
+        156.9999999999983,
+        1.9226954746613267e-14,
+        108.0
+      ],
+      "rotation": [
+        -90.0,
+        -90.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        0.8788659793814434,
+        1.0
+      ],
+      "size": [
+        30.0,
+        45.0,
+        55.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Giyu.MI_Itasha_Giyu",
+      "sort_order": 10
+    },
+    {
+      "label": "YU7_Itasha_Sweep_Left",
+      "location": [
+        -14.999999999999853,
+        -98.99999999999892,
+        60.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        90.00000000000001,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "size": [
+        26.0,
+        34.0,
+        185.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Giyu.MI_Itasha_Sweep_Giyu",
+      "sort_order": 5
+    },
+    {
+      "label": "YU7_Itasha_Sweep_Right",
+      "location": [
+        -14.999999999999877,
+        98.99999999999892,
+        60.0
+      ],
+      "rotation": [
+        -6.3611093629270335e-15,
+        -90.0,
+        90.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "size": [
+        26.0,
+        34.0,
+        185.0
+      ],
+      "material": "/Game/YU7/Itasha_v01/Materials/MI_Itasha_Sweep_Giyu.MI_Itasha_Sweep_Giyu",
+      "sort_order": 5
+    }
+  ]
+}

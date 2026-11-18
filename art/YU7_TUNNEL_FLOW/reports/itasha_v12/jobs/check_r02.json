@@ -1,0 +1,7 @@
+{
+  "id": "check_r02",
+  "started": "2026-11-18T02:53:41-0800",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue_v12_jobs.py\", line 56, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue_v12_check.py\", line 21, in <module>\n    assert all(not c.get_editor_property('receives_decals') for label,a in actors.items() if label.startswith('YU7_Tunnel_Wheel_') for c in a.get_components_by_class(unreal.PrimitiveComponent))\nAssertionError\n",
+  "finished": "2026-11-18T02:53:42-0800"
+}

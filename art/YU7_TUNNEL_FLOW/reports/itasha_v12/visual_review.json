@@ -1,0 +1,72 @@
+{
+  "preview": {
+    "name": "Previs_r02_1080p",
+    "status": "passed",
+    "frames_reviewed": 576,
+    "method": "Viewed all 24 contact sheets plus full-resolution character frames 155,216,264 and key flow/exit frames",
+    "observations": [
+      "Five paint appearances and eased transitions present",
+      "Three upright character decals follow moving vehicle",
+      "Wheel projection contamination corrected",
+      "No missing car parts or black frames seen",
+      "Roof pulses, full rear-door quad and clean final 24 frames preserved"
+    ],
+    "labels": "All eight bilingual labels and exit at 12.5s checked from decoded labeled MP4"
+  },
+  "final_4k": {
+    "status": "passed",
+    "reviewed_sheets": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "reviewed_frame_range": [
+      0,
+      575
+    ],
+    "observations": [
+      "Five opening paints and three itasha/paint stages normal",
+      "No decal projection on wheels",
+      "Roof pulses and complete rear-door grid preserved",
+      "No missing meshes or black frames seen",
+      "Clean final second"
+    ],
+    "full_resolution_frames": [
+      170,
+      216,
+      264,
+      432,
+      510,
+      564
+    ],
+    "frames_reviewed": 576,
+    "method": "All 24 contact sheets; original PNG frame170 and same-resolution JPEG inspection copies for216,264,432,510,564",
+    "labels": "All eight bilingual labels and exit at12.5s checked from actual encoded 4K MP4"
+  },
+  "limitations": [
+    "No packaged/new-machine test",
+    "Character source detail and hood reflections retain existing limitations",
+    "Contact-sheet review is not realtime human playback acceptance"
+  ]
+}
