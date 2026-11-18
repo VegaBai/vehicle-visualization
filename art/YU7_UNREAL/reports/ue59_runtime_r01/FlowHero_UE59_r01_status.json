@@ -1,0 +1,16 @@
+{
+  "request": {
+    "name": "FlowHero_UE59_r01",
+    "frames": [
+      366
+    ],
+    "width": 1920,
+    "height": 1080,
+    "temporal": 8
+  },
+  "started": 1794471671.074964,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 13.743194341659546
+}

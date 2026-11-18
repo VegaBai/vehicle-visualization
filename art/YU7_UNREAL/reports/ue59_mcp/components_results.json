@@ -1,0 +1,396 @@
+[
+  {
+    "jsonrpc": "2.0",
+    "id": 2,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"returnValue\":[{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_001_carGlass_front_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_002_carLight_backbulb\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_003_carLight_bulb_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_004_carLightPlastic_MatteBlack_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_005_carBonnetLogoBase_body\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_006_carPaint_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_007_carPlastic_BrilliantBlack_3_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_008_carWindowTrim_3_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_009_carPlastic_BrilliantBlack_1_6_3_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_010_carDuckTail\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_011_carLightGlass_Back_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_012_carXiaoMi_3_yu7\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_013_carPlastic_BrilliantBlack_3_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_014_carBonnetLogoFont_body\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_015_carMirror_bottom_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_016_carLight_bulb_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_017_carPlastic_MatteBlack_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_018_carPlastic_BrilliantBlack_2_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_019_carWindowTrim_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_020_carPlastic_BrilliantBlack_1_6_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_021_carInternal_PassengerSeatFront\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_022_carLightGlass_Front\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_023_carXiaoMi_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_024_carPlate\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_025_carPlastic_BrilliantBlack_1_6\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_026_carGlass_front_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_027_carLightPlastic_BrilliantBlack_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_028_carPaint_10\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_029_carInternal_TrunkInternal\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_030_carFrontBonnetNet\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_031_carRearviewMirror_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_032_carWheelLogoBase_ScuffPlate_Font\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_033_carWindowTrim_1_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_034_carLight_bulb_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_035_carPlastic_BrilliantGray_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_036_carInternal_DoorBack_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_037_carInternal_CenterConsole_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_038_carPaint_4_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_039_carWindowTrim_5\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_040_carPaint_2_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_041_carPlastic_BrilliantBlack_3_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_042_carInternal_SteeringWheel_Bottom\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_043_carInternal_TrunkExternal\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_044_carInternal_Roof\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_045_carPaint_13\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_046_carPlastic_MatteBlack_1_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_047_carGlass_front_2_Side_2_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_048_carHoodOutletWisp\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_049_carGlass_back_2_Side\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_050_carPlastic_BrilliantBlack_2_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_051_carLightPlastic_MatteBlack\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_052_carInternal_Dashboard\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_053_carInternal_DoorFront\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_054_carPlastic_BrilliantBlack_1_6_2_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_055_carRoof_yu7\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_056_carInternal_Frame_Top_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_057_carGlass_back_2_Side_1_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_058_carPaint_4\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_059_carMirror_top_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_060_carPaint_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_061_carInternal_SteeringWheel_Top_4\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_062_scuffPlate_Base_scuffPlate_Base_lambert277\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_063_carInternal_CenterConsole_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_064_carHoodOutletPanel\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_065_carInternal_DoorFront_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_066_carMirror_top_2_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_067_carInternal_Frame_Bottom\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_068_carPaint_9\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_069_carPlastic_MatteBlack_2_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_070_carRoofSpoiler\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_071_carMirror_bottom_2_1_\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_072_carInternal_DoorBack\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_073_carRearviewMirror_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_074_carGlass_back_2_Side_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_075_carGlass_front_2_Side_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_076_carGlass_back_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_077_carLightPlastic_BrilliantBlack_3\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_078_carPlastic_BrilliantBlack_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_079_carPaint_8\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_080_carWindowTrim_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_081_carHeaterStrip\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_082_carPlastic_BrilliantBlack_1_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_083_carLightGlass_Back_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_084_carInternal_PassengerSeatBack\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_085_carHeadLampPanel\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_086_carBackDrop\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_087_carXiaoMi_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_088_carInternal_SteeringWheel_Top_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_089_carPlastic_MatteBlack_trunk_9\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_090_carWheelLogoFont_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_091_carTyre_02\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_092_carWheelLogoBase_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_093_carWheelAirVent_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_094_carWheelHub_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_095_carWheelRim_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_096_carWheelLogoFont_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_097_carTyre_02\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_098_carWheelLogoBase_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_099_carWheelAirVent_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_100_carWheelHub_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_101_carWheelRim_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_102_carWheelLogoFont_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_103_carTyre_02\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_104_carWheelLogoBase_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_105_carWheelAirVent_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_106_carWheelHub_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_107_carWheelRim_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_108_carWheelLogoFont_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_109_carTyre_02\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_110_carWheelLogoBase_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_111_carWheelAirVent_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_112_carWheelHub_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_113_carWheelRim_ACAL09\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_114_carBrakeDisc_Back_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_115_carBrakeDisc_Back\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_116_carCaliper_MainBack\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_117_carCaliper_Screw_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_118_carBrakeDisc_Front_2\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_119_carBrakeDisc_Front\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_120_carCaliper_MainFront_1\"},{\"refPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_121_carCaliper_PartFront_1\"}]}"
+        }
+      ],
+      "structuredContent": {
+        "returnValue": [
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_001_carGlass_front_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_002_carLight_backbulb"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_003_carLight_bulb_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_004_carLightPlastic_MatteBlack_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_005_carBonnetLogoBase_body"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_006_carPaint_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_007_carPlastic_BrilliantBlack_3_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_008_carWindowTrim_3_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_009_carPlastic_BrilliantBlack_1_6_3_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_010_carDuckTail"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_011_carLightGlass_Back_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_012_carXiaoMi_3_yu7"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_013_carPlastic_BrilliantBlack_3_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_014_carBonnetLogoFont_body"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_015_carMirror_bottom_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_016_carLight_bulb_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_017_carPlastic_MatteBlack_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_018_carPlastic_BrilliantBlack_2_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_019_carWindowTrim_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_020_carPlastic_BrilliantBlack_1_6_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_021_carInternal_PassengerSeatFront"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_022_carLightGlass_Front"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_023_carXiaoMi_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_024_carPlate"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_025_carPlastic_BrilliantBlack_1_6"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_026_carGlass_front_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_027_carLightPlastic_BrilliantBlack_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_028_carPaint_10"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_029_carInternal_TrunkInternal"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_030_carFrontBonnetNet"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_031_carRearviewMirror_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_032_carWheelLogoBase_ScuffPlate_Font"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_033_carWindowTrim_1_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_034_carLight_bulb_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_035_carPlastic_BrilliantGray_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_036_carInternal_DoorBack_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_037_carInternal_CenterConsole_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_038_carPaint_4_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_039_carWindowTrim_5"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_040_carPaint_2_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_041_carPlastic_BrilliantBlack_3_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_042_carInternal_SteeringWheel_Bottom"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_043_carInternal_TrunkExternal"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_044_carInternal_Roof"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_045_carPaint_13"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_046_carPlastic_MatteBlack_1_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_047_carGlass_front_2_Side_2_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_048_carHoodOutletWisp"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_049_carGlass_back_2_Side"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_050_carPlastic_BrilliantBlack_2_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_051_carLightPlastic_MatteBlack"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_052_carInternal_Dashboard"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_053_carInternal_DoorFront"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_054_carPlastic_BrilliantBlack_1_6_2_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_055_carRoof_yu7"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_056_carInternal_Frame_Top_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_057_carGlass_back_2_Side_1_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_058_carPaint_4"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_059_carMirror_top_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_060_carPaint_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_061_carInternal_SteeringWheel_Top_4"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_062_scuffPlate_Base_scuffPlate_Base_lambert277"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_063_carInternal_CenterConsole_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_064_carHoodOutletPanel"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_065_carInternal_DoorFront_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_066_carMirror_top_2_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_067_carInternal_Frame_Bottom"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_068_carPaint_9"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_069_carPlastic_MatteBlack_2_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_070_carRoofSpoiler"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_071_carMirror_bottom_2_1_"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_072_carInternal_DoorBack"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_073_carRearviewMirror_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_074_carGlass_back_2_Side_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_075_carGlass_front_2_Side_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_076_carGlass_back_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_077_carLightPlastic_BrilliantBlack_3"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_078_carPlastic_BrilliantBlack_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_079_carPaint_8"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_080_carWindowTrim_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_081_carHeaterStrip"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_082_carPlastic_BrilliantBlack_1_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_083_carLightGlass_Back_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_084_carInternal_PassengerSeatBack"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_085_carHeadLampPanel"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_086_carBackDrop"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_087_carXiaoMi_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_088_carInternal_SteeringWheel_Top_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_089_carPlastic_MatteBlack_trunk_9"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_090_carWheelLogoFont_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_091_carTyre_02"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_092_carWheelLogoBase_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_093_carWheelAirVent_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_094_carWheelHub_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_095_carWheelRim_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_096_carWheelLogoFont_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_097_carTyre_02"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_098_carWheelLogoBase_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_099_carWheelAirVent_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_100_carWheelHub_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_101_carWheelRim_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_102_carWheelLogoFont_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_103_carTyre_02"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_104_carWheelLogoBase_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_105_carWheelAirVent_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_106_carWheelHub_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_107_carWheelRim_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_108_carWheelLogoFont_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_109_carTyre_02"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_110_carWheelLogoBase_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_111_carWheelAirVent_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_112_carWheelHub_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_113_carWheelRim_ACAL09"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_114_carBrakeDisc_Back_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_115_carBrakeDisc_Back"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_116_carCaliper_MainBack"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_117_carCaliper_Screw_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_118_carBrakeDisc_Front_2"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_119_carBrakeDisc_Front"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_120_carCaliper_MainFront_1"
+          },
+          {
+            "refPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0.Part_121_carCaliper_PartFront_1"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "jsonrpc": "2.0",
+    "id": 3,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"returnValue\":\"{\\r\\n\\t\\\"class\\\": \\\"/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaOptions.BP_YU7_ItashaOptions_C\\\",\\r\\n\\t\\\"components\\\":\\r\\n\\t{\\r\\n\\t\\t\\\"SceneComp\\\":\\r\\n\\t\\t{\\r\\n\\t\\t\\t\\\"class\\\": \\\"/Script/Engine.SceneComponent\\\",\\r\\n\\t\\t\\t\\\"properties\\\":\\r\\n\\t\\t\\t{\\r\\n\\t\\t\\t\\t\\\"assetUserData\\\": \\\"{\\\\\\\"assetUserData\\\\\\\":[]}\\\",\\r\\n\\t\\t\\t\\t\\\"assetUserDataEditorOnly\\\": \\\"{\\\\\\\"assetUserDataEditorOnly\\\\\\\":[]}\\\",\\r\\n\\t\\t\\t\\t\\\"bAbsoluteLocation\\\": \\\"{\\\\\\\"bAbsoluteLocation\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bAbsoluteRotation\\\": \\\"{\\\\\\\"bAbsoluteRotation\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bAbsoluteScale\\\": \\\"{\\\\\\\"bAbsoluteScale\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bAutoActivate\\\": \\\"{\\\\\\\"bAutoActivate\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bCanEverAffectNavigation\\\": \\\"{\\\\\\\"bCanEverAffectNavigation\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bEditableWhenInherited\\\": \\\"{\\\\\\\"bEditableWhenInherited\\\\\\\":true}\\\",\\r\\n\\t\\t\\t\\t\\\"bHiddenInGame\\\": \\\"{\\\\\\\"bHiddenInGame\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bIsEditorOnly\\\": \\\"{\\\\\\\"bIsEditorOnly\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bReplicates\\\": \\\"{\\\\\\\"bReplicates\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bReplicateUsingRegisteredSubObjectList\\\": \\\"{\\\\\\\"bReplicateUsingRegisteredSubObjectList\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bShouldUpdatePhysicsVolume\\\": \\\"{\\\\\\\"bShouldUpdatePhysicsVolume\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bUseAttachParentBound\\\": \\\"{\\\\\\\"bUseAttachParentBound\\\\\\\":false}\\\",\\r\\n\\t\\t\\t\\t\\\"bVisible\\\": \\\"{\\\\\\\"bVisible\\\\\\\":true}\\\",\\r\\n\\t\\t\\t\\t\\\"componentTags\\\": \\\"{\\\\\\\"componentTags\\\\\\\":[]}\\\",\\r\\n\\t\\t\\t\\t\\\"detailMode\\\": \\\"{\\\\\\\"detailMode\\\\\\\":\\\\\\\"DM_Low\\\\\\\"}\\\",\\r\\n\\t\\t\\t\\t\\\"mobility\\\": \\\"{\\\\\\\"mobility\\\\\\\":\\\\\\\"Movable\\\\\\\"}\\\",\\r\\n\\t\\t\\t\\t\\\"onComponentActivated\\\": \\\"{\\\\\\\"onComponentActivated\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\t\\t\\\"onComponentDeactivated\\\": \\\"{\\\\\\\"onComponentDeactivated\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\t\\t\\\"physicsVolumeChangedDelegate\\\": \\\"{\\\\\\\"physicsVolumeChangedDelegate\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\t\\t\\\"primaryComponentTick\\\": \\\"{\\\\\\\"primaryComponentTick\\\\\\\":{\\\\\\\"tickGroup\\\\\\\":\\\\\\\"TG_DuringPhysics\\\\\\\",\\\\\\\"endTickGroup\\\\\\\":\\\\\\\"TG_PrePhysics\\\\\\\",\\\\\\\"bTickEvenWhenPaused\\\\\\\":false,\\\\\\\"bCanEverTick\\\\\\\":false,\\\\\\\"bStartWithTickEnabled\\\\\\\":true,\\\\\\\"bAllowTickOnDedicatedServer\\\\\\\":true,\\\\\\\"tickInterval\\\\\\\":0}}\\\",\\r\\n\\t\\t\\t\\t\\\"relativeLocation\\\": \\\"{\\\\\\\"relativeLocation\\\\\\\":{\\\\\\\"x\\\\\\\":0,\\\\\\\"y\\\\\\\":0,\\\\\\\"z\\\\\\\":0}}\\\",\\r\\n\\t\\t\\t\\t\\\"relativeRotation\\\": \\\"{\\\\\\\"relativeRotation\\\\\\\":{\\\\\\\"pitch\\\\\\\":0,\\\\\\\"yaw\\\\\\\":0,\\\\\\\"roll\\\\\\\":0}}\\\",\\r\\n\\t\\t\\t\\t\\\"relativeScale3D\\\": \\\"{\\\\\\\"relativeScale3D\\\\\\\":{\\\\\\\"x\\\\\\\":1,\\\\\\\"y\\\\\\\":1,\\\\\\\"z\\\\\\\":1}}\\\"\\r\\n\\t\\t\\t}\\r\\n\\t\\t}\\r\\n\\t},\\r\\n\\t\\\"properties\\\":\\r\\n\\t{\\r\\n\\t\\t\\\"autoReceiveInput\\\": \\\"{\\\\\\\"autoReceiveInput\\\\\\\":\\\\\\\"Disabled\\\\\\\"}\\\",\\r\\n\\t\\t\\\"bAllowTickBeforeBeginPlay\\\": \\\"{\\\\\\\"bAllowTickBeforeBeginPlay\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bAlwaysRelevant\\\": \\\"{\\\\\\\"bAlwaysRelevant\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bAsyncPhysicsTickEnabled\\\": \\\"{\\\\\\\"bAsyncPhysicsTickEnabled\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bAutoDestroyWhenFinished\\\": \\\"{\\\\\\\"bAutoDestroyWhenFinished\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bBlockInput\\\": \\\"{\\\\\\\"bBlockInput\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bCallPreReplication\\\": \\\"{\\\\\\\"bCallPreReplication\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bCallPreReplicationForReplay\\\": \\\"{\\\\\\\"bCallPreReplicationForReplay\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bCanBeDamaged\\\": \\\"{\\\\\\\"bCanBeDamaged\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bCanBeInCluster\\\": \\\"{\\\\\\\"bCanBeInCluster\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bEnableAutoLODGeneration\\\": \\\"{\\\\\\\"bEnableAutoLODGeneration\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bFindCameraComponentWhenViewTarget\\\": \\\"{\\\\\\\"bFindCameraComponentWhenViewTarget\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bGenerateOverlapEventsDuringLevelStreaming\\\": \\\"{\\\\\\\"bGenerateOverlapEventsDuringLevelStreaming\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bHidden\\\": \\\"{\\\\\\\"bHidden\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bIgnoresOriginShifting\\\": \\\"{\\\\\\\"bIgnoresOriginShifting\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bIsEditorOnlyActor\\\": \\\"{\\\\\\\"bIsEditorOnlyActor\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bIsMainWorldOnly\\\": \\\"{\\\\\\\"bIsMainWorldOnly\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bIsSpatiallyLoaded\\\": \\\"{\\\\\\\"bIsSpatiallyLoaded\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bMigratingAsset\\\": \\\"{\\\\\\\"bMigratingAsset\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bNetLoadOnClient\\\": \\\"{\\\\\\\"bNetLoadOnClient\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bNetUseOwnerRelevancy\\\": \\\"{\\\\\\\"bNetUseOwnerRelevancy\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bOnlyRelevantToOwner\\\": \\\"{\\\\\\\"bOnlyRelevantToOwner\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bOptimizeBPComponentData\\\": \\\"{\\\\\\\"bOptimizeBPComponentData\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bRelevantForLevelBounds\\\": \\\"{\\\\\\\"bRelevantForLevelBounds\\\\\\\":true}\\\",\\r\\n\\t\\t\\\"bReplayRewindable\\\": \\\"{\\\\\\\"bReplayRewindable\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bReplicateMovement\\\": \\\"{\\\\\\\"bReplicateMovement\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bReplicates\\\": \\\"{\\\\\\\"bReplicates\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"bReplicateUsingRegisteredSubObjectList\\\": \\\"{\\\\\\\"bReplicateUsingRegisteredSubObjectList\\\\\\\":false}\\\",\\r\\n\\t\\t\\\"contentBundleGuid\\\": \\\"{\\\\\\\"contentBundleGuid\\\\\\\":\\\\\\\"00000000-0000-0000-0000-000000000000\\\\\\\"}\\\",\\r\\n\\t\\t\\\"customTimeDilation\\\": \\\"{\\\\\\\"customTimeDilation\\\\\\\":1}\\\",\\r\\n\\t\\t\\\"dataLayerAssets\\\": \\\"{\\\\\\\"dataLayerAssets\\\\\\\":[]}\\\",\\r\\n\\t\\t\\\"defaultUpdateOverlapsMethodDuringLevelStreaming\\\": \\\"{\\\\\\\"defaultUpdateOverlapsMethodDuringLevelStreaming\\\\\\\":\\\\\\\"OnlyUpdateMovable\\\\\\\"}\\\",\\r\\n\\t\\t\\\"externalDataLayerAsset\\\": \\\"{\\\\\\\"externalDataLayerAsset\\\\\\\":null}\\\",\\r\\n\\t\\t\\\"hLODLayer\\\": \\\"{\\\\\\\"hLODLayer\\\\\\\":null}\\\",\\r\\n\\t\\t\\\"initialLifeSpan\\\": \\\"{\\\\\\\"initialLifeSpan\\\\\\\":0}\\\",\\r\\n\\t\\t\\\"inputPriority\\\": \\\"{\\\\\\\"inputPriority\\\\\\\":0}\\\",\\r\\n\\t\\t\\\"instigator\\\": \\\"{\\\\\\\"instigator\\\\\\\":null}\\\",\\r\\n\\t\\t\\\"layers\\\": \\\"{\\\\\\\"layers\\\\\\\":[]}\\\",\\r\\n\\t\\t\\\"levelVariantSets\\\": \\\"{\\\\\\\"levelVariantSets\\\\\\\":{\\\\\\\"refPath\\\\\\\":\\\\\\\"/Game/YU7/Itasha_v01/Variants/LVS_YU7_Itasha_v01.LVS_YU7_Itasha_v01\\\\\\\"}}\\\",\\r\\n\\t\\t\\\"minNetUpdateFrequency\\\": \\\"{\\\\\\\"minNetUpdateFrequency\\\\\\\":2}\\\",\\r\\n\\t\\t\\\"netCullDistanceSquared\\\": \\\"{\\\\\\\"netCullDistanceSquared\\\\\\\":225000000}\\\",\\r\\n\\t\\t\\\"netDormancy\\\": \\\"{\\\\\\\"netDormancy\\\\\\\":\\\\\\\"DORM_Awake\\\\\\\"}\\\",\\r\\n\\t\\t\\\"netPriority\\\": \\\"{\\\\\\\"netPriority\\\\\\\":1}\\\",\\r\\n\\t\\t\\\"netUpdateFrequency\\\": \\\"{\\\\\\\"netUpdateFrequency\\\\\\\":100}\\\",\\r\\n\\t\\t\\\"onActorBeginOverlap\\\": \\\"{\\\\\\\"onActorBeginOverlap\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onActorEndOverlap\\\": \\\"{\\\\\\\"onActorEndOverlap\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onActorHit\\\": \\\"{\\\\\\\"onActorHit\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onBeginCursorOver\\\": \\\"{\\\\\\\"onBeginCursorOver\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onClicked\\\": \\\"{\\\\\\\"onClicked\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onDestroyed\\\": \\\"{\\\\\\\"onDestroyed\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onEndCursorOver\\\": \\\"{\\\\\\\"onEndCursorOver\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onEndPlay\\\": \\\"{\\\\\\\"onEndPlay\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onInputTouchBegin\\\": \\\"{\\\\\\\"onInputTouchBegin\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onInputTouchEnd\\\": \\\"{\\\\\\\"onInputTouchEnd\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onInputTouchEnter\\\": \\\"{\\\\\\\"onInputTouchEnter\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onInputTouchLeave\\\": \\\"{\\\\\\\"onInputTouchLeave\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onReleased\\\": \\\"{\\\\\\\"onReleased\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onTakeAnyDamage\\\": \\\"{\\\\\\\"onTakeAnyDamage\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onTakePointDamage\\\": \\\"{\\\\\\\"onTakePointDamage\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"onTakeRadialDamage\\\": \\\"{\\\\\\\"onTakeRadialDamage\\\\\\\":\\\\\\\"()\\\\\\\"}\\\",\\r\\n\\t\\t\\\"physicsReplicationMode\\\": \\\"{\\\\\\\"physicsReplicationMode\\\\\\\":\\\\\\\"Default\\\\\\\"}\\\",\\r\\n\\t\\t\\\"pivotOffset\\\": \\\"{\\\\\\\"pivotOffset\\\\\\\":{\\\\\\\"x\\\\\\\":0,\\\\\\\"y\\\\\\\":0,\\\\\\\"z\\\\\\\":0}}\\\",\\r\\n\\t\\t\\\"primaryActorTick\\\": \\\"{\\\\\\\"primaryActorTick\\\\\\\":{\\\\\\\"tickGroup\\\\\\\":\\\\\\\"TG_PrePhysics\\\\\\\",\\\\\\\"endTickGroup\\\\\\\":\\\\\\\"TG_PrePhysics\\\\\\\",\\\\\\\"bTickEvenWhenPaused\\\\\\\":false,\\\\\\\"bCanEverTick\\\\\\\":false,\\\\\\\"bStartWithTickEnabled\\\\\\\":true,\\\\\\\"bAllowTickOnDedicatedServer\\\\\\\":true,\\\\\\\"tickInterval\\\\\\\":0}}\\\",\\r\\n\\t\\t\\\"remoteRole\\\": \\\"{\\\\\\\"remoteRole\\\\\\\":\\\\\\\"ROLE_None\\\\\\\"}\\\",\\r\\n\\t\\t\\\"replicatedMovement\\\": \\\"{\\\\\\\"replicatedMovement\\\\\\\":{\\\\\\\"linearVelocity\\\\\\\":{\\\\\\\"x\\\\\\\":0,\\\\\\\"y\\\\\\\":0,\\\\\\\"z\\\\\\\":0},\\\\\\\"angularVelocity\\\\\\\":{\\\\\\\"x\\\\\\\":0,\\\\\\\"y\\\\\\\":0,\\\\\\\"z\\\\\\\":0},\\\\\\\"location\\\\\\\":{\\\\\\\"x\\\\\\\":0,\\\\\\\"y\\\\\\\":0,\\\\\\\"z\\\\\\\":0},\\\\\\\"rotation\\\\\\\":{\\\\\\\"pitch\\\\\\\":0,\\\\\\\"yaw\\\\\\\":0,\\\\\\\"roll\\\\\\\":0},\\\\\\\"acceleration\\\\\\\":{\\\\\\\"x\\\\\\\":0,\\\\\\\"y\\\\\\\":0,\\\\\\\"z\\\\\\\":0},\\\\\\\"bSimulatedPhysicSleep\\\\\\\":false,\\\\\\\"bRepPhysics\\\\\\\":false,\\\\\\\"bRepAcceleration\\\\\\\":false,\\\\\\\"teleportSeq\\\\\\\":0,\\\\\\\"serverFrame\\\\\\\":0,\\\\\\\"serverPhysicsHandle\\\\\\\":-1,\\\\\\\"locationQuantizationLevel\\\\\\\":\\\\\\\"RoundWholeNumber\\\\\\\",\\\\\\\"velocityQuantizationLevel\\\\\\\":\\\\\\\"RoundWholeNumber\\\\\\\",\\\\\\\"rotationQuantizationLevel\\\\\\\":\\\\\\\"ByteComponents\\\\\\\"}}\\\",\\r\\n\\t\\t\\\"role\\\": \\\"{\\\\\\\"role\\\\\\\":\\\\\\\"ROLE_Authority\\\\\\\"}\\\",\\r\\n\\t\\t\\\"rootComponent\\\": \\\"{\\\\\\\"rootComponent\\\\\\\":{\\\\\\\"refPath\\\\\\\":\\\\\\\"<self>.SceneComp\\\\\\\"}}\\\",\\r\\n\\t\\t\\\"runtimeGrid\\\": \\\"{\\\\\\\"runtimeGrid\\\\\\\":\\\\\\\"None\\\\\\\"}\\\",\\r\\n\\t\\t\\\"spawnCollisionHandlingMethod\\\": \\\"{\\\\\\\"spawnCollisionHandlingMethod\\\\\\\":\\\\\\\"AlwaysSpawn\\\\\\\"}\\\",\\r\\n\\t\\t\\\"spriteScale\\\": \\\"{\\\\\\\"spriteScale\\\\\\\":1}\\\",\\r\\n\\t\\t\\\"tags\\\": \\\"{\\\\\\\"tags\\\\\\\":[]}\\\",\\r\\n\\t\\t\\\"updateOverlapsMethodDuringLevelStreaming\\\": \\\"{\\\\\\\"updateOverlapsMethodDuringLevelStreaming\\\\\\\":\\\\\\\"UseConfigDefault\\\\\\\"}\\\"\\r\\n\\t}\\r\\n}\"}"
+        }
+      ],
+      "structuredContent": {
+        "returnValue": "{\r\n\t\"class\": \"/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaOptions.BP_YU7_ItashaOptions_C\",\r\n\t\"components\":\r\n\t{\r\n\t\t\"SceneComp\":\r\n\t\t{\r\n\t\t\t\"class\": \"/Script/Engine.SceneComponent\",\r\n\t\t\t\"properties\":\r\n\t\t\t{\r\n\t\t\t\t\"assetUserData\": \"{\\\"assetUserData\\\":[]}\",\r\n\t\t\t\t\"assetUserDataEditorOnly\": \"{\\\"assetUserDataEditorOnly\\\":[]}\",\r\n\t\t\t\t\"bAbsoluteLocation\": \"{\\\"bAbsoluteLocation\\\":false}\",\r\n\t\t\t\t\"bAbsoluteRotation\": \"{\\\"bAbsoluteRotation\\\":false}\",\r\n\t\t\t\t\"bAbsoluteScale\": \"{\\\"bAbsoluteScale\\\":false}\",\r\n\t\t\t\t\"bAutoActivate\": \"{\\\"bAutoActivate\\\":false}\",\r\n\t\t\t\t\"bCanEverAffectNavigation\": \"{\\\"bCanEverAffectNavigation\\\":false}\",\r\n\t\t\t\t\"bEditableWhenInherited\": \"{\\\"bEditableWhenInherited\\\":true}\",\r\n\t\t\t\t\"bHiddenInGame\": \"{\\\"bHiddenInGame\\\":false}\",\r\n\t\t\t\t\"bIsEditorOnly\": \"{\\\"bIsEditorOnly\\\":false}\",\r\n\t\t\t\t\"bReplicates\": \"{\\\"bReplicates\\\":false}\",\r\n\t\t\t\t\"bReplicateUsingRegisteredSubObjectList\": \"{\\\"bReplicateUsingRegisteredSubObjectList\\\":false}\",\r\n\t\t\t\t\"bShouldUpdatePhysicsVolume\": \"{\\\"bShouldUpdatePhysicsVolume\\\":false}\",\r\n\t\t\t\t\"bUseAttachParentBound\": \"{\\\"bUseAttachParentBound\\\":false}\",\r\n\t\t\t\t\"bVisible\": \"{\\\"bVisible\\\":true}\",\r\n\t\t\t\t\"componentTags\": \"{\\\"componentTags\\\":[]}\",\r\n\t\t\t\t\"detailMode\": \"{\\\"detailMode\\\":\\\"DM_Low\\\"}\",\r\n\t\t\t\t\"mobility\": \"{\\\"mobility\\\":\\\"Movable\\\"}\",\r\n\t\t\t\t\"onComponentActivated\": \"{\\\"onComponentActivated\\\":\\\"()\\\"}\",\r\n\t\t\t\t\"onComponentDeactivated\": \"{\\\"onComponentDeactivated\\\":\\\"()\\\"}\",\r\n\t\t\t\t\"physicsVolumeChangedDelegate\": \"{\\\"physicsVolumeChangedDelegate\\\":\\\"()\\\"}\",\r\n\t\t\t\t\"primaryComponentTick\": \"{\\\"primaryComponentTick\\\":{\\\"tickGroup\\\":\\\"TG_DuringPhysics\\\",\\\"endTickGroup\\\":\\\"TG_PrePhysics\\\",\\\"bTickEvenWhenPaused\\\":false,\\\"bCanEverTick\\\":false,\\\"bStartWithTickEnabled\\\":true,\\\"bAllowTickOnDedicatedServer\\\":true,\\\"tickInterval\\\":0}}\",\r\n\t\t\t\t\"relativeLocation\": \"{\\\"relativeLocation\\\":{\\\"x\\\":0,\\\"y\\\":0,\\\"z\\\":0}}\",\r\n\t\t\t\t\"relativeRotation\": \"{\\\"relativeRotation\\\":{\\\"pitch\\\":0,\\\"yaw\\\":0,\\\"roll\\\":0}}\",\r\n\t\t\t\t\"relativeScale3D\": \"{\\\"relativeScale3D\\\":{\\\"x\\\":1,\\\"y\\\":1,\\\"z\\\":1}}\"\r\n\t\t\t}\r\n\t\t}\r\n\t},\r\n\t\"properties\":\r\n\t{\r\n\t\t\"autoReceiveInput\": \"{\\\"autoReceiveInput\\\":\\\"Disabled\\\"}\",\r\n\t\t\"bAllowTickBeforeBeginPlay\": \"{\\\"bAllowTickBeforeBeginPlay\\\":false}\",\r\n\t\t\"bAlwaysRelevant\": \"{\\\"bAlwaysRelevant\\\":false}\",\r\n\t\t\"bAsyncPhysicsTickEnabled\": \"{\\\"bAsyncPhysicsTickEnabled\\\":false}\",\r\n\t\t\"bAutoDestroyWhenFinished\": \"{\\\"bAutoDestroyWhenFinished\\\":false}\",\r\n\t\t\"bBlockInput\": \"{\\\"bBlockInput\\\":false}\",\r\n\t\t\"bCallPreReplication\": \"{\\\"bCallPreReplication\\\":true}\",\r\n\t\t\"bCallPreReplicationForReplay\": \"{\\\"bCallPreReplicationForReplay\\\":true}\",\r\n\t\t\"bCanBeDamaged\": \"{\\\"bCanBeDamaged\\\":true}\",\r\n\t\t\"bCanBeInCluster\": \"{\\\"bCanBeInCluster\\\":false}\",\r\n\t\t\"bEnableAutoLODGeneration\": \"{\\\"bEnableAutoLODGeneration\\\":true}\",\r\n\t\t\"bFindCameraComponentWhenViewTarget\": \"{\\\"bFindCameraComponentWhenViewTarget\\\":true}\",\r\n\t\t\"bGenerateOverlapEventsDuringLevelStreaming\": \"{\\\"bGenerateOverlapEventsDuringLevelStreaming\\\":false}\",\r\n\t\t\"bHidden\": \"{\\\"bHidden\\\":false}\",\r\n\t\t\"bIgnoresOriginShifting\": \"{\\\"bIgnoresOriginShifting\\\":false}\",\r\n\t\t\"bIsEditorOnlyActor\": \"{\\\"bIsEditorOnlyActor\\\":false}\",\r\n\t\t\"bIsMainWorldOnly\": \"{\\\"bIsMainWorldOnly\\\":false}\",\r\n\t\t\"bIsSpatiallyLoaded\": \"{\\\"bIsSpatiallyLoaded\\\":true}\",\r\n\t\t\"bMigratingAsset\": \"{\\\"bMigratingAsset\\\":false}\",\r\n\t\t\"bNetLoadOnClient\": \"{\\\"bNetLoadOnClient\\\":true}\",\r\n\t\t\"bNetUseOwnerRelevancy\": \"{\\\"bNetUseOwnerRelevancy\\\":false}\",\r\n\t\t\"bOnlyRelevantToOwner\": \"{\\\"bOnlyRelevantToOwner\\\":false}\",\r\n\t\t\"bOptimizeBPComponentData\": \"{\\\"bOptimizeBPComponentData\\\":false}\",\r\n\t\t\"bRelevantForLevelBounds\": \"{\\\"bRelevantForLevelBounds\\\":true}\",\r\n\t\t\"bReplayRewindable\": \"{\\\"bReplayRewindable\\\":false}\",\r\n\t\t\"bReplicateMovement\": \"{\\\"bReplicateMovement\\\":false}\",\r\n\t\t\"bReplicates\": \"{\\\"bReplicates\\\":false}\",\r\n\t\t\"bReplicateUsingRegisteredSubObjectList\": \"{\\\"bReplicateUsingRegisteredSubObjectList\\\":false}\",\r\n\t\t\"contentBundleGuid\": \"{\\\"contentBundleGuid\\\":\\\"00000000-0000-0000-0000-000000000000\\\"}\",\r\n\t\t\"customTimeDilation\": \"{\\\"customTimeDilation\\\":1}\",\r\n\t\t\"dataLayerAssets\": \"{\\\"dataLayerAssets\\\":[]}\",\r\n\t\t\"defaultUpdateOverlapsMethodDuringLevelStreaming\": \"{\\\"defaultUpdateOverlapsMethodDuringLevelStreaming\\\":\\\"OnlyUpdateMovable\\\"}\",\r\n\t\t\"externalDataLayerAsset\": \"{\\\"externalDataLayerAsset\\\":null}\",\r\n\t\t\"hLODLayer\": \"{\\\"hLODLayer\\\":null}\",\r\n\t\t\"initialLifeSpan\": \"{\\\"initialLifeSpan\\\":0}\",\r\n\t\t\"inputPriority\": \"{\\\"inputPriority\\\":0}\",\r\n\t\t\"instigator\": \"{\\\"instigator\\\":null}\",\r\n\t\t\"layers\": \"{\\\"layers\\\":[]}\",\r\n\t\t\"levelVariantSets\": \"{\\\"levelVariantSets\\\":{\\\"refPath\\\":\\\"/Game/YU7/Itasha_v01/Variants/LVS_YU7_Itasha_v01.LVS_YU7_Itasha_v01\\\"}}\",\r\n\t\t\"minNetUpdateFrequency\": \"{\\\"minNetUpdateFrequency\\\":2}\",\r\n\t\t\"netCullDistanceSquared\": \"{\\\"netCullDistanceSquared\\\":225000000}\",\r\n\t\t\"netDormancy\": \"{\\\"netDormancy\\\":\\\"DORM_Awake\\\"}\",\r\n\t\t\"netPriority\": \"{\\\"netPriority\\\":1}\",\r\n\t\t\"netUpdateFrequency\": \"{\\\"netUpdateFrequency\\\":100}\",\r\n\t\t\"onActorBeginOverlap\": \"{\\\"onActorBeginOverlap\\\":\\\"()\\\"}\",\r\n\t\t\"onActorEndOverlap\": \"{\\\"onActorEndOverlap\\\":\\\"()\\\"}\",\r\n\t\t\"onActorHit\": \"{\\\"onActorHit\\\":\\\"()\\\"}\",\r\n\t\t\"onBeginCursorOver\": \"{\\\"onBeginCursorOver\\\":\\\"()\\\"}\",\r\n\t\t\"onClicked\": \"{\\\"onClicked\\\":\\\"()\\\"}\",\r\n\t\t\"onDestroyed\": \"{\\\"onDestroyed\\\":\\\"()\\\"}\",\r\n\t\t\"onEndCursorOver\": \"{\\\"onEndCursorOver\\\":\\\"()\\\"}\",\r\n\t\t\"onEndPlay\": \"{\\\"onEndPlay\\\":\\\"()\\\"}\",\r\n\t\t\"onInputTouchBegin\": \"{\\\"onInputTouchBegin\\\":\\\"()\\\"}\",\r\n\t\t\"onInputTouchEnd\": \"{\\\"onInputTouchEnd\\\":\\\"()\\\"}\",\r\n\t\t\"onInputTouchEnter\": \"{\\\"onInputTouchEnter\\\":\\\"()\\\"}\",\r\n\t\t\"onInputTouchLeave\": \"{\\\"onInputTouchLeave\\\":\\\"()\\\"}\",\r\n\t\t\"onReleased\": \"{\\\"onReleased\\\":\\\"()\\\"}\",\r\n\t\t\"onTakeAnyDamage\": \"{\\\"onTakeAnyDamage\\\":\\\"()\\\"}\",\r\n\t\t\"onTakePointDamage\": \"{\\\"onTakePointDamage\\\":\\\"()\\\"}\",\r\n\t\t\"onTakeRadialDamage\": \"{\\\"onTakeRadialDamage\\\":\\\"()\\\"}\",\r\n\t\t\"physicsReplicationMode\": \"{\\\"physicsReplicationMode\\\":\\\"Default\\\"}\",\r\n\t\t\"pivotOffset\": \"{\\\"pivotOffset\\\":{\\\"x\\\":0,\\\"y\\\":0,\\\"z\\\":0}}\",\r\n\t\t\"primaryActorTick\": \"{\\\"primaryActorTick\\\":{\\\"tickGroup\\\":\\\"TG_PrePhysics\\\",\\\"endTickGroup\\\":\\\"TG_PrePhysics\\\",\\\"bTickEvenWhenPaused\\\":false,\\\"bCanEverTick\\\":false,\\\"bStartWithTickEnabled\\\":true,\\\"bAllowTickOnDedicatedServer\\\":true,\\\"tickInterval\\\":0}}\",\r\n\t\t\"remoteRole\": \"{\\\"remoteRole\\\":\\\"ROLE_None\\\"}\",\r\n\t\t\"replicatedMovement\": \"{\\\"replicatedMovement\\\":{\\\"linearVelocity\\\":{\\\"x\\\":0,\\\"y\\\":0,\\\"z\\\":0},\\\"angularVelocity\\\":{\\\"x\\\":0,\\\"y\\\":0,\\\"z\\\":0},\\\"location\\\":{\\\"x\\\":0,\\\"y\\\":0,\\\"z\\\":0},\\\"rotation\\\":{\\\"pitch\\\":0,\\\"yaw\\\":0,\\\"roll\\\":0},\\\"acceleration\\\":{\\\"x\\\":0,\\\"y\\\":0,\\\"z\\\":0},\\\"bSimulatedPhysicSleep\\\":false,\\\"bRepPhysics\\\":false,\\\"bRepAcceleration\\\":false,\\\"teleportSeq\\\":0,\\\"serverFrame\\\":0,\\\"serverPhysicsHandle\\\":-1,\\\"locationQuantizationLevel\\\":\\\"RoundWholeNumber\\\",\\\"velocityQuantizationLevel\\\":\\\"RoundWholeNumber\\\",\\\"rotationQuantizationLevel\\\":\\\"ByteComponents\\\"}}\",\r\n\t\t\"role\": \"{\\\"role\\\":\\\"ROLE_Authority\\\"}\",\r\n\t\t\"rootComponent\": \"{\\\"rootComponent\\\":{\\\"refPath\\\":\\\"<self>.SceneComp\\\"}}\",\r\n\t\t\"runtimeGrid\": \"{\\\"runtimeGrid\\\":\\\"None\\\"}\",\r\n\t\t\"spawnCollisionHandlingMethod\": \"{\\\"spawnCollisionHandlingMethod\\\":\\\"AlwaysSpawn\\\"}\",\r\n\t\t\"spriteScale\": \"{\\\"spriteScale\\\":1}\",\r\n\t\t\"tags\": \"{\\\"tags\\\":[]}\",\r\n\t\t\"updateOverlapsMethodDuringLevelStreaming\": \"{\\\"updateOverlapsMethodDuringLevelStreaming\\\":\\\"UseConfigDefault\\\"}\"\r\n\t}\r\n}"
+      }
+    }
+  }
+]

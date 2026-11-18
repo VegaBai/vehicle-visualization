@@ -1,0 +1,2065 @@
+[
+  {
+    "jsonrpc": "2.0",
+    "id": 2,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"returnValue\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\"}"
+        }
+      ],
+      "structuredContent": {
+        "returnValue": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01"
+      }
+    }
+  },
+  {
+    "jsonrpc": "2.0",
+    "id": 3,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"returnValue\":[{\"guid\":\"C7E10613-7CBC-37E3-95C6-AF826DF4C143\",\"instanceGuid\":\"C7E10613-7CBC-37E3-95C6-AF826DF4C143\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.WorldSettings\"},\"class\":{\"refPath\":\"/Script/Engine.WorldSettings\"},\"name\":\"WorldSettings\",\"label\":\"WorldSettings\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.WorldSettings\",\"folderPath\":\"None\",\"dataLayerAssets\":[]},{\"guid\":\"8780B793-DC90-3B5F-BB94-912F54EEF265\",\"instanceGuid\":\"8780B793-DC90-3B5F-BB94-912F54EEF265\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Brush\"},\"class\":{\"refPath\":\"/Script/Engine.Brush\"},\"name\":\"Brush_0\",\"label\":\"Brush0\",\"bounds\":{\"min\":{\"x\":-128,\"y\":-128,\"z\":-128},\"max\":{\"x\":128,\"y\":128,\"z\":128},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.Brush_0\",\"folderPath\":\"None\",\"dataLayerAssets\":[]},{\"guid\":\"6586BD25-11B7-3D69-8C27-72C749970765\",\"instanceGuid\":\"6586BD25-11B7-3D69-8C27-72C749970765\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_1\",\"label\":\"SM_HalfDome\",\"bounds\":{\"min\":{\"x\":-1093.0997436626192,\"y\":-1093.0997505235016,\"z\":-12.500399589538574},\"max\":{\"x\":1093.0997505235016,\"y\":700.0001411485016,\"z\":600.4998779296875},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_1\",\"folderPath\":\"Studio_White\",\"dataLayerAssets\":[]},{\"guid\":\"3C4CE2F6-3E8A-3770-8ED3-7BCAC245A842\",\"instanceGuid\":\"3C4CE2F6-3E8A-3770-8ED3-7BCAC245A842\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_3\",\"label\":\"SM_AutomotiveTP_Car\",\"bounds\":{\"min\":{\"x\":-231.8226776123046,\"y\":-102.44262695312499,\"z\":0.092389091849327087},\"max\":{\"x\":206.82496643066398,\"y\":102.44262695312499,\"z\":148.12884521484375},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_3\",\"folderPath\":\"Reference/OriginalCar_Hidden\",\"dataLayerAssets\":[]},{\"guid\":\"6D4963CD-D40B-3E72-A53C-0B620E6C7C8E\",\"instanceGuid\":\"6D4963CD-D40B-3E72-A53C-0B620E6C7C8E\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_4\",\"label\":\"SM_InvertedCube\",\"bounds\":{\"min\":{\"x\":-1112.620239257812,\"y\":-1105.8500976562495,\"z\":-21.192480087280273},\"max\":{\"x\":1112.620239257812,\"y\":709.82000732421852,\"z\":773.94488525390625},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_4\",\"folderPath\":\"Studio_White\",\"dataLayerAssets\":[]},{\"guid\":\"4D8EE263-7DAE-362D-8055-CFC2C9757871\",\"instanceGuid\":\"4D8EE263-7DAE-362D-8055-CFC2C9757871\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_0\",\"label\":\"RectLight\",\"bounds\":{\"min\":{\"x\":-128,\"y\":-128,\"z\":482},\"max\":{\"x\":128,\"y\":128,\"z\":738},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_0\",\"folderPath\":\"Reference/OriginalLighting_Hidden\",\"dataLayerAssets\":[]},{\"guid\":\"AD26D491-9810-3F02-9146-859B5F498EDC\",\"instanceGuid\":\"AD26D491-9810-3F02-9146-859B5F498EDC\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Actor\"},\"class\":{\"refPath\":\"/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C\"},\"name\":\"BP_CStand_C_1\",\"label\":\"BP_CStand\",\"bounds\":{\"min\":{\"x\":-471.30127078238399,\"y\":-274.2435566381111,\"z\":-128},\"max\":{\"x\":-215.30127078238399,\"y\":-18.243556638111102,\"z\":178.21423513216018},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_CStand_C_1\",\"folderPath\":\"Reference/OriginalLighting_Hidden\",\"dataLayerAssets\":[]},{\"guid\":\"A66B65C6-70C2-3863-BA97-77C85919B364\",\"instanceGuid\":\"A66B65C6-70C2-3863-BA97-77C85919B364\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Actor\"},\"class\":{\"refPath\":\"/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C\"},\"name\":\"BP_CStand_C_2\",\"label\":\"BP_CStand2\",\"bounds\":{\"min\":{\"x\":-93.814157934923116,\"y\":-368.07041611233012,\"z\":-128},\"max\":{\"x\":162.18584206507688,\"y\":-112.07041611233012,\"z\":210.43823413216018},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_CStand_C_2\",\"folderPath\":\"Reference/OriginalLighting_Hidden\",\"dataLayerAssets\":[]},{\"guid\":\"83068F76-DAE2-3E59-9169-4ECEB3A7D00A\",\"instanceGuid\":\"83068F76-DAE2-3E59-9169-4ECEB3A7D00A\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Actor\"},\"class\":{\"refPath\":\"/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C\"},\"name\":\"BP_CStand_C_3\",\"label\":\"BP_CStand3\",\"bounds\":{\"min\":{\"x\":220.09219847398401,\"y\":52.959967257436361,\"z\":-128},\"max\":{\"x\":476.09219847398401,\"y\":308.95996725743635,\"z\":226.04889897122848},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_CStand_C_3\",\"folderPath\":\"Reference/OriginalLighting_Hidden\",\"dataLayerAssets\":[]},{\"guid\":\"09995670-77A7-31E0-871C-1BCDB287525A\",\"instanceGuid\":\"09995670-77A7-31E0-871C-1BCDB287525A\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_3\",\"label\":\"CineCameraActor\",\"bounds\":{\"min\":{\"x\":-1867.1757379999999,\"y\":-1009.999984,\"z\":-878.80794000000003},\"max\":{\"x\":152.82426200000009,\"y\":1010.000016,\"z\":1141.1920599999999},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_3\",\"folderPath\":\"Cameras\",\"dataLayerAssets\":[]},{\"guid\":\"38AEDEC1-6F77-31AA-BE0D-D60AAAE1FD09\",\"instanceGuid\":\"38AEDEC1-6F77-31AA-BE0D-D60AAAE1FD09\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.PostProcessVolume\"},\"class\":{\"refPath\":\"/Script/Engine.PostProcessVolume\"},\"name\":\"PostProcessVolume_1\",\"label\":\"PostProcessVolume\",\"bounds\":{\"min\":{\"x\":-100,\"y\":-100,\"z\":-100},\"max\":{\"x\":100,\"y\":100,\"z\":100},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.PostProcessVolume_1\",\"folderPath\":\"Common\",\"dataLayerAssets\":[]},{\"guid\":\"F36147B4-0208-3E49-B389-66A0542600A8\",\"instanceGuid\":\"F36147B4-0208-3E49-B389-66A0542600A8\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_0\",\"label\":\"CAM_YU7_Front\",\"bounds\":{\"min\":{\"x\":-1760,\"y\":-360,\"z\":-710},\"max\":{\"x\":260,\"y\":1660,\"z\":1310},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_0\",\"folderPath\":\"YU7/InspectionCameras\",\"dataLayerAssets\":[]},{\"guid\":\"CBDE8328-B7AE-3177-BFD1-618E68FF2DF1\",\"instanceGuid\":\"CBDE8328-B7AE-3177-BFD1-618E68FF2DF1\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_1\",\"label\":\"CAM_YU7_Rear\",\"bounds\":{\"min\":{\"x\":-260,\"y\":-1660,\"z\":-740},\"max\":{\"x\":1760,\"y\":360,\"z\":1280},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_1\",\"folderPath\":\"YU7/InspectionCameras\",\"dataLayerAssets\":[]},{\"guid\":\"848BC798-AAD9-362B-82B8-797F96E27FD6\",\"instanceGuid\":\"848BC798-AAD9-362B-82B8-797F96E27FD6\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_2\",\"label\":\"CAM_YU7_Side\",\"bounds\":{\"min\":{\"x\":-1010,\"y\":70,\"z\":-805},\"max\":{\"x\":1010,\"y\":2090,\"z\":1215},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_2\",\"folderPath\":\"YU7/InspectionCameras\",\"dataLayerAssets\":[]},{\"guid\":\"DAAEC14B-2D89-3A83-8B54-D62841D231E8\",\"instanceGuid\":\"DAAEC14B-2D89-3A83-8B54-D62841D231E8\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Actor\"},\"class\":{\"refPath\":\"/Game/YU7/Lookdev/Blueprints/BP_YU7_StudioLighting.BP_YU7_StudioLighting_C\"},\"name\":\"BP_YU7_StudioLighting_C_0\",\"label\":\"YU7_StudioLighting\",\"bounds\":{\"min\":{\"x\":-558,\"y\":-388,\"z\":-16},\"max\":{\"x\":488,\"y\":518,\"z\":648},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_StudioLighting_C_0\",\"folderPath\":\"Reference/LightingBlueprint_Preserved\",\"dataLayerAssets\":[]},{\"guid\":\"8C6517B4-0698-3026-845E-FED1269643AE\",\"instanceGuid\":\"8C6517B4-0698-3026-845E-FED1269643AE\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_4\",\"label\":\"CAM_YU7_Beauty\",\"bounds\":{\"min\":{\"x\":-1860,\"y\":-230,\"z\":-745},\"max\":{\"x\":160,\"y\":1790,\"z\":1275},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_4\",\"folderPath\":\"YU7/Lookdev\",\"dataLayerAssets\":[]},{\"guid\":\"736EB131-13FA-3523-920A-8998350E5506\",\"instanceGuid\":\"736EB131-13FA-3523-920A-8998350E5506\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/VariantManagerContent.LevelVariantSetsActor\"},\"class\":{\"refPath\":\"/Script/VariantManagerContent.LevelVariantSetsActor\"},\"name\":\"LevelVariantSetsActor_0\",\"label\":\"YU7_OriginalVariantManager_Unbound\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.LevelVariantSetsActor_0\",\"folderPath\":\"YU7/Lookdev\",\"dataLayerAssets\":[]},{\"guid\":\"3E5EAB4F-9FAB-3B18-9A18-3141887254AD\",\"instanceGuid\":\"3E5EAB4F-9FAB-3B18-9A18-3141887254AD\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_1\",\"label\":\"YU7_Light_Key_Softbox\",\"bounds\":{\"min\":{\"x\":-228,\"y\":-228,\"z\":352},\"max\":{\"x\":28,\"y\":28,\"z\":608},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_1\",\"folderPath\":\"YU7/LookdevLights\",\"dataLayerAssets\":[]},{\"guid\":\"C7F49697-CE26-3EF0-A24D-97021C57988B\",\"instanceGuid\":\"C7F49697-CE26-3EF0-A24D-97021C57988B\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_2\",\"label\":\"YU7_Light_Side_Strip\",\"bounds\":{\"min\":{\"x\":-68,\"y\":262,\"z\":112},\"max\":{\"x\":188,\"y\":518,\"z\":368},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_2\",\"folderPath\":\"YU7/LookdevLights\",\"dataLayerAssets\":[]},{\"guid\":\"164381F8-449A-321E-B862-E38889A34AAA\",\"instanceGuid\":\"164381F8-449A-321E-B862-E38889A34AAA\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_3\",\"label\":\"YU7_Light_Rear_Rim\",\"bounds\":{\"min\":{\"x\":142,\"y\":-388,\"z\":192},\"max\":{\"x\":398,\"y\":-132,\"z\":448},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_3\",\"folderPath\":\"YU7/LookdevLights\",\"dataLayerAssets\":[]},{\"guid\":\"38FCB39F-F101-3564-A4CA-F58CE12FB6D9\",\"instanceGuid\":\"38FCB39F-F101-3564-A4CA-F58CE12FB6D9\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_4\",\"label\":\"YU7_Light_Front_Fill\",\"bounds\":{\"min\":{\"x\":-558,\"y\":-288,\"z\":102},\"max\":{\"x\":-302,\"y\":-32,\"z\":358},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_4\",\"folderPath\":\"YU7/LookdevLights\",\"dataLayerAssets\":[]},{\"guid\":\"84961AAC-2B75-356B-AC20-BD6D2FE1EB3A\",\"instanceGuid\":\"84961AAC-2B75-356B-AC20-BD6D2FE1EB3A\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_5\",\"label\":\"YU7_Light_Roof_Ribbon\",\"bounds\":{\"min\":{\"x\":2,\"y\":-168,\"z\":392},\"max\":{\"x\":258,\"y\":88,\"z\":648},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_5\",\"folderPath\":\"YU7/LookdevLights\",\"dataLayerAssets\":[]},{\"guid\":\"C0EE1ABD-DF44-399A-B849-C7145058A8F5\",\"instanceGuid\":\"C0EE1ABD-DF44-399A-B849-C7145058A8F5\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.RectLight\"},\"class\":{\"refPath\":\"/Script/Engine.RectLight\"},\"name\":\"RectLight_6\",\"label\":\"YU7_Light_Backdrop_Wash\",\"bounds\":{\"min\":{\"x\":232,\"y\":-308,\"z\":212},\"max\":{\"x\":488,\"y\":-52,\"z\":468},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_6\",\"folderPath\":\"YU7/LookdevLights\",\"dataLayerAssets\":[]},{\"guid\":\"B726719A-436D-3EC2-A80D-358F85B6E4AB\",\"instanceGuid\":\"B726719A-436D-3EC2-A80D-358F85B6E4AB\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_5\",\"label\":\"CAM_Itasha_Side\",\"bounds\":{\"min\":{\"x\":-1010,\"y\":20,\"z\":-840},\"max\":{\"x\":1010,\"y\":2040,\"z\":1180},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_5\",\"folderPath\":\"YU7/Itasha/Cameras\",\"dataLayerAssets\":[]},{\"guid\":\"D25C2200-43AB-67A5-E82E-1EB0A3AD0588\",\"instanceGuid\":\"D25C2200-43AB-67A5-E82E-1EB0A3AD0588\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_6\",\"label\":\"CAM_Itasha_Beauty\",\"bounds\":{\"min\":{\"x\":-1670,\"y\":-20,\"z\":-730},\"max\":{\"x\":350,\"y\":2000,\"z\":1290},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_6\",\"folderPath\":\"YU7/Itasha/Cameras\",\"dataLayerAssets\":[]},{\"guid\":\"F1FA0B1D-4B12-CB1D-9C6E-9EB3B15C3816\",\"instanceGuid\":\"F1FA0B1D-4B12-CB1D-9C6E-9EB3B15C3816\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_7\",\"label\":\"CAM_Itasha_Right\",\"bounds\":{\"min\":{\"x\":-1010,\"y\":-2040,\"z\":-840},\"max\":{\"x\":1010,\"y\":-20,\"z\":1180},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_7\",\"folderPath\":\"YU7/Itasha/Cameras\",\"dataLayerAssets\":[]},{\"guid\":\"ED59DE65-40F7-238B-ADCA-CBA2B21D9CAF\",\"instanceGuid\":\"ED59DE65-40F7-238B-ADCA-CBA2B21D9CAF\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"class\":{\"refPath\":\"/Script/CinematicCamera.CineCameraActor\"},\"name\":\"CineCameraActor_8\",\"label\":\"CAM_Itasha_Hood\",\"bounds\":{\"min\":{\"x\":-1560,\"y\":-680,\"z\":-440},\"max\":{\"x\":460,\"y\":1340,\"z\":1580},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_8\",\"folderPath\":\"YU7/Itasha/Cameras\",\"dataLayerAssets\":[]},{\"guid\":\"2412607C-4D1F-097F-AB02-7399042DA095\",\"instanceGuid\":\"2412607C-4D1F-097F-AB02-7399042DA095\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/VariantManagerContent.LevelVariantSetsActor\"},\"class\":{\"refPath\":\"/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaOptions.BP_YU7_ItashaOptions_C\"},\"name\":\"BP_YU7_ItashaOptions_C_0\",\"label\":\"YU7_ItashaOptions\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaOptions_C_0\",\"folderPath\":\"YU7/Itasha\",\"dataLayerAssets\":[]},{\"guid\":\"9BE28709-4D54-4929-C1A5-1F9A2EDDFC99\",\"instanceGuid\":\"9BE28709-4D54-4929-C1A5-1F9A2EDDFC99\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Actor\"},\"class\":{\"refPath\":\"/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C\"},\"name\":\"BP_YU7_ItashaVehicle_C_0\",\"label\":\"YU7_Hero\",\"bounds\":{\"min\":{\"x\":-249.94997406005848,\"y\":-106.87525558471675,\"z\":-16},\"max\":{\"x\":249.94998931884754,\"y\":106.87522506713863,\"z\":159.10018920898438},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0\",\"folderPath\":\"YU7\",\"dataLayerAssets\":[]},{\"guid\":\"0E023575-D04D-3B1A-A105-B91496501D4F\",\"instanceGuid\":\"0E023575-D04D-3B1A-A105-B91496501D4F\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/LevelSequence.LevelSequenceActor\"},\"class\":{\"refPath\":\"/Script/LevelSequence.LevelSequenceActor\"},\"name\":\"LevelSequenceActor_0\",\"label\":\"SEQ_Truck_Studio_White\",\"bounds\":{\"min\":{\"x\":-161.96387900643791,\"y\":1008.8346096243524,\"z\":1122.4918469651141},\"max\":{\"x\":94.036120993562093,\"y\":1264.8346096243524,\"z\":1378.4918469651141},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.LevelSequenceActor_0\",\"folderPath\":\"Studio_White\",\"dataLayerAssets\":[]},{\"guid\":\"73E54071-406C-4146-734F-8988936502B8\",\"instanceGuid\":\"73E54071-406C-4146-734F-8988936502B8\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Water.BuoyancyManager\"},\"class\":{\"refPath\":\"/Script/Water.BuoyancyManager\"},\"name\":\"BuoyancyManager_0\",\"label\":\"BuoyancyManager0\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BuoyancyManager_0\",\"folderPath\":\"None\",\"dataLayerAssets\":[]},{\"guid\":\"046D5BD7-40AD-106E-A8DC-44ADD8E00278\",\"instanceGuid\":\"046D5BD7-40AD-106E-A8DC-44ADD8E00278\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.DefaultPhysicsVolume\"},\"class\":{\"refPath\":\"/Script/Engine.DefaultPhysicsVolume\"},\"name\":\"DefaultPhysicsVolume_0\",\"label\":\"DefaultPhysicsVolume0\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DefaultPhysicsVolume_0\",\"folderPath\":\"None\",\"dataLayerAssets\":[]},{\"guid\":\"92D7FE4E-4812-4A1F-6951-54A2BEDB58BE\",\"instanceGuid\":\"92D7FE4E-4812-4A1F-6951-54A2BEDB58BE\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/GameplayDebugger.GameplayDebuggerPlayerManager\"},\"class\":{\"refPath\":\"/Script/GameplayDebugger.GameplayDebuggerPlayerManager\"},\"name\":\"GameplayDebuggerPlayerManager_0\",\"label\":\"GameplayDebuggerPlayerManager0\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.GameplayDebuggerPlayerManager_0\",\"folderPath\":\"None\",\"dataLayerAssets\":[]},{\"guid\":\"19A62526-4583-1938-9EFB-2E90EEC9F336\",\"instanceGuid\":\"19A62526-4583-1938-9EFB-2E90EEC9F336\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.Actor\"},\"class\":{\"refPath\":\"/Script/Engine.Actor\"},\"name\":\"ChaosDebugDrawActor\",\"label\":\"Actor\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.ChaosDebugDrawActor\",\"folderPath\":\"None\",\"dataLayerAssets\":[]},{\"guid\":\"E30F25F8-533B-3D02-A831-6C04241CB838\",\"instanceGuid\":\"E30F25F8-533B-3D02-A831-6C04241CB838\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_0\",\"label\":\"YU7_VP_001_carGlass_front_1\",\"bounds\":{\"min\":{\"x\":-116.16921234130855,\"y\":-82.587955474853459,\"z\":95.072158813476562},\"max\":{\"x\":-15.591606140136705,\"y\":82.588069915771456,\"z\":147.32052612304688},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_0\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"D8B203BE-586D-3DCA-B07D-D05E9E0D5D2B\",\"instanceGuid\":\"D8B203BE-586D-3DCA-B07D-D05E9E0D5D2B\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_2\",\"label\":\"YU7_VP_006_carPaint_2\",\"bounds\":{\"min\":{\"x\":-88.870311737060518,\"y\":-97.3308296203613,\"z\":31.918022155761719},\"max\":{\"x\":136.47462844848627,\"y\":97.332073211669893,\"z\":120.19924163818359},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_2\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"E74EEA52-3C16-3562-869E-49F761875F9D\",\"instanceGuid\":\"E74EEA52-3C16-3562-869E-49F761875F9D\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_5\",\"label\":\"YU7_VP_008_carWindowTrim_3_1_\",\"bounds\":{\"min\":{\"x\":35.794815063476534,\"y\":-84.714969635009751,\"z\":111.87231826782227},\"max\":{\"x\":132.16868591308585,\"y\":-74.509120941162095,\"z\":119.39437484741211},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_5\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"DA96F5FB-5473-3117-BF5B-FFCE468CBE88\",\"instanceGuid\":\"DA96F5FB-5473-3117-BF5B-FFCE468CBE88\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_6\",\"label\":\"YU7_VP_019_carWindowTrim_3\",\"bounds\":{\"min\":{\"x\":35.794815063476562,\"y\":74.509101867675739,\"z\":111.87231826782227},\"max\":{\"x\":132.16870117187494,\"y\":84.714851379394489,\"z\":119.39437484741211},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_6\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"43A8B0C1-A879-34C7-AA2D-4193D21518E9\",\"instanceGuid\":\"43A8B0C1-A879-34C7-AA2D-4193D21518E9\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_7\",\"label\":\"YU7_VP_028_carPaint_10\",\"bounds\":{\"min\":{\"x\":-232.95628356933588,\"y\":-97.540069580078082,\"z\":74.792091369628906},\"max\":{\"x\":-76.719375610351506,\"y\":97.540191650390611,\"z\":109.21509552001953},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_7\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"35C7DB35-1D5F-313D-BB62-4B1943F098B6\",\"instanceGuid\":\"35C7DB35-1D5F-313D-BB62-4B1943F098B6\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_8\",\"label\":\"YU7_VP_033_carWindowTrim_1_1_\",\"bounds\":{\"min\":{\"x\":-69.444681167602525,\"y\":-85.159225463867145,\"z\":108.67126083374023},\"max\":{\"x\":36.174840927123995,\"y\":-80.167938232421832,\"z\":112.95175552368164},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_8\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"DE58C9BE-132B-3332-AD3C-91144F114157\",\"instanceGuid\":\"DE58C9BE-132B-3332-AD3C-91144F114157\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_9\",\"label\":\"YU7_VP_038_carPaint_4_1_\",\"bounds\":{\"min\":{\"x\":-84.12055015563962,\"y\":-97.059955596923785,\"z\":32.332008361816406},\"max\":{\"x\":35.837839126586886,\"y\":-82.410869598388629,\"z\":112.07915496826172},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_9\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"7C5BCC95-43B3-379A-914A-AE1E85D6FCA0\",\"instanceGuid\":\"7C5BCC95-43B3-379A-914A-AE1E85D6FCA0\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_10\",\"label\":\"YU7_VP_039_carWindowTrim_5\",\"bounds\":{\"min\":{\"x\":-68.622711181640597,\"y\":-82.612735748290987,\"z\":108.32604598999023},\"max\":{\"x\":162.99765014648432,\"y\":82.615901947021456,\"z\":151.00265884399414},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_10\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"1B1329B7-AE15-3299-8452-F2045622A0BC\",\"instanceGuid\":\"1B1329B7-AE15-3299-8452-F2045622A0BC\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_11\",\"label\":\"YU7_VP_040_carPaint_2_1_\",\"bounds\":{\"min\":{\"x\":-233.6052627563476,\"y\":-97.757358551025348,\"z\":82.211502075195312},\"max\":{\"x\":-76.193992614746037,\"y\":97.757472991943345,\"z\":109.52719116210938},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_11\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"C91B302B-3A71-3B3D-9381-D376E38D4E81\",\"instanceGuid\":\"C91B302B-3A71-3B3D-9381-D376E38D4E81\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_12\",\"label\":\"YU7_VP_045_carPaint_13\",\"bounds\":{\"min\":{\"x\":26.766788482665987,\"y\":-97.827713012695284,\"z\":35.434658050537109},\"max\":{\"x\":136.54789352416984,\"y\":-76.802871704101534,\"z\":118.60425186157227},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_12\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"A37DC4F2-6264-3B68-994A-5AD098640D91\",\"instanceGuid\":\"A37DC4F2-6264-3B68-994A-5AD098640D91\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_13\",\"label\":\"YU7_VP_047_carGlass_front_2_Side_2_1_\",\"bounds\":{\"min\":{\"x\":-51.07728004455565,\"y\":-82.669162750244112,\"z\":108.88357925415039},\"max\":{\"x\":39.715734481811495,\"y\":-65.316860198974581,\"z\":149.19915390014648},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_13\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"D41F1226-F7CA-3B4D-B0B4-FDAD7F75AA95\",\"instanceGuid\":\"D41F1226-F7CA-3B4D-B0B4-FDAD7F75AA95\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_14\",\"label\":\"YU7_VP_049_carGlass_back_2_Side\",\"bounds\":{\"min\":{\"x\":113.73896408081049,\"y\":-76.00368499755858,\"z\":117.24828338623047},\"max\":{\"x\":161.35203933715815,\"y\":76.006950378417926,\"z\":143.68872833251953},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_14\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"4BE003D5-EEF6-334D-8B54-0A6751C76069\",\"instanceGuid\":\"4BE003D5-EEF6-334D-8B54-0A6751C76069\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_15\",\"label\":\"YU7_VP_057_carGlass_back_2_Side_1_1_\",\"bounds\":{\"min\":{\"x\":44.267501831054645,\"y\":-81.954902648925767,\"z\":112.15266799926758},\"max\":{\"x\":120.98065185546868,\"y\":-64.825981140136705,\"z\":149.23859786987305},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_15\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"C6AF8FCE-CED9-3640-8FE7-9A42337F7B83\",\"instanceGuid\":\"C6AF8FCE-CED9-3640-8FE7-9A42337F7B83\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_16\",\"label\":\"YU7_VP_058_carPaint_4\",\"bounds\":{\"min\":{\"x\":-84.120544433593693,\"y\":82.411811828613239,\"z\":32.332008361816406},\"max\":{\"x\":35.837852478027344,\"y\":97.060905456542926,\"z\":112.07915496826172},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_16\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"5016A9AD-469A-3320-8365-7FE06D65453C\",\"instanceGuid\":\"5016A9AD-469A-3320-8365-7FE06D65453C\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_17\",\"label\":\"YU7_VP_060_carPaint_1\",\"bounds\":{\"min\":{\"x\":-249.50401306152332,\"y\":-97.931594848632798,\"z\":30.345916748046875},\"max\":{\"x\":247.36915588378895,\"y\":97.928970336914048,\"z\":156.105224609375},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_17\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"2C2123CA-AE54-3BD3-BD95-243E84BDD39E\",\"instanceGuid\":\"2C2123CA-AE54-3BD3-BD95-243E84BDD39E\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_18\",\"label\":\"YU7_VP_068_carPaint_9\",\"bounds\":{\"min\":{\"x\":26.766799926757812,\"y\":76.803703308105412,\"z\":35.434654235839844},\"max\":{\"x\":136.54791259765619,\"y\":97.828544616699162,\"z\":118.60425567626953},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_18\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"88BE4BDD-3C0E-3D7C-8B46-0961D98FDD94\",\"instanceGuid\":\"88BE4BDD-3C0E-3D7C-8B46-0961D98FDD94\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_19\",\"label\":\"YU7_VP_074_carGlass_back_2_Side_1\",\"bounds\":{\"min\":{\"x\":44.267509460449205,\"y\":64.827247619628864,\"z\":112.15266799926758},\"max\":{\"x\":120.98065948486324,\"y\":81.956153869628864,\"z\":149.2420768737793},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_19\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"DD66F35D-3207-32CC-89EB-9E976D4AD881\",\"instanceGuid\":\"DD66F35D-3207-32CC-89EB-9E976D4AD881\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_20\",\"label\":\"YU7_VP_075_carGlass_front_2_Side_2\",\"bounds\":{\"min\":{\"x\":-51.0772609710693,\"y\":65.318443298339815,\"z\":108.88357925415039},\"max\":{\"x\":39.715738296508782,\"y\":82.670753479003878,\"z\":149.19915390014648},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_20\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"AFB70F29-B436-3775-81A0-4A4F567FC79F\",\"instanceGuid\":\"AFB70F29-B436-3775-81A0-4A4F567FC79F\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_21\",\"label\":\"YU7_VP_076_carGlass_back_1\",\"bounds\":{\"min\":{\"x\":165.65296936035148,\"y\":-59.50657844543457,\"z\":116.21988296508789},\"max\":{\"x\":229.51719665527335,\"y\":59.506666183471637,\"z\":142.10552597045898},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_21\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"39387336-9545-3832-B228-0DDAF6FFCB43\",\"instanceGuid\":\"39387336-9545-3832-B228-0DDAF6FFCB43\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_22\",\"label\":\"YU7_VP_079_carPaint_8\",\"bounds\":{\"min\":{\"x\":190.94680023193351,\"y\":-65.43194580078125,\"z\":64.171398162841797},\"max\":{\"x\":249.94998931884757,\"y\":65.485504150390568,\"z\":125.25423049926758},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_22\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"B625F842-3B68-3F15-A9DF-E0482AB64200\",\"instanceGuid\":\"B625F842-3B68-3F15-A9DF-E0482AB64200\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"class\":{\"refPath\":\"/Script/Engine.StaticMeshActor\"},\"name\":\"StaticMeshActor_23\",\"label\":\"YU7_VP_080_carWindowTrim_1\",\"bounds\":{\"min\":{\"x\":-69.444662094116168,\"y\":80.167736053466754,\"z\":108.67126083374023},\"max\":{\"x\":36.174844741821289,\"y\":85.159015655517535,\"z\":112.95175552368164},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_23\",\"folderPath\":\"YU7/VariantParts\",\"dataLayerAssets\":[]},{\"guid\":\"5C26493F-4594-C65B-E5EF-5E8B2054A21E\",\"instanceGuid\":\"5C26493F-4594-C65B-E5EF-5E8B2054A21E\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"class\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"name\":\"DecalActor_0\",\"label\":\"YU7_Itasha_Left\",\"bounds\":{\"min\":{\"x\":-149.99999999999974,\"y\":-141.00000000000099,\"z\":-53},\"max\":{\"x\":106.00000000000026,\"y\":226.99999999999901,\"z\":203},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_0\",\"folderPath\":\"YU7/Itasha\",\"dataLayerAssets\":[]},{\"guid\":\"5B2C5867-411E-EE88-DD01-85A09D6EBF49\",\"instanceGuid\":\"5B2C5867-411E-EE88-DD01-85A09D6EBF49\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"class\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"name\":\"DecalActor_1\",\"label\":\"YU7_Itasha_Right\",\"bounds\":{\"min\":{\"x\":-149.99999999999974,\"y\":-226.99999999999898,\"z\":-53},\"max\":{\"x\":106.00000000000026,\"y\":141.00000000000102,\"z\":203},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_1\",\"folderPath\":\"YU7/Itasha\",\"dataLayerAssets\":[]},{\"guid\":\"F28A35F4-4765-7C1E-4E51-E0BB6C7AE3A3\",\"instanceGuid\":\"F28A35F4-4765-7C1E-4E51-E0BB6C7AE3A3\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"class\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"name\":\"DecalActor_2\",\"label\":\"YU7_Itasha_Hood\",\"bounds\":{\"min\":{\"x\":-284.99999999999841,\"y\":-128,\"z\":-131.99999999999994},\"max\":{\"x\":-28.999999999998408,\"y\":128,\"z\":236},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_2\",\"folderPath\":\"YU7/Itasha\",\"dataLayerAssets\":[]},{\"guid\":\"4C401169-43AC-488F-1419-EA8E87C40E17\",\"instanceGuid\":\"4C401169-43AC-488F-1419-EA8E87C40E17\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"class\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"name\":\"DecalActor_3\",\"label\":\"YU7_Itasha_Sweep_Left\",\"bounds\":{\"min\":{\"x\":-113.00000000000013,\"y\":-141.00000000000099,\"z\":-68},\"max\":{\"x\":142.99999999999989,\"y\":226.99999999999901,\"z\":188},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_3\",\"folderPath\":\"YU7/Itasha\",\"dataLayerAssets\":[]},{\"guid\":\"E025B1DF-41A4-3080-DB8B-52B268C08576\",\"instanceGuid\":\"E025B1DF-41A4-3080-DB8B-52B268C08576\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"class\":{\"refPath\":\"/Script/Engine.DecalActor\"},\"name\":\"DecalActor_4\",\"label\":\"YU7_Itasha_Sweep_Right\",\"bounds\":{\"min\":{\"x\":-113.00000000000013,\"y\":-226.99999999999898,\"z\":-68},\"max\":{\"x\":142.99999999999989,\"y\":141.00000000000102,\"z\":188},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":true,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_4\",\"folderPath\":\"YU7/Itasha\",\"dataLayerAssets\":[]},{\"guid\":\"930AD835-45C8-CEA1-B92D-56805A6D8453\",\"instanceGuid\":\"930AD835-45C8-CEA1-B92D-56805A6D8453\",\"parentInstanceGuid\":\"00000000-0000-0000-0000-000000000000\",\"nativeClass\":{\"refPath\":\"/Script/NavigationSystem.AbstractNavData\"},\"class\":{\"refPath\":\"/Script/NavigationSystem.AbstractNavData\"},\"name\":\"AbstractNavData-Default\",\"label\":\"AbstractNavData-Default\",\"bounds\":{\"min\":{\"x\":0,\"y\":0,\"z\":0},\"max\":{\"x\":0,\"y\":0,\"z\":0},\"isValid\":true},\"runtimeGrid\":\"None\",\"bIsSpatiallyLoaded\":false,\"bActorIsEditorOnly\":false,\"actorPackage\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01\",\"actorPath\":\"/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.AbstractNavData-Default\",\"folderPath\":\"None\",\"dataLayerAssets\":[]}]}"
+        }
+      ],
+      "structuredContent": {
+        "returnValue": [
+          {
+            "guid": "C7E10613-7CBC-37E3-95C6-AF826DF4C143",
+            "instanceGuid": "C7E10613-7CBC-37E3-95C6-AF826DF4C143",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.WorldSettings"
+            },
+            "class": {
+              "refPath": "/Script/Engine.WorldSettings"
+            },
+            "name": "WorldSettings",
+            "label": "WorldSettings",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.WorldSettings",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "8780B793-DC90-3B5F-BB94-912F54EEF265",
+            "instanceGuid": "8780B793-DC90-3B5F-BB94-912F54EEF265",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Brush"
+            },
+            "class": {
+              "refPath": "/Script/Engine.Brush"
+            },
+            "name": "Brush_0",
+            "label": "Brush0",
+            "bounds": {
+              "min": {
+                "x": -128,
+                "y": -128,
+                "z": -128
+              },
+              "max": {
+                "x": 128,
+                "y": 128,
+                "z": 128
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.Brush_0",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "6586BD25-11B7-3D69-8C27-72C749970765",
+            "instanceGuid": "6586BD25-11B7-3D69-8C27-72C749970765",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_1",
+            "label": "SM_HalfDome",
+            "bounds": {
+              "min": {
+                "x": -1093.0997436626192,
+                "y": -1093.0997505235016,
+                "z": -12.500399589538574
+              },
+              "max": {
+                "x": 1093.0997505235016,
+                "y": 700.0001411485016,
+                "z": 600.4998779296875
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_1",
+            "folderPath": "Studio_White",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "3C4CE2F6-3E8A-3770-8ED3-7BCAC245A842",
+            "instanceGuid": "3C4CE2F6-3E8A-3770-8ED3-7BCAC245A842",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_3",
+            "label": "SM_AutomotiveTP_Car",
+            "bounds": {
+              "min": {
+                "x": -231.8226776123046,
+                "y": -102.44262695312499,
+                "z": 0.09238909184932709
+              },
+              "max": {
+                "x": 206.82496643066398,
+                "y": 102.44262695312499,
+                "z": 148.12884521484375
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_3",
+            "folderPath": "Reference/OriginalCar_Hidden",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "6D4963CD-D40B-3E72-A53C-0B620E6C7C8E",
+            "instanceGuid": "6D4963CD-D40B-3E72-A53C-0B620E6C7C8E",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_4",
+            "label": "SM_InvertedCube",
+            "bounds": {
+              "min": {
+                "x": -1112.620239257812,
+                "y": -1105.8500976562495,
+                "z": -21.192480087280273
+              },
+              "max": {
+                "x": 1112.620239257812,
+                "y": 709.8200073242185,
+                "z": 773.9448852539062
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_4",
+            "folderPath": "Studio_White",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "4D8EE263-7DAE-362D-8055-CFC2C9757871",
+            "instanceGuid": "4D8EE263-7DAE-362D-8055-CFC2C9757871",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_0",
+            "label": "RectLight",
+            "bounds": {
+              "min": {
+                "x": -128,
+                "y": -128,
+                "z": 482
+              },
+              "max": {
+                "x": 128,
+                "y": 128,
+                "z": 738
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_0",
+            "folderPath": "Reference/OriginalLighting_Hidden",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "AD26D491-9810-3F02-9146-859B5F498EDC",
+            "instanceGuid": "AD26D491-9810-3F02-9146-859B5F498EDC",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "class": {
+              "refPath": "/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C"
+            },
+            "name": "BP_CStand_C_1",
+            "label": "BP_CStand",
+            "bounds": {
+              "min": {
+                "x": -471.301270782384,
+                "y": -274.2435566381111,
+                "z": -128
+              },
+              "max": {
+                "x": -215.301270782384,
+                "y": -18.2435566381111,
+                "z": 178.21423513216018
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_CStand_C_1",
+            "folderPath": "Reference/OriginalLighting_Hidden",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "A66B65C6-70C2-3863-BA97-77C85919B364",
+            "instanceGuid": "A66B65C6-70C2-3863-BA97-77C85919B364",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "class": {
+              "refPath": "/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C"
+            },
+            "name": "BP_CStand_C_2",
+            "label": "BP_CStand2",
+            "bounds": {
+              "min": {
+                "x": -93.81415793492312,
+                "y": -368.0704161123301,
+                "z": -128
+              },
+              "max": {
+                "x": 162.18584206507688,
+                "y": -112.07041611233012,
+                "z": 210.43823413216018
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_CStand_C_2",
+            "folderPath": "Reference/OriginalLighting_Hidden",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "83068F76-DAE2-3E59-9169-4ECEB3A7D00A",
+            "instanceGuid": "83068F76-DAE2-3E59-9169-4ECEB3A7D00A",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "class": {
+              "refPath": "/Game/Studios/Models/CStand/BP_CStand.BP_CStand_C"
+            },
+            "name": "BP_CStand_C_3",
+            "label": "BP_CStand3",
+            "bounds": {
+              "min": {
+                "x": 220.092198473984,
+                "y": 52.95996725743636,
+                "z": -128
+              },
+              "max": {
+                "x": 476.092198473984,
+                "y": 308.95996725743635,
+                "z": 226.04889897122848
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_CStand_C_3",
+            "folderPath": "Reference/OriginalLighting_Hidden",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "09995670-77A7-31E0-871C-1BCDB287525A",
+            "instanceGuid": "09995670-77A7-31E0-871C-1BCDB287525A",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_3",
+            "label": "CineCameraActor",
+            "bounds": {
+              "min": {
+                "x": -1867.175738,
+                "y": -1009.999984,
+                "z": -878.80794
+              },
+              "max": {
+                "x": 152.8242620000001,
+                "y": 1010.000016,
+                "z": 1141.1920599999999
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_3",
+            "folderPath": "Cameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "38AEDEC1-6F77-31AA-BE0D-D60AAAE1FD09",
+            "instanceGuid": "38AEDEC1-6F77-31AA-BE0D-D60AAAE1FD09",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.PostProcessVolume"
+            },
+            "class": {
+              "refPath": "/Script/Engine.PostProcessVolume"
+            },
+            "name": "PostProcessVolume_1",
+            "label": "PostProcessVolume",
+            "bounds": {
+              "min": {
+                "x": -100,
+                "y": -100,
+                "z": -100
+              },
+              "max": {
+                "x": 100,
+                "y": 100,
+                "z": 100
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.PostProcessVolume_1",
+            "folderPath": "Common",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "F36147B4-0208-3E49-B389-66A0542600A8",
+            "instanceGuid": "F36147B4-0208-3E49-B389-66A0542600A8",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_0",
+            "label": "CAM_YU7_Front",
+            "bounds": {
+              "min": {
+                "x": -1760,
+                "y": -360,
+                "z": -710
+              },
+              "max": {
+                "x": 260,
+                "y": 1660,
+                "z": 1310
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_0",
+            "folderPath": "YU7/InspectionCameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "CBDE8328-B7AE-3177-BFD1-618E68FF2DF1",
+            "instanceGuid": "CBDE8328-B7AE-3177-BFD1-618E68FF2DF1",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_1",
+            "label": "CAM_YU7_Rear",
+            "bounds": {
+              "min": {
+                "x": -260,
+                "y": -1660,
+                "z": -740
+              },
+              "max": {
+                "x": 1760,
+                "y": 360,
+                "z": 1280
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_1",
+            "folderPath": "YU7/InspectionCameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "848BC798-AAD9-362B-82B8-797F96E27FD6",
+            "instanceGuid": "848BC798-AAD9-362B-82B8-797F96E27FD6",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_2",
+            "label": "CAM_YU7_Side",
+            "bounds": {
+              "min": {
+                "x": -1010,
+                "y": 70,
+                "z": -805
+              },
+              "max": {
+                "x": 1010,
+                "y": 2090,
+                "z": 1215
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_2",
+            "folderPath": "YU7/InspectionCameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "DAAEC14B-2D89-3A83-8B54-D62841D231E8",
+            "instanceGuid": "DAAEC14B-2D89-3A83-8B54-D62841D231E8",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "class": {
+              "refPath": "/Game/YU7/Lookdev/Blueprints/BP_YU7_StudioLighting.BP_YU7_StudioLighting_C"
+            },
+            "name": "BP_YU7_StudioLighting_C_0",
+            "label": "YU7_StudioLighting",
+            "bounds": {
+              "min": {
+                "x": -558,
+                "y": -388,
+                "z": -16
+              },
+              "max": {
+                "x": 488,
+                "y": 518,
+                "z": 648
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_StudioLighting_C_0",
+            "folderPath": "Reference/LightingBlueprint_Preserved",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "8C6517B4-0698-3026-845E-FED1269643AE",
+            "instanceGuid": "8C6517B4-0698-3026-845E-FED1269643AE",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_4",
+            "label": "CAM_YU7_Beauty",
+            "bounds": {
+              "min": {
+                "x": -1860,
+                "y": -230,
+                "z": -745
+              },
+              "max": {
+                "x": 160,
+                "y": 1790,
+                "z": 1275
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_4",
+            "folderPath": "YU7/Lookdev",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "736EB131-13FA-3523-920A-8998350E5506",
+            "instanceGuid": "736EB131-13FA-3523-920A-8998350E5506",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/VariantManagerContent.LevelVariantSetsActor"
+            },
+            "class": {
+              "refPath": "/Script/VariantManagerContent.LevelVariantSetsActor"
+            },
+            "name": "LevelVariantSetsActor_0",
+            "label": "YU7_OriginalVariantManager_Unbound",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.LevelVariantSetsActor_0",
+            "folderPath": "YU7/Lookdev",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "3E5EAB4F-9FAB-3B18-9A18-3141887254AD",
+            "instanceGuid": "3E5EAB4F-9FAB-3B18-9A18-3141887254AD",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_1",
+            "label": "YU7_Light_Key_Softbox",
+            "bounds": {
+              "min": {
+                "x": -228,
+                "y": -228,
+                "z": 352
+              },
+              "max": {
+                "x": 28,
+                "y": 28,
+                "z": 608
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_1",
+            "folderPath": "YU7/LookdevLights",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "C7F49697-CE26-3EF0-A24D-97021C57988B",
+            "instanceGuid": "C7F49697-CE26-3EF0-A24D-97021C57988B",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_2",
+            "label": "YU7_Light_Side_Strip",
+            "bounds": {
+              "min": {
+                "x": -68,
+                "y": 262,
+                "z": 112
+              },
+              "max": {
+                "x": 188,
+                "y": 518,
+                "z": 368
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_2",
+            "folderPath": "YU7/LookdevLights",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "164381F8-449A-321E-B862-E38889A34AAA",
+            "instanceGuid": "164381F8-449A-321E-B862-E38889A34AAA",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_3",
+            "label": "YU7_Light_Rear_Rim",
+            "bounds": {
+              "min": {
+                "x": 142,
+                "y": -388,
+                "z": 192
+              },
+              "max": {
+                "x": 398,
+                "y": -132,
+                "z": 448
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_3",
+            "folderPath": "YU7/LookdevLights",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "38FCB39F-F101-3564-A4CA-F58CE12FB6D9",
+            "instanceGuid": "38FCB39F-F101-3564-A4CA-F58CE12FB6D9",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_4",
+            "label": "YU7_Light_Front_Fill",
+            "bounds": {
+              "min": {
+                "x": -558,
+                "y": -288,
+                "z": 102
+              },
+              "max": {
+                "x": -302,
+                "y": -32,
+                "z": 358
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_4",
+            "folderPath": "YU7/LookdevLights",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "84961AAC-2B75-356B-AC20-BD6D2FE1EB3A",
+            "instanceGuid": "84961AAC-2B75-356B-AC20-BD6D2FE1EB3A",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_5",
+            "label": "YU7_Light_Roof_Ribbon",
+            "bounds": {
+              "min": {
+                "x": 2,
+                "y": -168,
+                "z": 392
+              },
+              "max": {
+                "x": 258,
+                "y": 88,
+                "z": 648
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_5",
+            "folderPath": "YU7/LookdevLights",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "C0EE1ABD-DF44-399A-B849-C7145058A8F5",
+            "instanceGuid": "C0EE1ABD-DF44-399A-B849-C7145058A8F5",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "class": {
+              "refPath": "/Script/Engine.RectLight"
+            },
+            "name": "RectLight_6",
+            "label": "YU7_Light_Backdrop_Wash",
+            "bounds": {
+              "min": {
+                "x": 232,
+                "y": -308,
+                "z": 212
+              },
+              "max": {
+                "x": 488,
+                "y": -52,
+                "z": 468
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.RectLight_6",
+            "folderPath": "YU7/LookdevLights",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "B726719A-436D-3EC2-A80D-358F85B6E4AB",
+            "instanceGuid": "B726719A-436D-3EC2-A80D-358F85B6E4AB",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_5",
+            "label": "CAM_Itasha_Side",
+            "bounds": {
+              "min": {
+                "x": -1010,
+                "y": 20,
+                "z": -840
+              },
+              "max": {
+                "x": 1010,
+                "y": 2040,
+                "z": 1180
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_5",
+            "folderPath": "YU7/Itasha/Cameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "D25C2200-43AB-67A5-E82E-1EB0A3AD0588",
+            "instanceGuid": "D25C2200-43AB-67A5-E82E-1EB0A3AD0588",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_6",
+            "label": "CAM_Itasha_Beauty",
+            "bounds": {
+              "min": {
+                "x": -1670,
+                "y": -20,
+                "z": -730
+              },
+              "max": {
+                "x": 350,
+                "y": 2000,
+                "z": 1290
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_6",
+            "folderPath": "YU7/Itasha/Cameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "F1FA0B1D-4B12-CB1D-9C6E-9EB3B15C3816",
+            "instanceGuid": "F1FA0B1D-4B12-CB1D-9C6E-9EB3B15C3816",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_7",
+            "label": "CAM_Itasha_Right",
+            "bounds": {
+              "min": {
+                "x": -1010,
+                "y": -2040,
+                "z": -840
+              },
+              "max": {
+                "x": 1010,
+                "y": -20,
+                "z": 1180
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_7",
+            "folderPath": "YU7/Itasha/Cameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "ED59DE65-40F7-238B-ADCA-CBA2B21D9CAF",
+            "instanceGuid": "ED59DE65-40F7-238B-ADCA-CBA2B21D9CAF",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "class": {
+              "refPath": "/Script/CinematicCamera.CineCameraActor"
+            },
+            "name": "CineCameraActor_8",
+            "label": "CAM_Itasha_Hood",
+            "bounds": {
+              "min": {
+                "x": -1560,
+                "y": -680,
+                "z": -440
+              },
+              "max": {
+                "x": 460,
+                "y": 1340,
+                "z": 1580
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.CineCameraActor_8",
+            "folderPath": "YU7/Itasha/Cameras",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "2412607C-4D1F-097F-AB02-7399042DA095",
+            "instanceGuid": "2412607C-4D1F-097F-AB02-7399042DA095",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/VariantManagerContent.LevelVariantSetsActor"
+            },
+            "class": {
+              "refPath": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaOptions.BP_YU7_ItashaOptions_C"
+            },
+            "name": "BP_YU7_ItashaOptions_C_0",
+            "label": "YU7_ItashaOptions",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaOptions_C_0",
+            "folderPath": "YU7/Itasha",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "9BE28709-4D54-4929-C1A5-1F9A2EDDFC99",
+            "instanceGuid": "9BE28709-4D54-4929-C1A5-1F9A2EDDFC99",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "class": {
+              "refPath": "/Game/YU7/Itasha_v01/Blueprints/BP_YU7_ItashaVehicle.BP_YU7_ItashaVehicle_C"
+            },
+            "name": "BP_YU7_ItashaVehicle_C_0",
+            "label": "YU7_Hero",
+            "bounds": {
+              "min": {
+                "x": -249.94997406005848,
+                "y": -106.87525558471675,
+                "z": -16
+              },
+              "max": {
+                "x": 249.94998931884754,
+                "y": 106.87522506713863,
+                "z": 159.10018920898438
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BP_YU7_ItashaVehicle_C_0",
+            "folderPath": "YU7",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "0E023575-D04D-3B1A-A105-B91496501D4F",
+            "instanceGuid": "0E023575-D04D-3B1A-A105-B91496501D4F",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/LevelSequence.LevelSequenceActor"
+            },
+            "class": {
+              "refPath": "/Script/LevelSequence.LevelSequenceActor"
+            },
+            "name": "LevelSequenceActor_0",
+            "label": "SEQ_Truck_Studio_White",
+            "bounds": {
+              "min": {
+                "x": -161.9638790064379,
+                "y": 1008.8346096243524,
+                "z": 1122.491846965114
+              },
+              "max": {
+                "x": 94.0361209935621,
+                "y": 1264.8346096243524,
+                "z": 1378.491846965114
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.LevelSequenceActor_0",
+            "folderPath": "Studio_White",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "73E54071-406C-4146-734F-8988936502B8",
+            "instanceGuid": "73E54071-406C-4146-734F-8988936502B8",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Water.BuoyancyManager"
+            },
+            "class": {
+              "refPath": "/Script/Water.BuoyancyManager"
+            },
+            "name": "BuoyancyManager_0",
+            "label": "BuoyancyManager0",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.BuoyancyManager_0",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "046D5BD7-40AD-106E-A8DC-44ADD8E00278",
+            "instanceGuid": "046D5BD7-40AD-106E-A8DC-44ADD8E00278",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.DefaultPhysicsVolume"
+            },
+            "class": {
+              "refPath": "/Script/Engine.DefaultPhysicsVolume"
+            },
+            "name": "DefaultPhysicsVolume_0",
+            "label": "DefaultPhysicsVolume0",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DefaultPhysicsVolume_0",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "92D7FE4E-4812-4A1F-6951-54A2BEDB58BE",
+            "instanceGuid": "92D7FE4E-4812-4A1F-6951-54A2BEDB58BE",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/GameplayDebugger.GameplayDebuggerPlayerManager"
+            },
+            "class": {
+              "refPath": "/Script/GameplayDebugger.GameplayDebuggerPlayerManager"
+            },
+            "name": "GameplayDebuggerPlayerManager_0",
+            "label": "GameplayDebuggerPlayerManager0",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.GameplayDebuggerPlayerManager_0",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "19A62526-4583-1938-9EFB-2E90EEC9F336",
+            "instanceGuid": "19A62526-4583-1938-9EFB-2E90EEC9F336",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.Actor"
+            },
+            "name": "ChaosDebugDrawActor",
+            "label": "Actor",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.ChaosDebugDrawActor",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "E30F25F8-533B-3D02-A831-6C04241CB838",
+            "instanceGuid": "E30F25F8-533B-3D02-A831-6C04241CB838",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_0",
+            "label": "YU7_VP_001_carGlass_front_1",
+            "bounds": {
+              "min": {
+                "x": -116.16921234130855,
+                "y": -82.58795547485346,
+                "z": 95.07215881347656
+              },
+              "max": {
+                "x": -15.591606140136705,
+                "y": 82.58806991577146,
+                "z": 147.32052612304688
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_0",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "D8B203BE-586D-3DCA-B07D-D05E9E0D5D2B",
+            "instanceGuid": "D8B203BE-586D-3DCA-B07D-D05E9E0D5D2B",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_2",
+            "label": "YU7_VP_006_carPaint_2",
+            "bounds": {
+              "min": {
+                "x": -88.87031173706052,
+                "y": -97.3308296203613,
+                "z": 31.91802215576172
+              },
+              "max": {
+                "x": 136.47462844848627,
+                "y": 97.3320732116699,
+                "z": 120.1992416381836
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_2",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "E74EEA52-3C16-3562-869E-49F761875F9D",
+            "instanceGuid": "E74EEA52-3C16-3562-869E-49F761875F9D",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_5",
+            "label": "YU7_VP_008_carWindowTrim_3_1_",
+            "bounds": {
+              "min": {
+                "x": 35.794815063476534,
+                "y": -84.71496963500975,
+                "z": 111.87231826782227
+              },
+              "max": {
+                "x": 132.16868591308585,
+                "y": -74.5091209411621,
+                "z": 119.39437484741211
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_5",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "DA96F5FB-5473-3117-BF5B-FFCE468CBE88",
+            "instanceGuid": "DA96F5FB-5473-3117-BF5B-FFCE468CBE88",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_6",
+            "label": "YU7_VP_019_carWindowTrim_3",
+            "bounds": {
+              "min": {
+                "x": 35.79481506347656,
+                "y": 74.50910186767574,
+                "z": 111.87231826782227
+              },
+              "max": {
+                "x": 132.16870117187494,
+                "y": 84.71485137939449,
+                "z": 119.39437484741211
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_6",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "43A8B0C1-A879-34C7-AA2D-4193D21518E9",
+            "instanceGuid": "43A8B0C1-A879-34C7-AA2D-4193D21518E9",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_7",
+            "label": "YU7_VP_028_carPaint_10",
+            "bounds": {
+              "min": {
+                "x": -232.95628356933588,
+                "y": -97.54006958007808,
+                "z": 74.7920913696289
+              },
+              "max": {
+                "x": -76.7193756103515,
+                "y": 97.54019165039061,
+                "z": 109.21509552001953
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_7",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "35C7DB35-1D5F-313D-BB62-4B1943F098B6",
+            "instanceGuid": "35C7DB35-1D5F-313D-BB62-4B1943F098B6",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_8",
+            "label": "YU7_VP_033_carWindowTrim_1_1_",
+            "bounds": {
+              "min": {
+                "x": -69.44468116760252,
+                "y": -85.15922546386714,
+                "z": 108.67126083374023
+              },
+              "max": {
+                "x": 36.174840927123995,
+                "y": -80.16793823242183,
+                "z": 112.95175552368164
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_8",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "DE58C9BE-132B-3332-AD3C-91144F114157",
+            "instanceGuid": "DE58C9BE-132B-3332-AD3C-91144F114157",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_9",
+            "label": "YU7_VP_038_carPaint_4_1_",
+            "bounds": {
+              "min": {
+                "x": -84.12055015563962,
+                "y": -97.05995559692379,
+                "z": 32.332008361816406
+              },
+              "max": {
+                "x": 35.837839126586886,
+                "y": -82.41086959838863,
+                "z": 112.07915496826172
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_9",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "7C5BCC95-43B3-379A-914A-AE1E85D6FCA0",
+            "instanceGuid": "7C5BCC95-43B3-379A-914A-AE1E85D6FCA0",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_10",
+            "label": "YU7_VP_039_carWindowTrim_5",
+            "bounds": {
+              "min": {
+                "x": -68.6227111816406,
+                "y": -82.61273574829099,
+                "z": 108.32604598999023
+              },
+              "max": {
+                "x": 162.99765014648432,
+                "y": 82.61590194702146,
+                "z": 151.00265884399414
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_10",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "1B1329B7-AE15-3299-8452-F2045622A0BC",
+            "instanceGuid": "1B1329B7-AE15-3299-8452-F2045622A0BC",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_11",
+            "label": "YU7_VP_040_carPaint_2_1_",
+            "bounds": {
+              "min": {
+                "x": -233.6052627563476,
+                "y": -97.75735855102535,
+                "z": 82.21150207519531
+              },
+              "max": {
+                "x": -76.19399261474604,
+                "y": 97.75747299194335,
+                "z": 109.52719116210938
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_11",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "C91B302B-3A71-3B3D-9381-D376E38D4E81",
+            "instanceGuid": "C91B302B-3A71-3B3D-9381-D376E38D4E81",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_12",
+            "label": "YU7_VP_045_carPaint_13",
+            "bounds": {
+              "min": {
+                "x": 26.766788482665987,
+                "y": -97.82771301269528,
+                "z": 35.43465805053711
+              },
+              "max": {
+                "x": 136.54789352416984,
+                "y": -76.80287170410153,
+                "z": 118.60425186157227
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_12",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "A37DC4F2-6264-3B68-994A-5AD098640D91",
+            "instanceGuid": "A37DC4F2-6264-3B68-994A-5AD098640D91",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_13",
+            "label": "YU7_VP_047_carGlass_front_2_Side_2_1_",
+            "bounds": {
+              "min": {
+                "x": -51.07728004455565,
+                "y": -82.66916275024411,
+                "z": 108.88357925415039
+              },
+              "max": {
+                "x": 39.715734481811495,
+                "y": -65.31686019897458,
+                "z": 149.19915390014648
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_13",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "D41F1226-F7CA-3B4D-B0B4-FDAD7F75AA95",
+            "instanceGuid": "D41F1226-F7CA-3B4D-B0B4-FDAD7F75AA95",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_14",
+            "label": "YU7_VP_049_carGlass_back_2_Side",
+            "bounds": {
+              "min": {
+                "x": 113.73896408081049,
+                "y": -76.00368499755858,
+                "z": 117.24828338623047
+              },
+              "max": {
+                "x": 161.35203933715815,
+                "y": 76.00695037841793,
+                "z": 143.68872833251953
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_14",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "4BE003D5-EEF6-334D-8B54-0A6751C76069",
+            "instanceGuid": "4BE003D5-EEF6-334D-8B54-0A6751C76069",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_15",
+            "label": "YU7_VP_057_carGlass_back_2_Side_1_1_",
+            "bounds": {
+              "min": {
+                "x": 44.267501831054645,
+                "y": -81.95490264892577,
+                "z": 112.15266799926758
+              },
+              "max": {
+                "x": 120.98065185546868,
+                "y": -64.8259811401367,
+                "z": 149.23859786987305
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_15",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "C6AF8FCE-CED9-3640-8FE7-9A42337F7B83",
+            "instanceGuid": "C6AF8FCE-CED9-3640-8FE7-9A42337F7B83",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_16",
+            "label": "YU7_VP_058_carPaint_4",
+            "bounds": {
+              "min": {
+                "x": -84.1205444335937,
+                "y": 82.41181182861324,
+                "z": 32.332008361816406
+              },
+              "max": {
+                "x": 35.837852478027344,
+                "y": 97.06090545654293,
+                "z": 112.07915496826172
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_16",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "5016A9AD-469A-3320-8365-7FE06D65453C",
+            "instanceGuid": "5016A9AD-469A-3320-8365-7FE06D65453C",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_17",
+            "label": "YU7_VP_060_carPaint_1",
+            "bounds": {
+              "min": {
+                "x": -249.50401306152332,
+                "y": -97.9315948486328,
+                "z": 30.345916748046875
+              },
+              "max": {
+                "x": 247.36915588378895,
+                "y": 97.92897033691405,
+                "z": 156.105224609375
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_17",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "2C2123CA-AE54-3BD3-BD95-243E84BDD39E",
+            "instanceGuid": "2C2123CA-AE54-3BD3-BD95-243E84BDD39E",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_18",
+            "label": "YU7_VP_068_carPaint_9",
+            "bounds": {
+              "min": {
+                "x": 26.766799926757812,
+                "y": 76.80370330810541,
+                "z": 35.434654235839844
+              },
+              "max": {
+                "x": 136.5479125976562,
+                "y": 97.82854461669916,
+                "z": 118.60425567626953
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_18",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "88BE4BDD-3C0E-3D7C-8B46-0961D98FDD94",
+            "instanceGuid": "88BE4BDD-3C0E-3D7C-8B46-0961D98FDD94",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_19",
+            "label": "YU7_VP_074_carGlass_back_2_Side_1",
+            "bounds": {
+              "min": {
+                "x": 44.267509460449205,
+                "y": 64.82724761962886,
+                "z": 112.15266799926758
+              },
+              "max": {
+                "x": 120.98065948486324,
+                "y": 81.95615386962886,
+                "z": 149.2420768737793
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_19",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "DD66F35D-3207-32CC-89EB-9E976D4AD881",
+            "instanceGuid": "DD66F35D-3207-32CC-89EB-9E976D4AD881",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_20",
+            "label": "YU7_VP_075_carGlass_front_2_Side_2",
+            "bounds": {
+              "min": {
+                "x": -51.0772609710693,
+                "y": 65.31844329833982,
+                "z": 108.88357925415039
+              },
+              "max": {
+                "x": 39.71573829650878,
+                "y": 82.67075347900388,
+                "z": 149.19915390014648
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_20",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "AFB70F29-B436-3775-81A0-4A4F567FC79F",
+            "instanceGuid": "AFB70F29-B436-3775-81A0-4A4F567FC79F",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_21",
+            "label": "YU7_VP_076_carGlass_back_1",
+            "bounds": {
+              "min": {
+                "x": 165.65296936035148,
+                "y": -59.50657844543457,
+                "z": 116.21988296508789
+              },
+              "max": {
+                "x": 229.51719665527335,
+                "y": 59.50666618347164,
+                "z": 142.10552597045898
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_21",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "39387336-9545-3832-B228-0DDAF6FFCB43",
+            "instanceGuid": "39387336-9545-3832-B228-0DDAF6FFCB43",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_22",
+            "label": "YU7_VP_079_carPaint_8",
+            "bounds": {
+              "min": {
+                "x": 190.9468002319335,
+                "y": -65.43194580078125,
+                "z": 64.1713981628418
+              },
+              "max": {
+                "x": 249.94998931884757,
+                "y": 65.48550415039057,
+                "z": 125.25423049926758
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_22",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "B625F842-3B68-3F15-A9DF-E0482AB64200",
+            "instanceGuid": "B625F842-3B68-3F15-A9DF-E0482AB64200",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.StaticMeshActor"
+            },
+            "name": "StaticMeshActor_23",
+            "label": "YU7_VP_080_carWindowTrim_1",
+            "bounds": {
+              "min": {
+                "x": -69.44466209411617,
+                "y": 80.16773605346675,
+                "z": 108.67126083374023
+              },
+              "max": {
+                "x": 36.17484474182129,
+                "y": 85.15901565551754,
+                "z": 112.95175552368164
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.StaticMeshActor_23",
+            "folderPath": "YU7/VariantParts",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "5C26493F-4594-C65B-E5EF-5E8B2054A21E",
+            "instanceGuid": "5C26493F-4594-C65B-E5EF-5E8B2054A21E",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "name": "DecalActor_0",
+            "label": "YU7_Itasha_Left",
+            "bounds": {
+              "min": {
+                "x": -149.99999999999974,
+                "y": -141.000000000001,
+                "z": -53
+              },
+              "max": {
+                "x": 106.00000000000026,
+                "y": 226.999999999999,
+                "z": 203
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_0",
+            "folderPath": "YU7/Itasha",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "5B2C5867-411E-EE88-DD01-85A09D6EBF49",
+            "instanceGuid": "5B2C5867-411E-EE88-DD01-85A09D6EBF49",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "name": "DecalActor_1",
+            "label": "YU7_Itasha_Right",
+            "bounds": {
+              "min": {
+                "x": -149.99999999999974,
+                "y": -226.99999999999898,
+                "z": -53
+              },
+              "max": {
+                "x": 106.00000000000026,
+                "y": 141.00000000000102,
+                "z": 203
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_1",
+            "folderPath": "YU7/Itasha",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "F28A35F4-4765-7C1E-4E51-E0BB6C7AE3A3",
+            "instanceGuid": "F28A35F4-4765-7C1E-4E51-E0BB6C7AE3A3",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "name": "DecalActor_2",
+            "label": "YU7_Itasha_Hood",
+            "bounds": {
+              "min": {
+                "x": -284.9999999999984,
+                "y": -128,
+                "z": -131.99999999999994
+              },
+              "max": {
+                "x": -28.99999999999841,
+                "y": 128,
+                "z": 236
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_2",
+            "folderPath": "YU7/Itasha",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "4C401169-43AC-488F-1419-EA8E87C40E17",
+            "instanceGuid": "4C401169-43AC-488F-1419-EA8E87C40E17",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "name": "DecalActor_3",
+            "label": "YU7_Itasha_Sweep_Left",
+            "bounds": {
+              "min": {
+                "x": -113.00000000000013,
+                "y": -141.000000000001,
+                "z": -68
+              },
+              "max": {
+                "x": 142.9999999999999,
+                "y": 226.999999999999,
+                "z": 188
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_3",
+            "folderPath": "YU7/Itasha",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "E025B1DF-41A4-3080-DB8B-52B268C08576",
+            "instanceGuid": "E025B1DF-41A4-3080-DB8B-52B268C08576",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "class": {
+              "refPath": "/Script/Engine.DecalActor"
+            },
+            "name": "DecalActor_4",
+            "label": "YU7_Itasha_Sweep_Right",
+            "bounds": {
+              "min": {
+                "x": -113.00000000000013,
+                "y": -226.99999999999898,
+                "z": -68
+              },
+              "max": {
+                "x": 142.9999999999999,
+                "y": 141.00000000000102,
+                "z": 188
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": true,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.DecalActor_4",
+            "folderPath": "YU7/Itasha",
+            "dataLayerAssets": []
+          },
+          {
+            "guid": "930AD835-45C8-CEA1-B92D-56805A6D8453",
+            "instanceGuid": "930AD835-45C8-CEA1-B92D-56805A6D8453",
+            "parentInstanceGuid": "00000000-0000-0000-0000-000000000000",
+            "nativeClass": {
+              "refPath": "/Script/NavigationSystem.AbstractNavData"
+            },
+            "class": {
+              "refPath": "/Script/NavigationSystem.AbstractNavData"
+            },
+            "name": "AbstractNavData-Default",
+            "label": "AbstractNavData-Default",
+            "bounds": {
+              "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "max": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "isValid": true
+            },
+            "runtimeGrid": "None",
+            "bIsSpatiallyLoaded": false,
+            "bActorIsEditorOnly": false,
+            "actorPackage": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+            "actorPath": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01.Studio_YU7_Itasha_v01:PersistentLevel.AbstractNavData-Default",
+            "folderPath": "None",
+            "dataLayerAssets": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "jsonrpc": "2.0",
+    "id": 4,
+    "result": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"returnValue\":{\"unrealContext\":\"Folder paths always need to end in /\\n100 units is 1 meter\\nScreen space coordinates are normalized coordinates where 0, 0 is the upper left corner and 1, 1 is the lower right corner.\\nColors with a max of 1 are LDR. No max means HDR.\\nIf you aren't sure what the user is referring to, try to see what they have selected.\\nClass refPath is the full soft class path e.g. /Script/Engine.Actor.\",\"projectContext\":\"\",\"userContext\":\"\"}}"
+        }
+      ],
+      "structuredContent": {
+        "returnValue": {
+          "unrealContext": "Folder paths always need to end in /\n100 units is 1 meter\nScreen space coordinates are normalized coordinates where 0, 0 is the upper left corner and 1, 1 is the lower right corner.\nColors with a max of 1 are LDR. No max means HDR.\nIf you aren't sure what the user is referring to, try to see what they have selected.\nClass refPath is the full soft class path e.g. /Script/Engine.Actor.",
+          "projectContext": "",
+          "userContext": ""
+        }
+      }
+    }
+  }
+]

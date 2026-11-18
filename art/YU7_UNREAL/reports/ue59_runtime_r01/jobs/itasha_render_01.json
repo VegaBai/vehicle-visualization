@@ -1,0 +1,21 @@
+{
+  "id": "itasha_render_01",
+  "started": "2026-11-12T00:16:48-0800",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "Itasha_UE59_r01",
+      "itasha": "Rengoku",
+      "paint": "Pearl White",
+      "views": [
+        "Beauty"
+      ],
+      "width": 1920,
+      "height": 1080
+    },
+    "presets": [
+      "/Game/YU7/Itasha_v01/RenderPresets/MRQ_Itasha_UE59_r01_Beauty.MRQ_Itasha_UE59_r01_Beauty"
+    ]
+  },
+  "finished": "2026-11-12T00:16:48-0800"
+}

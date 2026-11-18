@@ -1,0 +1,7 @@
+{
+  "id": "finish_pie_01",
+  "started": "2026-11-12T00:18:22-0800",
+  "status": "error",
+  "error": "Traceback (most recent call last):\n  File \"C:/github2/vehicle_visualization/tools/ue59_runtime_jobs.py\", line 56, in tick\n    exec(compile(script.read_text(encoding='utf-8-sig'), str(script), 'exec'), scope)\n  File \"C:\\github2\\vehicle_visualization\\tools\\ue59_finish_pie.py\", line 14, in <module>\n    roof_components=roof.get_components_by_class(unreal.StaticMeshComponent);assert len(roof_components)==7\n                                                                                    ^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError\n",
+  "finished": "2026-11-12T00:18:22-0800"
+}

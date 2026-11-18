@@ -642,3 +642,44 @@
 - git fetch重试成功。61项交付（51项UE资产、9张4K图、署名）与789项历史保护SHA256一致，署名sidecar原字节一致。161项新制作文件共83,502,874 bytes，70个JSON与21个Python解析通过，96份文本常见凭据签名无匹配；诊断试图/UE缓存均不在候选范围。证据保存publication_preflight.json，本轮只核对既有验证记录与完整性，不冒称重新运行UE或打包测试。
 - 刷新后的HEAD与origin/main均为a08be8e，0 ahead / 0 behind。166个文件已暂存，其中65项LFS指针的SHA256和size与本地二进制逐项一致，逻辑总量约83.65MB，最大普通Git对象146,411 bytes；暂存差异检查通过，无剩余未暂存/未跟踪改动，Test_*图片忽略规则生效。将以“Add Demon Slayer itasha options and 4K studio previews”提交并正常推送main。
 - 制作成果提交39a9f5cda6555f3b9ddf6003d9f419fa20debd5d已成功推送origin/main，166个文件、65项LFS对象约83MB全部上传完成。git lfs fsck HEAD返回OK；git ls-remote核实远端main与该提交完全一致，git lfs push --dry-run origin main没有待上传对象。成果推送后工作区为空；本条与publication_remote_verification.json作为随后独立的发布记录提交同步，不重写制作成果提交。
+
+## 2026-11-12 · UE 5.9 MCP 连接检查（当次记录）
+
+- 用户要求测试新下载 UE 5.9 的 MCP 连接。本次仅进行工具发现和只读查询，未启动/转换 VehicleStudio、未修改 UE 资产。
+- Unreal MCP 的 list_toolsets 与 describe_toolsets 均成功，返回 UMG Widget Blueprint、Sequencer、PCG、Dataflow 等原生工具集。实际调用 AIAssistantEditor.AIAssistantToolset.GetProjectContext 与 GetDockedContext 均成功返回结构化结果，确认 MCP 调用链可用。
+- GetProjectContext 的 projectContext 为空；GetDockedContext 无活动资产或宿主标签，故未验证当前服务已绑定 VehicleStudio 项目，也未把工具发现等同项目迁移或资产编辑验证。
+- 本机 C:/Program Files/Epic Games/UE_5.9/Engine/Build/Build.version 为 5.9.0，Changelist 60351404，Branch ++UE5+Release-5.9。Get-Process UnrealEditor* 无结果，CIM 进程检查因访问限制失败；因此尚未独立核实 MCP 服务进程对应的引擎路径。
+- 本次为连接诊断，不涉及模型/UI/动画/性能设计修改，无记忆写入。后续如需项目级测试，应先确认所连项目及迁移副本，保留现有 UE 5.8 项目和历史资产。
+
+## 2026-11-12 · UE 5.9 副本与 MCP 场景测试（当次记录）
+
+- 用户授权以5.9打开独立副本，保留5.8原项目。已复制Config、Content及uproject到VehicleStudio_UE59，未复制缓存和Saved；仅副本EngineAssociation设为5.9。原项目内容与配置SHA256基线存于art/YU7_UNREAL/reports/ue59_mcp/original_hashes.json，副本加入Git忽略。接下来启动并执行只读项目/场景检查。
+- 首次沙箱启动未持续运行，沙箱外启动副本成功（PID43260），端口8001。首次着色器/纹理编译期间连接拒绝，初始化完成后MCP工具发现成功。系统python别名不可运行，改用UE5.9自带Python作为离线HTTP测试客户端；本机套接字需沙箱外权限。默认工具集缺少项目/Actor读取工具，决定仅副本启用EditorToolset并重启；不更改全局8000连接或Test59编辑器。
+- 副本启用EditorToolset后重启为PID44276。原生HTTP MCP initialize/notifications/initialized/tools/call完整协议成功；8001监听地址127.0.0.1，进程路径确为UE_5.9，命令行明确为VehicleStudio_UE59副本。
+- GetCurrentLevel读取Studio_YU7_Itasha_v01，FindActors返回61个Actor，含YU7_Hero、YU7_ItashaOptions、5贴花和摄影机；GetComponents读取车辆121个StaticMeshComponent，GetCanonicalActorState成功读取痛车选项Blueprint类和属性。原始响应及参数模式保存于reports/ue59_mcp，汇总为validation_summary.json。
+- 源码核对AIAssistantToolset.cpp表明GetProjectContext.ProjectContext来自ProjectSettings->Prompt，是用户配置的AI文本；为空不代表没有项目。纠正上一轮对空上下文的判断边界。本次项目身份由进程路径、命令行、端口归属及场景读取共同证实。
+- 结束时原项目576文件SHA256全部匹配，EngineAssociation仍为5.8；副本保持打开，未保存或改写内容资产、未运行PIE/渲染/打包。本次仅验证打开与MCP读取，不宣称完整5.9迁移兼容。全局Codex8000连接及Test59保持不变，本次通过8001原生MCP HTTP测试。
+- Windows窗口检查返回遮挡画面且激活失败，未作为场景视觉验收；采用原生MCP和日志验证。正常关闭本轮首个副本进程后重启，无强制终止其他编辑器。重启加载中的一次调用被slow-task保护拒绝，加载完成后重试通过。
+
+## 2026-11-12 · UE5.9副本PIE/材质/流光/MRQ兼容性（当次记录）
+
+- 用户授权继续仅在VehicleStudio_UE59测试PIE、车漆、痛车、流光与静帧。原项目576文件基线沿用；输出隔离为reports/ue59_runtime_r01与renders/UE59_Compatibility_r01。采用原生MCP启动标准PIE，编辑器Python仅作为断言/采样和MRQ测试驱动，加入项目路径与5.9版本保护；不重跑一次性制作脚本。
+- 原生MCP StartPIE（bSimulate=false）成功；Itasha实际PIE世界12组合全部通过，无断言错误。炎柱/珠光白Beauty原生1920×1080/8时域MRQ完成32.94秒、success=true、errors=[]，已查看PNG：人物正向，轮胎无贴花污染，原有高光仍覆盖部分引擎盖图案。随后先清两个LVS缓存再加载v11副本场景。
+- 首轮流光PIE断言因未过滤隐藏旧RoofAirflow组件而失败；只读probe证实保留1个隐藏v01组件和7个可见v10组件，符合历史设计。仅修正测试过滤条件，未改任何流光资产，再次执行PIE。
+- 修正测试后v11真实PIE通过：六种车漆的PigmentColor/Metallic/BaseRoughness/ClearCoat/CoatRoughness均与既有palette吻合；连续播放53次采样至第423.9999帧，ShotTime与原生时间重映射吻合、车辆位置持续变化，7条可见屋顶流线WPO启用、完整99916三角车身网格及未附着世界尾流均成立。开始9个低分辨率诊断静帧，用于可视检查漆面阶段、两时刻流光和干净收尾。
+- 9张1280×720诊断MRQ完成42.31秒，success=true、errors=[]。全部逐张查看：六漆面明暗/粗糙度差异可见、288与300帧屋顶亮脉冲位置变化、420帧流光/网格清除；未见默认材质或缺失几何。为与旧成片全车网格高潮同机位比对，另渲染366帧1920×1080流光主图。
+- Hindsight服务初始不可用，按技能启动本地服务后检索成功；核对experience-20261030-road-trip-production-lessons-0f85efd1（2026-10-30，partial），只借鉴旧组件残留归因和实际验证边界，未照搬参数、未写入新记忆。额外1080p流光366帧MRQ完成13.74秒，success=true、errors=[]。全部11张PNG经System.Drawing解码/尺寸/SHA256检查，根CREDITS及既有ART_SOURCES复制到独立输出目录。
+- 最终366帧1080p主图已实际查看，与旧v11同阶段构图比对：矿物青、屋顶流线、全车及后门网格正常，未见明显几何/材质回归。11张图均已查看并解码。最终清LVS后重载成功，Map Check 0 Error/0 Warning，无dirty包、PIE和MRQ均停止；本地测试轮询已请求停止，副本保持打开。原5.8全部576文件SHA256一致，EngineAssociation仍5.8。保存完整编辑器日志、汇总和输出说明；无提交/推送。范围不包括5.9全4K影片逐帧等价、打包/新机器或所有历史地图测试。
+
+## 2026-11-12 · 5.9正式开发入口与5.8备份清理（当次记录）
+
+- 用户指定今后使用VehicleStudio_UE59，默认MCP切到该项目，VehicleStudio的5.8保留为备份并清理临时文件。拟仅删除5.8的DerivedDataCache、Intermediate、Saved；已枚举文件清单，无自动保存地图/资产（Autosaves仅PackageRestoreData.json），源Config/Content/uproject保留。维护5.9持久MCP8001自动启动、全局unreal连接地址、启动脚本与项目文档，移除5.9整个目录忽略以便后续版本管理。
+- 已删除5.8的三个已核实生成目录：80文件/154706678字节（147.54MiB），未涉及源Config/Content/uproject。全局Codex unreal URL定向改为8001，配置备份仅保留在用户.codex目录，未复制完整配置到仓库。5.9项目默认/本地编辑器设置均持久化MCP8001自动启动，编辑器默认地图设为v11。移除5.9整目录忽略（全局生成目录忽略仍生效），更新AGENTS/README与显式5.9启动脚本；尚未提交推送。
+- 正式启动脚本仅传5.9项目路径，未传MCP/ExecCmds临时参数；日志与8001监听进程核实自动启动成功。通过原生HTTP MCP读回当前v11地图，Map Check 0 Error/0 Warning。清理后5.8仅剩Config、Content和uproject，576保护文件全部匹配。当前聊天已加载的内置unreal工具仍指向旧会话（新EditorToolset schema不可见）；全局配置已改正确，需重载MCP/重启Codex后当前内置会话才采用新地址。在此之前仅使用经验证的8001直接连接，不能向旧工具连接写入。
+
+## 2026-11-12 — Hindsight MCP connection experience saved
+
+- User explicitly requested saving the UE 5.9 MCP connection method for future projects. Saved to ai-experience as experience-20261112-ue59-native-mcp-project-connection-8c4d2e, titled UE 5.9 原生 MCP：项目隔离、独立端口、持久自动连接与验证.
+- Included EditorToolset enablement, native tool discovery/HTTP handshake, persistent port 8001 autostart and Codex URL, project identity checks, cached-session/slow-task troubleshooting, migration isolation and evidence paths. No credentials or full configuration uploaded.
+- save_outcome returned saved=true and verified=true; independent get_saved_outcome returned found=true and matching content. SHA256: f99569b11a6ac77147d56cc8367da6d211eaf5ae1d21f94738202836556afac7.
+- Memory status is partial to explicitly retain unverified current-chat built-in reconnection, full 4K migration parity and packaged/new-machine tests. Connection/autostart and completed runtime/render checks are distinguished as verified. No Unreal assets or settings changed in this save operation.

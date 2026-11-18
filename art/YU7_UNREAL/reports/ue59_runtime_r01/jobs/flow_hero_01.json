@@ -1,0 +1,17 @@
+{
+  "id": "flow_hero_01",
+  "started": "2026-11-12T00:21:10-0800",
+  "status": "success",
+  "result": {
+    "submitted": {
+      "name": "FlowHero_UE59_r01",
+      "frames": [
+        366
+      ],
+      "width": 1920,
+      "height": 1080,
+      "temporal": 8
+    }
+  },
+  "finished": "2026-11-12T00:21:11-0800"
+}

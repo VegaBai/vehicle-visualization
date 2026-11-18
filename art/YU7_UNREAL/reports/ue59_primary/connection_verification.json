@@ -1,0 +1,9 @@
+{
+  "pid": 9996,
+  "editor": "C:\\Program Files\\Epic Games\\UE_5.9\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+  "project": "C:/github2/vehicle_visualization/VehicleStudio_UE59/VehicleStudio.uproject",
+  "mcp_port": 8001,
+  "autostart_without_cli_overrides": true,
+  "default_codex_url": "http://127.0.0.1:8001/mcp",
+  "current_chat_old_connection_cached": true
+}

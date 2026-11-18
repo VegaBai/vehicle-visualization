@@ -1,0 +1,24 @@
+{
+  "request": {
+    "name": "FinishFlow_UE59_r01",
+    "frames": [
+      0,
+      30,
+      60,
+      90,
+      120,
+      156,
+      288,
+      300,
+      420
+    ],
+    "width": 1280,
+    "height": 720,
+    "temporal": 8
+  },
+  "started": 1794471595.9786549,
+  "status": "finished",
+  "errors": [],
+  "success": true,
+  "duration_seconds": 42.31426000595093
+}

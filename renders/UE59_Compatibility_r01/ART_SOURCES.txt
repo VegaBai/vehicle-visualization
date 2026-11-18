@@ -1,0 +1,18 @@
+Demon Slayer official character artwork; original files unchanged.
+Source verification does not establish reuse/distribution permission.
+Vehicle-model credits are in CREDITS.txt and do not cover this artwork.
+
+炼狱杏寿郎
+https://game.kimetsu.com/hinokami2/character/?chara=22
+https://game.kimetsu.com/hinokami2/assets/img/character/main/chara22.png
+SHA256 f7d8abfed874db77c85f5f973bf8861714d302cbc7ca1ba39c8652a25a688021
+
+我妻善逸
+https://game.kimetsu.com/hinokami2/character/?chara=29
+https://game.kimetsu.com/hinokami2/assets/img/character/main/chara29.png
+SHA256 1623e122f08aedb1797b602a405fb7725a1c9b3b6ac6f631cc0b2ae4c9b937e6
+
+富冈义勇
+https://game.kimetsu.com/hinokami2/character/?chara=27
+https://game.kimetsu.com/hinokami2/assets/img/character/main/chara27.png
+SHA256 df78a8ed426d2237c9dfe6b446303cc5701a24f55f35513690de94ffa36510ae

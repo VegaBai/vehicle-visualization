@@ -1,0 +1,58 @@
+{
+  "id": "roof_probe_01",
+  "started": "2026-11-12T00:19:12-0800",
+  "status": "success",
+  "result": {
+    "YU7_Tunnel_RoofAirflow": [
+      {
+        "name": "RoofAirflow",
+        "visible": false,
+        "hidden": true,
+        "mesh": "/Game/YU7/TunnelFlow/Meshes/RoofAirflow_v01/YU7_RoofAirflow_v01.YU7_RoofAirflow_v01"
+      },
+      {
+        "name": "AirflowLane0",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane0.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane0"
+      },
+      {
+        "name": "AirflowLane1",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane1.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane1"
+      },
+      {
+        "name": "AirflowLane2",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane2.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane2"
+      },
+      {
+        "name": "AirflowLane3",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane3.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane3"
+      },
+      {
+        "name": "AirflowLane4",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane4.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane4"
+      },
+      {
+        "name": "AirflowLane5",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane5.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane5"
+      },
+      {
+        "name": "AirflowLane6",
+        "visible": true,
+        "hidden": false,
+        "mesh": "/Game/YU7/TunnelFlow/RoofSmooth_v10/Meshes/YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane6.YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane6"
+      }
+    ]
+  },
+  "finished": "2026-11-12T00:19:12-0800"
+}

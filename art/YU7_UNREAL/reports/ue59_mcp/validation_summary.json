@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-12",
+  "status": "MCP read-only project scene test passed",
+  "project": "C:/github2/vehicle_visualization/VehicleStudio_UE59/VehicleStudio.uproject",
+  "engine": "5.9.0",
+  "endpoint": "http://127.0.0.1:8001/mcp",
+  "pid": 44276,
+  "map": "/Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01",
+  "actors": 61,
+  "hero_static_mesh_components": 121,
+  "original_files_checked": 576,
+  "original_files_changed": 0,
+  "original_engine_association": "5.8",
+  "limits": [
+    "Read-only test; no PIE, render parity, packaging or full migration validation",
+    "Global Codex Unreal connector remains on port 8000; this test used native MCP HTTP on 8001",
+    "GetProjectContext is configured AI prompt text, not project identity"
+  ],
+  "original_changed_paths": []
+}

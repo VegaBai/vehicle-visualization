@@ -1,0 +1,5 @@
+[
+{"name":"call_tool","arguments":{"toolset_name":"EditorToolset.LevelToolset","tool_name":"GetCurrentLevel","arguments":{}}},
+{"name":"call_tool","arguments":{"toolset_name":"EditorToolset.LevelToolset","tool_name":"FindActors","arguments":{}}},
+{"name":"call_tool","arguments":{"toolset_name":"AIAssistantEditor.AIAssistantToolset","tool_name":"GetProjectContext","arguments":{}}}
+]

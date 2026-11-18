@@ -1,0 +1,2306 @@
+[
+  {
+    "path": "Config\\DefaultEditor.ini",
+    "sha256": "B7C87E1B7793AD4C69C52DC1BE15E863295439D880E663DE9643A88E64D69403"
+  },
+  {
+    "path": "Config\\DefaultEditorPerProjectUserSettings.ini",
+    "sha256": "61D8630A4C5C4559CF8178D1A1A43966F71953F78426E9E3CB74BAB8D90DE026"
+  },
+  {
+    "path": "Config\\DefaultEngine.ini",
+    "sha256": "6741D9FA0489D092E915F3208CEB927292A76A4994497FD3F2487096C2AEB6FC"
+  },
+  {
+    "path": "Config\\DefaultGame.ini",
+    "sha256": "C3F8A05AAB47550F53C653EDD6C7179DDB11BB928515DB8C1DB74A22811ADED5"
+  },
+  {
+    "path": "Config\\DefaultInput.ini",
+    "sha256": "05CC777EAF15BFC20F234C39196737B098102583CC05C35912E05A39BE8CF919"
+  },
+  {
+    "path": "Config\\DefaultLightmass.ini",
+    "sha256": "1AD94B49A5654B5DE2C7D7CF3DA72A029514BB86AA78C9C0B6B061B4580FC1B9"
+  },
+  {
+    "path": "Config\\DefaultScalability.ini",
+    "sha256": "B93231FE9D5043A19848B2EB187C89514D59EF5DD5E176FC7075CFA1127F95FE"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\SM_AutomotiveTP_Car.uasset",
+    "sha256": "1D236A56707CA93616E4AE0CEA230762AA79CCC8A0293CB5684168111096CE14"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\M_CarPaint.uasset",
+    "sha256": "E5CD38F571F94C4F843632880E854730D4C17FA24866DA952A34F7CCF0901072"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\M_Glass.uasset",
+    "sha256": "DE2E00728B13B7C593880FAB6DEF89B7205609051BEC3373AAEEE909DDB022D5"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\M_Metal.uasset",
+    "sha256": "802256EFDF03EBB57A81EBA060D75AAE0995D3163721AE8716B6965C5A3EC925"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\M_TireRubber.uasset",
+    "sha256": "B4B0A0A5561834712EF7710CCE1BAFF365FD07BA963A28BB28D2FCA7BCD5D757"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\MI_CarPaint.uasset",
+    "sha256": "544E1321AC42F0CFD3A4C5028D7310F1D8DF8337AB17F974C0214C6EEBD602AB"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\T_CarPaintFlakes_N.uasset",
+    "sha256": "3271905A2F9A2E61ECFDD6DDC89C54C72663D37EC644EF8E32011C182A000E17"
+  },
+  {
+    "path": "Content\\ConceptCar\\Car\\Assets\\T_Smudges_R.uasset",
+    "sha256": "9233EAA0BC94E2947B60FCA17501B652633CA62284DA6146692A69CE59858A9C"
+  },
+  {
+    "path": "Content\\ConceptCar\\SampleScene\\SampleLevel.umap",
+    "sha256": "A5F19FD20521449EB4B71992C760C4302BD27AC3B0A71738ECBAB1DF1A8CC5B6"
+  },
+  {
+    "path": "Content\\Studios\\InterchangePipeline\\Pipeline_HDR_Cubemap.uasset",
+    "sha256": "6D73A2A8B0C2CE926E17849A8AA18F4C20E2C06B4BFDD1050FDF9AA4BB77DBC3"
+  },
+  {
+    "path": "Content\\Studios\\InterchangePipeline\\Pipeline_SkeletalMeshes.uasset",
+    "sha256": "53E0D3FFCC85F003F6EA2718030E4599B0B610D329511E931D9CBE2369E1DEF7"
+  },
+  {
+    "path": "Content\\Studios\\InterchangePipeline\\Pipeline_StaticMeshes.uasset",
+    "sha256": "5E1BA72AEDC8C96185B0CB1DC838B8C45BD8381B1ED6B6B1E18F294BEE949E0E"
+  },
+  {
+    "path": "Content\\Studios\\Levels\\Studio_Dark.umap",
+    "sha256": "D1129D9A194110D3C769782AECADFEE4ABF224C43935733E889E96A02695204C"
+  },
+  {
+    "path": "Content\\Studios\\Levels\\Studio_White.umap",
+    "sha256": "E9AD72709D149BD46046BF9A6066B2ED30D41945DACD4232BA07B2E5664E673E"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\BP_CStand.uasset",
+    "sha256": "E12AE2791C9FB63C7B9CF8F2A3102515B26B0E5A9011257F83EA42CBD3AE2CF3"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\MI_CStand_Metal_Silver.uasset",
+    "sha256": "6E1EA8E35EA51372AAE94E950E48792F468A5E97B16063BCB59B69C406E92FD0"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\MI_CStand_Metal_Steel_Brushed.uasset",
+    "sha256": "52E30730E6A2D57F0EFBF489E9DEA33B7293FAA73FFB31CC522AE20336E306D1"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\MI_CStand_Rubber_Smooth.uasset",
+    "sha256": "4660C4FA67CA574A8D69A0C6FFEA639E53B9E3712481A00B4DC08737AE23314B"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_00_Leg.uasset",
+    "sha256": "6D5B8FDB6BA4A7BA06173A6A9E925C2F72491E4B824C8796D475F419BD631706"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_01_Rod_LockHandle_01.uasset",
+    "sha256": "3A4B18EEFBEEAF5F718A2EC2629813F859CCDEDB70D457A09014D796742EA2A4"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_01_Rod.uasset",
+    "sha256": "E76432DBD20D9DC26B29620D16F748764885095FF0F2C60789C30BAF52269CAA"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_02_Rod_LockHandle_02.uasset",
+    "sha256": "3906EC4078C21A130B17A3BFBBC016A75A66E7540C3083FDCAECEE4214872CCA"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_02_Rod.uasset",
+    "sha256": "523C3FBB6F628D074DF0C46865FD669D48291D301B30CB4077B9EA39A52C0095"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_03_Rod.uasset",
+    "sha256": "91ECEF59291452A7A92B2FA18AE9809030124E8D9AD2E4B98C8C54F6B074A0BD"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_04_BarClamp_Main_01_Base.uasset",
+    "sha256": "E2699D816CFC78B40E28B65E4919C63036C6E06592A4F76CC002165F89854CFC"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_04_BarClamp_Main_02_Head.uasset",
+    "sha256": "4CAACAA8532EFC394A914B767E3589B488890A4AECCA7B8293920667EE714D55"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_04_BarClamp_Main_03_Lockhandle.uasset",
+    "sha256": "BD5C6B7E6749121D3081B66ABAEBF6B36FDC83A3F64629DBF3426FA203F40771"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_05_GoboArm.uasset",
+    "sha256": "1FB12AF602596FA52874A47B25E7521D6FEC0C1F9F802CDC9068A78DDAA112C3"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_06_BarClamp_Tip_01_Base.uasset",
+    "sha256": "B8FCF3CC46D7DDFB10681482F72AB20F5439ABBFC28D51F75C8BE3D068758264"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_06_BarClamp_Tip_02_Head.uasset",
+    "sha256": "38FAF1D849114F99E36F4A8B5425BAB5DB2D239AF333A848B49578EB63CFB8C8"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_06_BarClamp_Tip_03_Lockhandle.uasset",
+    "sha256": "7CFE2885C5FAA3ACD80B7DD7C8EF53770AC82CB2C264FE2C964AF793DC82EC30"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_07_Mount_01_Rod.uasset",
+    "sha256": "FEDB6D2E7ECA0C02095F42B3525FB8641A70EEDED9A5BB70FF8BB715493B25B6"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_07_Mount_02_Rotator.uasset",
+    "sha256": "9E77DD1A0EC3D788A4AF14F927EA01BD7F46AC7E49D1568708C390E4BA6208F2"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_07_Mount_03_Lockhandle.uasset",
+    "sha256": "512317B93EF0A60DF85B01098093A5E067BA488988130AE82CE0C0C547278376"
+  },
+  {
+    "path": "Content\\Studios\\Models\\CStand\\SM_CStand_08_Grip.uasset",
+    "sha256": "7AA931D0D36D1BB275DF985337572228E59BB0424254445BECAA4AA4F1A66EFA"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\M_FlrLight_Txt.uasset",
+    "sha256": "D25693441255089BDBC41B3F9824BA3071787C7391C419A307366CB113D06D11"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\M_FluorescentLight_Em.uasset",
+    "sha256": "69C2047F18F0A4CDBE8305D829DF862AD9E9D9AAB8A66B032FC17188FA6EE9E1"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\MI_FlrLight_Metal.uasset",
+    "sha256": "CF376953DFB90AA289205ECECA1325DC7DCC5DE5AA330E424F7BB45003F0D76E"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\MI_FlrLight_Plastic_Edge.uasset",
+    "sha256": "FF47C2CAD5FBDDFCF9E250DF137AEEB93C3CD867423F68070BBDE1F64DCC0F30"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\MI_FlrLight_Plastic_Silver.uasset",
+    "sha256": "DFAB6217AF05A082394690F7D57C56CBE0A9A124350B9DB5E7794A606FBC5ECD"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\MI_FlrLight_Plastic_WhiteBlue.uasset",
+    "sha256": "068B5E585CD6883EBF4838D30F6DC58361C2BD80384B9194FEC136216C73CAE1"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\MI_FlrLight_Reflect.uasset",
+    "sha256": "1CA3E4AC1AB407D9F5D0335C226FA5FE68268F21B19B8C16B2A99C9188030A34"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\MI_FluorescentLight_Em.uasset",
+    "sha256": "0C49B7AF8C24E40B0A63921721568FFA014190504CF05C17089B976FBC05DF82"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\SM_FluorescentLight_Tube.uasset",
+    "sha256": "6E7342CAE88647ADE388567E1C694183E4E443D27793726FD079569BE7029EFB"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\SM_FluorescentLight.uasset",
+    "sha256": "8A1C58E637627E8606B5F8AD193E50366E563A7F6ACE5232C967C01981DF607F"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\T_FluorescentLight_Em.uasset",
+    "sha256": "A0812AF3CE80A0C1CCE3E01DEC191F1B18C1324E401FAEDE07E58419B1081A57"
+  },
+  {
+    "path": "Content\\Studios\\Models\\FluorescentLight\\T_FluorescentLight_TxtLogo.uasset",
+    "sha256": "F2A83A86EC3775B10A1073D6F416EAF6FD35089DDD44DCC8D49773166DAFB460"
+  },
+  {
+    "path": "Content\\Studios\\Models\\HalfDome\\M_HalfDomeFloor.uasset",
+    "sha256": "08443CC2560BCEC46A88D3CEB2D6D6DC2B2B8BCA07A5EA06167793AB47590808"
+  },
+  {
+    "path": "Content\\Studios\\Models\\HalfDome\\MI_HalfDomeFloor_Dark.uasset",
+    "sha256": "ADC1C41C031C9FA7BD5E523751B53C928C4BCB421722D694EAC55477545A2593"
+  },
+  {
+    "path": "Content\\Studios\\Models\\HalfDome\\MI_HalfDomeFloor_White.uasset",
+    "sha256": "E7C81AF441E929240A95288C82C690B6EC312871C5B89B982D9B6689ED982D81"
+  },
+  {
+    "path": "Content\\Studios\\Models\\HalfDome\\SM_HalfDome.uasset",
+    "sha256": "6D8256B55DCF632E1CC9B732780363AEF0CE1377A28E5D822BFFF05D7E654CD6"
+  },
+  {
+    "path": "Content\\Studios\\Models\\HalfDome\\SM_InvertedCube_For_HalfDome.uasset",
+    "sha256": "19885D30D92830C56FE33C07FD35C50A2A34F8640CE3C861ACD7A57B63EF1A2D"
+  },
+  {
+    "path": "Content\\Studios\\Models\\HalfDome\\T_FloorDark_Glossy_Roughness.uasset",
+    "sha256": "9AF705A2036491CB15D0D93323485BB0A46B0CC50839ABD68703CF3F0499251D"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Metal_Silver_N.uasset",
+    "sha256": "99C0A31872D39D401FA51D651B43E852CC37665DD7A5D1B5BB7399649E5CD18A"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Metal_Steel_BC.uasset",
+    "sha256": "172D5D2C3074E09F82112CA54618405AD77F69C29B00F2CFE94376C46059EC34"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Metal_Steel_N.uasset",
+    "sha256": "EAA500D13BB0BFC47E386F84F3BC291E976A21C50ED26E922A07095F81A9BD71"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Metal_Steel_R.uasset",
+    "sha256": "B6C168AC25B75D1C317CB4E5100A4086C930F4893E7CF789E607EEBBD3B2DF72"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Scratched_Metal_vdekebbc_8K_Albedo.uasset",
+    "sha256": "FAA69FD5E6AB4B0AA1F2EA99A8E04CBF2E28FFBB219BA755E1915B837AEDA85C"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Scratched_Metal_vdekebbc_8K_Roughness.uasset",
+    "sha256": "1E9E73F76D11C814A6D9D9BAD259C9AE1DF747376D3FDCC55FCF160B20BC4C8E"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Steel_Brushed_BC.uasset",
+    "sha256": "9C5B5C8376A10A681BF97DF181C288FF427EA846D479C6DBD9962830A531CC19"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Steel_Brushed_N.uasset",
+    "sha256": "47A702FE7C14220CDA6B1BC9C0494A7A33650254971AA30131E8A185955B61C7"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Metal\\T_Steel_Brushed_R.uasset",
+    "sha256": "A786B106D21B3ACB5EDCE4AA6C47B789E91D11A4E86D11BCD3247CC3336FCB61"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Textures\\Rubber\\T_Rubber_03_R.uasset",
+    "sha256": "410CEC655324C254E8054507A17F55BDDA0EFE5DF1AF15806B7931C6BB257CC7"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\M_EmissiveWallLight_S.uasset",
+    "sha256": "87BE3A104FB39A1D35AF936849A56CC8EA811671C0D514CDA40B39E2D9D6C2A9"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\M_EmissiveWallLight.uasset",
+    "sha256": "2156E358D6731AA159CCC3A7F8526290D6E7ED2E1A24FD525A6EBD04C5E21A86"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\MI_EmissiveLight_StudioDark_Top.uasset",
+    "sha256": "75B47529474FB6E3BD7341A8F2566536877958D7118864D2FD7D8D6D6FAFACF6"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\MI_EmissiveLight_StudioWhite_EV.uasset",
+    "sha256": "7ABDA0519A083B117D7F754031E2EE3C9E9F7445789299783543B3D084A82B4E"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\MI_EmissiveLight_StudioWhite_Top.uasset",
+    "sha256": "06E4831F497F848DFE180D56E042CFC47A3A2A2EDD4106B64265C72FDB069124"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\MI_EmissiveWallLight.uasset",
+    "sha256": "C94A640A2C0EDC41611DE3F5A1230E6FC29DF51086BDA9F32C5BCE0695F5BB48"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\T_WallGradient_02.uasset",
+    "sha256": "7B6F6E2DB4128F72CC0AE63ECF2ECF9DB5B86675098FFDF2556942EE87A7189C"
+  },
+  {
+    "path": "Content\\Studios\\Models\\Wall\\T_WallGradient.uasset",
+    "sha256": "1106A934C786CE08F64EC87F78E815105D7A41BB2E45FAC59E8C9E2B16EDA66F"
+  },
+  {
+    "path": "Content\\Studios\\MovieRenderQueue\\EditorMoviePipelineQueue_Studio_Dark.uasset",
+    "sha256": "5E8578E3E760AFD0AD4A75625C088120AAEE98960B0E10B38CD17120A7E4F5E0"
+  },
+  {
+    "path": "Content\\Studios\\MovieRenderQueue\\EditorMoviePipelineQueue_Studio_White.uasset",
+    "sha256": "039ABBEE3891E38279BE6D2948CC41B4A2CA01B94CADA301E309200F8783E452"
+  },
+  {
+    "path": "Content\\Studios\\MovieRenderQueue\\MRQ_Settings_Deferred_H264_UHD_59_94.uasset",
+    "sha256": "3EEFB0D16C100B157EB4425ED25B26D443FD17206E41DB081BED97D91EB6B2E0"
+  },
+  {
+    "path": "Content\\Studios\\MovieRenderQueue\\MRQ_Settings_PathTracer_H264_UHD_59_94.uasset",
+    "sha256": "D5A0FE23529A055E57FCD4C5B66E0DC6551E41D0C1884BBF85066A8FEDC361E0"
+  },
+  {
+    "path": "Content\\Studios\\Sequences\\SEQ_Orbit_Studio_Dark.uasset",
+    "sha256": "79A917C3C1623B2C55C78A913E401E9F588DD64C2A19DE75C90F644FF7DF1282"
+  },
+  {
+    "path": "Content\\Studios\\Sequences\\SEQ_Truck_Studio_White.uasset",
+    "sha256": "E72B968C6E35C2C2C8A328112D8DF1374BDE8D779519F2BBE48EF38B3EA4A33A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Blueprints\\BP_YU7.uasset",
+    "sha256": "E56315FF2692869113DA9EDD951B1A4419E59A6F21480106B4024CFF8C689D04"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_ALUM.uasset",
+    "sha256": "D5425335A7DC4BAAAAF1210867CC86E7C76CAEB8939CE99C3C55ED76B268EE12"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Blaack_Paint.uasset",
+    "sha256": "3597B5468148C027D044D0E221478B67602C4D6F808ED5FE73673F2931CFB0BF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Black_Mat.uasset",
+    "sha256": "E8659A8804B7EFC5B5785DCB478AF3DCB1E997E82320731AB20A095D43BF7900"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Caliper_C1.uasset",
+    "sha256": "785E15629B65DA29D8C3B9EBB27B8A274BF2E7BB06686F63F98E8E497DF53A84"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Caliper_C2.uasset",
+    "sha256": "BD2BAAE9DBE32D5E8A0ED2B3FF5845A4478374F4B7AA9D6560A136F922319FDD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_CAR_L.uasset",
+    "sha256": "AD80C96A1CEED57B3169A322511BF62117F80A902518F6C738622CEE7DAC1666"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_CarPaint__UVFallback.uasset",
+    "sha256": "12A0C1CD3360C6EE054D6F7822C351F65650CCAD53DF84EDE01D7E865956B694"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_CarPaint.uasset",
+    "sha256": "78F1A2624B4128470CA57C31E7FBC729C02E611961C598318AFE44A1EBF72A5E"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_D_Glass.uasset",
+    "sha256": "58E6AF530ED8CE1901B20DF53C8D45D87EEFB6B9C27D058D7070EF730ABB5260"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_dark_Gray_Map.uasset",
+    "sha256": "6681229B0D67C8BD71484BF724635D6906ADD8135A0EF682C1927A5EF2909604"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_DISK.uasset",
+    "sha256": "9AD385DF7DD58EF431105EB4D8202E5B875433664BB8C50B3465183042585A3C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Bottom.uasset",
+    "sha256": "43562E6CF1B865348EF7B99CB17E7AA87F2E37192E7171925AD9F4D8F81162C5"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Console.uasset",
+    "sha256": "DF8CC4D75FC2D3A2E9DF50485729442424394BFE4177798B274630795943E6D8"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Dash.uasset",
+    "sha256": "26F636F34D68E617C93E9F419A4E6D85E544096678B40C31233F4D79CA4721B4"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Int_Door_Back.uasset",
+    "sha256": "587DCDDD04D1C1717AF5BBD5300305894EAA075677AF239E136051F98FEA8555"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Int_DoorF__UVFallback.uasset",
+    "sha256": "3AB02A92BE877F173DE80BBCE7025080FDC280751DD50D9FAA4CE2563CADEA2D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Int_DoorF.uasset",
+    "sha256": "019C99D7D9D98CA2977D206CDDD898D1244AF4FCB75D84EA9E4919AE9FA4533C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Frame_Top.uasset",
+    "sha256": "BC346162F1D8C0F0916D2A232AE38B389EE0FADCDBC071EA5853E85DBF5CDFFF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Roof.uasset",
+    "sha256": "7BD796C48CA517E843F8FF8F411B1B2A65D1FC8D355DA6C05B630247F9830A38"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Seat_Back.uasset",
+    "sha256": "B27FE9B6D2677C0CC3037EF1190C75B20A7E70FC229A8AB8A608072D98ABB448"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Seat_Front.uasset",
+    "sha256": "38C265C13D376928187424DF6E97F17ECD239A87D2E39F790DD3D380A7B20232"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_SW.uasset",
+    "sha256": "DBA494E6A5EFF1A86F088A88506DDD140C0AD25AC9B403F757482575DC2C70DD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Trunk_E.uasset",
+    "sha256": "B41F532020F244CA68D09A0DB5C0A3D4827061957E44CB38E93132D01701FF0D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_INT_Trunk.uasset",
+    "sha256": "53A91EEE063651076D8F7E7F8D93924687B720BCADB71B26B491253AA05B89ED"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_LIGHT_CHROME_SH.uasset",
+    "sha256": "D235703EF749A7C8C5373B7CAC8D9BB46A90B701A8507254D01F6844A72F873D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Light_Glass.uasset",
+    "sha256": "6C6F8BD4A24066C2C5740425000557486C7BFE2ED7FBC2EFF45C3864658A0E4A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_LIGHT_PLASTIC_SH.uasset",
+    "sha256": "C63E11CADDD9705DC58864F5B963D1E5E5BD019B1A434C57D933BAAD77C3E647"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Metal_Mat.uasset",
+    "sha256": "21E4C1881755D76F5C7DB950313F15F6C33D20FFE274588635927C16FD25B959"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Mirrors.uasset",
+    "sha256": "1D3B08368770355497C958A9113F9E48FEF7FC6A834FD42265C6A18731FC61BF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Plastic_SH.uasset",
+    "sha256": "2B8470C465C4B34808161D94529154FA5FFBAEF67A9D8083A256271E2D9A45B1"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_RIM_C2.uasset",
+    "sha256": "A038E61FE6B82A0E60A8F9415AB47D444FC67AA18F5F3B115AC01020DC3372BD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_tyre_3.uasset",
+    "sha256": "6C6A366CB5C6B1623946C9A3550BB00E9A1F7656764180597CB9B6FAD4D3DC57"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Windows.uasset",
+    "sha256": "BC408456587F5B94441C7DE1BE2E5EC80F18F0D3730CE5F1FEC5FF9A580265BA"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Yu7_lambert272.uasset",
+    "sha256": "D48B9F5275D1E32B1344665F04E5BF12C821235B18CAF6667B27D6195A110BD7"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Materials\\M_YU7_Yu7_RIM_C1.uasset",
+    "sha256": "5E33D70FF1E629C5C59F0A02EEF30172DA635E2F8766332F9EEF9208788B2BCA"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_001_carGlass_front_1.uasset",
+    "sha256": "AD5759CBA73117C755A1CC0E9B3694C2CFE8DEB13026592F1AFF3B3B04BF6597"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_002_carLight_backbulb.uasset",
+    "sha256": "0131828B2B454487446F2AE51A748D54F71E959EA0057887882BE63DF7ADBF06"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_003_carLight_bulb_2.uasset",
+    "sha256": "4CB8610E71675F4A4B2BC48CD4828D6DDEA0317A19FF1146230F6C006A08BD68"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_004_carLightPlastic_MatteBlack_2.uasset",
+    "sha256": "C9FFEFC894B3C91244EEA8FEA052D622480B613342C40F20328B94038603624D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_005_carBonnetLogoBase_body.uasset",
+    "sha256": "754E131274A5E5E78FE0E78D36F2A4C4FF6F1A2CE32CDED44B4FC700A21D3B7C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_006_carPaint_2.uasset",
+    "sha256": "A596BDDC77309B22E383AE718B7EDCD130FDB67A0B116E75E54023C1B3225778"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_007_carPlastic_BrilliantBlack_3_1.uasset",
+    "sha256": "4A63C134249D6E3884690A38174CEF3CFE05651C105202371EDD7870BC93DCDF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_008_carWindowTrim_3_1_.uasset",
+    "sha256": "C426EAFD2BBCDE9C474ED0F15E6066D0AC4A48C579087F79AEEBE6EAF675667E"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_009_carPlastic_BrilliantBlack_1_6_3_.uasset",
+    "sha256": "96AE3C93AFC7050A89525BB2E59B777D7662F6DF8FF9A5912B9F110D73B53921"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_010_carDuckTail.uasset",
+    "sha256": "1F53850FDA001CED9DD95D74C2BF3127A74C5F144B04D160304BC53215AD7808"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_011_carLightGlass_Back_1.uasset",
+    "sha256": "2667C59FDBCDD049A2313B0C9624EAF11CF54DEEAFEB217272CDA224FEE07CDD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_012_carXiaoMi_3_yu7.uasset",
+    "sha256": "FC53450A59AD4A3F88FCA2BD5C564A44CE811EEA2C3512E052BE13520596C363"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_013_carPlastic_BrilliantBlack_3_2.uasset",
+    "sha256": "8EA599BF8074E87ABCB77B75FB65A7BC2CB78EE5E4A24F23EA1FDEC2C0CD4F15"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_014_carBonnetLogoFont_body.uasset",
+    "sha256": "15381034E64612940355206849A5CF8D3145DD23E30406A693E6E3B009E5CE3F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_015_carMirror_bottom_2.uasset",
+    "sha256": "887E953E67CC9C9884F0326FE175179FD99EFD9B7053970B453056AF5B5AABA4"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_016_carLight_bulb_1.uasset",
+    "sha256": "6EEB2E992F4FC5CA64CB3EF748BA96A48F2FAE58261102A373E613A1C6B026DB"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_017_carPlastic_MatteBlack_2.uasset",
+    "sha256": "871474B3C5B1272E06A98844E12D54B14A3F4B68E85B5DC83AFCF33899A106AC"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_018_carPlastic_BrilliantBlack_2_3.uasset",
+    "sha256": "2DB29B923B6C3EC098F8D2633E507B29E5305420D0D200C8BE537A86B87BF14E"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_019_carWindowTrim_3.uasset",
+    "sha256": "D535F101A87BDCCAABC8CACBA46C0EE6C0738669CBE73B1E75705D017E316BFB"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_020_carPlastic_BrilliantBlack_1_6_1_.uasset",
+    "sha256": "83A56FFFEED971C22749DF16165C433F088F544C02B062719673E0D7332B9C32"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_021_carInternal_PassengerSeatFront.uasset",
+    "sha256": "2025AA4B724A399C48E131BA8F66AA134E8059495FACE93F092E004F9999C469"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_022_carLightGlass_Front.uasset",
+    "sha256": "B3CC0A54D23C60752AAE4ABC799A61A30771A7AAAB28E9E761A62C2296312CC6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_023_carXiaoMi_3.uasset",
+    "sha256": "AE1E67897061833AB842ECB9DFD9D46BDC21CAEC6E40B6BB9D96074AFCB32C7E"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_024_carPlate.uasset",
+    "sha256": "DE184347F9AE70095ABD8E53746D020A92C4200A41504029A55323440FD8F475"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_025_carPlastic_BrilliantBlack_1_6.uasset",
+    "sha256": "A3D73134554645FE9F83D769A8BE39F09E2700401EDE932EB86F10B0082A27DE"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_026_carGlass_front_2.uasset",
+    "sha256": "2883EBA9E60287FF14F5F56BE42AF5FC8A28E7DA30B6228FD8BE738C05FA1F7F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_027_carLightPlastic_BrilliantBlack_2.uasset",
+    "sha256": "284B6A7554BBE754D35085148E44C9BDB36C5B8331C73B7B12140621D099CFBB"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_028_carPaint_10.uasset",
+    "sha256": "469B671C0D766A7F1148649C123F31349BC3672129DB2C43EDC35C26F2319496"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_029_carInternal_TrunkInternal.uasset",
+    "sha256": "BCD183D6DC204D019110CFC9AEDF74AB58F728082C0A0AA51F2170C9DAF7D0AF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_030_carFrontBonnetNet.uasset",
+    "sha256": "8071DECC550DD2BF71F5E024DC341996A1D95729AA6FD807B661D899DB28BF54"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_031_carRearviewMirror_2.uasset",
+    "sha256": "78D265EF480D820658D439F4C9F08302DD870F9797F91A8ACD584C5F3C6CB86E"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_032_carWheelLogoBase_ScuffPlate_Font.uasset",
+    "sha256": "016DFC92CB040962CFFE0F3A9E5143AECBDA32E984D5F1EC7C1B4090C5FC52DD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_033_carWindowTrim_1_1_.uasset",
+    "sha256": "09F0C6385F57470870AA1465EEFBE468033993AEACFB9FA579EACCEBA3C93588"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_034_carLight_bulb_3.uasset",
+    "sha256": "FCC85BB6B6BF2B24A7775F7DE1FF6E51F9AD820B32818C48004668CD699E5561"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_035_carPlastic_BrilliantGray_1.uasset",
+    "sha256": "A359BA13D965E86EB7B3C36FBE5B43803F84EF4FF1CA93858A765F9A81A17D8F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_036_carInternal_DoorBack_1_.uasset",
+    "sha256": "2DED46FE1E0EA83755D759C17B335CB7ACE48D3D830664FE243ECC9F35C001A1"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_037_carInternal_CenterConsole_2.uasset",
+    "sha256": "F7C5D716266AFA5D9FCBE3CEB861B0B666053EA58E6AF828DDC48D8B1D98C0D0"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_038_carPaint_4_1_.uasset",
+    "sha256": "EED4744BC5A6D4A77545C9ABFDDA920AFA6F7C90EA0033A6E054A1689FB366DC"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_039_carWindowTrim_5.uasset",
+    "sha256": "381D70604EEFD35D25DD4261BEC53A3D2B6FFFD796B793ABBEB8A2431B58375E"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_040_carPaint_2_1_.uasset",
+    "sha256": "A6E6236177019FA11C27F0A794FA3B34DC4EA0FF94926FF4F306FE82E830E634"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_041_carPlastic_BrilliantBlack_3_3.uasset",
+    "sha256": "0DE851877186FFD18502554189ABD49925397325EF8CBB31E1D804D1AF3B513A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_042_carInternal_SteeringWheel_Bottom.uasset",
+    "sha256": "13E90B52BA2D1E273740C5C0ED67361C0F8B5154ACF09EA3A7F3C2E1948DC150"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_043_carInternal_TrunkExternal.uasset",
+    "sha256": "A7B0ED95D7BE42F9FBF079069A982909F628A4393819E11F4BB8366C7E9CF854"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_044_carInternal_Roof.uasset",
+    "sha256": "0ED9C864E6BF3E47EBAE091D9F67347149346FA886B1309C2904EA525E385C29"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_045_carPaint_13.uasset",
+    "sha256": "1A24A997251624856506328664B0EF033F9A0FA37E114563BD721C2A12811FF9"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_046_carPlastic_MatteBlack_1_1.uasset",
+    "sha256": "1D2DF261F72C4CC631CAEDF8CE04879AB99AC19812110E3864FD84525BAC53C6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_047_carGlass_front_2_Side_2_1_.uasset",
+    "sha256": "A31B4041AE11A014F7A9D5D487E9FF085C1F08F999E6563434A1A32915A1DAF8"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_048_carHoodOutletWisp.uasset",
+    "sha256": "48200B2FCBF6BB11EED1F07B0F2D08A40B952ED91ABE5F8F2D3BDC52888F223A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_049_carGlass_back_2_Side.uasset",
+    "sha256": "9C1C0E02DD1D47515D6E295BC858E70FEAD71B4E7010FF2279AC942CE4D98033"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_050_carPlastic_BrilliantBlack_2_1.uasset",
+    "sha256": "8BD16B3FB67EAD992917F01C50BD764FF6CD777E2F2F34334C32976067D77CCF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_051_carLightPlastic_MatteBlack.uasset",
+    "sha256": "92223B4D9D3F2CD7B5AB3C67EBDAF87EC9891DB4C92FB1405CF286B4B6CC636B"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_052_carInternal_Dashboard.uasset",
+    "sha256": "79F60853B15EC40ED8B5AF9967B84B482210F875B4255010852659A1C6CBA370"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_053_carInternal_DoorFront.uasset",
+    "sha256": "13DD10C8D9CDDFE2C4C363D59934B8A34B21E9C2CECB4EA974ECED21B51F3CE6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_054_carPlastic_BrilliantBlack_1_6_2_.uasset",
+    "sha256": "B23B62D6D5670ADFEE78B41711E99C34FAB9E40C8F5931F394073B063B2F9709"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_055_carRoof_yu7.uasset",
+    "sha256": "556052D38BA922593D0221AE68C99B163F16CB33FEA5E8045995908CBA6D49D3"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_056_carInternal_Frame_Top_2.uasset",
+    "sha256": "2CD7A814D285BAC9112A0D4BEB38B18F99410CDEE4C0581AF694C73DC4980F83"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_057_carGlass_back_2_Side_1_1_.uasset",
+    "sha256": "B2142E372EF83EC2027F97C086EB978A741DBD3D8EC24E91E13DC1FDDB6A5976"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_058_carPaint_4.uasset",
+    "sha256": "53DDAE1AE8227D9F36AC346EB865647103C6616660774EC336C9364A7F818E94"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_059_carMirror_top_2.uasset",
+    "sha256": "958C213787AE4610825560C69FEF115A06AAA141A14447DDD8996C55EEE4D7DD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_060_carPaint_1.uasset",
+    "sha256": "9750DCD30150DEE276853D36209483B079FB40826A471F3B7006E5D0AEFC8AE0"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_061_carInternal_SteeringWheel_Top_4.uasset",
+    "sha256": "20C95B16D0378650BDFC4A394F992B22B7C5EC5C53D78A4214D9DCF0825D0AE1"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_062_scuffPlate_Base_scuffPlate_Base_lambert277.uasset",
+    "sha256": "D9ED048A99110E85387168F51DFF8FF00106C6A48B41D3CD42D5D75D312CF02D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_063_carInternal_CenterConsole_1.uasset",
+    "sha256": "DA78583C01D5057CD88112864C4A21D261791400017CCB84DEF6619DE288C9AC"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_064_carHoodOutletPanel.uasset",
+    "sha256": "AF600CE50FF01B189A2FEA92D6A2F1A28AB430848E2141FFED7E38118FEF25A9"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_065_carInternal_DoorFront_1_.uasset",
+    "sha256": "80D4D4EEEF4662D0B3FB3077B63282B3A9ACECFFD8F5B2DF28C4C0D9A1ABABD7"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_066_carMirror_top_2_1_.uasset",
+    "sha256": "A5642FDD42C8BDBED05B4BC4331D33E27B8F9BA1A2F8B0A66F238B7238F8FE95"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_067_carInternal_Frame_Bottom.uasset",
+    "sha256": "2165DFC7A3DB10A70F629697221F9F60E675CD6DD7908BB29CE8F464004CC75F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_068_carPaint_9.uasset",
+    "sha256": "492CF46F0C65A1F9657B11F5035C111640846E562B91342D896C6CB1AF11DCE1"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_069_carPlastic_MatteBlack_2_1.uasset",
+    "sha256": "D83EC505D3E566906B6B68E6B3606641D2FA01F6BB8293167E048049FB8C163A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_070_carRoofSpoiler.uasset",
+    "sha256": "2A1C1B86D0D47E3811B155BA25229BA8B706987B4DF6AFDE4811233CF3DC41E6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_071_carMirror_bottom_2_1_.uasset",
+    "sha256": "60993CE6AB32758FA221645188C88862AA773517B85AFF58F82AAD1D4676A4FF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_072_carInternal_DoorBack.uasset",
+    "sha256": "4943087F099D043295988A3476015F3AE9157FF14C9A62F1909F337ECE1FD4EB"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_073_carRearviewMirror_3.uasset",
+    "sha256": "673B2D8890B7E568A148B65E5D73E3ABCE287D7F54CA644665A0CC5B78EEDB1D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_074_carGlass_back_2_Side_1.uasset",
+    "sha256": "4A3A392C8D3715ED89977548D7C78574A01891C559A011934C54D67444F1F14F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_075_carGlass_front_2_Side_2.uasset",
+    "sha256": "21467D6009C6934CF3951D766020D4E597857020604C38D807044BB74A0B8374"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_076_carGlass_back_1.uasset",
+    "sha256": "8A93055E6FB3BCB8F7DAF70103F4E254EFB2841B49492EE4523EE886F505A769"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_077_carLightPlastic_BrilliantBlack_3.uasset",
+    "sha256": "DD830923A4DC9B4D3F1E78EF7EC4811C23EC57F5E67745CB1090B543730FDEC0"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_078_carPlastic_BrilliantBlack_2.uasset",
+    "sha256": "85D63037D5D086AB5CA0759C86945390E3FB75DFE8EDAB5B0BDEB0F7E8306AA6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_079_carPaint_8.uasset",
+    "sha256": "8D6FEEB2689B2C2E6E08C8C6BF791CE0DD9E9AF5D5D23FA2713AAC44D404ED00"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_080_carWindowTrim_1.uasset",
+    "sha256": "52E8E21DC512C5F09997B95BD3E9742240F6C63535EE6194975CCA4B3AD9A5F6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_081_carHeaterStrip.uasset",
+    "sha256": "B83D396E8C35E7504E91CCE7197B93E59292DADF6C0BCC7D26FBDDA4C30A2690"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_082_carPlastic_BrilliantBlack_1_1.uasset",
+    "sha256": "476A52C59C4EC6245DB6AE25A34586601E1ECCF4E8BC254D0B10513DC2AB4763"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_083_carLightGlass_Back_2.uasset",
+    "sha256": "25666F29CDF961EA562F91194BB7CB376EE13429B5A62BB0E8CC119DA64B5EA8"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_084_carInternal_PassengerSeatBack.uasset",
+    "sha256": "95F46F263AB4DCC8C59DE40696A92FEF43EF262DA36B7AA6D9BAB24D47F01C22"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_085_carHeadLampPanel.uasset",
+    "sha256": "60FF837911F744B8539DA2FE3164C203989152001F87846533BAC4DBFA6803E7"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_086_carBackDrop.uasset",
+    "sha256": "242E0538CC70C901CF470B3195E49164B5CC6E4D88A4C6673B9A0B71370776E9"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_087_carXiaoMi_1.uasset",
+    "sha256": "EDAE71800AF2D136507D544BF5FB7F531879A326507A6EC3E582529C80BAD650"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_088_carInternal_SteeringWheel_Top_2.uasset",
+    "sha256": "B1AEE4CA39BAF7C7FD04F8B7EBE694158C16223A49411B24451CA38B62172C21"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_089_carPlastic_MatteBlack_trunk_9.uasset",
+    "sha256": "022A9FD224EB3793822366FB95800FFEE266114D0FF7B02645E1991C442EB369"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_090_carWheelLogoFont_ACAL09.uasset",
+    "sha256": "FFF2B8220F8F01BE145423397F2AD637532219F5C5DA11B5002460722C22630D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_091_carTyre_02.uasset",
+    "sha256": "4A2D09EB85BB3F743705AD288B9AC2A8CFCB46275A6D1E6717398D38A62CF9E1"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_092_carWheelLogoBase_ACAL09.uasset",
+    "sha256": "9E45265A786357AF685ECCFE96D3D5627625733D166B740208E57354FAC4E948"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_093_carWheelAirVent_ACAL09.uasset",
+    "sha256": "85FD46C92D4B2F3EC54E5386FE5107D923CF47A758D1F1BEEFF1E409A58F77A4"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_094_carWheelHub_ACAL09.uasset",
+    "sha256": "84DF4B31B08538B9C6A8E9B10ED9C65576393A8C92163F346A69119B77E45DF0"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_095_carWheelRim_ACAL09.uasset",
+    "sha256": "380BFA95197C811FCBFD719FA15C7F40ACE0D8B21149D1E9DF986CBD176A5091"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_096_carWheelLogoFont_ACAL09.uasset",
+    "sha256": "6D347153EDE648FF6AA708902423BF8C213AE495F81D39C1585588F9BB62B612"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_097_carTyre_02.uasset",
+    "sha256": "F85D64A13221678FE83BC82F0926CAE0125FDEE29476AB1E532ACB2B0AC6592C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_098_carWheelLogoBase_ACAL09.uasset",
+    "sha256": "3142ADBEBE52265D2713E7C97D4548AE6798FAE9185B1A164868930A13B9D819"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_099_carWheelAirVent_ACAL09.uasset",
+    "sha256": "FB40A9483D2BF19EC6074E46D3D8DFC42EAA96A849FAC25E0D2E81FB1B100EC2"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_100_carWheelHub_ACAL09.uasset",
+    "sha256": "7D1FAC94334D21F2F84CE7585C6A6667DCDDC1A2FF07435BDB778D02FC216921"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_101_carWheelRim_ACAL09.uasset",
+    "sha256": "03A8D5C97AFD1E66AD3B1CEC9E05D31B71B076178163DC3E66B385AE73BA3FF4"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_102_carWheelLogoFont_ACAL09.uasset",
+    "sha256": "92E3E2055BBCAB4DCC0E2825447FC4A9F4711245F879AE4E8E51B16B2D58E70F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_103_carTyre_02.uasset",
+    "sha256": "AB0C038F8740F0ED385390D46652C21A436050E503C038154E162ABF6F3B8A6F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_104_carWheelLogoBase_ACAL09.uasset",
+    "sha256": "688C3A580AA1A906669A77FD30C479E279464C3F659FC7445B1BFD89F6A12ADD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_105_carWheelAirVent_ACAL09.uasset",
+    "sha256": "EEC500053CDDFF92227842184CCEE6DD9305168E75E028D170F2DB8581891E58"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_106_carWheelHub_ACAL09.uasset",
+    "sha256": "5B95DD06193E0B6840F6614A5335DDF7B6E52E739BCE1FA0CBE5F9AAA8BD89F0"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_107_carWheelRim_ACAL09.uasset",
+    "sha256": "F53805427A07A064E8BF82113745D51DC86544DD5E9734B6CB396F9B411DFD96"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_108_carWheelLogoFont_ACAL09.uasset",
+    "sha256": "1500A2BAA2E2A88FBCD9C8253359895D89E28DCF179E6888439BCA3E3FE570AC"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_109_carTyre_02.uasset",
+    "sha256": "31922202270BA0F1D4765DA3D0B26497D0E726E31EFD25E31DBF6EC34D99C76D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_110_carWheelLogoBase_ACAL09.uasset",
+    "sha256": "43503060F3EB474FA5CB4D8AB95C5F413F470139187111402F8E8777A2B7FB31"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_111_carWheelAirVent_ACAL09.uasset",
+    "sha256": "731E78EE3D3BD440F97116B2F340561CE7DBF846AE13F16377448C6674428BED"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_112_carWheelHub_ACAL09.uasset",
+    "sha256": "B3286DC06A1085D4A5914BD96E70DDAC762C0D5DF82EB93940186D3357F4DC3D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_113_carWheelRim_ACAL09.uasset",
+    "sha256": "67526437E8042B5F767C2EE8F174D07312E80106D1DC96259BE6B0D4C98979E0"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_114_carBrakeDisc_Back_2.uasset",
+    "sha256": "874843929CEFE582D77F5C21EBE2A58D7BA88878D3C95DDAE8D8A7B8A4F14662"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_115_carBrakeDisc_Back.uasset",
+    "sha256": "8CAC5C869CD46CAC1E66EA316F093D8F53B908B722FA0D65958E398370EA3A85"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_116_carCaliper_MainBack.uasset",
+    "sha256": "79739DC7D437B337458E47893C9D047FAF152E8601123F78B21EC481ACA7B6EF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_117_carCaliper_Screw_1.uasset",
+    "sha256": "14A5D391D92D9A9FB0C4394E2271F9735068C8A462C85A62A2CCB6821F374E54"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_118_carBrakeDisc_Front_2.uasset",
+    "sha256": "5DA1ECD511FF6F1D0659D6F721D55C502628C50218653AA82C6DBE206D4506B9"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_119_carBrakeDisc_Front.uasset",
+    "sha256": "A76C5A07F029E93A5D3D8CF826F38E7ADB53B88D9069279A6C2461328C28B53A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_120_carCaliper_MainFront_1.uasset",
+    "sha256": "7703B68C7862625A3C8005AD4BCBA5DE91BAE39D42DFB0BFF8392D92788C3155"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Meshes\\YU7_Unreal_SM_YU7_121_carCaliper_PartFront_1.uasset",
+    "sha256": "78FAE3874F735E375853D113764FA2E7DC1D89A5D286D5E6C4B0C335091438E7"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carBrakeDisc_2_MP.uasset",
+    "sha256": "6A2BFC977D15047F533BF9D69E198DC00D2659842D781B3AE3737235C0406C34"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carCaliper_1Shape.uasset",
+    "sha256": "648F5118FC47C06F601D82BAC740BCBADE5FF0BDBE57A62F02E4F83AA54987E6"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carHoodOutletPanelShape.uasset",
+    "sha256": "6E4E288855AD7800AA9AE6E812D01EB9853868418996A5631F0E267F0D750D79"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_CenterConsole_MT_OrangeMinium_MP.uasset",
+    "sha256": "B5CBFA279DA778C88667287C3FB360DE7AB3E3E20845E4FDA7B5F25CD3C03AF9"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Dashboard_MT_OrangeMinium_MP.uasset",
+    "sha256": "62810D1A94E11B4ED886AD3400FA6E486C986D22F2CEC4F38B89D99F3B96B4A3"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_DoorBack_MT_OrangeMinium_MP.uasset",
+    "sha256": "09B3A4BE3816F142C22916D1530FA4D29310B184828F7FA54E8AE21E9A6DD50D"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_DoorFront_MT_OrangeMinium_MP.uasset",
+    "sha256": "15394756F7CBBF36E95B7CDAE506482B8A75AE36244A9C614CF9C7A797C26287"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Frame_Bottom_MT_OrangeMinium_MP.uasset",
+    "sha256": "ED93036BF7031C4AE5552FD408356190414D8005AB9EEF4E20B8FA220179DD81"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Frame_Top_MT_OrangeMinium_MP.uasset",
+    "sha256": "92B4E58035C2E3D51A02EA7DDA274992D380AB3DD883116C948CDD988E1A6BFB"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_PassengerSeatBack_MT_OrangeMinium_MP.uasset",
+    "sha256": "6BEFF6BC5E40490B086446594071C33E76A9782AAE542CD979DEB3FC246D329F"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_PassengerSeatFront_MT_OrangeMinium_MP.uasset",
+    "sha256": "1D5B2F7076367518B2CE6D1AA3569F9225C641FD22754EDAF2E8755C2F1579D2"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_Roof_MT_Turquoise_MP.uasset",
+    "sha256": "E5C568CA1BA0E0AB3E53A8E68A3B483178D8F9DA44626CB1F9362F923BA9FADD"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_SteeringWheel_MT_OrangeMinium_MP.uasset",
+    "sha256": "1074207E1B7460E0337E67458F2CB167318FD02CD9C64ECD619D850985BBD31B"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_TrunkExternal_MT_Turquoise_MP.uasset",
+    "sha256": "2BA019D16C9834BC526BE198209BB54F05132AA7348CF21153B2FC00208ADC1C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carInternal_TrunkInternal_MT_Turquoise_MP.uasset",
+    "sha256": "752C6FCC7D96BFFFC295D0A7BB2F90BADBD1392FABD9894D49B7C26000232A1C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carLight_bulb_MP.uasset",
+    "sha256": "EA5356DC46EC94C316AE6BBF7052F9621E8411247D5772D2A58AAD37F26E59EF"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carLightShape.uasset",
+    "sha256": "12B302D7FD2E0161ACF46660E34266FA5F0626FCAE08DED3A3105F12C3F1DD8A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carPaint_Shape1.uasset",
+    "sha256": "D22AAAF1E2AE7AA714ABCF8018B7DC4165C7DFABC03DD338C83E4C282A2A549A"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carPlastic_BrilliantBlackShape.uasset",
+    "sha256": "258528955BF665DE09B4C90A2291520E15547506A40E2511062216E7BAD8A45C"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\carTyre_02_ao.uasset",
+    "sha256": "10A79DE006AB099E88A2EA646855D56E861ACE543394C7AF047956E759675671"
+  },
+  {
+    "path": "Content\\Vehicles\\YU7_Prepared\\Textures\\T_YU7_Tyre_Normal_DX.uasset",
+    "sha256": "469BA291B8B4D9E3DFFE541A1E209550152FC5E89F4D2698A3B787B0B607B7F5"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\Maps\\Studio_YU7_MineralHero.umap",
+    "sha256": "90DA023369E8D83D14E899D7B40F26AAFFD94E1DAF86C901BC30FEB611CC287A"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\Materials\\MI_Hero_GlassClear.uasset",
+    "sha256": "7E4A17E7B926F501F33E5E3DEA91FC31149E9A1869F02EDAC50ADF4CB9F10D03"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\Materials\\MI_Hero_MineralTeal.uasset",
+    "sha256": "707070584D75051C405E3FC8F66E80B3358F01F825B171A7E2B9DE34F194863F"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\Materials\\MI_Hero_Studio.uasset",
+    "sha256": "CD25F216FF1AE50B59B6F7D1FC17736E38F45D7C0B9171498C8660349051372B"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\RenderPresets\\MRQ_Hero_preview_v1.uasset",
+    "sha256": "22DFBD4974B8CD10C65462682BAC78303FF66821D30A8BB4EB9D2C57C4AAF603"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\RenderPresets\\MRQ_Hero_preview_v3.uasset",
+    "sha256": "C21ABD837EEF4684651E570972B4A8955B69BED075A9E749DC4B14FF8E794128"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\RenderPresets\\MRQ_Hero_preview_v4.uasset",
+    "sha256": "540245B05C4A9E5BA082F938EFFBD11603D54361F3B7AF7454430EC7E06ED4C7"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\RenderPresets\\MRQ_YU7_MineralTeal_4K.uasset",
+    "sha256": "BB7953213722058B0A8144EC02B1AD2FF0F37469B52648B9C83E4675551F9B94"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\RenderPresets\\MRQ_YU7_MineralTeal_Motion_4K.uasset",
+    "sha256": "7EBBC7BB7C3E031FE47C43321CF03389CF3A895372EDA5ED7F8193D2589045E2"
+  },
+  {
+    "path": "Content\\YU7\\Cinematics\\Sequences\\LS_YU7_MineralHero_5s.uasset",
+    "sha256": "177A64D389330B7D4097631F7D83A9554FBAAC34523F4E7700466E5A243FFDAB"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Blueprints\\BP_YU7_ItashaOptions.uasset",
+    "sha256": "AF9D4003B760A20D5F6214B0DB83E6625B79792BB224EFF754AB0C1D4312E6C5"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Blueprints\\BP_YU7_ItashaVehicle.uasset",
+    "sha256": "A9D80C627479C304EA894F9FD66D5353EC2611AB90A791EEAF37D88F57E58A6F"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Maps\\Studio_YU7_Itasha_v01.umap",
+    "sha256": "58141D95AE4415028931E011613B3D101BD01166F237E1C8A3B3FF95E4C8DDCD"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\M_Itasha_Artwork.uasset",
+    "sha256": "D6F8F9C3D249328F90E09589257B0EB5BC43D8EF0BBF0D7757F250BB2F7E3006"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\M_Itasha_Sweep.uasset",
+    "sha256": "7868BC06FD67063F662706338C745C4FE7777E0D0DDB4F2FFC15E2B6F35D2AD9"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Giyu.uasset",
+    "sha256": "4AA9BBDFB9ED7E6B55522F540E4009B41EB8A2BAD65EF0B061E01169A34A7002"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_None.uasset",
+    "sha256": "E3F45EDD890704B9E0D7BC620C9B75CDE7922BDDDA658C1D32D5FFE31A42E4C0"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Rengoku.uasset",
+    "sha256": "B784C0DFB53F6F1EE305F4F285067F3DD8EB3CDAA7C4874A11A176A5800442EF"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Sweep_Giyu.uasset",
+    "sha256": "DCBDDC1B07D2CBB627BAE6F6BC16A3D54BCFE7568B065A3682A76BD1988264B3"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Sweep_None.uasset",
+    "sha256": "764E4F36698F31041205B06BEA21331BE854D86B2D3802E962DCB59B73420624"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Sweep_Rengoku.uasset",
+    "sha256": "251CCBE55FA88435229DCA7E06989E7C8A45E1EE0172417F98F75873343B6544"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Sweep_Zenitsu.uasset",
+    "sha256": "D4D9C82A833A467A79C5C4B28FF018F9D12C4CF115CF33AC87F0B4786521E20A"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Materials\\MI_Itasha_Zenitsu.uasset",
+    "sha256": "263D361D08C9A4E31C31E0C34F4C743D1DAB063CBB6E4A358F45165E0A47C4B7"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r08_Rengoku_4K_Beauty.uasset",
+    "sha256": "6D29FCC5AD58C1487BAD7C2C3DEB2DD97E63E5AFEE266D1DAAD0BB0380F898BA"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r08_Rengoku_4K_Hood.uasset",
+    "sha256": "C4A152738D90E0C0C548BF871A80FA4483E0DEE38E0991597CDD561CB5FBCEC2"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r08_Rengoku_4K_Side.uasset",
+    "sha256": "8C79C5A634CA4E678074F8606192A007941EA47F61481DF02BAEBAEB00C73864"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r09_Zenitsu_4K_Beauty.uasset",
+    "sha256": "A0667EC6BAEA04296FDA4280C9D0F0179C630BBBE833AC21C63ED17C2E0F5FD8"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r09_Zenitsu_4K_Hood.uasset",
+    "sha256": "436C77367DB2C600C85AB80B7323D92684A843A51993586914111F08F9897FA1"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r09_Zenitsu_4K_Side.uasset",
+    "sha256": "C0BE8ABFBA4BF8410EE407122A0017F17B9B8E82F43ADD8535999AA095D3F9D4"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r10_Giyu_4K_Beauty.uasset",
+    "sha256": "CAF86AF4752867F9DEA6D4C9123AD9889F13CA70F4DB91C2BC2B95D16E6294C4"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r10_Giyu_4K_Hood.uasset",
+    "sha256": "429A366E92E030BCE0E3FB3F9EAC5AB33391242AF223858719D252C6FC6B27E1"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Final_r10_Giyu_4K_Side.uasset",
+    "sha256": "59392EE061F1BB281086433CE9C48DE3A183FDB87815E43FD117BBB96533EEF5"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r01_Rengoku_Beauty.uasset",
+    "sha256": "2E444140999D0716B4796668BB82EE23C2C007B457125E1E35A704CED9704381"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r01_Rengoku_Side.uasset",
+    "sha256": "59E0EE1742873A1C6269C43D729AEC03A4B79F127E9A792A63D1ABA7A072F0DB"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r02_Rengoku_Beauty.uasset",
+    "sha256": "FC305E0B1E2DD13BDC8A485256553C9CD48C43F4067E3850F734F53FF90378FA"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r02_Rengoku_Hood.uasset",
+    "sha256": "9062ADDB57539ED96CC71EA79E46D8F1DB862597DBFB69DB008F5A4CD1502FA4"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r02_Rengoku_Right.uasset",
+    "sha256": "21E29366ADCDA6AC0115C0D03F6D30C262F6B845F44EFD9A1711C71413EE00BA"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r02_Rengoku_Side.uasset",
+    "sha256": "C0DB21F83D482AFED908EC59F6026EDF5B65D271C9DEAE0BA3AB532D022BE22F"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r03_Rengoku_Beauty.uasset",
+    "sha256": "B208F6EE65928E7E36E94F8BF708C135EFC452D9B26FF74437CCDB1872355626"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r03_Rengoku_Side.uasset",
+    "sha256": "D78F8043A4A872C2E4E3F422678381C18E6F8A5D182A9A0AA5D5F387B2AD829A"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r04_Rengoku_Beauty.uasset",
+    "sha256": "C9EEDA87765B503230F63D0F4EB6B6A2BA1D2BA83F8691693B39FE5310673742"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r04_Rengoku_Right.uasset",
+    "sha256": "7A4C7EF7A513BEE3CDA502CEE580718A5054EA942DC7502BF8F1AA61CC84CC87"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r04_Rengoku_Side.uasset",
+    "sha256": "D1C519FACCDFA6849D62004D5B3629EBFFD87DC3D20061F3D9C0014BF5D02D1C"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r05_Rengoku_Beauty.uasset",
+    "sha256": "34A292AD60BAD1EE1EF797890B33B8F7106792A40FE9C8950930346EE01F098B"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r05_Rengoku_Hood.uasset",
+    "sha256": "0D5F977D8CF86C93EB35DDB38C65920615D9F02D4FCBFDBAD11BDFBB98AA01A2"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r05_Rengoku_Right.uasset",
+    "sha256": "2410BFC22A2F128C7E3D11F8B0109047441AE4D8C0A3D27FAE1BE8C9488EFACB"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r05_Rengoku_Side.uasset",
+    "sha256": "E1B0FB6B1E270DBE8B4BE241AF46BD29CE4DD29499600722D5E9FA7B2605AB22"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r06_Zenitsu_Beauty.uasset",
+    "sha256": "655B8FE261D32818AFA839B2CEE36F990BCB6F69B90101DF230792D532441013"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r06_Zenitsu_Hood.uasset",
+    "sha256": "592186551732B172F0059637314577B2B71B2B2BF7CF4456F1DBCCB16BAF6803"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r06_Zenitsu_Side.uasset",
+    "sha256": "19373A142DFC27851F15FFC544F6052247165C4F19331DFF8B0E5DFB33C43022"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r07_Giyu_Beauty.uasset",
+    "sha256": "6D7391CBB1D00749AA6F8168BA9067D9EE0D370C46385AD6200E4C725EBC6C10"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r07_Giyu_Hood.uasset",
+    "sha256": "F4AB3601ABC34D54BDC86D62E794753B675987E0EA97BFD69A0AAC6FA9DBBB6A"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\RenderPresets\\MRQ_Test_r07_Giyu_Side.uasset",
+    "sha256": "8324BCC24EAFED0AF4670587BD4A781D0146792BB2BC5E893667DFB63166E733"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Sequences\\LS_Itasha_Beauty.uasset",
+    "sha256": "FF7BAB3EF27A07D960B89C359C520582E56E233CACD99598431FDDEDBF9B0B55"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Sequences\\LS_Itasha_Hood.uasset",
+    "sha256": "894D8705AAA4604CC72E8BB97A00A1B868FBC06099573E0CDD84003C601C7BAA"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Sequences\\LS_Itasha_Right.uasset",
+    "sha256": "00EA9BE6E08AD9644A572FE7520602A252DB904C9B5DFC6E43E294BF4F86C4FA"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Sequences\\LS_Itasha_Side.uasset",
+    "sha256": "03601C3D6C9541DDFD153B1209C1CD8476CA562F1FCD4234AFABDAB9B732BBD4"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Textures\\T_Itasha_giyu.uasset",
+    "sha256": "1D5C59095141AB40C57FBD393CB00E2975ED8035A33952203AD97D146590F55E"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Textures\\T_Itasha_rengoku.uasset",
+    "sha256": "F8664E02F65E4185DD09A9400BD906FDEC5425A2922350866B03C36F3152F275"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Textures\\T_Itasha_zenitsu.uasset",
+    "sha256": "D0155AD23D69E09DFFAED69AB6A15D5ED8C6C47F6A0206096B17CEF3EEF32B1F"
+  },
+  {
+    "path": "Content\\YU7\\Itasha_v01\\Variants\\LVS_YU7_Itasha_v01.uasset",
+    "sha256": "1F462B5FBDFABD05BDF095E18C32A41B6979A0D3FB12AED336D5E08A8480DF49"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Blueprints\\BP_YU7_StudioLighting.uasset",
+    "sha256": "4773874C37040825FEF77BF490DFF0F5FC3EB8242F7D70D690B19FE20F998D5B"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\M_StudioSurface.uasset",
+    "sha256": "B564C1C0E0D8604C84E5CCA5EB10065BC9BD9A580988AA512046A4DCA7D866D9"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\M_YU7_AutomotivePaint.uasset",
+    "sha256": "4BDE54AB3BD7896E5F966A971D1CFD1535C46223B420E4F34AC65CBAAB8F3CC8"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\M_YU7_ThinGlass.uasset",
+    "sha256": "37DF4D48504374F018E08BECDA8E2C0EBC35123374AC152C51301027F23B6BB0"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\M_YU7_TrimMasked.uasset",
+    "sha256": "E4FB8A60E46B00360DF09F23458669593A67C39671833F34BA4944B6782269F0"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Detail_Charcoal.uasset",
+    "sha256": "4C091299B3600B92294751243B0A5450DBDAE2E7E5298535B775CB5346129C93"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Clear.uasset",
+    "sha256": "548AA6E5CC09B837B5E3CCE7CBD6A6269C7904654B226CE5DF301B7BBA6ADF06"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Lens.uasset",
+    "sha256": "66CE9050C8B14821AF0DF0B46F5C9C2379822302F66D4FC11A5D6540F4A90DB4"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Roof.uasset",
+    "sha256": "05FBA18271DC91098C1A2B0943FFCBF9EA0452F040030657ABF2FDC0D79ACB8F"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Glass_Smoked.uasset",
+    "sha256": "C62818E9412C67BC035F9BFDF2675C22B0F9B52A10A8DCF7C6E2847EA607A4EC"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Paint_Graphite.uasset",
+    "sha256": "4544769A215EB951B00047D7FEA12B8876D2447B37F9EDDF8643ADF402A539F3"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Paint_MineralTeal.uasset",
+    "sha256": "C6AC182ABA01CAFC8C85C959E910B4942B2B2F98AB99686A982D966C5B06E0D7"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Paint_PearlWhite.uasset",
+    "sha256": "70F61149D6A7F127D4478D1A485FD987B83D67CE75FCDE7DB8AAD5384DCF91F4"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Studio_CoolGrey.uasset",
+    "sha256": "C5A4C72ABE3647632C8186E7B568C7C75A948F9AEFDB7662EA0109A20EA33854"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Trim_Obsidian.uasset",
+    "sha256": "305D34C36A9FDACAF66C77050E77EC9F56C571B753941DC9CEEE7F3DC3C4D909"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Materials\\MI_Trim_SatinMetal.uasset",
+    "sha256": "FEFE269AA1CE610D196E91E45BFF41F6164063FA018621889D6E5F41B70E0D2E"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Textures\\T_SoftboxDiffuser.uasset",
+    "sha256": "71BCB5D7D43CD588309981195CEB83EEE869AA8025B803F4A9D049C26E4D88EB"
+  },
+  {
+    "path": "Content\\YU7\\Lookdev\\Variants\\LVS_YU7_Lookdev.uasset",
+    "sha256": "AE2D89C56F6855F0BD5EF029A6717C78A9FC0157DAE83F642311FB9AE7457A57"
+  },
+  {
+    "path": "Content\\YU7\\Maps\\Studio_YU7_ImportBaseline.umap",
+    "sha256": "0F105F435355AF458C478D93843B49F98073F163F82B53FBBD091DD4E0962A7F"
+  },
+  {
+    "path": "Content\\YU7\\Maps\\Studio_YU7.umap",
+    "sha256": "61403210998EC62F834569983760556E244FBF7C1E182F10C002E760CC05F9DE"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Maps\\Studio_YU7_QuadBody.umap",
+    "sha256": "A076002BB95DCCB682A9EDE5A9AE82E0D49D5CA4C5779E06C81946F43CD5E4D5"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Materials\\MI_BodyLines_IceTeal.uasset",
+    "sha256": "0CCEEBA9AAA2B71DCC21A2669A16FDA137B9344251F429847DBFDF258C54EC88"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v01\\YU7_BodyLines_v01_SM_BodyLines_Body_v01.uasset",
+    "sha256": "F777E71FD0AB6E58844C5B1113DED080EED2217DC1F3F4AB97D65E17139AD73E"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v01\\YU7_BodyLines_v01_SM_BodyLines_Mirror_L_v01.uasset",
+    "sha256": "093D878A05BDA87DF0B55711650008D5237CBA22FD646796752B9913393B6C59"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v01\\YU7_BodyLines_v01_SM_BodyLines_Mirror_R_v01.uasset",
+    "sha256": "CDF4D24E9D8DCB161488F1A4BFDC39B569B803714F4DAE359659F206E00183C2"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v02\\YU7_BodyLines_v02_SM_BodyLines_Body_v02.uasset",
+    "sha256": "4F51B76AA672C771E9C304ED51FA6A930E1E40B267E8F0967FCAAF9930E7BE39"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v02\\YU7_BodyLines_v02_SM_BodyLines_Mirror_L_v02.uasset",
+    "sha256": "659566CAD62190ED033713C5DD65F47984157C3F825247B36EE6CB84FF019C2D"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v02\\YU7_BodyLines_v02_SM_BodyLines_Mirror_R_v02.uasset",
+    "sha256": "9A6B960D1C2F9AA6DAA63A1B2E9D399879007FFB446A853547C25F7A0F16D17C"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v03\\YU7_BodyLines_v03_SM_BodyLines_Body_v03.uasset",
+    "sha256": "8584A77195F4940268E007838AC120C93A652929D7A025DF56CFD8C6D4EC0717"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v03\\YU7_BodyLines_v03_SM_BodyLines_Mirror_L_v03.uasset",
+    "sha256": "B0EC648DA504FA78604A2D9D2D79B67E415828E28B1AA4901F9D75EDCDFE0BD3"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Meshes\\v03\\YU7_BodyLines_v03_SM_BodyLines_Mirror_R_v03.uasset",
+    "sha256": "A970B336A41CBA29D12FD1933900E81582057815DCB17239EC1C9E5B331B21EB"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\RenderPresets\\MRQ_Final_v03_Detail.uasset",
+    "sha256": "65B863A9352C206245EC5E4B8554EA25CE493FA92E9CE04E53CA0D396BA9CB7A"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\RenderPresets\\MRQ_Final_v03_Overview.uasset",
+    "sha256": "38E1A13B181842DCBC28E1634AC0C6689A01FD9981B67EB6D6707E45D220DE2E"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\RenderPresets\\MRQ_Final_v03_Rear.uasset",
+    "sha256": "D36424F734E98C85250DA9A1403B25DCAE9EC5EF0FE3CC6EA42E419B04A593DB"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\RenderPresets\\MRQ_Preview_v01_Detail.uasset",
+    "sha256": "112396DC5AD0D6ACEA34018B945BBF2AAC3ED906320CA3197B9262A98D0166FD"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\RenderPresets\\MRQ_Preview_v01_Overview.uasset",
+    "sha256": "865ECFC1A056855F6427EBB17ECE58A02D7820EC1BE57B5EA81CFB244D725F98"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\RenderPresets\\MRQ_Preview_v01_Rear.uasset",
+    "sha256": "6AF867A98C82D8B991E3CD61081F2F4CEC191006616123749DA31095DCBAE42A"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Sequences\\LS_YU7_BodyQuad_Detail.uasset",
+    "sha256": "775DD37E234754E1CE51D4E24F4DC8E001CFED20D17D95295770BB3716C87AEF"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Sequences\\LS_YU7_BodyQuad_Overview.uasset",
+    "sha256": "B9D4A9842A2C34C9F2C362581B9A2D0614D0B92730C7EAF695154925A91375F1"
+  },
+  {
+    "path": "Content\\YU7\\QuadBodyStudy\\Sequences\\LS_YU7_BodyQuad_Rear.uasset",
+    "sha256": "48BF012062A693AEF0A32B75223782B263DE2499F2D5BFB155384C91AA82AB18"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Blueprints\\BP_TunnelArchitecture_AD_v09.uasset",
+    "sha256": "17D68A19E53AFA77E0B2FDBDA65CC88418141CA63070598E6A1DC4FC9FF999A3"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Blueprints\\BP_TunnelRoofAirflow_v01_AD_v09.uasset",
+    "sha256": "B7F02E114C4252C7D601377B7CF293CD51F7A1A4D38B46CCD524DD5872AF3EAA"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_CleanBaseline.umap",
+    "sha256": "A33842EA0A8EE89CC16045BD99A46352BB0ECB2EC6978CF440DE95BF4DDF79E9"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_Lighting_r04.umap",
+    "sha256": "9C682847955752FEC8DED1B0604E28A38AF16E822D03613C2725075326721808"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_Lighting_r05.umap",
+    "sha256": "3C75E97E777A7DFDF703119BDF7641FF8DBD9A6134645DD01F0A7024931EF025"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_Lighting_r06.umap",
+    "sha256": "28DA088027FED30D5839B5FD9EB2CD7E8598DFFAA169B0F336A82D682373CB07"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_NoCeiling.umap",
+    "sha256": "091BE56E93FD82D0CE14AD6FF52FD2CBF8E2CB829BC061BF62337E7F973ADB41"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_NoFront.umap",
+    "sha256": "2B8DF864BBC48EDD4D63CAE41441426823F9EB16A99C65E8DA432DFD6C6079B1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_NoLane.umap",
+    "sha256": "E41964166053974BDC4145870A7F8116FA43496F86CD4BC7361BD140759B6C6B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_NoRibs.umap",
+    "sha256": "ABF48AA5F29E2FFD605027B7BA7B20BD63CA10EA0DBBF1688635BB1578E40A7D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_NoRoof.umap",
+    "sha256": "4682DB40D6B83ED22AA738A48B9F9D00347DB19145DB0429A5287E8CBA185796"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Maps\\Diag_NoSide.umap",
+    "sha256": "52C5624535553360AE16E292E4D195FB7DDB52EE3A9D26B2E7B72795A0E2306A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_CleanBaseline.uasset",
+    "sha256": "B7C2849AF257E01E046468D8EBC4550C3E2E62E0EBAF3E2A7438DE7F0C757D0A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_Lighting_r04.uasset",
+    "sha256": "7BE111A3C74286B945ED6EDF9425C3B936D570944929882C04C6E342B08A1FB7"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_Lighting_r05.uasset",
+    "sha256": "2BDBF2EB35248A1E46BAFCFFB9F6106C2DEE9BC745BD5E27E9E9B2663C555DF0"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_Lighting_r06.uasset",
+    "sha256": "532DD7D748067F331E9E2EDF6F23769D2F854002D278B43964CAFC64459DF1FB"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_NoCeiling.uasset",
+    "sha256": "5AF5385BB646D231EC505F8948A8852E157146AC561B6C06CF7F3DF72953BFD1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_NoFront.uasset",
+    "sha256": "454E0712457A28740B888D714A6202729342F2E859FDA526FE7C0E5910C4D58C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_NoLane.uasset",
+    "sha256": "2284623662A24FB5C1BFD0BE0443ED8B204DC9051A746B04735E855F0FCB8B4C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_NoRibs.uasset",
+    "sha256": "F7163BEEBE91B8729CC7F808A6CE145DFC1D47585E8F9600DB62E62CF762683F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_NoRoof.uasset",
+    "sha256": "FEDEEF20DF1189B7EDFC5DFF944C0963B42446385890187C32A8A05ED1FCBDDB"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Diagnostics\\Sequences\\LS_Diag_NoSide.uasset",
+    "sha256": "DF479644DE426EC8D7EDFA1F51F41AFE1B55D0DDCD7D923009D84FE919F4616D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Maps\\Studio_YU7_TunnelFlow_AD_v09.umap",
+    "sha256": "DE41D2056A9E1A1133BCF8A22134CA145A46AF06EC9602A8B44E8C7104B2BE6B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelCyan_AD_v09.uasset",
+    "sha256": "BB3FCA12915D7D00ADE2DE3DFF64322E5B3A9281351DBA3FCD4182CDB9485D41"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelGrid_AD_v09.uasset",
+    "sha256": "AC46D669C39B2E729A2BAE3B618933976B5F840C2FA7D80BB8878AE5EDEE929B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelRibs_AD_v09.uasset",
+    "sha256": "21C4573740831CBD75DB8D7D3B473970727AF3BBAD19F31DB4E60FDDC58995C4"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelRoad_AD_v09.uasset",
+    "sha256": "E1EC00946E7FAC7CEB3A4787E2A4C85F81F1C09D28024510718CE6F40B23DA00"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelRoofAirflow_Pulse_v02_AD_v09.uasset",
+    "sha256": "EC692E8C7F8048C1D6D9F710ABB9087B69881D0DC0BCEFDD64FF2FF2EAA01878"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelStrip_AD_v09.uasset",
+    "sha256": "550EAA9F0A37060C5F2F2B60F09ECECA042A9FA70600AAB57B66E68BE03FF69D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelSurfaceFlow_AD_v09.uasset",
+    "sha256": "8D70F3A8E333FDE791B6F608BBAC6520A576CDE39BFD2EC8D5A53F178D87579B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelWall_AD_v09.uasset",
+    "sha256": "2FFA5DDAD434E547EA5581FB7FE9C538B459D89B22152B913B8845F2C038F390"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Materials\\M_TunnelWorldWake_AD_v09.uasset",
+    "sha256": "C19E774C720CB056F78F1933F5F570FFFC333B5698F9358523BA47FACD13D803"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane0.uasset",
+    "sha256": "12EC81994321B76B2648201B148A4C47AE03A1BFEF5A89C22DD5E40C8345E15B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane1.uasset",
+    "sha256": "3DC7133AEDEF5E1ECD3514156941C22E9448E5944B20907706039E63D52BDA56"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane2.uasset",
+    "sha256": "090A2D7E502F9BFD8421A143CD10A5E914B441B609860EA77FE8BCBB9CFA6269"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane3.uasset",
+    "sha256": "6F810E74A997C2B16751025C325605FB5B4E627476A5D0CD9C7261156EA8ED89"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane4.uasset",
+    "sha256": "FE924AE8D81C8CF8D33A377E48BBBC0F72C0B6C4ED379DB5C0A874853002AB7E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane5.uasset",
+    "sha256": "3BFEF67711999095D1F2BE9411861B60BACC717A3D4615EB837263BB080A077F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Meshes\\Roof_AD_v09\\YU7_RoofAirflow_AD_v09_SM_RoofAD_v09_Lane6.uasset",
+    "sha256": "BAA8A54E8F38729AC598080893F756F092B2264D8F61548DDECB349CFB0B76A6"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_CleanBaseline_228.uasset",
+    "sha256": "07649A1007DE351345E4B7E814E7F5D2EA4CAFF9879F9F57CA6B623A98DFD0C1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_CleanBaseline_24.uasset",
+    "sha256": "C7C686E219CFB7C5729950850FADE5E0D8D8BFEEB48C3B329485813ADD69D894"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoCeiling_228.uasset",
+    "sha256": "DCA868F39FA48F770C50C3DCCEE1529D8DBFC577D8614FC899D26FE9E119C70C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoCeiling_24.uasset",
+    "sha256": "5C06B05875C114D502836B83BDBE59906E0ED5562D599E2440F6DBF3CDD7F459"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoFront_228.uasset",
+    "sha256": "1E0684C4861CFC38038967F7B108A7CCFABBB3030AF63A3B8E1E5B19CCCAEF54"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoFront_24.uasset",
+    "sha256": "E6166E0FA614BF4037823AFDD644E53A6F78DEB98585B36B3B9C1FDB913C2948"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoRibs_228.uasset",
+    "sha256": "C7922CC972275D12B213F609E3B07D65CBD6965478E7673E72B5F86109E51161"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoRibs_24.uasset",
+    "sha256": "8124E6B1B16C1B8013ABD2487DC9DAB861C222FA429B4EE0F23C0AE70F6E624F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoRoof_228.uasset",
+    "sha256": "DF8F59336F004A76D1A18B1565612B12AA1167FED02679DEC3132E76B4871983"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoRoof_24.uasset",
+    "sha256": "A9CEE854C5B9FF42ED04E28691D2147750CBA4954B93AD07E5C05D9F12ED34E1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoSide_228.uasset",
+    "sha256": "2337B91C8D686B403A33F45F344A66DE3A3CB80EC5F9C1AA1D46CF9A9538DCAC"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r01_720p_NoSide_24.uasset",
+    "sha256": "2B45C6F4C4AEB3241EBECD68A9249BB58DF8868DEBFF8E5C8879F36F93F440D8"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_CleanBaseline_CleanBaseline_228.uasset",
+    "sha256": "0D9AE07D79EE760928ADBA6FB03116F2D0F5AA7F7B7EC8A4E7E3F699120FE09C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_CleanBaseline_CleanBaseline_24.uasset",
+    "sha256": "B633F7667E43A89805583FF1EEED681866B698748BAB9ED9B6762B90167CE2A9"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoCeiling_NoCeiling_228.uasset",
+    "sha256": "1A06E55EB8E660EE276EC302BB7AAB5BB98A8F2140933C1AB03ED080F545928E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoCeiling_NoCeiling_24.uasset",
+    "sha256": "A7E4BB743A26344C7FEF19F5DAB6F81A1332D15F57BA1DE86BA3D6C2EFAD968E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoFront_NoFront_228.uasset",
+    "sha256": "AB7094A0D8ADF24B8BD7A9B34DD7456CCA5B2850CDAEF855A9FC346CED1AC8B7"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoFront_NoFront_24.uasset",
+    "sha256": "D8593F7F509D3CE6AAE35250AA7EE8F2072DFC4A32AEDE5914C91AC6297C1965"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoRibs_NoRibs_228.uasset",
+    "sha256": "05C653656FC25E079625D8A47AA93A1FA23CEF628FBC8E8400B8EECD2D0CFF33"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoRibs_NoRibs_24.uasset",
+    "sha256": "29279CF7D91051106DB1610270DC989735B618A2756097AA8A13A6BBECE602DE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoRoof_NoRoof_228.uasset",
+    "sha256": "B2F9A3138A3BF1FE0D2AA623C66F499A26CE763C95C9DAEF777301F1C35A45B2"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoRoof_NoRoof_24.uasset",
+    "sha256": "BA969E330E0A2CEEFAEE77545D3E35440AF73DAAF5A96099F5D414921244EF7D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoSide_NoSide_228.uasset",
+    "sha256": "7C6F6FA4AF528D9ADF43A04B6B27D5E85449883F377B93A3ACE36EE4924877C0"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r02_NoSide_NoSide_24.uasset",
+    "sha256": "587A6F5AB5A62A7E7E3CB0EE641EB6443A5DB1F2641F609AD7331EA509903795"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r03_NoLane_NoLane_228.uasset",
+    "sha256": "D0D133FB0422FD51B97BCF8FC02957D8523C6456191B215F3DA61D206BB6E67E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Diagnosis_r03_NoLane_NoLane_24.uasset",
+    "sha256": "D508BA771647FE938DF01BB82BEE3847DFD0EFB0F3BD6A844DEBF2F42CBC3524"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Final_r10_4K_Shot_Motion.uasset",
+    "sha256": "438320259912C6D72E606A5AAA568F06049642CB180A186CD2FEE4F2DA6F6871"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_122.uasset",
+    "sha256": "36A15651D6CC07F28F43309AEE15ED020CF07598724178C7CA93815228C6013A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_163.uasset",
+    "sha256": "E6514876D40445E2ACC3277699BC7456B0F3E158BB44FCC8197464A01B7D202F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_222.uasset",
+    "sha256": "8ECD8E83D9FB41962017E6D8FFEEBAEC773B01D89789F5FE56C287DF473D99FC"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_24.uasset",
+    "sha256": "98E0014EC9F9FCADAB2AA819413CC6836A80FBC2921A7F191D2D255E5EA14604"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_269.uasset",
+    "sha256": "1CE48E028E09441397A62B6B0CE4B3AE9AEF1C6C3D5157ACB9733E51CB8320E7"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_287.uasset",
+    "sha256": "3FDF5B8F2A46EFB205F69E00290E35C04ADC5A3F0A4AC856DEF308D005ADFA54"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Keyframes_r09_4K_Shot_96.uasset",
+    "sha256": "4304368BFBC9F1AB75BA01676EEF39B1184A6621BF9CC32EC627A4A19076ACF7"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r04_1080p_Clean_228.uasset",
+    "sha256": "D87A4CC89BDA2B50D9F7B91378DEFB4F59B5B6A31EC0BABE1F54BFFF6AC60265"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r04_1080p_Clean_24.uasset",
+    "sha256": "7EF377F500C885722913EE0AC625D6F8797059AD4D395604769F0EEA06AC3673"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r04_1080p_Clean_276.uasset",
+    "sha256": "695ECBBAA7BC383E396E407B32FAF8F078F3A5685422F52BFACE24576A88A823"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r05_1080p_Clean_228.uasset",
+    "sha256": "AF470B527DC4C4A7097D748D611E37BB08BCAD9DDAFA569E40AB68150FC94CEB"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r05_1080p_Clean_24.uasset",
+    "sha256": "1C812D8E0446CE3A697200FF5F6BC2BCEDF873A1A5C087D14D0398319E7BBE3A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r05_1080p_Clean_276.uasset",
+    "sha256": "424768406A9FA53BBE337F816ACCE92DA4D4DFD39A7A0C93F22A971E865FD511"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r06_1080p_Clean_228.uasset",
+    "sha256": "E874457EFCB20921F9519B3ADF44DD71D0B42BF2DEF948C0F89941329D7E1679"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r06_1080p_Clean_24.uasset",
+    "sha256": "849F540B9E7B5A1E1DA11B7FD69965680B2F162A6943A45B08666A8862335570"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Lighting_r06_1080p_Clean_276.uasset",
+    "sha256": "7286D6DD57D3013A5EA02E7AC87F9090B1C0D7FB0F69C6FF30AAF5267E3EBB09"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Previs_r07_720p_Shot_Motion.uasset",
+    "sha256": "8F9531EBAE930044F0105874E92902AFF03CF458DC529F2274EA1A998ABA329D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\RenderPresets\\MRQ_Previs_r08_1080p_Shot_Motion.uasset",
+    "sha256": "0742396C051772AFCA1AE5520B57BC0B1C9E1683340FC34D223537E6F9D9A6C2"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\ArtDirection_v09\\Sequences\\LS_YU7_TunnelFlow_AD_v09_12s.uasset",
+    "sha256": "ECEDE2868DB326294BCDB987B33E9880D19C893AAA153CCE21E2F186D624178B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Blueprints\\BP_TunnelArchitecture.uasset",
+    "sha256": "C44DD0F069C5CA668A0E66305666B1F91CA7C3811B29A3E187E796A0026E8A82"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Blueprints\\BP_TunnelRoofAirflow_v01.uasset",
+    "sha256": "9F3EB185DE3C0FAC399AB132EEAAC344B4D649D5A5025B31244A29D854828158"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Blueprints\\BP_TunnelWheel_FL.uasset",
+    "sha256": "D501F5057397EA45EC861E6D9CAD7573A5A6711F3056EFC04281AEC51853175B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Blueprints\\BP_TunnelWheel_FR.uasset",
+    "sha256": "BAF70FECE9C0292400BC76FEBA278F130FAF1B4BC93E09DE018E7BB0069A0BA8"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Blueprints\\BP_TunnelWheel_RL.uasset",
+    "sha256": "EC2FA42C3C99769377B98298D9BECA6BBDA84D83DEBE041C9250792790BB4AEE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Blueprints\\BP_TunnelWheel_RR.uasset",
+    "sha256": "841890048E71AA11BC5497FBF970A05F6A5792BB81A6095678FD0C30D1955625"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\Maps\\Studio_YU7_FinishShowcase_v11.umap",
+    "sha256": "EDD07204CB4CF18BD3646A0DD7E2F05EF2E25E47C18DA8EE90C402F12C4E54C3"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\Materials\\M_YU7_Finish_v11.uasset",
+    "sha256": "BBDCAE3BAC9D5DF12867002B251AAB7BDABDB77BBAD50FE9182F71954A6CEBCE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\Materials\\MPC_YU7_Finish_v11.uasset",
+    "sha256": "8D785300E1D2AC614D75D3681B8BE39776C7C4A8F146A228DE7CBA4E913F0486"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Final_r04_4K_Shot_Motion.uasset",
+    "sha256": "4713944ACFCFF70C3697FD7DD470ACB1915DBCC0EC797C0818DEF7764DBEB63F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_102.uasset",
+    "sha256": "1839FA96082EFAFAC18042CDE2C816B5061CBDC8FC1710227266B3F94588B112"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_12.uasset",
+    "sha256": "1ED78E979E379A091417516122045D03498A40E4E548B3B221D6E09E5736D19D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_138.uasset",
+    "sha256": "DF66FBC63246C6D69ED891A90CB5D2CC86E7CAACAE42124F63846EB4626DA32C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_180.uasset",
+    "sha256": "CC2800BB55FB6C90A782BC744A33EDC98C6E46968049D0E7D2FB067453101B5C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_310.uasset",
+    "sha256": "6E32B0A1F11C58FEC22A5AADBDF7FD975095B2086F4987B240EC3F4C20C0726C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_366.uasset",
+    "sha256": "D535B5E9FF26DB2B501E829C33DA2D6C9B325AC230C64EECE6FC2D05470885AE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_42.uasset",
+    "sha256": "0D9A6CE7C91D7D52733F08F01EDA49AD306033A7D9FFE3CCC7458111FFCCF67F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_431.uasset",
+    "sha256": "BD2FB72CD12E3BE94AF14B2FA8F5E60B40F9CFB002312477DB247ED5CD8F192A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r01_1080p_Shot_72.uasset",
+    "sha256": "6991FB8B6C5E86DDF6D7C3B26B8FE9F27C389B7D14741EAC9BEFFFC24E1B1E5D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_102.uasset",
+    "sha256": "CD60EB7F6B8C0391BAF09E14E4D39211F20B9BE66818C24CF90B1061A22CB9D9"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_12.uasset",
+    "sha256": "6E7BCD435BC09557F3C49D7A5DE607EA476D2C5F139B1C3B9E71E540B2FEAEC7"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_138.uasset",
+    "sha256": "53CABC0FE4198A73581DED07B512AAA74CA6FCE0AD65037EE885444106884BE1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_180.uasset",
+    "sha256": "E8A923C4DE8020A4CCF391FB5AEC89018371DC64AA73375358727CB890D404C8"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_310.uasset",
+    "sha256": "E789AAEEC737D083D09EFF6FEFC8371A22EA6C7A6269553738BAB998B999050E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_366.uasset",
+    "sha256": "0D28B950547DA2EEDCC04AF277974769BF89FDBFEC95B6519EBDC1A171BA865F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_42.uasset",
+    "sha256": "AB8BF9FBE3F1CDA34BD899BB762B81EDB98618B07F516EB8D38EC81799FF13FF"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_431.uasset",
+    "sha256": "1EEFB256257DBCC2D17052DCC67553C3F94E63DA531F33C4DE81ED121DFE2EF8"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Keyframes_r02_1080p_Shot_72.uasset",
+    "sha256": "440369D487A9EF6F79CAD5A20C88CD39B8687822ACAE01C938681EE687540B09"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\RenderPresets\\MRQ_Previs_r03_1080p_Shot_Motion.uasset",
+    "sha256": "6A145F0417C31E7CCA74E532CE61AFA69FDF9F515BE5F633B0EB0FDC27320352"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\FinishShowcase_v11\\Sequences\\LS_YU7_FinishShowcase_v11_18s.uasset",
+    "sha256": "136F5F25F94DAC02236A40213D212B8939EF1F00A623EB28237159462368934C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Maps\\Studio_YU7_TunnelFlow_BeforePulse_v07.umap",
+    "sha256": "B87376A8BA5121D1777F8DB16B643442AB192E0BB40FA9FFADB8519CE842F6E6"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Maps\\Studio_YU7_TunnelFlow_BeforeRoof_v06.umap",
+    "sha256": "36E9A13CB34D5214E280E1C26EBE6D7537149C8C548817DAFF904EB18742C99B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Maps\\Studio_YU7_TunnelFlow.umap",
+    "sha256": "0AC42520DD90589614450D4C43ED96D6D323630F988D43C1F531435F16B94E64"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_Debug_ConstantAdditive.uasset",
+    "sha256": "FFA0D8A1E7E2E8EA9EB91A13A076FB2F16C8E1416D2D801C1A20862546889C98"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_Debug_ConstantOpaque.uasset",
+    "sha256": "72C7C599B1D89FF020951F7347B056FF2D87E1109D0CCE63A2D2DA63BA7734BF"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelCyan.uasset",
+    "sha256": "0EFB15826DD512407A3C6F54F541DBB63F5F29BD239B33C95B974BE422A2AF25"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelGrid.uasset",
+    "sha256": "49BA2634FFE3EF9433844C4714FC05CDE24FCE7FD0A10726A17506851D423169"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelLane.uasset",
+    "sha256": "91DBD31AC826D8079572806430A99B8DD2EE3929C8FB266CFE31EA64E1BE2319"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelRibs.uasset",
+    "sha256": "4588A317DDD8AA8266EFA1139A187B054474EEC85DC50AC281B2081D8FF753AE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelRoad.uasset",
+    "sha256": "41A6AF3F0A428E8A1C49E4BAE2C3702419DFF877AB560146A88B571FCFA30AD8"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelRoofAirflow_Pulse_v02.uasset",
+    "sha256": "E2B3A1FA742FA0A24B956B6BF6A295F1510119B9D38633F69A020D3E950A33D0"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelRoofAirflow_v01.uasset",
+    "sha256": "8DEB7EC0BF5EF79405C9EC3B68C7513CBDB38C164FC1BEDEC69D8527B7491FB0"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelStrip.uasset",
+    "sha256": "2F0436FA31DA8F2F9B03305382A64AC83EAF9DE7CAB46CE8EE257AFD2C542D7E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelSurfaceFlow.uasset",
+    "sha256": "EA32E535A920AF99C4AD2A0C0ECFBA43E8C0A6CC8A64B2330F9E41C6F4CD16F4"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelWall.uasset",
+    "sha256": "00E3A42675077A0FA7CC4AB930E77EA6BE48A6CB97129BEEAEB40AB4B5A20B9F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\M_TunnelWorldWake.uasset",
+    "sha256": "BD173DBFECAEB138B745003BC8E09D0D72601AA362341D08712BEF01598DE536"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Materials\\MPC_TunnelFlow.uasset",
+    "sha256": "7F7F8B62E5F0B2E39FCA01445DD355F60DB5EFE5D0A980264E9BE9661D7800FF"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Meshes\\YU7_TunnelEffects_v01_SM_TunnelGrid_Body_v03.uasset",
+    "sha256": "37F323FDB129AA50F4464A16D3B355753A6F93B0A5A4814C38CD64B33BB34372"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Meshes\\YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_L_v03.uasset",
+    "sha256": "B3CEF5629B038E12E10FF6A89958CE5B05216AFDE0E0E1F6C0463417095DC8F1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Meshes\\YU7_TunnelEffects_v01_SM_TunnelGrid_Mirror_R_v03.uasset",
+    "sha256": "1DDEBFC160F09FE4DDBCFB5F4AA56B9ABCF54B8CEFDD5B632B146B6EE2D552F1"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Meshes\\YU7_TunnelEffects_v01_SM_TunnelSurfaceFlow_v01.uasset",
+    "sha256": "EFBA7751CA2362256503CB64024A19F83E423488CCF7A700FEBD14374F132CD4"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Meshes\\YU7_TunnelEffects_v01_SM_TunnelWorldWake_v01.uasset",
+    "sha256": "402D7A1E2A6D77699B41AAC47C1B89887BAFE456EBE11A5D83A07F5CA521D70F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Meshes\\RoofAirflow_v01\\YU7_RoofAirflow_v01.uasset",
+    "sha256": "D54ACF01B8F26511D4A5380A2D0E76E9BACD63154FF660CA187C1C9BCE37266D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_DebugMaterials_v01_163.uasset",
+    "sha256": "8CE8431D25011A09EB2816B2BB006B9BA08AE33AF4AEF26CFF4F139ADCD9E535"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_DebugMaterials_v01_228.uasset",
+    "sha256": "9D6679573EED363BBEC7A258DE902854511AE4D4B17662B316CF0CCA7D1041BA"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Final_v05_4K_Motion.uasset",
+    "sha256": "2E4B86FB4B555540E260511AA5FD84A10BB7D0653E23CC91698F44D4A8AAC0DC"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Final_v06_4K_Motion.uasset",
+    "sha256": "54A6A6E81E80075CBEDB10B4BD44879BCC96DE3978C02B4B85F1A110D67D90E4"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v01_163.uasset",
+    "sha256": "C90D475D335EE6E666A153AF24498CFC40F42E8E2755D92F92D0F63B3FF10C4B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v01_228.uasset",
+    "sha256": "8DAC9BC2AA2F20224B26803A6D806E65E951D8D7DBB000584A0E4D8FFF234201"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v01_24.uasset",
+    "sha256": "5CD286CC79D6E47D6CBA81F7721F58CF1048B3357253439F0405ECBDAFCC3C1A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v01_276.uasset",
+    "sha256": "366CF2B95F316B2F0D4972540A0559E5354B5223CFDF3FE0EC9BEE1E23007965"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v01_96.uasset",
+    "sha256": "9E7359B6F8E1765D75730503B3AF995D07B00989490490689B4C7A530DEB84AF"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v02_163.uasset",
+    "sha256": "B3DAE536973E5EA054E8C9248F7AE40C10ADCAB12A7F1904C702B7AB1347C851"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v02_228.uasset",
+    "sha256": "CB511A535AC76C695B48303601D632B29777CE930F1AA098EBBEFB083F359335"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v02_24.uasset",
+    "sha256": "67279973185C22DEF1C565CCA72B6091F03E53C308868C2C41A5EED24FAF973E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v02_276.uasset",
+    "sha256": "2A3E41201B826286453A59607CB4D679D59FA5050EC27057D80189715FDE305C"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v02_96.uasset",
+    "sha256": "BFE19911176363CAE4AEF9F1D116D1A279B024DFA0D8182C4BFB93EDC37E9DE4"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v04_228.uasset",
+    "sha256": "A4E1961DE461139BE1D92A25475DBBB0B9D4426E53530DB378D5F640015665FB"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v04_24.uasset",
+    "sha256": "645E8990C47A8BF7432EE9866689EEA5E0B9027E6868DBA8C208FDEE23547F22"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v04_276.uasset",
+    "sha256": "E1ED478EE507F95868C113870F2709B002874ACD3028CCA2E9F553E562B89130"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v04_96.uasset",
+    "sha256": "4C6D35BA6D2641B38B3E834C8D8FF058B49679B97EC07B77EE70B29D915AD349"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v05_228.uasset",
+    "sha256": "C10606B9DE824E69388C73F5B0DCADECBD6975396A4FB1AA15B9CC88EE5BED40"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v05_24.uasset",
+    "sha256": "AAD1928C16BC19D31B11FBB478F9E4AA9DF813FD3CE64CA9102E44F626141185"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v05_276.uasset",
+    "sha256": "705D939ED049C8E5FA372CAA60A70EF59576D1783B9C157EF9E98D63C038DDE9"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Keyframes_v05_96.uasset",
+    "sha256": "6C14F233299D5B30DF9F8C44E25189FB147F639C2FB8B6534DDF19E411A3E145"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Previs_v03_720p_Motion.uasset",
+    "sha256": "5142F2ADE775E13BDCE850764C9B082775FA1D495F2A6CB39982EBB4E09B1472"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Previs_v06_1080p_Motion.uasset",
+    "sha256": "147519DDBF6D7B1DE855D8A63C427627290F19942AD96482AE506061FA34349B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Previs_v07_1080p_Motion.uasset",
+    "sha256": "67C17E40F79D6E03C2FDE2978F2CD7E502A9AA2DBF080FEDB739C88DA76DB06E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Previs_v08_1080p_Motion.uasset",
+    "sha256": "DA57A78978272A45536469C7DA86F5093E7AB2E511CD57D1D1E6EF24EA9DE2B0"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Pulse_Keyframes_v08_1080p_108.uasset",
+    "sha256": "CCB25715F0F31C4DEC36B535C6B8E1048B693BB34C54FAAEF30CFFCA413A31E3"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Pulse_Keyframes_v08_1080p_228.uasset",
+    "sha256": "44FE3AE9F5777376AFCBAB7309FAFC6A42ADB7FBB31BF3FB9C656CDC493B1CB9"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Pulse_Keyframes_v08_1080p_96.uasset",
+    "sha256": "19F267828A4B32D6A3BC20F694F7B5014ED3E13F0C88B2C9DF6B285FE3A49BBE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Pulse_Keyframes_v08_4K_228.uasset",
+    "sha256": "AF0C770092FB48E4A124019775E5E83C0FD7A616787892399876A2869865DACA"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Pulse_Keyframes_v08_4K_96.uasset",
+    "sha256": "7E1AA413364F7FC4B1E7A70EC1EC1E58A995E9CAEA48B76E46CBBF5042182885"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Roof_Keyframes_v07_1080p_228.uasset",
+    "sha256": "6AF8B9FD5DC067882031B36D8B39E420C00A6837A3D8FB09CFB5BD8E0A75257D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Roof_Keyframes_v07_1080p_24.uasset",
+    "sha256": "90FD2A81B6D9D99358FC86D0CCFB45AA6D0D05E23D31E276A96CB9EDCDC91EDD"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Roof_Keyframes_v07_1080p_96.uasset",
+    "sha256": "23DE66900C454CF1555CEAB8EB60B2F078F66451A1BC7E36E34D011599A92342"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Roof_Keyframes_v07_4K_228.uasset",
+    "sha256": "90D4067A72B70F979C697011914AFB52539223392CDD08C33DC02553F42C317E"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RenderPresets\\MRQ_Roof_Keyframes_v07_4K_96.uasset",
+    "sha256": "705E8BFF456D645510A3EB2D4B1805C30B81ECC5D7119CEFBF4FD281B7320739"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Blueprints\\BP_TunnelRoofAirflow_Smooth_v10.uasset",
+    "sha256": "523D3793AE3EC1BF70626594AD9BFC8B41F969FA31CD3E879A4417C9E472497D"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Maps\\Studio_YU7_TunnelFlow_Smooth_v10.umap",
+    "sha256": "4E84F7C480EA946B1B71FEB2E11B78E13DDB419A1B7D30457AF40276C2608895"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane0.uasset",
+    "sha256": "D27E5255DBC68A02A60221EE17914BD6FA95673F1259DEAD918A720A6F5C2D1A"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane1.uasset",
+    "sha256": "E86C1F1EF0BD09001994996BF0ACCB7C4D37D569BD47859B537257C01FE62079"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane2.uasset",
+    "sha256": "ACA833810E16E3E93BC7576CAE9283BBCB127FE81304F19957E64C5DDE1988C6"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane3.uasset",
+    "sha256": "DABE6E550501762F8B8A1AA0523E5F1FA8983B9D20D6C131849A0AEB87317CB4"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane4.uasset",
+    "sha256": "669B9784944903E774E3429E92291BF2C7A93083EFFF1A4F01ED202CDAC6BD3B"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane5.uasset",
+    "sha256": "B6AC90AEBF0D245148D35C4512A6DA69E003696F9EAC3B870BF83ABC6AECB260"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Meshes\\YU7_RoofAirflow_Smooth_v10_SM_RoofSmooth_v10_Lane6.uasset",
+    "sha256": "86B193A8A5D492F76B8365A90FC0811D65EB29A740CB9A604CBF51B1FDC9AFAA"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\RenderPresets\\MRQ_Final_r03_4K_Shot_Motion.uasset",
+    "sha256": "1702EDE0EE776E55DCC8A5B5D9735B8284B399A8E7FFD1BBA3CB1EA5E396EB83"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\RenderPresets\\MRQ_Keyframes_r01_4K_Shot_122.uasset",
+    "sha256": "1A9B5FD714C0D731314E841F6D548DD67FD1054765B363AE3BAF1EA7A7DA74E5"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\RenderPresets\\MRQ_Keyframes_r01_4K_Shot_163.uasset",
+    "sha256": "E20C4320B7D436DC5FB578606289072C0C752E87244D5D7E522EDFF2BE8662EE"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\RenderPresets\\MRQ_Keyframes_r01_4K_Shot_96.uasset",
+    "sha256": "5BE112F1551ACCC9278A805D43740889AD84B4AF85FEBAE7A9D3889746920BD0"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\RenderPresets\\MRQ_Previs_r02_1080p_Shot_Motion.uasset",
+    "sha256": "2361FF6FD14E7F5D6D629659025607EAB780AA263EE6FB267BF67C5973710440"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\RoofSmooth_v10\\Sequences\\LS_YU7_TunnelFlow_Smooth_v10_12s.uasset",
+    "sha256": "314D8D0D67385D09FC22F5221C68A48A7FB2939392A0F075127FDD60F372C91F"
+  },
+  {
+    "path": "Content\\YU7\\TunnelFlow\\Sequences\\LS_YU7_TunnelFlow_12s.uasset",
+    "sha256": "6006E031E854915439E5819041CD3A125E0854B43686CC88E797E3D26ACFCB38"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Maps\\Studio_YU7_QuadStudy.umap",
+    "sha256": "F38187C2353789E8AF8989779A5FA5183782BBBCF7C11D8A367BAC0D76E90E65"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Materials\\M_QuadLines.uasset",
+    "sha256": "8A842EA010DC3E1BC111166F11C8622D975A66C754D3375C2CD08F7784F32D83"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Materials\\MI_QuadLines_IceTeal.uasset",
+    "sha256": "4B91F00E0AE40419C643E1AEE8491D038AE6D01AB4B7CEF14758B1C6F381D7A9"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v01\\YU7_QuadLines_v01_SM_QuadLines_Fender_L_v01.uasset",
+    "sha256": "C2B292CE9B89CD79FDB19B5A5A85C97E2B9F0F3761E913B020A54EE6DFBA2016"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v01\\YU7_QuadLines_v01_SM_QuadLines_Fender_R_v01.uasset",
+    "sha256": "73FFC00F6A27641B05D1D2FD118E46AD194FBDF7C745AEFD4B7C955B87DA5018"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v01\\YU7_QuadLines_v01_SM_QuadLines_Hood_v01.uasset",
+    "sha256": "F2ABF8D5CA5BD5D91C4E73E7861BDF5BA36476D00FCFEB27F5DAF4DD4710DA4A"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v02\\YU7_QuadLines_v02_SM_QuadLines_Fender_L_v02.uasset",
+    "sha256": "828EBA5A11C6B51DFF62D5FB27A38A269A5222460AF61EF3A1C1ED4A0C9410E7"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v02\\YU7_QuadLines_v02_SM_QuadLines_Fender_R_v02.uasset",
+    "sha256": "A323A3A37365E818A7C7EAF70967BE8793BF03DAD7D7D7FEDA1878C2959FAAE2"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v02\\YU7_QuadLines_v02_SM_QuadLines_Hood_v02.uasset",
+    "sha256": "B5175278902497CC22CE4DA93A200E27119D00B9B8AD6E662F244CE64DBD3EA8"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v03\\YU7_QuadLines_v03_SM_QuadLines_Fender_L_v03.uasset",
+    "sha256": "0AD90CDC49A8B2854DE08EBC1D0C0051B2ADB160DBAF5E6036AF5EE4FFB1DD3F"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v03\\YU7_QuadLines_v03_SM_QuadLines_Fender_R_v03.uasset",
+    "sha256": "A4AEBBEC2C031649382AE5B6D602637EC0786FE3B8F4C5C06D265AAABB1172FF"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Meshes\\v03\\YU7_QuadLines_v03_SM_QuadLines_Hood_v03.uasset",
+    "sha256": "904281A575F40C6C9A5CA9BA635146BE5291240508F31A455A3F9D4261171594"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Final_v03_Confirmed_Detail.uasset",
+    "sha256": "758BCB0917ED375344F5E9312B9715F0B1CF458AC67B162981FC6F3B83EA72CE"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Final_v03_Confirmed_Overview.uasset",
+    "sha256": "A4F797FB53F35891F39864DF81AA4A433953B50D0F31882F4160FB7E5B06722E"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Final_v03_Detail.uasset",
+    "sha256": "CBE169A010065F6B43D816F19CF7220C0178EE82B22EB007F72F4629DA10B782"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Final_v03_Overview.uasset",
+    "sha256": "9E21FE5C7581C6385D90C6F708C19F1EDE5BC03F9D100322D91FE5B7696954A6"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Preview_v01_Detail.uasset",
+    "sha256": "83147F90CE40B81BE277D8BDA4F0D001C9C6049FCD63BB9732975F45E7C46886"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Preview_v01_Overview.uasset",
+    "sha256": "76F3751C01CF9930F0630A5F516BF5461525740935B7FE33FFF9E9B1B8F6CED6"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Preview_v02_Detail.uasset",
+    "sha256": "A92D32655405B031F6696A30E1028FE5B78145090BAC86EE434311AD984E7181"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\RenderPresets\\MRQ_Preview_v02_Overview.uasset",
+    "sha256": "2B5D4F8243AA38EFAC1357F6FABDDDB24F505D20447DBE2625211E30BDBC6CA4"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Sequences\\LS_YU7_Quad_Detail.uasset",
+    "sha256": "5FF5A0A1784A4B53C14DDA67FCF69A9495AA7F12545808E7790D5B17BB3CAC23"
+  },
+  {
+    "path": "Content\\YU7\\WireframeStudy\\Sequences\\LS_YU7_Quad_Overview.uasset",
+    "sha256": "58AD775C9B487913DF4085D1197D43AF489606059C2CA0F0DE3268FCAF471504"
+  },
+  {
+    "path": "VehicleStudio.uproject",
+    "sha256": "0F8AC777D84493EFEEED415719D28B18B1A95FECEC5F2061AE498C2CA8E6E54A"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "itasha_pie_01",
+  "started": "2026-11-12T00:16:22-0800",
+  "status": "success",
+  "result": {
+    "scheduled": 12,
+    "environment": "real PIE actors"
+  },
+  "finished": "2026-11-12T00:16:22-0800"
+}

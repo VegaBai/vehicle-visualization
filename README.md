@@ -1,6 +1,6 @@
 # Vehicle Visualization · Xiaomi YU7
 
-基于 Unreal Engine 5.8.3 的汽车可视化作品项目，包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及最新的 18 秒漆面切换与隧道流光镜头。
+当前以 Unreal Engine 5.9.0 继续开发的汽车可视化作品项目（既有交付媒体制作于 5.8.3），包含 YU7 资产准备、摄影棚外观变体、矿物青 4K 主视觉和 5 秒运镜、整车 quad 曲面展示线，以及最新的 18 秒漆面切换与隧道流光镜头。
 
 ## 18 秒漆面与流线展示 · v11
 
@@ -35,7 +35,7 @@ cd vehicle-visualization
 git lfs pull
 ```
 
-用 Unreal Engine 5.8.3 打开 `VehicleStudio/VehicleStudio.uproject`。模型、贴图、UE 资产及交付媒体由 Git LFS 管理；只有指针文件的下载不包含完整资产。
+当前开发请用 Unreal Engine 5.9.0 打开 `VehicleStudio_UE59/VehicleStudio.uproject`，或运行 `tools/open_vehicle_studio_59.ps1`。`VehicleStudio/VehicleStudio.uproject` 保留为 5.8.3 备份，不用于后续制作。默认 MCP 为 `http://127.0.0.1:8001/mcp`，随 5.9 项目自动启动。此切换目前完成于本地，尚未提交或推送。模型、贴图、UE 资产及交付媒体由 Git LFS 管理；只有指针文件的下载不包含完整资产。
 
 - 外观工作地图：`/Game/YU7/Maps/Studio_YU7`
 - 独立主镜头地图：`/Game/YU7/Cinematics/Maps/Studio_YU7_MineralHero`
@@ -51,7 +51,8 @@ git lfs pull
 
 | 路径 | 内容 |
 | --- | --- |
-| `VehicleStudio/` | Unreal 项目、配置、地图、Blueprint、材质和资产 |
+| `VehicleStudio_UE59/` | 当前 UE 5.9 开发项目、地图、Blueprint、材质和资产 |
+| `VehicleStudio/` | 保留的 UE 5.8 备份，已清理生成缓存和临时状态 |
 | `art/FINAL_MODEL/` | 保持原样的原始 FBX 和贴图 |
 | `art/YU7_UNREAL/` | 准备好的 Blender/FBX、纹理、制作指南和验证报告 |
 | `art/YU7_WIREFRAME/` | 引擎盖/前翼子板局部 quad 线框试作 |

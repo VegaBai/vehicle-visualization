@@ -1,0 +1,5 @@
+{
+  "ProcessId": 44276,
+  "ExecutablePath": "C:\\Program Files\\Epic Games\\UE_5.9\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+  "CommandLine": "\"C:\\Program Files\\Epic Games\\UE_5.9\\Engine\\Binaries\\Win64\\UnrealEditor.exe\" \"C:\\github2\\vehicle_visualization\\VehicleStudio_UE59\\VehicleStudio.uproject\" /Game/YU7/Itasha_v01/Maps/Studio_YU7_Itasha_v01 -ModelContextProtocolStartServer -ModelContextProtocolPort=8001"
+}

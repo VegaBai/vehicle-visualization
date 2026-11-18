@@ -1,0 +1,12 @@
+{
+  "id": "load_finish_01",
+  "started": "2026-11-12T00:17:28-0800",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11",
+    "safe_lvs_clear": true,
+    "playback_params_doc": "Movie Scene Sequence Playback Params\r\n\r\n**C++ Source:**\r\n\r\n- **Module**: MovieScene\r\n- **File**: MovieSceneSequencePlayer.h\r\n\r\n**Editor Properties:** (see get_editor_property/set_editor_property)\r\n\r\n- ``frame`` (FrameTime):  [Read-Write]\r\n- ``has_jumped`` (bool):  [Read-Write]\r\n- ``marked_frame`` (str):  [Read-Write]\r\n- ``position_type`` (MovieScenePositionType):  [Read-Write]\r\n- ``time`` (float):  [Read-Write]\r\n- ``timecode`` (Timecode):  [Read-Write]\r\n- ``update_method`` (UpdatePositionMethod):  [Read-Write]",
+    "player_doc": "X.create_level_sequence_player(world_context_object, level_sequence, settings) -> (LevelSequencePlayer, out_actor=LevelSequenceActor)\r\nCreate a new level sequence player.\r\n\r\nArgs:\r\n    world_context_object (Object): Context object from which to retrieve a UWorld.\r\n    level_sequence (LevelSequence): The level sequence to play.\r\n    settings (MovieSceneSequencePlaybackSettings): The desired playback settings\r\n\r\nReturns:\r\n    LevelSequenceActor: \r\n\r\n    out_actor (LevelSequenceActor): The level sequence actor created to play this sequence."
+  },
+  "finished": "2026-11-12T00:17:29-0800"
+}

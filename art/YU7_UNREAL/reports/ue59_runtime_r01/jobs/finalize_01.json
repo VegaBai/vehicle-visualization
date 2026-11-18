@@ -1,0 +1,14 @@
+{
+  "id": "finalize_01",
+  "started": "2026-11-12T00:21:39-0800",
+  "status": "success",
+  "result": {
+    "map": "/Game/YU7/TunnelFlow/FinishShowcase_v11/Maps/Studio_YU7_FinishShowcase_v11.Studio_YU7_FinishShowcase_v11",
+    "safe_reload": true,
+    "pie_active": false,
+    "render_active": false,
+    "dirty_maps": [],
+    "dirty_content": []
+  },
+  "finished": "2026-11-12T00:21:40-0800"
+}
